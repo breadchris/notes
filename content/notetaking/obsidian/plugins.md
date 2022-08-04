@@ -1,0 +1,1 @@
+- a plugin for focusing on writing: https://michaelsoolee.com/obsidian-focus-plugin-stille/

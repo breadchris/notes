@@ -1,3 +1,7 @@
+---
+title: "/cooking/so-good-i-could-pie/ | quarantine-pies"
+---
+
 # Quarantine Pies
 
 A little over a year ago, I really would not call myself a baker. Baking to me was going to our grocery store, going into the baking aisle, and picking a Betty Crocker mix to throw into a bowl with oil and eggs. It wasn't until Thanksgiving of 2019 that I attempted something as daring as making a pie from scratch. 

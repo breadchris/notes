@@ -1,3 +1,7 @@
+---
+title: "/computers/bluetooth/ | recipe-printer"
+---
+
 - [bmp encoder](https://github.com/hipstersmoothie/bmp-ts/blob/master/lib/encoder.ts)so that images can be sent in black and white to printer
 - [web bluetooth documentation mdn](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - thermal printer arduino

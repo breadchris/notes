@@ -1,1 +1,5 @@
+---
+title: "/computers/ | app-ideas"
+---
+
 - 

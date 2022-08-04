@@ -1,3 +1,7 @@
+---
+title: "/cooking/recipes/ | ux"
+---
+
 # Recipe User Experience
 
 ## Locating Recipes

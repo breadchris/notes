@@ -1,3 +1,7 @@
+---
+title: "/cooking/ingredients/ | substitutions"
+---
+
 # Substitiions
 
 * Collection of substitions - http://www.foodsubs.com/

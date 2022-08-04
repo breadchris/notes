@@ -1,3 +1,7 @@
+---
+title: "/lunasec/ | ideas"
+---
+
 - using [semgrep](https://semgrep.dev/) to filter out dependencies that have never been called in code
 - write [snyk lockfile parser](https://github.com/lunasec-io/nodejs-lockfile-parser) as a go module to be used by a [syft cataloger](https://github.com/anchore/syft/blob/caff67289aead9a0ed1ec05c8534c3c440669e42/syft/pkg/cataloger/javascript/parse_package_lock.go)
 	- this [golang graph package](https://pkg.go.dev/github.com/yourbasic/graph#Acyclic) might help

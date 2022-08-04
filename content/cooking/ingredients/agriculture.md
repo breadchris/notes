@@ -1,3 +1,7 @@
+---
+title: "/cooking/ingredients/ | agriculture"
+---
+
 # Agriculture
 
 * National Agriculture Statistics Service - https://quickstats.nass.usda.gov/

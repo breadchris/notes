@@ -42,11 +42,14 @@ func lintPathForFrontmatter(base string, filepath string) error {
 	}
 
 	dir, filename := path.Split(filepath)
+
 	formattedDir := strings.ReplaceAll(dir, base, "")
 	formattedFilename := strings.ReplaceAll(filename, ".md", "")
 	formattedFrontmatter := fmt.Sprintf(noteFrontMatterFmt, formattedDir, formattedFilename)
 
-	ioutil.WriteFile(filepath, []byte(formattedFrontmatter), 0600)
+	frontmatterAndContents := []byte(formattedFrontmatter + "\n\n" + string(contents))
+
+	ioutil.WriteFile(filepath, frontmatterAndContents, 0600)
 	return nil
 }
 

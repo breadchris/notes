@@ -1,3 +1,7 @@
+---
+title: "/lunasec/ | LunaSec"
+---
+
 ### AppSec teams are
 - Too small relative to the number of developers they support at their companies
 - Busy with day to day remediation efforts, sifting through noisy findings, etc. 

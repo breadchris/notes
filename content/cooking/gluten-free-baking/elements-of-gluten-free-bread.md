@@ -1,3 +1,7 @@
+---
+title: "/cooking/gluten-free-baking/ | elements-of-gluten-free-bread"
+---
+
 It was pretty mind blowing when I realized that all gluten-free recipes are just trying to replicate the unique properties of wheat flour and the gluten that is formed when water is added. In this post I want to outline what wheat flour brings to the table, and then what elements go into a state of the art gluten-free bread recipe to replicate this behavior.
 
 Gluten-Full Bread Properties

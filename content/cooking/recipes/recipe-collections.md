@@ -1,3 +1,7 @@
+---
+title: "/cooking/recipes/ | recipe-collections"
+---
+
 # Recipe Collections
 
 ## Text recipes

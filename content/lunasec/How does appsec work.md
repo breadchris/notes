@@ -1,3 +1,7 @@
+---
+title: "/lunasec/ | How does appsec work"
+---
+
 Any effort that cannot scale, should be used as data to work on an effort that can scale.
 
 Signal should be high, noise should be low.

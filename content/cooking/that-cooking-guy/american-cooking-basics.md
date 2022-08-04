@@ -1,3 +1,7 @@
+---
+title: "/cooking/that-cooking-guy/ | american-cooking-basics"
+---
+
 # American Cooking Basics
 
 There are a number of meals that people regularly eat in America. Whether it is something you eat when you are pressed for time (which it seems like we always are) or preparing a meal for a special occasion. In both of these cases, eating something that turns out poorly is not a fun time and can discourage us from trying it again. 

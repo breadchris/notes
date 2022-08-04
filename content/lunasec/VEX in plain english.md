@@ -1,3 +1,7 @@
+---
+title: "/lunasec/ | VEX in plain english"
+---
+
 # Vex
 vex  /veks/
 

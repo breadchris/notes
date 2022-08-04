@@ -1,3 +1,7 @@
+---
+title: "/cooking/so-good-i-could-pie/ | pies-to-make"
+---
+
 seasonal:
 * passion fruit curd pie
 * peanut butter and concord grape pie

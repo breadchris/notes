@@ -1,3 +1,7 @@
+---
+title: "/lunasec/ | findings schema"
+---
+
 ### current findings schema
 id uuid
 created_at timestamp

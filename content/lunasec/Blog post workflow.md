@@ -1,3 +1,7 @@
+---
+title: "/lunasec/ | Blog post workflow"
+---
+
 ### LunaSec Blog Post Workflow
 
 #### Goals

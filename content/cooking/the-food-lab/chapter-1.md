@@ -1,3 +1,7 @@
+---
+title: "/cooking/the-food-lab/ | chapter-1"
+---
+
 # 1 Eggs, Dairy, and the Science of Breakfast
 
 ## Eggs

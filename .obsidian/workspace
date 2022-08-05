@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/cooking/cookwherever/todo.md",
+            "file": "content/private/journal/2022-08-04.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/cooking/cookwherever/todo.md",
+            "file": "content/private/journal/2022-08-04.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/cooking/cookwherever/todo.md",
+            "file": "content/private/journal/2022-08-04.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,15 +106,19 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/cooking/cookwherever/todo.md"
+            "file": "content/private/journal/2022-08-04.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "b942de23df05c23e",
+  "active": "3f1427406fcb9da2",
   "lastOpenFiles": [
+    "content/private/journal/2022-08-04 1.md",
+    "content/private/journal/2021-09-15.md",
+    "2022-08-04.md",
+    "content/cooking/cookwherever/todo.md",
     "content/computers/sifty.md",
     "content/computers/app-ideas.md",
     "Untitled.md"

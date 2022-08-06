@@ -8,6 +8,9 @@ title: "/cooking/cookwherever/ | todo"
 - update recipe saver to have a better ui, friendly for bloggers
 	- https://www.recipesgenerator.com/start
 - contact local magazines and give them ability to register local farms that grow produce and give the recipes that include those ingredients to include in their newspaper
+- monitor dashboard
+	- https://monitoror.com/documentation/#http
+
 ### things to write about
 - [perfect burger](https://www.youtube.com/watch?v=ZorUPMeKgh0)
 - [egg yolks](https://www.youtube.com/watch?v=KL4PDa6PpLQ)

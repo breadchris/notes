@@ -1,3 +1,35 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "attachmentFolderPath": "content/attachments",
+  "userIgnoreFilters": [
+    "layouts/",
+    "static/",
+    "data/",
+    "assets/"
+  ],
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:insert-wikilink",
+    "editor:toggle-bullet-list",
+    "editor:undo",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:unindent-list",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ]
 }

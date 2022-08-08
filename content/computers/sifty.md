@@ -1,3 +1,7 @@
+---
+title: "/computers/ | sifty"
+---
+
 users are able to sign up for safety and when they sign up they should be able to see if bookmarks enter
 By saving bookmarks the creek in on an organize list of things that they have seen is useful in this list of bookmarks they're able to take notes about the bookmark and summarize what is being talked about in the bookmark
 users can send bookmarks either manually or automatically two different strains

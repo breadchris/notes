@@ -1,3 +1,7 @@
+---
+title: "/ | inbox"
+---
+
  - need to figure out how to represent multiple variations of recipes in a way that can be easily understood by human but also easily possible by a computer #cookwherever 
  - representing recipes as a graph or each note performs in action on some set of ingredients is conducive for comparing recipes but fails to represent the nuance of a particular action for example when rolling out dough do you want to make a note of the technique used for specifically dough as a relates to ruling #cookwherever
  - really kneeling down an in-depth look at American recipes and detailing them would help a lot of people and also demonstrates what the site is capable of #cookwherever 

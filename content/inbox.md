@@ -8,3 +8,5 @@
 - how can sifty integrate with Obsidian in a way that is needlessly complicated?
 	- https://marcus.se.net/obsidian-plugin-docs/
 	- https://keathmilligan.net/obsidian-plugin-cross-platform-testing
+- how many leaves can you pick off a basil plant before they can't grow back?
+- What if social media was reversed where the content producers had to "spend" to get the attention of their followers, and their followers allocated some amount of "attention" points to the producer. 

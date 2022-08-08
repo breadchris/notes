@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/private/journal/2022-08-04.md",
+            "file": "content/private/journal/2022-08-08.md",
             "mode": "source",
             "source": false
           }
@@ -36,7 +36,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "sex",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/private/journal/2022-08-04.md",
+            "file": "content/private/journal/2022-08-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/private/journal/2022-08-04.md",
+            "file": "content/private/journal/2022-08-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,21 +106,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/private/journal/2022-08-04.md"
+            "file": "content/private/journal/2022-08-08.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "3f1427406fcb9da2",
+  "active": "b942de23df05c23e",
   "lastOpenFiles": [
+    "content/private/journal/2022-08-07.md",
+    "content/private/journal/2022-08-06.md",
+    "content/private/journal/2022-08-04.md",
+    "content/private/journal/2022-08-05.md",
+    "content/inbox.md",
+    "content/computers/linux.md",
+    "content/private/private-note.md",
+    "content/2022-08-06.md",
     "content/private/journal/2022-08-04 1.md",
-    "content/private/journal/2021-09-15.md",
-    "2022-08-04.md",
-    "content/cooking/cookwherever/todo.md",
-    "content/computers/sifty.md",
-    "content/computers/app-ideas.md",
-    "Untitled.md"
+    "content/private/journal/2021-09-15.md"
   ]
 }

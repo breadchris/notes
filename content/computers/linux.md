@@ -1,0 +1,5 @@
+---
+title: computers | linux
+---
+
+- [history of ctrl + c](https://kevinlawler.com/ctrl-c)

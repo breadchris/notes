@@ -1,0 +1,6 @@
+---
+title: web
+---
+
+- history of the semantic web https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md
+- collaborative git like db https://github.com/terminusdb/terminusdb

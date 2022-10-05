@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/private/journal/2022-08-08.md",
+            "file": "content/notetaking/gardens.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/private/journal/2022-08-08.md",
+            "file": "content/notetaking/gardens.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/private/journal/2022-08-08.md",
+            "file": "content/notetaking/gardens.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/private/journal/2022-08-08.md"
+            "file": "content/notetaking/gardens.md"
           }
         }
       }
@@ -115,15 +115,15 @@
   },
   "active": "b942de23df05c23e",
   "lastOpenFiles": [
-    "content/private/journal/2022-08-07.md",
-    "content/private/journal/2022-08-06.md",
-    "content/private/journal/2022-08-04.md",
-    "content/private/journal/2022-08-05.md",
+    "content/computers/app-ideas.md",
+    "content/computers/bluetooth/recipe-printer.md",
     "content/inbox.md",
-    "content/computers/linux.md",
-    "content/private/private-note.md",
-    "content/2022-08-06.md",
-    "content/private/journal/2022-08-04 1.md",
-    "content/private/journal/2021-09-15.md"
+    "content/private/journal/2022-08-31.md",
+    "content/private/journal/2022-08-30.md",
+    "content/private/journal/2022-08-25.md",
+    "content/private/journal/2022-08-23.md",
+    "content/computers/web.md",
+    "content/notes.md",
+    "content/notetaking/inspiration.md"
   ]
 }

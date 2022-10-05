@@ -1,0 +1,5 @@
+---
+title: ios
+---
+- code signing on non ios devices https://news.ycombinator.com/item?id=32386762
+- installing ipa on ios device from linux https://gist.github.com/githubutilities/91ba27c2f5a135dce1a2

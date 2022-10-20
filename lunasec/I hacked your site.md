@@ -1,0 +1,35 @@
+It isn't your fault, you were just doing your job. Even if you wanted to try to stop it, there isn't much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy.
+
+Your company's site uses javascript. It has a package.json that's filled with dependencies. Want to tell me what one of them is? If not, I could make an educated guess: X
+
+So let's take a look at package X. It has N lines of code and is maintained by M number of maintainers. But wait, there is more. What about the packages package X depends on? Well, it turns out there are D of them. And if you were to consider all of the maintainers of those packages, there are M' of them. Pretty wild.
+
+Why would you care about this? Well let me lay out a scenario.
+Let's say I am a hacker that wanted to hack your company. Knowing that your company's site uses package X, I can have some fun with your site. If it isn't obvious, package X's code and all of packages it depends on code all have _full access_ to your site. That means they could run whatever code they wanted to. Credit card number is entered into a form? Sounds juicy. Maybe I just want to show all your users some dancing cats. I'm sure they would love that. Let's go and do that.
+
+Well, most of package X and its dependencies have their code hosted on Github and I have fabricated what looks to be a reputable account here. Look at me, such an outstanding open source contributor.
+
+One of the packages that X depends on is package Y.
+
+Package Y has N open issues for bug fixes or feature requests and I am sure they could use some help with some code. I'll spend a few hours to work on some code to resolve issue # and I'll send it over to package Y's maintainers. It might look like this.
+
+Fortunately I made quick work of this issue because I had a helpful library lying around that did most of the work for me. I feel like my changes are pretty reasonable and it would be a no brainer for a maintainer to accept this code. Maybe there are a few tweaks to make, but odds are pretty good I can get that code landed.
+
+Cool, so when my code gets landed, the maintainer will cut a new release at some point and my code will be running in your company's site once you bump your version or blow away your package lock like you normally do.
+
+What are the odds the maintainer actually looked at that dependency I added? How often do you spend a single second looking at the package you are about to include into your app? If you are a good developer, I would give you a minute of looking at the docs, API, maybe the tests. But have you _really_ scanned through all the files? Did you check the `scripts` section of `package.json`? I sure as hell don't do this for every package I install, let alone all the other package it installs. How can I when my manager is breathing down my neck?
+
+Ok, ok, lets say you really are the engineer of the year and you poked and proded my PR and checked out the source code for the library I added. If you haven't go ahead and look, I'll wait. I would expect that your search hasn't actually turned up anything that could be considered "malware". Maybe you found a bug, but errornous lines don't really matter to me when I am stealing passwords from your users.
+
+The malicious code isn't in the source code, it's in _NPM_. Before I release a version of my dependency to the npm registry, I tack on a little more javascript. You would only see this javascript if you were to directly download the dependency and open it up (link). Didn't see that one coming did ya? I made the JS obvious here, but what if it looked more like this: xxx Is that easier to read?
+
+You might laugh at this attack vector, "wow great, you are going to land some code and then a year from now when we bump our package version you can hack our site". Well, the thing is I already have spent a year doing this to your site. I fingerprinted the dependencies that your site has from your source maps and script tags. I've been resolving issues like this for the past year, and you don't have the slightest idea which dependencies are actually trojan horses for my exploit code.
+
+Oh also, this isn't hypothetical, it has already happened. Bitpay was targeted by this exact attack, and the hacker was only caught because of a coding mistake.
+It doesn't take an experienced hacker or really anyone with any security experience to do this. In fact, a regular developer would probably be more equipped that me to execute this attack because they probably know those weird forgotten about packages better than me.
+
+So dear reader, what's it going to be. Did I inspire you to live a life of crime and make a bunch of money hacking websites? Or are you going to do something to protect you and your company from this?
+
+LunaTrace was designed to stop these problems from affecting you. 
+
+Click here to prevent this attack.

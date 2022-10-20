@@ -1,0 +1,7 @@
+
+- [bmp encoder](https://github.com/hipstersmoothie/bmp-ts/blob/master/lib/encoder.ts)so that images can be sent in black and white to printer
+- [web bluetooth documentation mdn](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
+- thermal printer arduino
+	- [demo](https://github.com/bitbank2/Thermal_Printer/blob/master/examples/Thermal_Printer_Demo/Thermal_Printer_Demo.ino)
+	- [sdk](https://github.com/bitbank2/Thermal_Printer/blob/master/src/Thermal_Printer.cpp)
+- [react native bluetooth - expo](https://expo.canny.io/feature-requests/p/bluetooth-1)

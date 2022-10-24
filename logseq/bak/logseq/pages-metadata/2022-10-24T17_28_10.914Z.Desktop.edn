@@ -320,8 +320,8 @@
   :block/created-at 1666281535717,
   :block/updated-at 1666281535717}
  {:block/name "controlling code risk",
-  :block/created-at 1666631891646,
-  :block/updated-at 1666631891646}
+  :block/created-at 1666356895439,
+  :block/updated-at 1666364748315}
  {:block/name "cooking",
   :block/created-at 1666281533845,
   :block/updated-at 1666281533845}
@@ -589,6 +589,9 @@
  {:block/name "substitutions",
   :block/created-at 1666282373255,
   :block/updated-at 1666282373255}
+ {:block/name "template",
+  :block/created-at 1666603922262,
+  :block/updated-at 1666603922262}
  {:block/name "templates",
   :block/created-at 1666603739191,
   :block/updated-at 1666604648481}

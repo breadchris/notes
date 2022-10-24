@@ -1,21 +1,21 @@
--
+- ## LunaTrace
 - ### Meaningfully Managing Vulnerabilities and Malware for Fast Moving Teams
 	- LunaTrace: Trace your code to the source
-		- background-color:: #533e7d
-		  ```mermaid
-		  flowchart TD
-		      A[Task] --> B[Developer]
-		      B --> C{Use a library?}
-		      C --> |Yes| D[Import library]
-		      D --> E[Pull Request]
-		      C --> |No| H[Write code]
-		      H --> E
-		      E --> F[Source Control]
-		      F --> G[Build]
-		      G --> I[Artifact Repository]
-		      I --> J[Running in Production]
-		  ```
-		-
+		- <img src="https://mermaid.ink/img/ICBmbG93Y2hhcnQgVEQKICAgIEFbVGFza10gLS0-IEJbRGV2ZWxvcGVyXQogICAgQiAtLT4gQ3tVc2UgYSBsaWJyYXJ5P30KICAgIEMgLS0-IHxZZXN8IERbSW1wb3J0IGxpYnJhcnldCiAgICBEIC0tPiBFW1B1bGwgUmVxdWVzdF0KICAgIEMgLS0-IHxOb3wgSFtXcml0ZSBjb2RlXQogICAgSCAtLT4gRQogICAgRSAtLT4gRltTb3VyY2UgQ29udHJvbF0KICAgIEYgLS0-IEdbQnVpbGRdCiAgICBHIC0tPiBJW0FydGlmYWN0IFJlcG9zaXRvcnldCiAgICBJIC0tPiBKW1J1bm5pbmcgaW4gUHJvZHVjdGlvbl0K" />
+		  {{renderer :mermaid_azljpgref}}
+			- ```mermaid 
+			  flowchart TD
+			      A[Task] --> B[Developer]
+			      B --> C{Use a library?}
+			      C --> |Yes| D[Import library]
+			      D --> E[Pull Request]
+			      C --> |No| H[Write code]
+			      H --> E
+			      E --> F[Source Control]
+			      F --> G[Build]
+			      G --> I[Artifact Repository]
+			      I --> J[Running in Production]
+			  ```
 	- Every time a developer is working on a task, there is simple choice that they can make: "Do I solve this task with a library, or should I write the code myself?".
 	- While a simple choice on the surface, there are a number of things that you should be considering, that maybe aren't so obvious.
 		- Before installing that library, are you going to go look at the code?

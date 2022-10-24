@@ -1,4 +1,4 @@
-- ## LunaTrace
+-
 - ### Meaningfully Managing Vulnerabilities and Malware for Fast Moving Teams
 	- LunaTrace: Trace your code to the source
 		- background-color:: #533e7d

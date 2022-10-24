@@ -234,13 +234,7 @@
   :block/updated-at 1666390304212}
  {:block/name "2022-10-22",
   :block/created-at 1666428652313,
-  :block/updated-at 1666468152182}
- {:block/name "2022-10-23",
-  :block/created-at 1666520750539,
-  :block/updated-at 1666618942102}
- {:block/name "2022-10-24",
-  :block/created-at 1666600278442,
-  :block/updated-at 1666616184506}
+  :block/updated-at 1666428652313}
  {:block/name "2s",
   :block/created-at 1666281535721,
   :block/updated-at 1666281535721}
@@ -399,7 +393,7 @@
   :block/updated-at 1666282374769}
  {:block/name "i hacked your site",
   :block/created-at 1666281534752,
-  :block/updated-at 1666618896900}
+  :block/updated-at 1666281534752}
  {:block/name "ideas",
   :block/created-at 1666282374886,
   :block/updated-at 1666282374886}
@@ -460,15 +454,12 @@
  {:block/name "logging",
   :block/created-at 1666282372782,
   :block/updated-at 1666282372782}
- {:block/name "logseq",
-  :block/created-at 1666604675082,
-  :block/updated-at 1666604675082}
  {:block/name "lol",
   :block/created-at 1666281534102,
   :block/updated-at 1666281534102}
  {:block/name "lunasec",
   :block/created-at 1666282374808,
-  :block/updated-at 1666627986914}
+  :block/updated-at 1666282374808}
  {:block/name "mastering ethereum",
   :block/created-at 1666281533941,
   :block/updated-at 1666281533941}
@@ -586,12 +577,9 @@
  {:block/name "substitutions",
   :block/created-at 1666282373255,
   :block/updated-at 1666282373255}
- {:block/name "template",
-  :block/created-at 1666603922262,
-  :block/updated-at 1666603922262}
- {:block/name "templates",
-  :block/created-at 1666603739191,
-  :block/updated-at 1666604648481}
+ {:block/name "tags",
+  :block/created-at 1666356929587,
+  :block/updated-at 1666356929587}
  {:block/name "thoughts",
   :block/created-at 1666282376486,
   :block/updated-at 1666282376486}

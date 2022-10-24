@@ -1,0 +1,26 @@
+tags:: lunasec
+
+- ### What happens
+	- Business requirements are set by the company
+	- Managers interpret business requirements as action items for team
+	- Developers get assigned action items and develop
+	- Development
+		- Coding lines of code in a language
+		- Building upon internal tools and frameworks
+		- Using other people's code and tools from outside the company
+	- CI/CD
+		- PRs are made to review code
+		- Code is approved and landed
+		- Code is deployed
+- ### Where are the problems?
+	- Using code that you don't fully understand
+	- Code that you don't fully understand ends up in places you forget about.
+- ### Why do people care about security?
+	- Brand reputation
+		- Signal is e2e encryption
+	- Compliance
+	- Malware
+- ### What can we do?
+	- Lets set the standard for software security.
+		- Sandboxing a dependency in the process space isn't perfect, but it raises the bar of what someone needs to do in order to exploit your app (now they need a bypass)
+	-

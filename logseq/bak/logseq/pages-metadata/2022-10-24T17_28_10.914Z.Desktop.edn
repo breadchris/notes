@@ -240,7 +240,7 @@
   :block/updated-at 1666618942102}
  {:block/name "2022-10-24",
   :block/created-at 1666600278442,
-  :block/updated-at 1666642477463}
+  :block/updated-at 1666616184506}
  {:block/name "2s",
   :block/created-at 1666281535721,
   :block/updated-at 1666281535721}
@@ -320,8 +320,8 @@
   :block/created-at 1666281535717,
   :block/updated-at 1666281535717}
  {:block/name "controlling code risk",
-  :block/created-at 1666631891646,
-  :block/updated-at 1666631891646}
+  :block/created-at 1666356895439,
+  :block/updated-at 1666364748315}
  {:block/name "cooking",
   :block/created-at 1666281533845,
   :block/updated-at 1666281533845}
@@ -334,9 +334,6 @@
  {:block/name "cookwherever",
   :block/created-at 1666281534679,
   :block/updated-at 1666281534679}
- {:block/name "cookwherever ",
-  :block/created-at 1666636475708,
-  :block/updated-at 1666636475708}
  {:block/name "crops",
   :block/created-at 1666282373576,
   :block/updated-at 1666282373576}
@@ -394,9 +391,6 @@
  {:block/name "grype",
   :block/created-at 1666281536195,
   :block/updated-at 1666281536195}
- {:block/name "high thinkies",
-  :block/created-at 1666637514590,
-  :block/updated-at 1666637528441}
  {:block/name "hosting",
   :block/created-at 1666282372743,
   :block/updated-at 1666282372743}
@@ -405,7 +399,7 @@
   :block/updated-at 1666282374769}
  {:block/name "i hacked your site",
   :block/created-at 1666281534752,
-  :block/updated-at 1666639440295}
+  :block/updated-at 1666618896900}
  {:block/name "ideas",
   :block/created-at 1666282374886,
   :block/updated-at 1666282374886}
@@ -474,10 +468,7 @@
   :block/updated-at 1666281534102}
  {:block/name "lunasec",
   :block/created-at 1666282374808,
-  :block/updated-at 1666639354996}
- {:block/name "lunasec mission",
-  :block/created-at 1666639177575,
-  :block/updated-at 1666639177575}
+  :block/updated-at 1666630649271}
  {:block/name "mastering ethereum",
   :block/created-at 1666281533941,
   :block/updated-at 1666281533941}
@@ -598,6 +589,9 @@
  {:block/name "substitutions",
   :block/created-at 1666282373255,
   :block/updated-at 1666282373255}
+ {:block/name "template",
+  :block/created-at 1666603922262,
+  :block/updated-at 1666603922262}
  {:block/name "templates",
   :block/created-at 1666603739191,
   :block/updated-at 1666604648481}

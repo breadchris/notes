@@ -1,5 +1,5 @@
 - Current TODOs
   template:: Current TODOs
   template-including-parent:: false
-	- {{query (todo todo)}}
+	- {{query (or (todo todo) (todo doing))}}
 	  query-table:: true

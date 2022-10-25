@@ -355,6 +355,15 @@
  {:block/name "done",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
+ {:block/name "draws/2022-10-25-02-20-42.excalidraw",
+  :block/created-at 1666689891683,
+  :block/updated-at 1666689891683}
+ {:block/name "draws/2022-10-25-02-20-44.excalidraw",
+  :block/created-at 1666689891682,
+  :block/updated-at 1666689891682}
+ {:block/name "draws/2022-10-25-02-20-49.excalidraw",
+  :block/created-at 1666689891682,
+  :block/updated-at 1666689891682}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -468,7 +477,10 @@
   :block/updated-at 1666282372782}
  {:block/name "logseq",
   :block/created-at 1666604675082,
-  :block/updated-at 1666604675082}
+  :block/updated-at 1666689813483}
+ {:block/name "logseq presentation test",
+  :block/created-at 1666690379397,
+  :block/updated-at 1666690453197}
  {:block/name "lol",
   :block/created-at 1666281534102,
   :block/updated-at 1666281534102}
@@ -492,13 +504,16 @@
   :block/updated-at 1666281535019}
  {:block/name "notetaking",
   :block/created-at 1666281534680,
-  :block/updated-at 1666281534680}
+  :block/updated-at 1666689238218}
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
  {:block/name "obsidian",
   :block/created-at 1666281536764,
   :block/updated-at 1666281536764}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666689039442,
+  :block/updated-at 1666690379397}
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -547,6 +562,9 @@
  {:block/name "recipes",
   :block/created-at 1666282372918,
   :block/updated-at 1666282372918}
+ {:block/name "remarkable",
+  :block/created-at 1666690203199,
+  :block/updated-at 1666690203199}
  {:block/name "samm",
   :block/created-at 1666281534994,
   :block/updated-at 1666281534994}
@@ -600,7 +618,7 @@
   :block/updated-at 1666282373255}
  {:block/name "templates",
   :block/created-at 1666603739191,
-  :block/updated-at 1666604648481}
+  :block/updated-at 1666690054633}
  {:block/name "thoughts",
   :block/created-at 1666282376486,
   :block/updated-at 1666282376486}

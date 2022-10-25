@@ -469,6 +469,9 @@
  {:block/name "libraries",
   :block/created-at 1666282372758,
   :block/updated-at 1666282372758}
+ {:block/name "life",
+  :block/created-at 1666701291675,
+  :block/updated-at 1666701291675}
  {:block/name "linux",
   :block/created-at 1666282372877,
   :block/updated-at 1666282372877}
@@ -480,7 +483,7 @@
   :block/updated-at 1666689813483}
  {:block/name "logseq presentation test",
   :block/created-at 1666690379397,
-  :block/updated-at 1666690453197}
+  :block/updated-at 1666702146123}
  {:block/name "lol",
   :block/created-at 1666281534102,
   :block/updated-at 1666281534102}
@@ -513,7 +516,7 @@
   :block/updated-at 1666281536764}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666689039442,
-  :block/updated-at 1666690379397}
+  :block/updated-at 1666702374156}
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -592,6 +595,9 @@
  {:block/name "samm/verification",
   :block/created-at 1666281534979,
   :block/updated-at 1666281534979}
+ {:block/name "semgrep",
+  :block/created-at 1666694852313,
+  :block/updated-at 1666694852313}
  {:block/name "set",
   :block/created-at 1666281535128,
   :block/updated-at 1666281535128}

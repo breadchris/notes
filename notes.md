@@ -1,2 +1,4 @@
-
+- quotebacks: https://tomcritchlow.com/2020/06/09/quotebacks/ #card
 - really in depth look at plant growing good technical analysis  https://www.bunniestudios.com/blog/?p=6481
+- https://cavvia.net/junkspace/ #card
+-

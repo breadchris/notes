@@ -171,7 +171,7 @@
   :block/updated-at 1666282374333}
  {:block/name "2022-09-16",
   :block/created-at 1666282374255,
-  :block/updated-at 1666282374255}
+  :block/updated-at 1666707080927}
  {:block/name "2022-09-18",
   :block/created-at 1666282374276,
   :block/updated-at 1666282374276}
@@ -376,6 +376,9 @@
  {:block/name "endif",
   :block/created-at 1666281536107,
   :block/updated-at 1666281536107}
+ {:block/name "equipment",
+  :block/created-at 1666725903619,
+  :block/updated-at 1666725903619}
  {:block/name "ethereum",
   :block/created-at 1666281533951,
   :block/updated-at 1666281533951}
@@ -504,7 +507,7 @@
   :block/updated-at 1666281536242}
  {:block/name "notes",
   :block/created-at 1666281535019,
-  :block/updated-at 1666281535019}
+  :block/updated-at 1666704091739}
  {:block/name "notetaking",
   :block/created-at 1666281534680,
   :block/updated-at 1666689238218}
@@ -516,7 +519,10 @@
   :block/updated-at 1666281536764}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666689039442,
-  :block/updated-at 1666702374156}
+  :block/updated-at 1666734369903}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666774109595,
+  :block/updated-at 1666774109595}
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -598,6 +604,9 @@
  {:block/name "semgrep",
   :block/created-at 1666694852313,
   :block/updated-at 1666694852313}
+ {:block/name "semver",
+  :block/created-at 1666707067016,
+  :block/updated-at 1666707067016}
  {:block/name "set",
   :block/created-at 1666281535128,
   :block/updated-at 1666281535128}
@@ -613,6 +622,9 @@
  {:block/name "sous-vide",
   :block/created-at 1666282373075,
   :block/updated-at 1666282373075}
+ {:block/name "sql",
+  :block/created-at 1666707068649,
+  :block/updated-at 1666707068649}
  {:block/name "ssh",
   :block/created-at 1666282372797,
   :block/updated-at 1666282372797}

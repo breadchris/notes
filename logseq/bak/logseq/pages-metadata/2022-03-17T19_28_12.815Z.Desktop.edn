@@ -237,16 +237,10 @@
   :block/updated-at 1666468152182}
  {:block/name "2022-10-23",
   :block/created-at 1666520750539,
-  :block/updated-at 1666858484190}
+  :block/updated-at 1666618942102}
  {:block/name "2022-10-24",
   :block/created-at 1666600278442,
   :block/updated-at 1666642477463}
- {:block/name "2022-10-25",
-  :block/created-at 1647545114122,
-  :block/updated-at 1666858077628}
- {:block/name "2022-10-26",
-  :block/created-at 1647545114225,
-  :block/updated-at 1666884904985}
  {:block/name "2s",
   :block/created-at 1666281535721,
   :block/updated-at 1666281535721}
@@ -341,20 +335,14 @@
   :block/created-at 1666281534679,
   :block/updated-at 1666281534679}
  {:block/name "cookwherever ",
-  :block/created-at 1647545114617,
-  :block/updated-at 1647545114617}
- {:block/name "creditcards",
-  :block/created-at 1666885539147,
-  :block/updated-at 1666885539147}
+  :block/created-at 1666636475708,
+  :block/updated-at 1666636475708}
  {:block/name "crops",
   :block/created-at 1666282373576,
   :block/updated-at 1666282373576}
  {:block/name "cve",
   :block/created-at 1666282374866,
   :block/updated-at 1666282374866}
- {:block/name "dependencies",
-  :block/created-at 1666885527400,
-  :block/updated-at 1666885527400}
  {:block/name "dns",
   :block/created-at 1666282372671,
   :block/updated-at 1666282372671}
@@ -367,6 +355,15 @@
  {:block/name "done",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
+ {:block/name "draws/2022-10-25-02-20-42.excalidraw",
+  :block/created-at 1666689891683,
+  :block/updated-at 1666689891683}
+ {:block/name "draws/2022-10-25-02-20-44.excalidraw",
+  :block/created-at 1666689891682,
+  :block/updated-at 1666689891682}
+ {:block/name "draws/2022-10-25-02-20-49.excalidraw",
+  :block/created-at 1666689891682,
+  :block/updated-at 1666689891682}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -409,9 +406,6 @@
  {:block/name "grype",
   :block/created-at 1666281536195,
   :block/updated-at 1666281536195}
- {:block/name "hacking",
-  :block/created-at 1666885055605,
-  :block/updated-at 1666885055605}
  {:block/name "high thinkies",
   :block/created-at 1666637514590,
   :block/updated-at 1666637528441}
@@ -423,7 +417,7 @@
   :block/updated-at 1666282374769}
  {:block/name "i hacked your site",
   :block/created-at 1666281534752,
-  :block/updated-at 1666886044294}
+  :block/updated-at 1666791947727}
  {:block/name "ideas",
   :block/created-at 1666282374886,
   :block/updated-at 1666282374886}
@@ -469,9 +463,6 @@
  {:block/name "its-snack-time",
   :block/created-at 1666282373155,
   :block/updated-at 1666282373155}
- {:block/name "js",
-  :block/created-at 1666885067717,
-  :block/updated-at 1666885067717}
  {:block/name "kubes",
   :block/created-at 1666282372723,
   :block/updated-at 1666282372723}
@@ -503,14 +494,8 @@
   :block/created-at 1666282374808,
   :block/updated-at 1666639354996}
  {:block/name "lunasec mission",
-  :block/created-at 1647545114794,
-  :block/updated-at 1647545114794}
- {:block/name "lunasec/mission",
-  :block/created-at 1647545114273,
-  :block/updated-at 1647545114273}
- {:block/name "mar 17th, 2022",
-  :block/created-at 1647545118638,
-  :block/updated-at 1647545118638}
+  :block/created-at 1666639177575,
+  :block/updated-at 1666639177575}
  {:block/name "mastering ethereum",
   :block/created-at 1666281533941,
   :block/updated-at 1666281533941}
@@ -532,9 +517,12 @@
  {:block/name "obsidian",
   :block/created-at 1666281536764,
   :block/updated-at 1666281536764}
- {:block/name "oct 27th, 2022",
-  :block/created-at 1666858035437,
-  :block/updated-at 1666885539153}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666689039442,
+  :block/updated-at 1666734369903}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666774109595,
+  :block/updated-at 1666803076435}
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -635,8 +623,8 @@
   :block/created-at 1666282373075,
   :block/updated-at 1666282373075}
  {:block/name "sql",
-  :block/created-at 1647545114692,
-  :block/updated-at 1647545114692}
+  :block/created-at 1666707068649,
+  :block/updated-at 1666707068649}
  {:block/name "ssh",
   :block/created-at 1666282372797,
   :block/updated-at 1666282372797}

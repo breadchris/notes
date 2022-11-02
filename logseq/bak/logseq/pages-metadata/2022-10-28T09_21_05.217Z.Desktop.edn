@@ -367,9 +367,6 @@
  {:block/name "done",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
- {:block/name "download",
-  :block/created-at 1666959741628,
-  :block/updated-at 1666959741628}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -463,9 +460,6 @@
  {:block/name "interesting videos",
   :block/created-at 1666282374791,
   :block/updated-at 1666282374791}
- {:block/name "internet",
-  :block/created-at 1666960505405,
-  :block/updated-at 1666960505405}
  {:block/name "interviewing",
   :block/created-at 1666282372639,
   :block/updated-at 1666282372639}
@@ -532,30 +526,24 @@
  {:block/name "notetaking",
   :block/created-at 1666281534680,
   :block/updated-at 1666689238218}
- {:block/name "nov 1st, 2022",
-  :block/created-at 1667310356489,
-  :block/updated-at 1667314128187}
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
- {:block/name "npm",
-  :block/created-at 1666959741633,
-  :block/updated-at 1666959741633}
  {:block/name "obsidian",
   :block/created-at 1666281536764,
   :block/updated-at 1666281536764}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1666898774128,
+  :block/updated-at 1666898774128}
  {:block/name "oct 25th, 2022",
-  :block/created-at 1666948839264,
-  :block/updated-at 1666948893490}
+  :block/created-at 1666898774218,
+  :block/updated-at 1666898774218}
  {:block/name "oct 26th, 2022",
-  :block/created-at 1666948839411,
-  :block/updated-at 1666948839411}
+  :block/created-at 1666898774355,
+  :block/updated-at 1666898774355}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666858035437,
   :block/updated-at 1666900449692}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666948838514,
-  :block/updated-at 1666963756620}
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -571,9 +559,6 @@
  {:block/name "owasp samm",
   :block/created-at 1666281536221,
   :block/updated-at 1666281536221}
- {:block/name "package-manager",
-  :block/created-at 1666956571524,
-  :block/updated-at 1666956571524}
  {:block/name "pattern",
   :block/created-at 1666281535083,
   :block/updated-at 1666281535083}
@@ -640,9 +625,6 @@
  {:block/name "samm/verification",
   :block/created-at 1666281534979,
   :block/updated-at 1666281534979}
- {:block/name "security",
-  :block/created-at 1666963310442,
-  :block/updated-at 1666963310442}
  {:block/name "semgrep",
   :block/created-at 1666694852313,
   :block/updated-at 1666694852313}
@@ -697,9 +679,6 @@
  {:block/name "videos",
   :block/created-at 1666282373110,
   :block/updated-at 1666282373110}
- {:block/name "visualization",
-  :block/created-at 1666956575535,
-  :block/updated-at 1666956575535}
  {:block/name "wait",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -712,9 +691,6 @@
  {:block/name "web3",
   :block/created-at 1666282376493,
   :block/updated-at 1666282376493}
- {:block/name "wget",
-  :block/created-at 1666963756620,
-  :block/updated-at 1666963808717}
  {:block/name "why is food the way it is in america?",
   :block/created-at 1666282373235, 
   :block/updated-at 1666282373235}]

@@ -1,0 +1,5 @@
+- https://plantnet.org/en/donations/
+- https://archive.org/donate/?origin=wbwww-HomeDonateButton
+- https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=spontaneous&utm_source=fr-redir&utm_campaign=spontaneous
+- https://signal.org/donate/
+-

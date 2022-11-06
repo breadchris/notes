@@ -1,0 +1,3 @@
+- hire him, he writes real good
+	- we do not write good, words be better with him write
+	- walter pick better word and better word order

@@ -1,0 +1,398 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "type": "freedraw",
+      "version": 39,
+      "versionNonce": 273891639,
+      "isDeleted": false,
+      "id": "SPzDhmhZnGdNj_azl9x1y",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1076,
+      "y": 485,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 243,
+      "height": 141,
+      "seed": 1813197783,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          4,
+          -2
+        ],
+        [
+          9,
+          -3
+        ],
+        [
+          18,
+          -4
+        ],
+        [
+          35,
+          -4
+        ],
+        [
+          64,
+          -4
+        ],
+        [
+          97,
+          -6
+        ],
+        [
+          147,
+          -19
+        ],
+        [
+          168,
+          -27
+        ],
+        [
+          172,
+          -30
+        ],
+        [
+          171,
+          -30
+        ],
+        [
+          159,
+          -24
+        ],
+        [
+          115,
+          -9
+        ],
+        [
+          57,
+          7
+        ],
+        [
+          3,
+          25
+        ],
+        [
+          -41,
+          39
+        ],
+        [
+          -64,
+          52
+        ],
+        [
+          -71,
+          64
+        ],
+        [
+          -70,
+          70
+        ],
+        [
+          -52,
+          81
+        ],
+        [
+          -19,
+          85
+        ],
+        [
+          25,
+          85
+        ],
+        [
+          71,
+          79
+        ],
+        [
+          108,
+          67
+        ],
+        [
+          126,
+          58
+        ],
+        [
+          127,
+          58
+        ],
+        [
+          125,
+          59
+        ],
+        [
+          116,
+          66
+        ],
+        [
+          92,
+          77
+        ],
+        [
+          60,
+          90
+        ],
+        [
+          30,
+          104
+        ],
+        [
+          25,
+          106
+        ],
+        [
+          24,
+          110
+        ],
+        [
+          24,
+          111
+        ],
+        [
+          24,
+          111
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "freedraw",
+      "version": 3,
+      "versionNonce": 1427452569,
+      "isDeleted": false,
+      "id": "MMvH6UZIxi38Dq3ARYF8Y",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1055,
+      "y": 481,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 0.0001,
+      "height": 0.0001,
+      "seed": 1113969081,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "freedraw",
+      "version": 31,
+      "versionNonce": 1927869527,
+      "isDeleted": false,
+      "id": "zURmrgiV-MGwQZgYfItCk",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 977,
+      "y": 529,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 206,
+      "height": 100,
+      "seed": 402628471,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElementIds": [],
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          10,
+          -3
+        ],
+        [
+          22,
+          -6
+        ],
+        [
+          39,
+          -10
+        ],
+        [
+          63,
+          -18
+        ],
+        [
+          105,
+          -28
+        ],
+        [
+          139,
+          -41
+        ],
+        [
+          163,
+          -53
+        ],
+        [
+          177,
+          -60
+        ],
+        [
+          176,
+          -59
+        ],
+        [
+          168,
+          -54
+        ],
+        [
+          129,
+          -38
+        ],
+        [
+          83,
+          -16
+        ],
+        [
+          37,
+          10
+        ],
+        [
+          -11,
+          28
+        ],
+        [
+          -29,
+          40
+        ],
+        [
+          -28,
+          40
+        ],
+        [
+          -21,
+          40
+        ],
+        [
+          1,
+          40
+        ],
+        [
+          53,
+          25
+        ],
+        [
+          67,
+          19
+        ],
+        [
+          91,
+          6
+        ],
+        [
+          92,
+          4
+        ],
+        [
+          91,
+          4
+        ],
+        [
+          90,
+          5
+        ],
+        [
+          87,
+          9
+        ],
+        [
+          85,
+          12
+        ],
+        [
+          84,
+          13
+        ],
+        [
+          84,
+          13
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "simulatePressure": true,
+      "pressures": []
+    },
+    {
+      "type": "rectangle",
+      "version": 22,
+      "versionNonce": 748107959,
+      "isDeleted": false,
+      "id": "erHJ15JeozVlGPQ2ybK6B",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 985,
+      "y": 532,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 174,
+      "height": 69,
+      "seed": 1133535385,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElementIds": []
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}

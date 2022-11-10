@@ -78,7 +78,7 @@
   :block/updated-at 1666282373708}
  {:block/name "2022-07-08",
   :block/created-at 1666282373805,
-  :block/updated-at 1666282373805}
+  :block/updated-at 1667708458442}
  {:block/name "2022-07-11",
   :block/created-at 1666282373670,
   :block/updated-at 1666282373670}
@@ -237,10 +237,16 @@
   :block/updated-at 1666468152182}
  {:block/name "2022-10-23",
   :block/created-at 1666520750539,
-  :block/updated-at 1666618942102}
+  :block/updated-at 1666858484190}
  {:block/name "2022-10-24",
   :block/created-at 1666600278442,
   :block/updated-at 1666642477463}
+ {:block/name "2022-10-25",
+  :block/created-at 1647545114122,
+  :block/updated-at 1666858077628}
+ {:block/name "2022-10-26",
+  :block/created-at 1647545114225,
+  :block/updated-at 1666884904985}
  {:block/name "2s",
   :block/created-at 1666281535721,
   :block/updated-at 1666281535721}
@@ -268,6 +274,9 @@
  {:block/name "app-ideas",
   :block/created-at 1666282372583,
   :block/updated-at 1666282372583}
+ {:block/name "appsec",
+  :block/created-at 1667698573539,
+  :block/updated-at 1667698573539}
  {:block/name "arch",
   :block/created-at 1666282372617,
   :block/updated-at 1666282372617}
@@ -277,6 +286,9 @@
  {:block/name "bands",
   :block/created-at 1666282375165,
   :block/updated-at 1666282375165}
+ {:block/name "blog",
+  :block/created-at 1667698573397,
+  :block/updated-at 1667698573397}
  {:block/name "blog post workflow",
   :block/created-at 1666282374736,
   :block/updated-at 1666282374736}
@@ -286,6 +298,12 @@
  {:block/name "books",
   :block/created-at 1666282373089,
   :block/updated-at 1666282373089}
+ {:block/name "bugbounty",
+  :block/created-at 1667698574100,
+  :block/updated-at 1667698574100}
+ {:block/name "business-ideas",
+  :block/created-at 1667698573546,
+  :block/updated-at 1667698573546}
  {:block/name "c",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -335,14 +353,20 @@
   :block/created-at 1666281534679,
   :block/updated-at 1666281534679}
  {:block/name "cookwherever ",
-  :block/created-at 1666636475708,
-  :block/updated-at 1666636475708}
+  :block/created-at 1647545114617,
+  :block/updated-at 1647545114617}
+ {:block/name "creditcards",
+  :block/created-at 1666885539147,
+  :block/updated-at 1666885539147}
  {:block/name "crops",
   :block/created-at 1666282373576,
   :block/updated-at 1666282373576}
  {:block/name "cve",
   :block/created-at 1666282374866,
   :block/updated-at 1666282374866}
+ {:block/name "dependencies",
+  :block/created-at 1666885527400,
+  :block/updated-at 1666885527400}
  {:block/name "dns",
   :block/created-at 1666282372671,
   :block/updated-at 1666282372671}
@@ -352,18 +376,18 @@
  {:block/name "doing",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
+ {:block/name "donations",
+  :block/created-at 1667698573672,
+  :block/updated-at 1667698573672}
  {:block/name "done",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
- {:block/name "draws/2022-10-25-02-20-42.excalidraw",
-  :block/created-at 1666689891683,
-  :block/updated-at 1666689891683}
- {:block/name "draws/2022-10-25-02-20-44.excalidraw",
-  :block/created-at 1666689891682,
-  :block/updated-at 1666689891682}
- {:block/name "draws/2022-10-25-02-20-49.excalidraw",
-  :block/created-at 1666689891682,
-  :block/updated-at 1666689891682}
+ {:block/name "download",
+  :block/created-at 1666959741628,
+  :block/updated-at 1666959741628}
+ {:block/name "draws/2022-11-07-15-22-47.excalidraw",
+  :block/created-at 1667863666587,
+  :block/updated-at 1667863666587}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -403,9 +427,18 @@
  {:block/name "go",
   :block/created-at 1666282372750,
   :block/updated-at 1666282372750}
+ {:block/name "graphql",
+  :block/created-at 1667698969580,
+  :block/updated-at 1667698969580}
  {:block/name "grype",
   :block/created-at 1666281536195,
   :block/updated-at 1666281536195}
+ {:block/name "hacking",
+  :block/created-at 1666885055605,
+  :block/updated-at 1666885055605}
+ {:block/name "hashicorp",
+  :block/created-at 1667724004418,
+  :block/updated-at 1667724004418}
  {:block/name "high thinkies",
   :block/created-at 1666637514590,
   :block/updated-at 1666637528441}
@@ -415,9 +448,12 @@
  {:block/name "how does appsec work",
   :block/created-at 1666282374769,
   :block/updated-at 1666282374769}
+ {:block/name "hsf",
+  :block/created-at 1667698574049,
+  :block/updated-at 1667698574049}
  {:block/name "i hacked your site",
   :block/created-at 1666281534752,
-  :block/updated-at 1666791947727}
+  :block/updated-at 1666886044294}
  {:block/name "ideas",
   :block/created-at 1666282374886,
   :block/updated-at 1666282374886}
@@ -454,6 +490,9 @@
  {:block/name "interesting videos",
   :block/created-at 1666282374791,
   :block/updated-at 1666282374791}
+ {:block/name "internet",
+  :block/created-at 1666960505405,
+  :block/updated-at 1666960505405}
  {:block/name "interviewing",
   :block/created-at 1666282372639,
   :block/updated-at 1666282372639}
@@ -463,6 +502,12 @@
  {:block/name "its-snack-time",
   :block/created-at 1666282373155,
   :block/updated-at 1666282373155}
+ {:block/name "journal",
+  :block/created-at 1667698574049,
+  :block/updated-at 1667698574049}
+ {:block/name "js",
+  :block/created-at 1666885067717,
+  :block/updated-at 1666885067717}
  {:block/name "kubes",
   :block/created-at 1666282372723,
   :block/updated-at 1666282372723}
@@ -494,8 +539,14 @@
   :block/created-at 1666282374808,
   :block/updated-at 1666639354996}
  {:block/name "lunasec mission",
-  :block/created-at 1666639177575,
-  :block/updated-at 1666639177575}
+  :block/created-at 1647545114794,
+  :block/updated-at 1647545114794}
+ {:block/name "lunasec/mission",
+  :block/created-at 1647545114273,
+  :block/updated-at 1647545114273}
+ {:block/name "mar 17th, 2022",
+  :block/created-at 1647545118638,
+  :block/updated-at 1647545118638}
  {:block/name "mastering ethereum",
   :block/created-at 1666281533941,
   :block/updated-at 1666281533941}
@@ -511,18 +562,60 @@
  {:block/name "notetaking",
   :block/created-at 1666281534680,
   :block/updated-at 1666689238218}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667310356489,
+  :block/updated-at 1667333499850}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667381250111,
+  :block/updated-at 1667405579202}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667464831498,
+  :block/updated-at 1667482263916}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667698573555,
+  :block/updated-at 1667698573555}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667698534986,
+  :block/updated-at 1667724046170}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667718005141,
+  :block/updated-at 1667851140628}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667808004624,
+  :block/updated-at 1667863594233}
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
+ {:block/name "npm",
+  :block/created-at 1666959741633,
+  :block/updated-at 1666959741633}
  {:block/name "obsidian",
   :block/created-at 1666281536764,
   :block/updated-at 1666281536764}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1667698573721,
+  :block/updated-at 1667698573721}
  {:block/name "oct 25th, 2022",
-  :block/created-at 1666689039442,
-  :block/updated-at 1666734369903}
+  :block/created-at 1666948839264,
+  :block/updated-at 1666948893490}
  {:block/name "oct 26th, 2022",
-  :block/created-at 1666774109595,
-  :block/updated-at 1666803076435}
+  :block/created-at 1666948839411,
+  :block/updated-at 1666948839411}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666858035437,
+  :block/updated-at 1666900449692}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1666948838514,
+  :block/updated-at 1667382973796}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667698573686,
+  :block/updated-at 1667698573686}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667698573401,
+  :block/updated-at 1667698573401}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667698573655,
+  :block/updated-at 1667698573655}
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -538,6 +631,9 @@
  {:block/name "owasp samm",
   :block/created-at 1666281536221,
   :block/updated-at 1666281536221}
+ {:block/name "package-manager",
+  :block/created-at 1666956571524,
+  :block/updated-at 1666956571524}
  {:block/name "pattern",
   :block/created-at 1666281535083,
   :block/updated-at 1666281535083}
@@ -553,6 +649,9 @@
  {:block/name "quarantine-pies",
   :block/created-at 1666282372957,
   :block/updated-at 1666282372957}
+ {:block/name "quick capture",
+  :block/created-at 1666899016306,
+  :block/updated-at 1666899016306}
  {:block/name "quickcropsguide.pdf",
   :block/created-at 1666281534659,
   :block/updated-at 1666281534659}
@@ -601,6 +700,9 @@
  {:block/name "samm/verification",
   :block/created-at 1666281534979,
   :block/updated-at 1666281534979}
+ {:block/name "security",
+  :block/created-at 1666963310442,
+  :block/updated-at 1666963310442}
  {:block/name "semgrep",
   :block/created-at 1666694852313,
   :block/updated-at 1666694852313}
@@ -623,8 +725,8 @@
   :block/created-at 1666282373075,
   :block/updated-at 1666282373075}
  {:block/name "sql",
-  :block/created-at 1666707068649,
-  :block/updated-at 1666707068649}
+  :block/created-at 1647545114692,
+  :block/updated-at 1647545114692}
  {:block/name "ssh",
   :block/created-at 1666282372797,
   :block/updated-at 1666282372797}
@@ -655,18 +757,27 @@
  {:block/name "videos",
   :block/created-at 1666282373110,
   :block/updated-at 1666282373110}
+ {:block/name "visualization",
+  :block/created-at 1666956575535,
+  :block/updated-at 1666956575535}
  {:block/name "wait",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
  {:block/name "waiting",
   :block/created-at 1666281594762,
   :block/updated-at 1666281594762}
+ {:block/name "walter haydock",
+  :block/created-at 1667708457349,
+  :block/updated-at 1667708507807}
  {:block/name "web",
   :block/created-at 1666281534152,
   :block/updated-at 1666281534152}
  {:block/name "web3",
   :block/created-at 1666282376493,
   :block/updated-at 1666282376493}
+ {:block/name "wget",
+  :block/created-at 1666963756620,
+  :block/updated-at 1666963808717}
  {:block/name "why is food the way it is in america?",
   :block/created-at 1666282373235, 
   :block/updated-at 1666282373235}]

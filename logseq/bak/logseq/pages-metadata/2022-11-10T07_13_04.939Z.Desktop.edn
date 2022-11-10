@@ -181,6 +181,9 @@
  {:block/name "climbing",
   :block/created-at 1668057905210,
   :block/updated-at 1668057905210}
+ {:block/name "cicd",
+  :block/created-at 1668029356942,
+  :block/updated-at 1668029356942}
  {:block/name "cloud",
   :block/created-at 1666281534071,
   :block/updated-at 1666281534071}
@@ -490,9 +493,6 @@
  {:block/name "notetaking",
   :block/created-at 1666281534680,
   :block/updated-at 1666689238218}
- {:block/name "nov 10th, 2022",
-  :block/created-at 1668067200376,
-  :block/updated-at 1668067200376}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}
@@ -518,10 +518,10 @@
   :block/created-at 1667934001086,
   :block/updated-at 1667979273243}
  {:block/name "nov 9th, 2022",
-  :block/created-at 1667992267969,
-  :block/updated-at 1668056127012}
   :block/created-at 1667980800960,
-  :block/updated-at 1668066778109}
+  :block/updated-at 1668029381371}
+  :block/updated-at 1667980800960}
+  :block/updated-at 1668029940339}
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}

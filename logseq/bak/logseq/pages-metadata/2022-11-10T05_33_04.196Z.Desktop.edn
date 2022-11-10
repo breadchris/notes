@@ -80,6 +80,49 @@
   :block/created-at 1666282372617,
   :block/updated-at 1666282372617}
  {:block/name "aug 10th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633184189,
+  :block/updated-at 1666633184189}
+ {:block/name "aug 18th, 2022",
+  :block/created-at 1666633184883,
+  :block/updated-at 1666633184883}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1666633183925,
+  :block/updated-at 1666633183925}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1666633184249,
+  :block/updated-at 1666633184249}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1666633184995,
+  :block/updated-at 1666633184995}
+ {:block/name "aug 2nd, 2022",
+  :block/created-at 1666633183724,
+  :block/updated-at 1666633183724}
+ {:block/name "aug 30th, 2022",
+  :block/created-at 1666633185391,
+  :block/updated-at 1666633185391}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1666633185665,
+  :block/updated-at 1666633185665}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1666633185011,
+  :block/updated-at 1666633185011}
+ {:block/name "aug 4th, 2022",
+  :block/created-at 1666633184926,
+  :block/updated-at 1666633184926}
+ {:block/name "aug 5th, 2022",
+  :block/created-at 1666633184503,
+  :block/updated-at 1666633184503}
+ {:block/name "aug 6th, 2022",
+  :block/created-at 1666633185743,
+  :block/updated-at 1666633185743}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1666633185805,
+  :block/updated-at 1666633185805}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1666633186087,
+  :block/updated-at 1666633186087}
+=======
   :block/created-at 1667941850662,
   :block/updated-at 1667941850662}
  {:block/name "aug 18th, 2022",
@@ -121,15 +164,13 @@
  {:block/name "aug 8th, 2022",
   :block/created-at 1667941850674,
   :block/updated-at 1667941850674}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "b",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
  {:block/name "bands",
   :block/created-at 1666282375165,
   :block/updated-at 1666282375165}
- {:block/name "benchmarking",
-  :block/created-at 1667979262181,
-  :block/updated-at 1667979262181}
  {:block/name "blog",
   :block/created-at 1667698573397,
   :block/updated-at 1667698573397}
@@ -143,8 +184,8 @@
   :block/created-at 1666282373089,
   :block/updated-at 1666282373089}
  {:block/name "bookstore",
-  :block/created-at 1668057905204,
-  :block/updated-at 1668057905204}
+  :block/created-at 1667764084946,
+  :block/updated-at 1667764084946}
  {:block/name "bugbounty",
   :block/created-at 1667698574100,
   :block/updated-at 1667698574100}
@@ -164,8 +205,8 @@
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
  {:block/name "chalgen",
-  :block/created-at 1668057905200,
-  :block/updated-at 1668057905200}
+  :block/created-at 1667750328013,
+  :block/updated-at 1667750328013}
  {:block/name "change",
   :block/created-at 1666281535129,
   :block/updated-at 1666281535129}
@@ -173,23 +214,22 @@
   :block/created-at 1666282373425,
   :block/updated-at 1666282373425}
  {:block/name "chemistry",
-  :block/created-at 1668057905348,
-  :block/updated-at 1668057905348}
- {:block/name "cicd",
-  :block/created-at 1668029356942,
-  :block/updated-at 1668029356942}
+  :block/created-at 1667957323534,
+  :block/updated-at 1667957323534}
  {:block/name "climbing",
-  :block/created-at 1668057905210,
-  :block/updated-at 1668057905210}
- {:block/name "cicd",
-  :block/created-at 1668029356942,
-  :block/updated-at 1668029356942}
+  :block/created-at 1667777201400,
+  :block/updated-at 1667777201400}
  {:block/name "cloud",
   :block/created-at 1666281534071,
   :block/updated-at 1666281534071}
  {:block/name "coffee",
+<<<<<<< HEAD
+  :block/created-at 1667764100524,
+  :block/updated-at 1667764100524}
+=======
   :block/created-at 1667961963981,
   :block/updated-at 1667961963981}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "computers",
   :block/created-at 1666281533844,
   :block/updated-at 1666281533844}
@@ -221,8 +261,8 @@
   :block/created-at 1647545114617,
   :block/updated-at 1647545114617}
  {:block/name "crazy",
-  :block/created-at 1668057905210,
-  :block/updated-at 1668057905210}
+  :block/created-at 1667777207941,
+  :block/updated-at 1667777207941}
  {:block/name "creditcards",
   :block/created-at 1666885539147,
   :block/updated-at 1666885539147}
@@ -259,9 +299,15 @@
  {:block/name "download",
   :block/created-at 1666959741628,
   :block/updated-at 1666959741628}
+<<<<<<< HEAD
+ {:block/name "draws/2022-10-25-02-20-49.excalidraw",
+  :block/created-at 1666689891682,
+  :block/updated-at 1666689891682}
+=======
  {:block/name "draws/2022-11-07-15-22-47.excalidraw",
   :block/created-at 1667941980430,
   :block/updated-at 1667941980430}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -290,14 +336,14 @@
   :block/created-at 1666282375036,
   :block/updated-at 1666282375036}
  {:block/name "food",
-  :block/created-at 1668057905205,
-  :block/updated-at 1668057905205}
+  :block/created-at 1667764097353,
+  :block/updated-at 1667764097353}
  {:block/name "gardens",
   :block/created-at 1666281536892,
   :block/updated-at 1666281536892}
  {:block/name "geoguesser",
-  :block/created-at 1668057905208,
-  :block/updated-at 1668057905208}
+  :block/created-at 1667771199340,
+  :block/updated-at 1667771199340}
  {:block/name "git",
   :block/created-at 1666281536911,
   :block/updated-at 1666281536911}
@@ -389,6 +435,46 @@
   :block/created-at 1666885067717,
   :block/updated-at 1666885067717}
  {:block/name "jul 11th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633183959,
+  :block/updated-at 1666633183959}
+ {:block/name "jul 12th, 2022",
+  :block/created-at 1666633185637,
+  :block/updated-at 1666633185637}
+ {:block/name "jul 13th, 2022",
+  :block/created-at 1666633184478,
+  :block/updated-at 1666633184478}
+ {:block/name "jul 1st, 2022",
+  :block/created-at 1666633184422,
+  :block/updated-at 1666633184422}
+ {:block/name "jul 21st, 2022",
+  :block/created-at 1666633185686,
+  :block/updated-at 1666633185686}
+ {:block/name "jul 25th, 2022",
+  :block/created-at 1666633184238,
+  :block/updated-at 1666633184238}
+ {:block/name "jul 5th, 2022",
+  :block/created-at 1666633184837,
+  :block/updated-at 1666633184837}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1666633184354,
+  :block/updated-at 1666633184354}
+ {:block/name "jul 8th, 2022",
+  :block/created-at 1666633184744,
+  :block/updated-at 1666633184744}
+ {:block/name "jun 28th, 2022",
+  :block/created-at 1666633184846,
+  :block/updated-at 1666633184846}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1666633184892,
+  :block/updated-at 1666633184892}
+ {:block/name "jun 30th, 2022",
+  :block/created-at 1666633184457,
+  :block/updated-at 1666633184457}
+ {:block/name "jun 9th, 2022",
+  :block/created-at 1666633184171,
+  :block/updated-at 1666633184171}
+=======
   :block/created-at 1667941850788,
   :block/updated-at 1667941850788}
  {:block/name "jul 12th, 2022",
@@ -427,6 +513,7 @@
  {:block/name "jun 9th, 2022",
   :block/created-at 1667941850862,
   :block/updated-at 1667941850862}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "kubes",
   :block/created-at 1666282372723,
   :block/updated-at 1666282372723}
@@ -464,11 +551,19 @@
   :block/created-at 1647545114273,
   :block/updated-at 1647545114273}
  {:block/name "mar 15th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633185879,
+  :block/updated-at 1666633185879}
+ {:block/name "mar 16th, 2022",
+  :block/created-at 1666633185866,
+  :block/updated-at 1666633185866}
+=======
   :block/created-at 1667941850884,
   :block/updated-at 1667941850884}
  {:block/name "mar 16th, 2022",
   :block/created-at 1667941850875,
   :block/updated-at 1667941850875}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "mar 17th, 2022",
   :block/created-at 1647545118638,
   :block/updated-at 1647545118638}
@@ -482,17 +577,20 @@
   :block/created-at 1666281536242,
   :block/updated-at 1666281536242}
  {:block/name "models",
-  :block/created-at 1668057905256,
-  :block/updated-at 1668057905256}
+  :block/created-at 1667867583409,
+  :block/updated-at 1667867583409}
  {:block/name "movies",
-  :block/created-at 1668057905202,
-  :block/updated-at 1668057905202}
+  :block/created-at 1667763657594,
+  :block/updated-at 1667763657594}
  {:block/name "notes",
   :block/created-at 1666281535019,
   :block/updated-at 1666704091739}
  {:block/name "notetaking",
   :block/created-at 1666281534680,
   :block/updated-at 1666689238218}
+ {:block/name "notetaking ",
+  :block/created-at 1666633374564,
+  :block/updated-at 1666633374564}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}
@@ -507,8 +605,21 @@
   :block/updated-at 1667698573555}
  {:block/name "nov 5th, 2022",
   :block/created-at 1667698534986,
-  :block/updated-at 1667724046170}
+  :block/updated-at 1667707840778}
  {:block/name "nov 6th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1667750316949,
+  :block/updated-at 1667773400434}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667841953474,
+  :block/updated-at 1667878753929}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667932449209,
+  :block/updated-at 1667957325688}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667992267969,
+  :block/updated-at 1668015167813}
+=======
   :block/created-at 1667718005141,
   :block/updated-at 1667851140628}
  {:block/name "nov 7th, 2022",
@@ -516,14 +627,8 @@
   :block/updated-at 1667886463459}
  {:block/name "nov 8th, 2022",
   :block/created-at 1667934001086,
-  :block/updated-at 1667979273243}
- {:block/name "nov 9th, 2022",
-  :block/created-at 1667992267969,
-  :block/updated-at 1668056127012}
-  :block/created-at 1667980800960,
-  :block/updated-at 1668029381371}
-  :block/updated-at 1667980800960}
-  :block/updated-at 1668029940339}
+  :block/updated-at 1667965542388}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -534,6 +639,34 @@
   :block/created-at 1666281536764,
   :block/updated-at 1666281536764}
  {:block/name "oct 10th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633184779,
+  :block/updated-at 1666633184779}
+ {:block/name "oct 11th, 2022",
+  :block/created-at 1666633185044,
+  :block/updated-at 1666633185044}
+ {:block/name "oct 12th, 2022",
+  :block/created-at 1666633183970,
+  :block/updated-at 1666633183970}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1666633185705,
+  :block/updated-at 1666633185705}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666633185435,
+  :block/updated-at 1666633185435}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666633184493,
+  :block/updated-at 1666633184493}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666633184198,
+  :block/updated-at 1666633184198}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666633185777,
+  :block/updated-at 1666633185777}
+ {:block/name "oct 22nd, 2022",
+  :block/created-at 1666633186081,
+  :block/updated-at 1666633186081}
+=======
   :block/created-at 1667941850410,
   :block/updated-at 1667941850410}
  {:block/name "oct 11th, 2022",
@@ -560,12 +693,18 @@
  {:block/name "oct 22nd, 2022",
   :block/created-at 1667941850324,
   :block/updated-at 1667941850324}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "oct 23rd, 2022",
   :block/created-at 1667698573721,
   :block/updated-at 1667698573721}
  {:block/name "oct 24th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633159360,
+  :block/updated-at 1666633159360}
+=======
   :block/created-at 1667941850297,
   :block/updated-at 1667941850297}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "oct 25th, 2022",
   :block/created-at 1666948839264,
   :block/updated-at 1666948893490}
@@ -588,6 +727,28 @@
   :block/created-at 1667698573655,
   :block/updated-at 1667698573655}
  {:block/name "oct 3rd, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633184164,
+  :block/updated-at 1666633184164}
+ {:block/name "oct 4th, 2022",
+  :block/created-at 1666633186037,
+  :block/updated-at 1666633186037}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1666633185549,
+  :block/updated-at 1666633185549}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1666633184415,
+  :block/updated-at 1666633184415}
+ {:block/name "oct 7th, 2022",
+  :block/created-at 1666633184220,
+  :block/updated-at 1666633184220}
+ {:block/name "oct 8th, 2022",
+  :block/created-at 1666633185737,
+  :block/updated-at 1666633185737}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1666633184822,
+  :block/updated-at 1666633184822}
+=======
   :block/created-at 1667941850484,
   :block/updated-at 1667941850484}
  {:block/name "oct 4th, 2022",
@@ -608,6 +769,7 @@
  {:block/name "oct 9th, 2022",
   :block/created-at 1667941850419,
   :block/updated-at 1667941850419}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "oss security",
   :block/created-at 1666282374760,
   :block/updated-at 1666282374760}
@@ -633,8 +795,8 @@
   :block/created-at 1666282372736,
   :block/updated-at 1666282372736}
  {:block/name "pi^2",
-  :block/created-at 1668057905209,
-  :block/updated-at 1668057905209}
+  :block/created-at 1667773400432,
+  :block/updated-at 1667773400432}
  {:block/name "pies-to-make",
   :block/created-at 1666282373070,
   :block/updated-at 1666282373070}
@@ -657,8 +819,8 @@
   :block/created-at 1666281535717,
   :block/updated-at 1666281535717}
  {:block/name "randommic",
-  :block/created-at 1668057905204,
-  :block/updated-at 1668057905204}
+  :block/created-at 1667763915009,
+  :block/updated-at 1667763915009}
  {:block/name "readme",
   :block/created-at 1666628897244,
   :block/updated-at 1666628897244}
@@ -714,6 +876,58 @@
   :block/created-at 1666707067016,
   :block/updated-at 1666783308883}
  {:block/name "sep 12th, 2022",
+<<<<<<< HEAD
+  :block/created-at 1666633185016,
+  :block/updated-at 1666633185016}
+ {:block/name "sep 13th, 2022",
+  :block/created-at 1666633185432,
+  :block/updated-at 1666633185432}
+ {:block/name "sep 14th, 2021",
+  :block/created-at 1666633186063,
+  :block/updated-at 1666633186063}
+ {:block/name "sep 14th, 2022",
+  :block/created-at 1666633185599,
+  :block/updated-at 1666633185599}
+ {:block/name "sep 15th, 2021",
+  :block/created-at 1666633184365,
+  :block/updated-at 1666633184365}
+ {:block/name "sep 15th, 2022",
+  :block/created-at 1666633185021,
+  :block/updated-at 1666633185021}
+ {:block/name "sep 16th, 2022",
+  :block/created-at 1666633184182,
+  :block/updated-at 1666633184182}
+ {:block/name "sep 18th, 2022",
+  :block/created-at 1666633184391,
+  :block/updated-at 1666633184391}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1666633186054,
+  :block/updated-at 1666633186054}
+ {:block/name "sep 20th, 2022",
+  :block/created-at 1666633185754,
+  :block/updated-at 1666633185754}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1666633184804,
+  :block/updated-at 1666633184804}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1666633183865,
+  :block/updated-at 1666633183865}
+ {:block/name "sep 3rd, 2022",
+  :block/created-at 1666633184832,
+  :block/updated-at 1666633184832}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1666633185003,
+  :block/updated-at 1666633185003}
+ {:block/name "sep 7th, 2022",
+  :block/created-at 1666633186046,
+  :block/updated-at 1666633186046}
+ {:block/name "sep 8th, 2022",
+  :block/created-at 1666633185376,
+  :block/updated-at 1666633185376}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1666633185000,
+  :block/updated-at 1666633185000}
+=======
   :block/created-at 1667941850565,
   :block/updated-at 1667941850565}
  {:block/name "sep 13th, 2022",
@@ -764,6 +978,7 @@
  {:block/name "sep 9th, 2022",
   :block/created-at 1667941850574,
   :block/updated-at 1667941850574}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "set",
   :block/created-at 1666281535128,
   :block/updated-at 1666281535128}
@@ -774,8 +989,8 @@
   :block/created-at 1666281533872,
   :block/updated-at 1666281533872}
  {:block/name "sogoodicouldpie",
-  :block/created-at 1668057905209,
-  :block/updated-at 1668057905209}
+  :block/created-at 1667773231335,
+  :block/updated-at 1667773231335}
  {:block/name "source",
   :block/created-at 1666281534577,
   :block/updated-at 1666281534577}
@@ -797,12 +1012,15 @@
  {:block/name "substitutions",
   :block/created-at 1666282373255,
   :block/updated-at 1666282373255}
+<<<<<<< HEAD
+ {:block/name "tea",
+  :block/created-at 1667760847520,
+  :block/updated-at 1667760847520}
+=======
  {:block/name "systemd",
   :block/created-at 1667870266534,
   :block/updated-at 1667870266534}
- {:block/name "tea",
-  :block/created-at 1668057905200,
-  :block/updated-at 1668057905200}
+>>>>>>> 6cac14c ([logseq-plugin-git:commit] 2022-11-09T04:06:32.215Z)
  {:block/name "templates",
   :block/created-at 1666603739191,
   :block/updated-at 1666690054633}

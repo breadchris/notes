@@ -41,26 +41,13 @@
   people don't talk in fractions or numbers, they use words https://www.tysknews.com/Depts/Metrication/metric_land.htm
 - https://learnmyog.com/
 - how do you make intricate pastries?
-  
-  https://www.graplsecurity.com/post/attacking-firecracker
-  
-  https://saveall.ai/blog/learn-exponentially i found this concept to be really simple but powerful. i think about school curriculum and how it really doesn't embrace this at all. I grew to love cooking so much because i practiced 30 min reading 30 min recall when i read The Food Lab and then would cook what i read not just once, but spaced out over time. 
-  
-  soldering old game console game [https://www.retrogadgets.game](https://www.retrogadgets.game/)
-  
-  
-  
-  bosch appliances offline no cloud https://trmm.net/homeconnect/
-  
-  cool math fractals [https://www.fractal.garden](https://www.fractal.garden/)
-  
-  starting a food coop https://quaran.to/starting-a-food-co-op-year-1
-  
-  pdf modification repair tools https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
-  
-  new american: how can we bring back the outdoor bbq feel of america, but with the wokeness of today? stop living in fear and come together under what post WWII was about (minus the racism and sexism)
-  
-  https://www.instructables.com/Freeze-Dry-At-Home/ freeze drying with dessicators 
-  
-  diy freeze dryer https://www.makeuseof.com/diy-freeze-dryers-you-can-make-at-home/
--
+- https://www.graplsecurity.com/post/attacking-firecracker
+- https://saveall.ai/blog/learn-exponentially i found this concept to be really simple but powerful. i think about school curriculum and how it really doesn't embrace this at all. I grew to love cooking so much because i practiced 30 min reading 30 min recall when i read The Food Lab and then would cook what i read not just once, but spaced out over time.
+- soldering old game console game [https://www.retrogadgets.game](https://www.retrogadgets.game/)
+- bosch appliances offline no cloud https://trmm.net/homeconnect/
+- cool math fractals [https://www.fractal.garden](https://www.fractal.garden/)
+- starting a food coop https://quaran.to/starting-a-food-co-op-year-1
+- pdf modification repair tools https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
+- new american: how can we bring back the outdoor bbq feel of america, but with the wokeness of today? stop living in fear and come together under what post WWII was about (minus the racism and sexism)
+- https://www.instructables.com/Freeze-Dry-At-Home/ freeze drying with dessicators
+- diy freeze dryer https://www.makeuseof.com/diy-freeze-dryers-you-can-make-at-home/

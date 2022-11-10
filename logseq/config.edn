@@ -224,6 +224,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :publishing/all-pages-public? true
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 3}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 0}, :calendar {:counts 0}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 5}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

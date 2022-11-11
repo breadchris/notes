@@ -163,6 +163,9 @@
  {:block/name "card",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
+ {:block/name "cdm owasp",
+  :block/created-at 1668119147089,
+  :block/updated-at 1668119147089}
  {:block/name "chalgen",
   :block/created-at 1668103500129,
   :block/updated-at 1668103500129}
@@ -430,6 +433,9 @@
  {:block/name "jun 9th, 2022",
   :block/created-at 1667941850862,
   :block/updated-at 1667941850862}
+ {:block/name "keyring",
+  :block/created-at 1668136758597,
+  :block/updated-at 1668136758597}
  {:block/name "kubes",
   :block/created-at 1666282372723,
   :block/updated-at 1666282372723}
@@ -445,6 +451,9 @@
  {:block/name "linux",
   :block/created-at 1666282372877,
   :block/updated-at 1666282372877}
+ {:block/name "liveoverflow",
+  :block/created-at 1668119670991,
+  :block/updated-at 1668119670991}
  {:block/name "logging",
   :block/created-at 1666282372782,
   :block/updated-at 1666282372782}
@@ -478,6 +487,9 @@
  {:block/name "mastering ethereum",
   :block/created-at 1666281533941,
   :block/updated-at 1666281533941}
+ {:block/name "microphones",
+  :block/created-at 1668134954140,
+  :block/updated-at 1668134954140}
  {:block/name "ml",
   :block/created-at 1666282372825,
   :block/updated-at 1666282372825}
@@ -498,7 +510,7 @@
   :block/updated-at 1666689238218}
  {:block/name "nov 10th, 2022",
   :block/created-at 1668067200376,
-  :block/updated-at 1668110657844}
+  :block/updated-at 1668136758597}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}
@@ -619,6 +631,9 @@
  {:block/name "other/wiki-workflow#similar-wikis-i-liked",
   :block/created-at 1666281535026,
   :block/updated-at 1666281535026}
+ {:block/name "owasp",
+  :block/created-at 1668119155991,
+  :block/updated-at 1668119155991}
  {:block/name "owasp asvs",
   :block/created-at 1666282375123,
   :block/updated-at 1666282375123}
@@ -769,6 +784,9 @@
  {:block/name "set",
   :block/created-at 1666281535128,
   :block/updated-at 1666281535128}
+ {:block/name "setup",
+  :block/created-at 1668136753869,
+  :block/updated-at 1668136753869}
  {:block/name "shell",
   :block/created-at 1666282372883,
   :block/updated-at 1666282372883}
@@ -790,6 +808,9 @@
  {:block/name "ssh",
   :block/created-at 1666282372797,
   :block/updated-at 1666282372797}
+ {:block/name "standing-desk",
+  :block/created-at 1668136535858,
+  :block/updated-at 1668136535858}
  {:block/name "stores",
   :block/created-at 1666282373082,
   :block/updated-at 1666282373082}

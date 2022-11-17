@@ -196,6 +196,9 @@
  {:block/name "cloud",
   :block/created-at 1666281534071,
   :block/updated-at 1666281534071}
+ {:block/name "codegen",
+  :block/created-at 1668562425058,
+  :block/updated-at 1668562425058}
  {:block/name "coffee",
   :block/created-at 1668103500135,
   :block/updated-at 1668103500135}
@@ -226,6 +229,9 @@
  {:block/name "cookwherever",
   :block/created-at 1666281534679,
   :block/updated-at 1666281534679}
+ {:block/name "cookwherever/core competencies",
+  :block/created-at 1668491529697,
+  :block/updated-at 1668491566421}
  {:block/name "cookwherever ",
   :block/created-at 1647545114617,
   :block/updated-at 1647545114617}
@@ -292,6 +298,9 @@
  {:block/name "draws/2022-11-14-18-29-32.excalidraw",
   :block/created-at 1668479625542,
   :block/updated-at 1668479625542}
+ {:block/name "draws/2022-11-15-18-29-23.excalidraw",
+  :block/created-at 1668565794614,
+  :block/updated-at 1668565794614}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -352,6 +361,9 @@
  {:block/name "hacking",
   :block/created-at 1666885055605,
   :block/updated-at 1666885055605}
+ {:block/name "hasura",
+  :block/created-at 1668562422343,
+  :block/updated-at 1668562422343}
  {:block/name "high thinkies",
   :block/created-at 1666637514590,
   :block/updated-at 1666637528441}
@@ -552,7 +564,13 @@
   :block/updated-at 1668404452088}
  {:block/name "nov 14th, 2022",
   :block/created-at 1668412802423,
-  :block/updated-at 1668484584231}
+  :block/updated-at 1668491641455}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668499204786,
+  :block/updated-at 1668567096465}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668585600452,
+  :block/updated-at 1668643168749}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}

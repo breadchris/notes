@@ -163,9 +163,6 @@
  {:block/name "card",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
- {:block/name "cdm owasp",
-  :block/created-at 1668119147089,
-  :block/updated-at 1668119147089}
  {:block/name "chalgen",
   :block/created-at 1668103500129,
   :block/updated-at 1668103500129}
@@ -230,8 +227,8 @@
   :block/created-at 1666281534679,
   :block/updated-at 1666281534679}
  {:block/name "cookwherever/core competencies",
-  :block/created-at 1668491529697,
-  :block/updated-at 1668491566421}
+  :block/created-at 1668714434877,
+  :block/updated-at 1668714434877}
  {:block/name "cookwherever ",
   :block/created-at 1647545114617,
   :block/updated-at 1647545114617}
@@ -277,30 +274,6 @@
  {:block/name "download",
   :block/created-at 1666959741628,
   :block/updated-at 1666959741628}
- {:block/name "draws/2022-11-14-18-20-17.excalidraw",
-  :block/created-at 1668479025500,
-  :block/updated-at 1668479025500}
- {:block/name "draws/2022-11-14-18-27-41.excalidraw",
-  :block/created-at 1668479625540,
-  :block/updated-at 1668479625540}
- {:block/name "draws/2022-11-14-18-27-42.excalidraw",
-  :block/created-at 1668479625541,
-  :block/updated-at 1668479625541}
- {:block/name "draws/2022-11-14-18-27-52.excalidraw",
-  :block/created-at 1668479625541,
-  :block/updated-at 1668479625541}
- {:block/name "draws/2022-11-14-18-27-53.excalidraw",
-  :block/created-at 1668479625540,
-  :block/updated-at 1668479625540}
- {:block/name "draws/2022-11-14-18-27-56.excalidraw",
-  :block/created-at 1668479625541,
-  :block/updated-at 1668479625541}
- {:block/name "draws/2022-11-14-18-29-32.excalidraw",
-  :block/created-at 1668479625542,
-  :block/updated-at 1668479625542}
- {:block/name "draws/2022-11-15-18-29-23.excalidraw",
-  :block/created-at 1668565794614,
-  :block/updated-at 1668565794614}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -313,6 +286,9 @@
  {:block/name "endif",
   :block/created-at 1666281536107,
   :block/updated-at 1666281536107}
+ {:block/name "epss",
+  :block/created-at 1668724353773,
+  :block/updated-at 1668724353773}
  {:block/name "equipment",
   :block/created-at 1666725903619,
   :block/updated-at 1666725903619}
@@ -349,6 +325,9 @@
  {:block/name "go",
   :block/created-at 1666282372750,
   :block/updated-at 1666282372750}
+ {:block/name "golang",
+  :block/created-at 1668718522196,
+  :block/updated-at 1668718522196}
  {:block/name "goodenoughstack",
   :block/created-at 1668103500367,
   :block/updated-at 1668103500367}
@@ -555,7 +534,7 @@
   :block/updated-at 1668137768094}
  {:block/name "nov 11th, 2022",
   :block/created-at 1668153602549,
-  :block/updated-at 1668364659612}
+  :block/updated-at 1668814258954}
  {:block/name "nov 12th, 2022",
   :block/created-at 1668240000131,
   :block/updated-at 1668312447657}
@@ -570,7 +549,13 @@
   :block/updated-at 1668567096465}
  {:block/name "nov 16th, 2022",
   :block/created-at 1668585600452,
-  :block/updated-at 1668643168749}
+  :block/updated-at 1668652426778}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668672003017,
+  :block/updated-at 1668736462985}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668758404007,
+  :block/updated-at 1668814297788}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}

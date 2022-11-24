@@ -127,6 +127,9 @@
  {:block/name "bands",
   :block/created-at 1666282375165,
   :block/updated-at 1666282375165}
+ {:block/name "benchmarking",
+  :block/created-at 1668096955980,
+  :block/updated-at 1668096955980}
  {:block/name "blog",
   :block/created-at 1667698573397,
   :block/updated-at 1667698573397}
@@ -163,6 +166,9 @@
  {:block/name "chalgen",
   :block/created-at 1667750328013,
   :block/updated-at 1667750328013}
+ {:block/name "challenge",
+  :block/created-at 1668097618254,
+  :block/updated-at 1668097618254}
  {:block/name "change",
   :block/created-at 1666281535129,
   :block/updated-at 1666281535129}
@@ -172,11 +178,12 @@
  {:block/name "chemistry",
   :block/created-at 1667957323534,
   :block/updated-at 1667957323534}
+ {:block/name "cicd",
+  :block/created-at 1668096955881,
+  :block/updated-at 1668096955881}
  {:block/name "climbing",
   :block/created-at 1667777201400,
   :block/updated-at 1667777201400}
-  :block/created-at 1668057905210,
-  :block/updated-at 1668057905210}
  {:block/name "cloud",
   :block/created-at 1666281534071,
   :block/updated-at 1666281534071}
@@ -222,9 +229,18 @@
  {:block/name "crops",
   :block/created-at 1666282373576,
   :block/updated-at 1666282373576}
+ {:block/name "ctfg",
+  :block/created-at 1668096955977,
+  :block/updated-at 1668096955977}
+ {:block/name "ctfirl",
+  :block/created-at 1668097607900,
+  :block/updated-at 1668097607900}
  {:block/name "cve",
   :block/created-at 1666282374866,
   :block/updated-at 1666282374866}
+ {:block/name "cwe",
+  :block/created-at 1668096956167,
+  :block/updated-at 1668096956167}
  {:block/name "dependencies",
   :block/created-at 1666885527400,
   :block/updated-at 1666885527400}
@@ -249,6 +265,9 @@
  {:block/name "draws/2022-10-25-02-20-49.excalidraw",
   :block/created-at 1666689891682,
   :block/updated-at 1666689891682}
+ {:block/name "draws/2022-11-07-15-22-47.excalidraw",
+  :block/created-at 1668484794206,
+  :block/updated-at 1668484794206}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -274,8 +293,8 @@
   :block/created-at 1666281594762,
   :block/updated-at 1666281594762}
  {:block/name "feature",
-  :block/created-at 1668068703829,
-  :block/updated-at 1668068703829}
+  :block/created-at 1668098002063,
+  :block/updated-at 1668098002063}
  {:block/name "findings schema",
   :block/created-at 1666282375036,
   :block/updated-at 1666282375036}
@@ -297,6 +316,9 @@
  {:block/name "go",
   :block/created-at 1666282372750,
   :block/updated-at 1666282372750}
+ {:block/name "goodenoughstack",
+  :block/created-at 1668096955975,
+  :block/updated-at 1668096955975}
  {:block/name "graphql",
   :block/created-at 1667698969580,
   :block/updated-at 1667698969580}
@@ -320,7 +342,7 @@
   :block/updated-at 1667698574049}
  {:block/name "i hacked your site",
   :block/created-at 1666281534752,
-  :block/updated-at 1666886044294}
+  :block/updated-at 1668098286872}
  {:block/name "ideas",
   :block/created-at 1666282374886,
   :block/updated-at 1666282374886}
@@ -414,6 +436,9 @@
  {:block/name "jun 9th, 2022",
   :block/created-at 1666633184171,
   :block/updated-at 1666633184171}
+ {:block/name "keyring",
+  :block/created-at 1668369822022,
+  :block/updated-at 1668369822022}
  {:block/name "kubes",
   :block/created-at 1666282372723,
   :block/updated-at 1666282372723}
@@ -429,6 +454,9 @@
  {:block/name "linux",
   :block/created-at 1666282372877,
   :block/updated-at 1666282372877}
+ {:block/name "liveoverflow",
+  :block/created-at 1668369822017,
+  :block/updated-at 1668369822017}
  {:block/name "logging",
   :block/created-at 1666282372782,
   :block/updated-at 1666282372782}
@@ -462,6 +490,9 @@
  {:block/name "mastering ethereum",
   :block/created-at 1666281533941,
   :block/updated-at 1666281533941}
+ {:block/name "microphones",
+  :block/created-at 1668369822019,
+  :block/updated-at 1668369822019}
  {:block/name "ml",
   :block/created-at 1666282372825,
   :block/updated-at 1666282372825}
@@ -484,8 +515,26 @@
   :block/created-at 1666633374564,
   :block/updated-at 1666633374564}
  {:block/name "nov 10th, 2022",
-  :block/created-at 1668067200376,
-  :block/updated-at 1668067200376}
+  :block/created-at 1668096955098,
+  :block/updated-at 1668099656647}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668181216743,
+  :block/updated-at 1668225392303}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668290088453,
+  :block/updated-at 1668322336197}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668369807620,
+  :block/updated-at 1668412203211}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668413299020,
+  :block/updated-at 1668489075070}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668536400650,
+  :block/updated-at 1668537084260}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668655520598,
+  :block/updated-at 1668655524862}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}
@@ -513,9 +562,6 @@
  {:block/name "nov 9th, 2022",
   :block/created-at 1667992267969,
   :block/updated-at 1668060516571}
-  :block/updated-at 1668056127012}
-  :block/created-at 1667980800960,
-  :block/updated-at 1668068829568}
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -609,6 +655,9 @@
  {:block/name "other/wiki-workflow#similar-wikis-i-liked",
   :block/created-at 1666281535026,
   :block/updated-at 1666281535026}
+ {:block/name "owasp",
+  :block/created-at 1668369822008,
+  :block/updated-at 1668369822008}
  {:block/name "owasp asvs",
   :block/created-at 1666282375123,
   :block/updated-at 1666282375123}
@@ -633,6 +682,15 @@
  {:block/name "plugins",
   :block/created-at 1666282375175,
   :block/updated-at 1666282375175}
+ {:block/name "protoflow",
+  :block/created-at 1668451121726,
+  :block/updated-at 1668451121726}
+ {:block/name "psql",
+  :block/created-at 1668096955976,
+  :block/updated-at 1668096955976}
+ {:block/name "psych",
+  :block/created-at 1668537084258,
+  :block/updated-at 1668537084258}
  {:block/name "quarantine-pies",
   :block/created-at 1666282372957,
   :block/updated-at 1666282372957}
@@ -663,6 +721,9 @@
  {:block/name "remarkable",
   :block/created-at 1666690203199,
   :block/updated-at 1666690203199}
+ {:block/name "remarkable/ssh",
+  :block/created-at 1668096955574,
+  :block/updated-at 1668096955574}
  {:block/name "samm",
   :block/created-at 1666281534994,
   :block/updated-at 1666281534994}
@@ -753,6 +814,9 @@
  {:block/name "set",
   :block/created-at 1666281535128,
   :block/updated-at 1666281535128}
+ {:block/name "setup",
+  :block/created-at 1668369822020,
+  :block/updated-at 1668369822020}
  {:block/name "shell",
   :block/created-at 1666282372883,
   :block/updated-at 1666282372883}
@@ -774,18 +838,30 @@
  {:block/name "ssh",
   :block/created-at 1666282372797,
   :block/updated-at 1666282372797}
+ {:block/name "standing-desk",
+  :block/created-at 1668369822020,
+  :block/updated-at 1668369822020}
  {:block/name "stores",
   :block/created-at 1666282373082,
   :block/updated-at 1666282373082}
+ {:block/name "streaming",
+  :block/created-at 1668096955975,
+  :block/updated-at 1668096955975}
  {:block/name "substitutions",
   :block/created-at 1666282373255,
   :block/updated-at 1666282373255}
+ {:block/name "systemd",
+  :block/created-at 1668096956170,
+  :block/updated-at 1668096956170}
  {:block/name "tea",
   :block/created-at 1667760847520,
   :block/updated-at 1667760847520}
  {:block/name "templates",
   :block/created-at 1666603739191,
   :block/updated-at 1666690054633}
+ {:block/name "thanksgiving",
+  :block/created-at 1668537075373,
+  :block/updated-at 1668537075373}
  {:block/name "thoughts",
   :block/created-at 1666282376486,
   :block/updated-at 1666282376486}

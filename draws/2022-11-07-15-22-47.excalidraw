@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "file://",
+  "source": "capacitor://localhost",
   "elements": [
     {
       "type": "freedraw",
@@ -24,7 +24,10 @@
       "seed": 1813197783,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": [],
+      "boundElements": [],
+      "updated": 1668478700507,
+      "link": null,
+      "locked": false,
       "points": [
         [
           0,
@@ -204,7 +207,10 @@
       "seed": 1113969081,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": [],
+      "boundElements": [],
+      "updated": 1668478700507,
+      "link": null,
+      "locked": false,
       "points": [
         [
           0,
@@ -240,7 +246,10 @@
       "seed": 402628471,
       "groupIds": [],
       "strokeSharpness": "round",
-      "boundElementIds": [],
+      "boundElements": [],
+      "updated": 1668478700507,
+      "link": null,
+      "locked": false,
       "points": [
         [
           0,
@@ -388,7 +397,10 @@
       "seed": 1133535385,
       "groupIds": [],
       "strokeSharpness": "sharp",
-      "boundElementIds": []
+      "boundElements": [],
+      "updated": 1668478700507,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {

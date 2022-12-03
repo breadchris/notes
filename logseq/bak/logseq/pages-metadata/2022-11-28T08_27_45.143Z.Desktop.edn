@@ -77,50 +77,47 @@
   :block/created-at 1666282372617,
   :block/updated-at 1666282372617}
  {:block/name "aug 10th, 2022",
-  :block/created-at 1667941850662,
-  :block/updated-at 1667941850662}
+  :block/created-at 1666633184189,
+  :block/updated-at 1666633184189}
  {:block/name "aug 18th, 2022",
-  :block/created-at 1667941850657,
-  :block/updated-at 1667941850657}
+  :block/created-at 1666633184883,
+  :block/updated-at 1666633184883}
  {:block/name "aug 23rd, 2022",
-  :block/created-at 1667941850652,
-  :block/updated-at 1667941850652}
+  :block/created-at 1666633183925,
+  :block/updated-at 1666633183925}
  {:block/name "aug 25th, 2022",
-  :block/created-at 1667941850644,
-  :block/updated-at 1667941850644}
+  :block/created-at 1666633184249,
+  :block/updated-at 1666633184249}
  {:block/name "aug 29th, 2022",
-  :block/created-at 1667941850638,
-  :block/updated-at 1667941850638}
+  :block/created-at 1666633184995,
+  :block/updated-at 1666633184995}
  {:block/name "aug 2nd, 2022",
-  :block/created-at 1667941850738,
-  :block/updated-at 1667941850738}
+  :block/created-at 1666633183724,
+  :block/updated-at 1666633183724}
  {:block/name "aug 30th, 2022",
-  :block/created-at 1667941850628,
-  :block/updated-at 1667941850628}
+  :block/created-at 1666633185391,
+  :block/updated-at 1666633185391}
  {:block/name "aug 31st, 2022",
-  :block/created-at 1667941850616,
-  :block/updated-at 1667941850616}
+  :block/created-at 1666633185665,
+  :block/updated-at 1666633185665}
  {:block/name "aug 3rd, 2022",
-  :block/created-at 1667941850729,
-  :block/updated-at 1667941850729}
+  :block/created-at 1666633185011,
+  :block/updated-at 1666633185011}
  {:block/name "aug 4th, 2022",
-  :block/created-at 1667941850720,
-  :block/updated-at 1667941850720}
+  :block/created-at 1666633184926,
+  :block/updated-at 1666633184926}
  {:block/name "aug 5th, 2022",
-  :block/created-at 1667941850708,
-  :block/updated-at 1667941850708}
+  :block/created-at 1666633184503,
+  :block/updated-at 1666633184503}
  {:block/name "aug 6th, 2022",
-  :block/created-at 1667941850694,
-  :block/updated-at 1667941850694}
+  :block/created-at 1666633185743,
+  :block/updated-at 1666633185743}
  {:block/name "aug 7th, 2022",
-  :block/created-at 1667941850683,
-  :block/updated-at 1667941850683}
+  :block/created-at 1666633185805,
+  :block/updated-at 1666633185805}
  {:block/name "aug 8th, 2022",
-  :block/created-at 1667941850674,
-  :block/updated-at 1667941850674}
- {:block/name "auth",
-  :block/created-at 1669596041156,
-  :block/updated-at 1669596041156}
+  :block/created-at 1666633186087,
+  :block/updated-at 1666633186087}
  {:block/name "b",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -130,6 +127,8 @@
  {:block/name "benchmarking",
   :block/created-at 1668103500382,
   :block/updated-at 1668103500382}
+  :block/created-at 1668096955980,
+  :block/updated-at 1668096955980}
  {:block/name "blog",
   :block/created-at 1667698573397,
   :block/updated-at 1667698573397}
@@ -146,20 +145,19 @@
   :block/created-at 1668103500134,
   :block/updated-at 1668103500134}
  {:block/name "breadchis interviews freeqaz",
-  :block/created-at 1669595964144,
-  :block/updated-at 1669595964144}
+  :block/created-at 1668824541980,
+  :block/updated-at 1668824583137}
  {:block/name "breadchris interviews forrest",
   :block/created-at 1668999477902,
   :block/updated-at 1669002704031}
+  :block/created-at 1667764084946,
+  :block/updated-at 1667764084946}
  {:block/name "bugbounty",
   :block/created-at 1667698574100,
   :block/updated-at 1667698574100}
  {:block/name "business-ideas",
   :block/created-at 1667698573546,
   :block/updated-at 1667698573546}
- {:block/name "butter",
-  :block/created-at 1669596041459,
-  :block/updated-at 1669596041459}
  {:block/name "c",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -178,6 +176,11 @@
  {:block/name "challenge",
   :block/created-at 1668103521969,
   :block/updated-at 1668103521969}
+  :block/created-at 1667750328013,
+  :block/updated-at 1667750328013}
+ {:block/name "challenge",
+  :block/created-at 1668097618254,
+  :block/updated-at 1668097618254}
  {:block/name "change",
   :block/created-at 1666281535129,
   :block/updated-at 1666281535129}
@@ -199,21 +202,23 @@
  {:block/name "climbing",
   :block/created-at 1668103500144,
   :block/updated-at 1668103500144}
+  :block/created-at 1667957323534,
+  :block/updated-at 1667957323534}
+ {:block/name "cicd",
+  :block/created-at 1668096955881,
+  :block/updated-at 1668096955881}
+ {:block/name "climbing",
+  :block/created-at 1667777201400,
+  :block/updated-at 1667777201400}
  {:block/name "cloud",
   :block/created-at 1666281534071,
   :block/updated-at 1666281534071}
  {:block/name "codegen",
   :block/created-at 1668562425058,
   :block/updated-at 1668562425058}
- {:block/name "coding",
-  :block/created-at 1669936712610,
-  :block/updated-at 1669936712610}
- {:block/name "coding/clean",
-  :block/created-at 1669936712610,
-  :block/updated-at 1669936712610}
  {:block/name "coffee",
-  :block/created-at 1668103500135,
-  :block/updated-at 1668103500135}
+  :block/created-at 1667764100524,
+  :block/updated-at 1667764100524}
  {:block/name "computers",
   :block/created-at 1666281533844,
   :block/updated-at 1666281533844}
@@ -244,15 +249,12 @@
  {:block/name "cookwherever/core competencies",
   :block/created-at 1668714434877,
   :block/updated-at 1668714434877}
- {:block/name "cookwherever/gluten free",
-  :block/created-at 1669870075887,
-  :block/updated-at 1669870075887}
  {:block/name "cookwherever ",
   :block/created-at 1647545114617,
   :block/updated-at 1647545114617}
  {:block/name "crazy",
-  :block/created-at 1668103500143,
-  :block/updated-at 1668103500143}
+  :block/created-at 1667777207941,
+  :block/updated-at 1667777207941}
  {:block/name "creditcards",
   :block/created-at 1666885539147,
   :block/updated-at 1666885539147}
@@ -262,27 +264,22 @@
  {:block/name "ctfg",
   :block/created-at 1668103500374,
   :block/updated-at 1668103500374}
- {:block/name "ctfg/tools",
-  :block/created-at 1669936421505,
-  :block/updated-at 1669936421505}
  {:block/name "ctfirl",
   :block/created-at 1668103521971,
   :block/updated-at 1668103521971}
+  :block/created-at 1668096955977,
+  :block/updated-at 1668096955977}
+ {:block/name "ctfirl",
+  :block/created-at 1668097607900,
+  :block/updated-at 1668097607900}
  {:block/name "cve",
   :block/created-at 1668822282570,
   :block/updated-at 1668822282570}
  {:block/name "cwe",
   :block/created-at 1667865015552,
   :block/updated-at 1667865015552}
- {:block/name "dec 1st, 2022",
-  :block/created-at 1669881601102,
-  :block/updated-at 1669949086367}
- {:block/name "dec 2nd, 2022",
-  :block/created-at 1669968003263,
-  :block/updated-at 1670094998584}
- {:block/name "dec 3rd, 2022",
-  :block/created-at 1670054401176,
-  :block/updated-at 1670054401176}
+  :block/created-at 1668096956167,
+  :block/updated-at 1668096956167}
  {:block/name "dependencies",
   :block/created-at 1666885527400,
   :block/updated-at 1666885527400}
@@ -304,6 +301,15 @@
  {:block/name "download",
   :block/created-at 1666959741628,
   :block/updated-at 1666959741628}
+ {:block/name "draws/2022-11-20-19-01-26.excalidraw",
+  :block/created-at 1668999765187,
+  :block/updated-at 1668999765187}
+ {:block/name "draws/2022-10-25-02-20-49.excalidraw",
+  :block/created-at 1666689891682,
+  :block/updated-at 1666689891682}
+ {:block/name "draws/2022-11-07-15-22-47.excalidraw",
+  :block/created-at 1668484794206,
+  :block/updated-at 1668484794206}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -325,27 +331,26 @@
  {:block/name "exercise",
   :block/created-at 1666282374462,
   :block/updated-at 1666282374462}
- {:block/name "facebook",
-  :block/created-at 1669853314847,
-  :block/updated-at 1669853314847}
  {:block/name "favorites",
   :block/created-at 1666281594762,
   :block/updated-at 1666281594762}
  {:block/name "feature",
   :block/created-at 1668103498954,
   :block/updated-at 1668103498954}
+  :block/created-at 1668098002063,
+  :block/updated-at 1668098002063}
  {:block/name "findings schema",
   :block/created-at 1668822282730,
   :block/updated-at 1668822282730}
  {:block/name "food",
-  :block/created-at 1668103500136,
-  :block/updated-at 1668103500136}
+  :block/created-at 1667764097353,
+  :block/updated-at 1667764097353}
  {:block/name "gardens",
   :block/created-at 1666281536892,
   :block/updated-at 1666281536892}
  {:block/name "geoguesser",
-  :block/created-at 1668103500141,
-  :block/updated-at 1668103500141}
+  :block/created-at 1667771199340,
+  :block/updated-at 1667771199340}
  {:block/name "git",
   :block/created-at 1666281536911,
   :block/updated-at 1666281536911}
@@ -358,18 +363,17 @@
  {:block/name "golang",
   :block/created-at 1668718522196,
   :block/updated-at 1668718522196}
- {:block/name "golang/errors",
-  :block/created-at 1669848435399,
-  :block/updated-at 1669848435399}
  {:block/name "golang/libraries",
   :block/created-at 1668820090166,
   :block/updated-at 1668820170221}
  {:block/name "goodenoughstack",
   :block/created-at 1668103500367,
   :block/updated-at 1668103500367}
+  :block/created-at 1668096955975,
+  :block/updated-at 1668096955975}
  {:block/name "graphql",
-  :block/created-at 1667864988032,
-  :block/updated-at 1667864988032}
+  :block/created-at 1667698969580,
+  :block/updated-at 1667698969580}
  {:block/name "grype",
   :block/created-at 1666281536195,
   :block/updated-at 1666281536195}
@@ -417,7 +421,7 @@
   :block/updated-at 1666281594763}
  {:block/name "inbox",
   :block/created-at 1666282373530,
-  :block/updated-at 1667941896177}
+  :block/updated-at 1666282373530}
  {:block/name "index",
   :block/created-at 1666282896401,
   :block/updated-at 1666282896401}
@@ -442,12 +446,6 @@
  {:block/name "its-snack-time",
   :block/created-at 1666282373155,
   :block/updated-at 1666282373155}
- {:block/name "javacript",
-  :block/created-at 1670033202405,
-  :block/updated-at 1670033202405}
- {:block/name "javacript/benchmark",
-  :block/created-at 1670033202404,
-  :block/updated-at 1670033202404}
  {:block/name "journal",
   :block/created-at 1667698574049,
   :block/updated-at 1667698574049}
@@ -455,47 +453,47 @@
   :block/created-at 1666885067717,
   :block/updated-at 1666885067717}
  {:block/name "jul 11th, 2022",
-  :block/created-at 1667941850788,
-  :block/updated-at 1667941850788}
+  :block/created-at 1666633183959,
+  :block/updated-at 1666633183959}
  {:block/name "jul 12th, 2022",
-  :block/created-at 1667941850778,
-  :block/updated-at 1667941850778}
+  :block/created-at 1666633185637,
+  :block/updated-at 1666633185637}
  {:block/name "jul 13th, 2022",
-  :block/created-at 1667941850773,
-  :block/updated-at 1667941850773}
+  :block/created-at 1666633184478,
+  :block/updated-at 1666633184478}
  {:block/name "jul 1st, 2022",
-  :block/created-at 1667941850826,
-  :block/updated-at 1667941850826}
+  :block/created-at 1666633184422,
+  :block/updated-at 1666633184422}
  {:block/name "jul 21st, 2022",
-  :block/created-at 1667941850764,
-  :block/updated-at 1667941850764}
+  :block/created-at 1666633185686,
+  :block/updated-at 1666633185686}
  {:block/name "jul 25th, 2022",
-  :block/created-at 1667941850754,
-  :block/updated-at 1667941850754}
+  :block/created-at 1666633184238,
+  :block/updated-at 1666633184238}
  {:block/name "jul 5th, 2022",
-  :block/created-at 1667941850820,
-  :block/updated-at 1667941850820}
+  :block/created-at 1666633184837,
+  :block/updated-at 1666633184837}
  {:block/name "jul 6th, 2022",
-  :block/created-at 1667941850810,
-  :block/updated-at 1667941850810}
+  :block/created-at 1666633184354,
+  :block/updated-at 1666633184354}
  {:block/name "jul 8th, 2022",
-  :block/created-at 1667864987819,
-  :block/updated-at 1667864987819}
+  :block/created-at 1666633184744,
+  :block/updated-at 1666633184744}
  {:block/name "jun 28th, 2022",
-  :block/created-at 1667941850856,
-  :block/updated-at 1667941850856}
+  :block/created-at 1666633184846,
+  :block/updated-at 1666633184846}
  {:block/name "jun 29th, 2022",
-  :block/created-at 1667941850847,
-  :block/updated-at 1667941850847}
+  :block/created-at 1666633184892,
+  :block/updated-at 1666633184892}
  {:block/name "jun 30th, 2022",
-  :block/created-at 1667941850837,
-  :block/updated-at 1667941850837}
+  :block/created-at 1666633184457,
+  :block/updated-at 1666633184457}
  {:block/name "jun 9th, 2022",
-  :block/created-at 1667941850862,
-  :block/updated-at 1667941850862}
+  :block/created-at 1666633184171,
+  :block/updated-at 1666633184171}
  {:block/name "keyring",
-  :block/created-at 1668136758597,
-  :block/updated-at 1668136758597}
+  :block/created-at 1668369822022,
+  :block/updated-at 1668369822022}
  {:block/name "kubes",
   :block/created-at 1666282372723,
   :block/updated-at 1666282372723}
@@ -512,8 +510,8 @@
   :block/created-at 1666282372877,
   :block/updated-at 1666282372877}
  {:block/name "liveoverflow",
-  :block/created-at 1668119670991,
-  :block/updated-at 1668119670991}
+  :block/created-at 1668369822017,
+  :block/updated-at 1668369822017}
  {:block/name "logging",
   :block/created-at 1666282372782,
   :block/updated-at 1666282372782}
@@ -538,18 +536,15 @@
  {:block/name "lunasec/mission",
   :block/created-at 1668822282997,
   :block/updated-at 1668822282997}
- {:block/name "lunasec/work",
-  :block/created-at 1669763981983,
-  :block/updated-at 1669763981983}
  {:block/name "malware",
   :block/created-at 1668203566608,
   :block/updated-at 1668203566608}
  {:block/name "mar 15th, 2022",
-  :block/created-at 1667941850884,
-  :block/updated-at 1667941850884}
+  :block/created-at 1666633185879,
+  :block/updated-at 1666633185879}
  {:block/name "mar 16th, 2022",
-  :block/created-at 1667941850875,
-  :block/updated-at 1667941850875}
+  :block/created-at 1666633185866,
+  :block/updated-at 1666633185866}
  {:block/name "mar 17th, 2022",
   :block/created-at 1647545118638,
   :block/updated-at 1647545118638}
@@ -560,8 +555,10 @@
   :block/created-at 1668134954140,
   :block/updated-at 1668134954140}
  {:block/name "midjourney",
-  :block/created-at 1669595964239,
-  :block/updated-at 1669595964239}
+  :block/created-at 1669006469051,
+  :block/updated-at 1669006469051}
+  :block/created-at 1668369822019,
+  :block/updated-at 1668369822019}
  {:block/name "ml",
   :block/created-at 1666282372825,
   :block/updated-at 1666282372825}
@@ -569,26 +566,20 @@
   :block/created-at 1666281536242,
   :block/updated-at 1666281536242}
  {:block/name "models",
-  :block/created-at 1668103500212,
-  :block/updated-at 1668103500212}
+  :block/created-at 1667867583409,
+  :block/updated-at 1667867583409}
  {:block/name "movies",
-  :block/created-at 1668103500131,
-  :block/updated-at 1668103500131}
- {:block/name "music",
-  :block/created-at 1669596041491,
-  :block/updated-at 1669596041491}
- {:block/name "music/discover",
-  :block/created-at 1669925345000,
-  :block/updated-at 1669925345000}
- {:block/name "music/visualization",
-  :block/created-at 1669596041491,
-  :block/updated-at 1669596041491}
+  :block/created-at 1667763657594,
+  :block/updated-at 1667763657594}
  {:block/name "notes",
   :block/created-at 1666281535019,
   :block/updated-at 1666704091739}
  {:block/name "notetaking",
   :block/created-at 1666281534680,
   :block/updated-at 1666689238218}
+ {:block/name "notetaking ",
+  :block/created-at 1666633374564,
+  :block/updated-at 1666633374564}
  {:block/name "nov 10th, 2022",
   :block/created-at 1668067200376,
   :block/updated-at 1668137768094}
@@ -617,8 +608,29 @@
   :block/created-at 1668758404007,
   :block/updated-at 1669007900224}
  {:block/name "nov 19th, 2022",
-  :block/created-at 1669596041304,
-  :block/updated-at 1669596041304}
+  :block/created-at 1668844803992,
+  :block/updated-at 1668844803992}
+  :block/updated-at 1668814297788}
+  :block/created-at 1668096955098,
+  :block/updated-at 1668099656647}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668181216743,
+  :block/updated-at 1668225392303}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668290088453,
+  :block/updated-at 1668322336197}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668369807620,
+  :block/updated-at 1668412203211}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668413299020,
+  :block/updated-at 1668489075070}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668536400650,
+  :block/updated-at 1668537084260}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668655520598,
+  :block/updated-at 1668655524862}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667310356489,
   :block/updated-at 1667333499850}
@@ -635,29 +647,17 @@
   :block/created-at 1669190402121,
   :block/updated-at 1669244104160}
  {:block/name "nov 24th, 2022",
-  :block/created-at 1669596041157,
-  :block/updated-at 1669596041157}
+  :block/created-at 1669276802162,
+  :block/updated-at 1669276802162}
  {:block/name "nov 25th, 2022",
-  :block/created-at 1669596041292,
-  :block/updated-at 1669596041292}
+  :block/created-at 1669425451828,
+  :block/updated-at 1669425451828}
  {:block/name "nov 26th, 2022",
-  :block/created-at 1669596041281,
-  :block/updated-at 1669596041281}
- {:block/name "nov 27th, 2022",
-  :block/created-at 1669595963736,
-  :block/updated-at 1669595963736}
- {:block/name "nov 28th, 2022",
-  :block/created-at 1669622400421,
-  :block/updated-at 1669707864846}
- {:block/name "nov 29th, 2022",
-  :block/created-at 1669708802091,
-  :block/updated-at 1669771954450}
+  :block/created-at 1669496159339,
+  :block/updated-at 1669496159339}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667381250111,
   :block/updated-at 1667405579202}
- {:block/name "nov 30th, 2022",
-  :block/created-at 1669828179414,
-  :block/updated-at 1669870075892}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667464831498,
   :block/updated-at 1667482263916}
@@ -666,19 +666,21 @@
   :block/updated-at 1667698573555}
  {:block/name "nov 5th, 2022",
   :block/created-at 1667698534986,
-  :block/updated-at 1667724046170}
+  :block/updated-at 1667707840778}
  {:block/name "nov 6th, 2022",
-  :block/created-at 1667718005141,
-  :block/updated-at 1667851140628}
+  :block/created-at 1667750316949,
+  :block/updated-at 1667773400434}
  {:block/name "nov 7th, 2022",
-  :block/created-at 1667808004624,
-  :block/updated-at 1667886463459}
+  :block/created-at 1667841953474,
+  :block/updated-at 1667878753929}
  {:block/name "nov 8th, 2022",
-  :block/created-at 1667934001086,
-  :block/updated-at 1670054401192}
+  :block/created-at 1667932449209,
+  :block/updated-at 1667957325688}
  {:block/name "nov 9th, 2022",
   :block/created-at 1668103498960,
   :block/updated-at 1668103498960}
+  :block/created-at 1667992267969,
+  :block/updated-at 1668060516571}
  {:block/name "now",
   :block/created-at 1666281594763,
   :block/updated-at 1666281594763}
@@ -689,38 +691,38 @@
   :block/created-at 1666281536764,
   :block/updated-at 1666281536764}
  {:block/name "oct 10th, 2022",
-  :block/created-at 1667941850410,
-  :block/updated-at 1667941850410}
+  :block/created-at 1666633184779,
+  :block/updated-at 1666633184779}
  {:block/name "oct 11th, 2022",
-  :block/created-at 1667941850395,
-  :block/updated-at 1667941850395}
+  :block/created-at 1666633185044,
+  :block/updated-at 1666633185044}
  {:block/name "oct 12th, 2022",
-  :block/created-at 1667941850386,
-  :block/updated-at 1667941850386}
+  :block/created-at 1666633183970,
+  :block/updated-at 1666633183970}
  {:block/name "oct 13th, 2022",
-  :block/created-at 1667941850376,
-  :block/updated-at 1667941850376}
+  :block/created-at 1666633185705,
+  :block/updated-at 1666633185705}
  {:block/name "oct 18th, 2022",
-  :block/created-at 1667941850370,
-  :block/updated-at 1667941850370}
+  :block/created-at 1666633185435,
+  :block/updated-at 1666633185435}
  {:block/name "oct 19th, 2022",
-  :block/created-at 1667941850363,
-  :block/updated-at 1667941850363}
+  :block/created-at 1666633184493,
+  :block/updated-at 1666633184493}
  {:block/name "oct 20th, 2022",
-  :block/created-at 1667941850350,
-  :block/updated-at 1667941850350}
+  :block/created-at 1666633184198,
+  :block/updated-at 1666633184198}
  {:block/name "oct 21st, 2022",
-  :block/created-at 1667941850332,
-  :block/updated-at 1667941850332}
+  :block/created-at 1666633185777,
+  :block/updated-at 1666633185777}
  {:block/name "oct 22nd, 2022",
-  :block/created-at 1667941850324,
-  :block/updated-at 1667941850324}
+  :block/created-at 1666633186081,
+  :block/updated-at 1666633186081}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1667698573721,
   :block/updated-at 1667698573721}
  {:block/name "oct 24th, 2022",
-  :block/created-at 1667941850297,
-  :block/updated-at 1667941850297}
+  :block/created-at 1666633159360,
+  :block/updated-at 1666633159360}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666948839264,
   :block/updated-at 1666948893490}
@@ -743,29 +745,26 @@
   :block/created-at 1667698573655,
   :block/updated-at 1667698573655}
  {:block/name "oct 3rd, 2022",
-  :block/created-at 1667941850484,
-  :block/updated-at 1667941850484}
+  :block/created-at 1666633184164,
+  :block/updated-at 1666633184164}
  {:block/name "oct 4th, 2022",
-  :block/created-at 1667941850472,
-  :block/updated-at 1667941850472}
+  :block/created-at 1666633186037,
+  :block/updated-at 1666633186037}
  {:block/name "oct 5th, 2022",
-  :block/created-at 1667941850455,
-  :block/updated-at 1667941850455}
+  :block/created-at 1666633185549,
+  :block/updated-at 1666633185549}
  {:block/name "oct 6th, 2022",
-  :block/created-at 1667941850445,
-  :block/updated-at 1667941850445}
+  :block/created-at 1666633184415,
+  :block/updated-at 1666633184415}
  {:block/name "oct 7th, 2022",
-  :block/created-at 1667941850435,
-  :block/updated-at 1667941850435}
+  :block/created-at 1666633184220,
+  :block/updated-at 1666633184220}
  {:block/name "oct 8th, 2022",
-  :block/created-at 1667941850425,
-  :block/updated-at 1667941850425}
+  :block/created-at 1666633185737,
+  :block/updated-at 1666633185737}
  {:block/name "oct 9th, 2022",
-  :block/created-at 1667941850419,
-  :block/updated-at 1667941850419}
- {:block/name "ory",
-  :block/created-at 1669596041155,
-  :block/updated-at 1669596041155}
+  :block/created-at 1666633184822,
+  :block/updated-at 1666633184822}
  {:block/name "oss security",
   :block/created-at 1668822282621,
   :block/updated-at 1668822282621}
@@ -776,8 +775,8 @@
   :block/created-at 1666281535026,
   :block/updated-at 1666281535026}
  {:block/name "owasp",
-  :block/created-at 1668119155991,
-  :block/updated-at 1668119155991}
+  :block/created-at 1668369822008,
+  :block/updated-at 1668369822008}
  {:block/name "owasp asvs",
   :block/created-at 1668822282700,
   :block/updated-at 1668822282700}
@@ -794,8 +793,8 @@
   :block/created-at 1666282372736,
   :block/updated-at 1666282372736}
  {:block/name "pi^2",
-  :block/created-at 1668103500142,
-  :block/updated-at 1668103500142}
+  :block/created-at 1667773400432,
+  :block/updated-at 1667773400432}
  {:block/name "pies-to-make",
   :block/created-at 1666282373070,
   :block/updated-at 1666282373070}
@@ -808,6 +807,14 @@
  {:block/name "psql",
   :block/created-at 1668103500368,
   :block/updated-at 1668103500368}
+  :block/created-at 1668451121726,
+  :block/updated-at 1668451121726}
+ {:block/name "psql",
+  :block/created-at 1668096955976,
+  :block/updated-at 1668096955976}
+ {:block/name "psych",
+  :block/created-at 1668537084258,
+  :block/updated-at 1668537084258}
  {:block/name "quarantine-pies",
   :block/created-at 1666282372957,
   :block/updated-at 1666282372957}
@@ -821,11 +828,8 @@
   :block/created-at 1666281535717,
   :block/updated-at 1666281535717}
  {:block/name "randommic",
-  :block/created-at 1668103500133,
-  :block/updated-at 1668103500133}
- {:block/name "react",
-  :block/created-at 1669596041239,
-  :block/updated-at 1669596041239}
+  :block/created-at 1667763915009,
+  :block/updated-at 1667763915009}
  {:block/name "readme",
   :block/created-at 1666628897244,
   :block/updated-at 1666628897244}
@@ -844,6 +848,12 @@
  {:block/name "remarkable/ssh",
   :block/created-at 1668822283065,
   :block/updated-at 1668822283065}
+  :block/created-at 1667868178642,
+  :block/updated-at 1667868178642}
+  :block/updated-at 1666690203199}
+ {:block/name "remarkable/ssh",
+  :block/created-at 1668096955574,
+  :block/updated-at 1668096955574}
  {:block/name "samm",
   :block/created-at 1666281534994,
   :block/updated-at 1666281534994}
@@ -884,62 +894,62 @@
   :block/created-at 1666707067016,
   :block/updated-at 1666783308883}
  {:block/name "sep 12th, 2022",
-  :block/created-at 1667941850565,
-  :block/updated-at 1667941850565}
+  :block/created-at 1666633185016,
+  :block/updated-at 1666633185016}
  {:block/name "sep 13th, 2022",
-  :block/created-at 1667941850559,
-  :block/updated-at 1667941850559}
+  :block/created-at 1666633185432,
+  :block/updated-at 1666633185432}
  {:block/name "sep 14th, 2021",
-  :block/created-at 1667941850902,
-  :block/updated-at 1667941850902}
+  :block/created-at 1666633186063,
+  :block/updated-at 1666633186063}
  {:block/name "sep 14th, 2022",
-  :block/created-at 1667941850554,
-  :block/updated-at 1667941850554}
+  :block/created-at 1666633185599,
+  :block/updated-at 1666633185599}
  {:block/name "sep 15th, 2021",
-  :block/created-at 1667941850895,
-  :block/updated-at 1667941850895}
+  :block/created-at 1666633184365,
+  :block/updated-at 1666633184365}
  {:block/name "sep 15th, 2022",
-  :block/created-at 1667941850547,
-  :block/updated-at 1667941850547}
+  :block/created-at 1666633185021,
+  :block/updated-at 1666633185021}
  {:block/name "sep 16th, 2022",
-  :block/created-at 1667941850540,
-  :block/updated-at 1667941850540}
+  :block/created-at 1666633184182,
+  :block/updated-at 1666633184182}
  {:block/name "sep 18th, 2022",
-  :block/created-at 1667941850527,
-  :block/updated-at 1667941850527}
+  :block/created-at 1666633184391,
+  :block/updated-at 1666633184391}
  {:block/name "sep 19th, 2022",
-  :block/created-at 1667941850518,
-  :block/updated-at 1667941850518}
+  :block/created-at 1666633186054,
+  :block/updated-at 1666633186054}
  {:block/name "sep 20th, 2022",
-  :block/created-at 1667941850508,
-  :block/updated-at 1667941850508}
+  :block/created-at 1666633185754,
+  :block/updated-at 1666633185754}
  {:block/name "sep 28th, 2022",
-  :block/created-at 1667941850499,
-  :block/updated-at 1667941850499}
+  :block/created-at 1666633184804,
+  :block/updated-at 1666633184804}
  {:block/name "sep 30th, 2022",
-  :block/created-at 1667941850492,
-  :block/updated-at 1667941850492}
+  :block/created-at 1666633183865,
+  :block/updated-at 1666633183865}
  {:block/name "sep 3rd, 2022",
-  :block/created-at 1667941850605,
-  :block/updated-at 1667941850605}
+  :block/created-at 1666633184832,
+  :block/updated-at 1666633184832}
  {:block/name "sep 6th, 2022",
-  :block/created-at 1667941850594,
-  :block/updated-at 1667941850594}
+  :block/created-at 1666633185003,
+  :block/updated-at 1666633185003}
  {:block/name "sep 7th, 2022",
-  :block/created-at 1667941850590,
-  :block/updated-at 1667941850590}
+  :block/created-at 1666633186046,
+  :block/updated-at 1666633186046}
  {:block/name "sep 8th, 2022",
-  :block/created-at 1667941850580,
-  :block/updated-at 1667941850580}
+  :block/created-at 1666633185376,
+  :block/updated-at 1666633185376}
  {:block/name "sep 9th, 2022",
-  :block/created-at 1667941850574,
-  :block/updated-at 1667941850574}
+  :block/created-at 1666633185000,
+  :block/updated-at 1666633185000}
  {:block/name "set",
   :block/created-at 1666281535128,
   :block/updated-at 1666281535128}
  {:block/name "setup",
-  :block/created-at 1668136753869,
-  :block/updated-at 1668136753869}
+  :block/created-at 1668369822020,
+  :block/updated-at 1668369822020}
  {:block/name "shell",
   :block/created-at 1666282372883,
   :block/updated-at 1666282372883}
@@ -947,8 +957,8 @@
   :block/created-at 1666281533872,
   :block/updated-at 1666281533872}
  {:block/name "sogoodicouldpie",
-  :block/created-at 1668103500143,
-  :block/updated-at 1668103500143}
+  :block/created-at 1667773231335,
+  :block/updated-at 1667773231335}
  {:block/name "source",
   :block/created-at 1666281534577,
   :block/updated-at 1666281534577}
@@ -962,14 +972,8 @@
   :block/created-at 1666282372797,
   :block/updated-at 1666282372797}
  {:block/name "standing-desk",
-  :block/created-at 1668136535858,
-  :block/updated-at 1668136535858}
- {:block/name "startup",
-  :block/created-at 1669936361971,
-  :block/updated-at 1669936361971}
- {:block/name "startup/learning",
-  :block/created-at 1669936361969,
-  :block/updated-at 1669936361969}
+  :block/created-at 1668369822020,
+  :block/updated-at 1668369822020}
  {:block/name "stores",
   :block/created-at 1666282373082,
   :block/updated-at 1666282373082}
@@ -979,18 +983,25 @@
  {:block/name "streaming",
   :block/created-at 1668103500366,
   :block/updated-at 1668103500366}
+  :block/created-at 1668096955975,
+  :block/updated-at 1668096955975}
  {:block/name "substitutions",
   :block/created-at 1666282373255,
   :block/updated-at 1666282373255}
  {:block/name "systemd",
   :block/created-at 1667870266534,
   :block/updated-at 1667870266534}
+  :block/created-at 1668096956170,
+  :block/updated-at 1668096956170}
  {:block/name "tea",
-  :block/created-at 1668103500130,
-  :block/updated-at 1668103500130}
+  :block/created-at 1667760847520,
+  :block/updated-at 1667760847520}
  {:block/name "templates",
   :block/created-at 1666603739191,
   :block/updated-at 1666690054633}
+ {:block/name "thanksgiving",
+  :block/created-at 1668537075373,
+  :block/updated-at 1668537075373}
  {:block/name "thoughts",
   :block/created-at 1668822283851,
   :block/updated-at 1668822283851}

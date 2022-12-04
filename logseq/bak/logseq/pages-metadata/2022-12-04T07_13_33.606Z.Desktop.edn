@@ -1,7 +1,4 @@
-[{:block/name "",
-  :block/created-at 1670136814558,
-  :block/updated-at 1670136814558}
- {:block/name "1",
+[{:block/name "1",
   :block/created-at 1666281535720,
   :block/updated-at 1666281535720}
  {:block/name "1s",
@@ -224,11 +221,11 @@
   :block/created-at 1668103500135,
   :block/updated-at 1668103500135}
  {:block/name "communities",
-  :block/created-at 1670136814416,
-  :block/updated-at 1670136814416}
+  :block/created-at 1670118847341,
+  :block/updated-at 1670118847341}
  {:block/name "communities/online",
-  :block/created-at 1670136814415,
-  :block/updated-at 1670136814415}
+  :block/created-at 1670118855698,
+  :block/updated-at 1670118855698}
  {:block/name "computers",
   :block/created-at 1666281533844,
   :block/updated-at 1666281533844}
@@ -297,7 +294,7 @@
   :block/updated-at 1670094998584}
  {:block/name "dec 3rd, 2022",
   :block/created-at 1670054401176,
-  :block/updated-at 1670139185505}
+  :block/updated-at 1670136421358}
  {:block/name "dependencies",
   :block/created-at 1666885527400,
   :block/updated-at 1666885527400}
@@ -319,9 +316,6 @@
  {:block/name "download",
   :block/created-at 1666959741628,
   :block/updated-at 1666959741628}
- {:block/name "draws/2022-11-14-18-27-56.excalidraw",
-  :block/created-at 1670138013458,
-  :block/updated-at 1670138013458}
  {:block/name "electronics",
   :block/created-at 1666282372679,
   :block/updated-at 1666282372679}
@@ -552,7 +546,7 @@
   :block/updated-at 1666689813483}
  {:block/name "logseq presentation test",
   :block/created-at 1666690379397,
-  :block/updated-at 1670136835523}
+  :block/updated-at 1666702146123}
  {:block/name "lol",
   :block/created-at 1666281534102,
   :block/updated-at 1666281534102}
@@ -838,9 +832,6 @@
  {:block/name "protoflow",
   :block/created-at 1668478402289,
   :block/updated-at 1668478402289}
- {:block/name "protoflow/demo",
-  :block/created-at 1670136814260,
-  :block/updated-at 1670137801389}
  {:block/name "psql",
   :block/created-at 1668103500368,
   :block/updated-at 1668103500368}

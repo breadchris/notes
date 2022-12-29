@@ -304,6 +304,9 @@
  {:block/name "ctfg",
   :block/created-at 1668103500374,
   :block/updated-at 1668103500374}
+ {:block/name "ctfg/challenges",
+  :block/created-at 1671482502595,
+  :block/updated-at 1671482502595}
  {:block/name "ctfg/funding",
   :block/created-at 1671131812494,
   :block/updated-at 1671131812494}
@@ -352,9 +355,18 @@
  {:block/name "dec 17th, 2022",
   :block/created-at 1671264005052,
   :block/updated-at 1671294409127}
+ {:block/name "dec 19th, 2022",
+  :block/created-at 1671470793156,
+  :block/updated-at 1671482577318}
  {:block/name "dec 1st, 2022",
   :block/created-at 1669881601102,
   :block/updated-at 1669949086367}
+ {:block/name "dec 20th, 2022",
+  :block/created-at 1671552873663,
+  :block/updated-at 1671552873663}
+ {:block/name "dec 21st, 2022",
+  :block/created-at 1671660050898,
+  :block/updated-at 1671660050898}
  {:block/name "dec 2nd, 2022",
   :block/created-at 1669968003263,
   :block/updated-at 1670094998584}

@@ -1,4 +1,8 @@
 - ## 🔖 Articles
+	- [Why Uber Fights](https://omnivore.app/me/why-uber-fights-18599688e6c)
+	      collapsed:: true
+	      site:: [Stratechery by Ben Thompson](https://stratechery.com/2014/uber-fights)
+	      date_saved:: [[Jan 9th, 2023]]
 	- [Declarative Scheduling for Data Assets | Dagster Blog](https://omnivore.app/me/declarative-scheduling-for-data-assets-dagster-blog-18597f5652f)
 	      collapsed:: true
 	      site:: [dagster.io](https://dagster.io/blog/declarative-scheduling)

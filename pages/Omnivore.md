@@ -1,0 +1,127 @@
+- ## 🔖 Articles
+	- [Declarative Scheduling for Data Assets | Dagster Blog](https://omnivore.app/me/declarative-scheduling-for-data-assets-dagster-blog-18597f5652f)
+	      collapsed:: true
+	      site:: [dagster.io](https://dagster.io/blog/declarative-scheduling)
+	      date_saved:: [[Jan 9th, 2023]]
+	- [Fake it until you automate it | Understand Legacy Code](https://omnivore.app/me/fake-it-until-you-automate-it-understand-legacy-code-18597f5204f)
+	      collapsed:: true
+	      site:: [Understand Legacy Code | Change Messy Software Without Breaking It](https://understandlegacycode.com/blog/fake-it-until-you-automate-it)
+	      author:: Nicolas Carlo
+	      date_saved:: [[Jan 9th, 2023]]
+	- [Can We Please Never Talk About Dedicated Biomass Again](https://omnivore.app/me/can-we-please-never-talk-about-dedicated-biomass-again-1858d6deece)
+	        collapsed:: true
+	        site:: [Climateer](https://climateer.substack.com/p/biomass)
+	        author:: Steve
+	        date_saved:: [[Jan 7th, 2023]]
+		- > As the mathematician Richard Courant commented, after viewing a prototype of a 1950s rocket design based on throwing little nuclear bombs out the back to push the rocket forward:
+		  Zis is not nuts, zis is super-nuts. [⤴️](https://omnivore.app/me/can-we-please-never-talk-about-dedicated-biomass-again-1858d6deece#af4d24ab-c760-4f5e-88f7-c52a7390a5ac)
+	- [The science of why you have great ideas in the shower | National Geographic](https://omnivore.app/me/the-science-of-why-you-have-great-ideas-in-the-shower-national-g-1858d6d29d6)
+	        collapsed:: true
+	        site:: [National Geographic](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower)
+	        labels:: [[learning]]
+	        date_saved:: [[Jan 7th, 2023]]
+		- > “People always get surprised when they realise they get interesting, novel ideas at unexpected times because our cultural narrative tells us we should do it through hard work,” says Kalina Christoff, a cognitive neuroscientist at the University of British Columbia in Vancouver. [⤴️](https://omnivore.app/me/the-science-of-why-you-have-great-ideas-in-the-shower-national-g-1858d6d29d6#867087aa-c8a3-4575-96b9-d87631d21931)
+	- [artsy/README: - The documentation for being an Artsy Engineer](https://omnivore.app/me/artsy-readme-the-documentation-for-being-an-artsy-engineer-1858a20ff57)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/artsy/README)
+	        author:: artsy
+	        date_saved:: [[Jan 6th, 2023]]
+	- [Growing Leaders to Solve the Hardest Problems – Jeff Ammons](https://omnivore.app/me/growing-leaders-to-solve-the-hardest-problems-jeff-ammons-1858906b039)
+	      collapsed:: true
+	      site:: [Jeff Ammons](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems)
+	      author:: Jeff Ammons
+	      date_saved:: [[Jan 6th, 2023]]
+	- [Sunken Greenhouse: The Solution To Plant Year Round - The Tiny Life](https://omnivore.app/me/sunken-greenhouse-the-solution-to-plant-year-round-the-tiny-life-18588f8a6ee)
+	      collapsed:: true
+	      site:: [The Tiny Life](https://thetinylife.com/sunken-greenhouse)
+	      author:: Ryan Mitchell
+	      labels:: [[gardening]]
+	      date_saved:: [[Jan 6th, 2023]]
+	- [Politics and the English Language | The Orwell Foundation](https://omnivore.app/me/politics-and-the-english-language-the-orwell-foundation-18588563594)
+	      collapsed:: true
+	      site:: [The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language)
+	      author:: Eric Blair
+	      date_saved:: [[Jan 6th, 2023]]
+	- [Thousands of scientists publish a paper every five days](https://omnivore.app/me/thousands-of-scientists-publish-a-paper-every-five-days-18588000a4d)
+	      collapsed:: true
+	      site:: [nature.com](https://www.nature.com/articles/d41586-018-06185-8)
+	      author:: Boyack, Kevin W.
+	      labels:: [[information]]
+	      date_saved:: [[Jan 6th, 2023]]
+	- [Why Some Cities Thrive - by Tomas Pueyo](https://omnivore.app/me/why-some-cities-thrive-by-tomas-pueyo-18587f5bebc)
+	      collapsed:: true
+	      site:: [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/why-cities-thrive)
+	      author:: Tomas Pueyo
+	      date_saved:: [[Jan 6th, 2023]]
+	- [Pan De Cristal (100% Hydration Spanish Glass Bread) is an Airy Crunchy Dream](https://omnivore.app/me/pan-de-cristal-100-hydration-spanish-glass-bread-is-an-airy-crun-185855e230b)
+	      collapsed:: true
+	      site:: [youtube.com](https://youtube.com/watch?amp%3Bfeature=share&v=6sOEHrawhX0)
+	      author:: King Arthur Baking Company
+	      date_saved:: [[Jan 5th, 2023]]
+	- [Breaking Smart](https://omnivore.app/me/breaking-smart-185847d620c)
+	        collapsed:: true
+	        site:: [Breaking Smart](https://breakingsmart.com/en/season-1)
+	        author:: breakingsmart
+	        date_saved:: [[Jan 5th, 2023]]
+	- [.:: Phrack Magazine ::.](https://omnivore.app/me/phrack-magazine-18583e718b0)
+	  collapsed:: true
+	      collapsed:: true
+	      site:: [phrack.org](http://phrack.org/issues/70/15.html)
+	      date_saved:: [[Jan 5th, 2023]]
+	- [Quantitative Information Risk Management | The FAIR Institute](https://omnivore.app/me/quantitative-information-risk-management-the-fair-institute-1858383b00f)
+	      collapsed:: true
+	      site:: [fairinstitute.org](https://www.fairinstitute.org)
+	      author:: FAIR Institute
+	      date_saved:: [[Jan 5th, 2023]]
+	- [Omnivore](https://omnivore.app/me/omnivore-185832eca1a)
+	      collapsed:: true
+	      site:: [chrome.google.com](https://chrome.google.com/webstore/detail/omnivore/blkggjdmcfjdbmmmlfcpplkchpeaiiab/related)
+	      date_saved:: [[Jan 5th, 2023]]
+	- [Getting Started with Omnivore](https://omnivore.app/me/getting-started-with-omnivore-185832bcaba)
+	      collapsed:: true
+	      site:: [Omnivore Blog](https://blog.omnivore.app/p/getting-started-with-omnivore)
+	      author:: The Omnivore Team
+	      date_saved:: [[Jan 5th, 2023]]
+		- > Newsletter Subscriptions via Email             
+		                1. On the Omnivore website or app, tap your photo, initial, or avatar in the top right corner to access the profile menu. Select Emails from the menu.                        
+		                2. Tap Create a New Email Address to add a new email address (ex: username-123abc@inbox.omnivore.app) to the list.                        
+		   3. Click the Copy icon next to the email address.             
+		                4. Navigate to the signup page for the newsletter you wish to subscribe to.
+		                5. Paste the Omnivore email address into the signup form.                        
+		   6. New newsletters will be automatically delivered to your Omnivore inbox.             
+		   NOTE: If Omnivore receive's an email that does not look like an article, such as a welcome message, or note from the author, it will be forwarded to your Omnivore account email address (the email you registered with).              [⤴️](https://omnivore.app/me/getting-started-with-omnivore-185832bcaba#b312dd1b-f661-441b-9ea1-51918af76695)
+			- This is pretty cool. I hope i remember to use this!
+	- [On-demand learning is ruining the tech industry.](https://omnivore.app/me/on-demand-learning-is-ruining-the-tech-industry-185834306fe)
+	  id:: 642444ee-c544-4ff3-a187-ffde855c5b27
+	  collapsed:: true
+	        collapsed:: true
+	        site:: [jernesto.com](https://www.jernesto.com/articles/learning.html)
+	        labels:: [[learning]]
+	        date_saved:: [[Jan 5th, 2023]]
+		- > If something is worth taking away from this article, it is that taking the time to do preliminary learning really pays off in the long run. [⤴️](https://omnivore.app/me/on-demand-learning-is-ruining-the-tech-industry-185834306fe#7b7b3b6c-ad7d-4996-acf3-b7e59836aae6)
+		- > This time we split the act of learning just into two categories. The first one, I’ll call it "preliminary learning", this is the classic learning that we do in school; we acquire knowledge that might be useful in the future—without being 100% confident that it will in fact be useful. The second category is "on-demand learning", this is the act of acquiring knowledge when the situation demands it, not sooner nor later. [⤴️](https://omnivore.app/me/on-demand-learning-is-ruining-the-tech-industry-185834306fe#83165d3b-d01f-412a-ada1-bb054c68982c)
+		- > No matter how you conceptualize this distinction — specific vs. general, human knowledge vs. nature knowledge, or concepts vs. tools — most people are aware of it. But being aware is not enough. [⤴️](https://omnivore.app/me/on-demand-learning-is-ruining-the-tech-industry-185834306fe#8d76fcbe-4be3-4b3f-8262-322a74097e35)
+			- Testing logseq
+	- [The Secret Power of ‘Read It Later’ Apps](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8)
+	        collapsed:: true
+	        site:: [Forte Labs](https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps)
+	        author:: Tiago Forte
+	        date_saved:: [[Jan 5th, 2023]]
+		- > In the end, it seems that mastery has less to do with pushing leverage points than it does with strategically, profoundly, madly letting go. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#08ccfef7-47b7-4a6a-ad4d-f559bdf5d8ff)
+		- > Remove any feature, process, or effort that does not directly contribute to the learning you seek. — Eric Ries, The Leader’s Guide [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#c3d6bd2d-8947-4cb2-8ec1-9937c75b85bf)
+		- > There is something deeply, deeply unsatisfying about repeatedly starting something and not finishing it. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#3b89ca89-b1c6-47ae-869b-f35c9897b840)
+		- > life is full of weird little windows when it could be used. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#1e4136eb-e71d-4aab-90ea-3e05a1d79feb)
+		- > So you need a little entertainment, and you open…an ebook? Yeah right. Monochrome pages don’t attract you. They don’t draw you in. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#771f497c-0cea-4fca-8db0-dfb5c81d569f)
+		- > If you think your behavior is not affected by such trivialities, think again. Even on a subconscious level, you will resist even opening apps that don’t reward you with snappy response times. Which is a problem because the apps most people turn to for reading are either ebook apps like iBooks and Kindle, or web browsers like Chrome and Safari. I’m not sure which category is slower, but they’re both abysmal. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#2bb7c4a7-add9-48be-ac05-30abb1f49043)
+	- [Organize your Omnivore library with labels](https://omnivore.app/me/organize-your-omnivore-library-with-labels-185832bc44a)
+	        collapsed:: true
+	        site:: [Omnivore Blog](https://blog.omnivore.app/p/organize-your-omnivore-library-with)
+	        author:: The Omnivore Team
+	        date_saved:: [[Jan 5th, 2023]]
+	- [ChatGPT](https://omnivore.app/me/chat-gpt-185832ed5c8)
+	        collapsed:: true
+	        site:: [chat.openai.com](https://chat.openai.com/chat/999f4f5a-724b-4788-82d3-3357e90d881f)
+	        date_saved:: [[Jan 5th, 2023]]
+		- > Roja chili is a type of chili pepper that is native to Mexico and is commonly used in Mexican cuisine. It is known for its moderate to hot heat level and its unique flavor, which has hints of fruitiness and a slight bitterness. The chili gets its name from the fact that it is often shaped like a small, red paw or claw. [⤴️](https://omnivore.app/me/chat-gpt-185832ed5c8#41ff79cf-ab63-443e-aaf9-f78b67ce5a72)
+			- interesting
+-

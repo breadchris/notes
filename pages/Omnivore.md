@@ -1,4 +1,21 @@
 - ## 🔖 Articles
+	- [What’s New in Go 1.20, Part II: Major Standard Library Changes · The Ethically-Trained Programmer](https://omnivore.app/me/what-s-new-in-go-1-20-part-ii-major-standard-library-changes-the-185bf0fc058)
+	      collapsed:: true
+	      site:: [blog.carlmjohnson.net](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller)
+	      labels:: [[programming]]
+	      date_saved:: [[Jan 17th, 2023]]
+	- [The Art and Science of Spending Money · Collab Fund](https://omnivore.app/me/the-art-and-science-of-spending-money-collab-fund-185bbe33e41)
+	      collapsed:: true
+	      site:: [Morgan Housel](https://collabfund.com/blog/the-art-and-science-of-spending-money)
+	      author:: Morgan Housel
+	      labels:: [[business ]]
+	      date_saved:: [[Jan 16th, 2023]]
+	- [We invested 10% to pay back tech debt; Here's what happened](https://omnivore.app/me/we-invested-10-to-pay-back-tech-debt-here-s-what-happened-185b873b611)
+	      collapsed:: true
+	      site:: [Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/tech-debt-day)
+	      author:: Alex Ewerlöf
+	      labels:: [[programming]]
+	      date_saved:: [[Jan 15th, 2023]]
 	- [Why Uber Fights](https://omnivore.app/me/why-uber-fights-18599688e6c)
 	      collapsed:: true
 	      site:: [Stratechery by Ben Thompson](https://stratechery.com/2014/uber-fights)

@@ -1,4 +1,9 @@
 - ## 🔖 Articles
+	- [rauljordan::blog](https://omnivore.app/me/rauljordan-blog-185c5dd6cfb)
+	      collapsed:: true
+	      site:: [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier)
+	      labels:: [[programming]]
+	      date_saved:: [[Jan 18th, 2023]]
 	- [What’s New in Go 1.20, Part II: Major Standard Library Changes · The Ethically-Trained Programmer](https://omnivore.app/me/what-s-new-in-go-1-20-part-ii-major-standard-library-changes-the-185bf0fc058)
 	      collapsed:: true
 	      site:: [blog.carlmjohnson.net](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller)

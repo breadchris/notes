@@ -1,91 +1,134 @@
 - ## 🔖 Articles
-	- [rauljordan::blog](https://omnivore.app/me/rauljordan-blog-185c5dd6cfb)
+	- [The "Scooby Doo" psyop - by Ryan Broderick - Garbage Day](https://omnivore.app/me/the-scooby-doo-psyop-by-ryan-broderick-garbage-day-185dc46efbb)
 	      collapsed:: true
-	      site:: [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier)
+	      site:: [Garbage Day](https://www.garbageday.email/p/the-scooby-doo-psyop)
+	      author:: Ryan Broderick
+	      date_saved:: [[Jan 22nd, 2023]]
+		- >  [⤴️](https://omnivore.app/me/the-scooby-doo-psyop-by-ryan-broderick-garbage-day-185dc46efbb#78db94fe-1beb-434c-85f3-c8628135eae3)
+	- [#132: The contagious visual blandness of Netflix](https://omnivore.app/me/132-the-contagious-visual-blandness-of-netflix-185daa01958)
+	        collapsed:: true
+	        site:: [Maybe Baby](https://haleynahman.substack.com/p/132-the-contagious-visual-blandness)
+	        author:: Haley Nahman
+	        date_saved:: [[Jan 22nd, 2023]]
+	- [I Baked 72 Cinnamon Rolls To Create The Perfect Recipe | Bon Appétit](https://omnivore.app/me/i-baked-72-cinnamon-rolls-to-create-the-perfect-recipe-bon-appet-185d2addbff)
+	        collapsed:: true
+	        site:: [youtube.com](https://youtube.com/watch?feature=share&v=OGpMnx_PFLk)
+	        author:: Bon Appétit
+	        labels:: [[cooking]]
+	        date_saved:: [[Jan 20th, 2023]]
+	- [Make these 4 foods at home for MASSIVE savings 💰](https://omnivore.app/me/make-these-4-foods-at-home-for-massive-savings-185d2a8beba)
+	      collapsed:: true
+	      site:: [youtube.com](https://youtube.com/watch?feature=share&v=GAuHerZRl1s)
+	      author:: Pro Home Cooks
+	      date_saved:: [[Jan 20th, 2023]]
+	- [openai-cookbook/techniques_to_improve_reliability.md at main · openai/openai-cookbook](https://omnivore.app/me/openai-cookbook-techniques-to-improve-reliability-md-at-main-ope-185d2a76e4f)
+	      collapsed:: true
+	      site:: [GitHub](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md)
+	      author:: openai
+	      date_saved:: [[Jan 20th, 2023]]
+	- [Can you trust your quantum simulator? | MIT News | Massachusetts Institute of Technology](https://omnivore.app/me/can-you-trust-your-quantum-simulator-mit-news-massachusetts-inst-185d2586964)
+	      collapsed:: true
+	      site:: [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2023/quantum-simulator-randomness-0118)
+	      author:: Jennifer Chu
+	  |
+	  MIT News Office
 	      labels:: [[programming]]
-	      date_saved:: [[Jan 18th, 2023]]
-	- [What’s New in Go 1.20, Part II: Major Standard Library Changes · The Ethically-Trained Programmer](https://omnivore.app/me/what-s-new-in-go-1-20-part-ii-major-standard-library-changes-the-185bf0fc058)
+	      date_saved:: [[Jan 20th, 2023]]
+	- [You don't have to engage with people on the Internet - Xe Iaso](https://omnivore.app/me/you-don-t-have-to-engage-with-people-on-the-internet-xe-iaso-185d25629cc)
 	      collapsed:: true
+	      site:: [Xe's Blog](https://xeiaso.net/blog/lesson-online-feedback)
+	      author:: Xe Iaso
+	      date_saved:: [[Jan 20th, 2023]]
+	- [The Artificial Intelligence Revolution: Part 1 - Wait But Why](https://omnivore.app/me/the-artificial-intelligence-revolution-part-1-wait-but-why-185ad34a67a)
+	      collapsed:: true
+	      site:: [Wait But Why](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+	      author:: Tim Urban
+	      labels:: [[ai]]
+	      date_saved:: [[Jan 13th, 2023]]
+	- [Tech Companies Are Irrational Pop Cultures](https://omnivore.app/me/tech-companies-are-irrational-pop-cultures-1859caccd4f)
+	      collapsed:: true
+	      site:: [Out of the Software Crisis](https://softwarecrisis.dev/letters/tech-is-a-pop-culture)
+	      date_saved:: [[Jan 10th, 2023]]
+		- > But pop culture holds a disdain      for history. Pop culture is all about identity and feeling like you’re      participating. [⤴️](https://omnivore.app/me/tech-companies-are-irrational-pop-cultures-1859caccd4f#6fa15adb-5a03-431c-9eed-ebedc27a209b)
+		- > Don’t let the industry’s pop culture drag you into making poor decisions. [⤴️](https://omnivore.app/me/tech-companies-are-irrational-pop-cultures-1859caccd4f#df40613b-8873-46cf-8572-35feb14a7022)
+	- [Sympawny no.4 (Chubby Cat)](https://omnivore.app/me/sympawny-no-4-chubby-cat-185cc6f9cf3)
+	        site:: [youtube.com](https://youtube.com/watch?feature=share&v=RbK1Q_riyxA)
+	        author:: Sympawnies by Noam Oxman
+	        date_saved:: [[Jan 19th, 2023]]
+	- [12ft | How Noma Made Fine Dining Far Worse - The Atlantic](https://omnivore.app/me/12-ft-how-noma-made-fine-dining-far-worse-the-atlantic-185c94a261c)
+	      site:: [12ft.io](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fideas%2Farchive%2F2023%2F01%2Fnoma-copenhagen-fine-dining-unsustainable%2F672738%2F)
+	      labels:: [[food]][[restaurants ]]
+	      date_saved:: [[Jan 19th, 2023]]
+	- [rauljordan::blog](https://omnivore.app/me/rauljordan-blog-185c5dd6cfb)
+	        site:: [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier)
+	        labels:: [[programming]]
+	        date_saved:: [[Jan 18th, 2023]]
+	- [What’s New in Go 1.20, Part II: Major Standard Library Changes · The Ethically-Trained Programmer](https://omnivore.app/me/what-s-new-in-go-1-20-part-ii-major-standard-library-changes-the-185bf0fc058)
 	      site:: [blog.carlmjohnson.net](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller)
 	      labels:: [[programming]]
 	      date_saved:: [[Jan 17th, 2023]]
 	- [The Art and Science of Spending Money · Collab Fund](https://omnivore.app/me/the-art-and-science-of-spending-money-collab-fund-185bbe33e41)
-	      collapsed:: true
 	      site:: [Morgan Housel](https://collabfund.com/blog/the-art-and-science-of-spending-money)
 	      author:: Morgan Housel
 	      labels:: [[business ]]
 	      date_saved:: [[Jan 16th, 2023]]
 	- [We invested 10% to pay back tech debt; Here's what happened](https://omnivore.app/me/we-invested-10-to-pay-back-tech-debt-here-s-what-happened-185b873b611)
-	      collapsed:: true
 	      site:: [Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/tech-debt-day)
 	      author:: Alex Ewerlöf
 	      labels:: [[programming]]
 	      date_saved:: [[Jan 15th, 2023]]
 	- [Why Uber Fights](https://omnivore.app/me/why-uber-fights-18599688e6c)
-	      collapsed:: true
 	      site:: [Stratechery by Ben Thompson](https://stratechery.com/2014/uber-fights)
 	      date_saved:: [[Jan 9th, 2023]]
 	- [Declarative Scheduling for Data Assets | Dagster Blog](https://omnivore.app/me/declarative-scheduling-for-data-assets-dagster-blog-18597f5652f)
-	      collapsed:: true
 	      site:: [dagster.io](https://dagster.io/blog/declarative-scheduling)
 	      date_saved:: [[Jan 9th, 2023]]
 	- [Fake it until you automate it | Understand Legacy Code](https://omnivore.app/me/fake-it-until-you-automate-it-understand-legacy-code-18597f5204f)
-	      collapsed:: true
 	      site:: [Understand Legacy Code | Change Messy Software Without Breaking It](https://understandlegacycode.com/blog/fake-it-until-you-automate-it)
 	      author:: Nicolas Carlo
 	      date_saved:: [[Jan 9th, 2023]]
 	- [Can We Please Never Talk About Dedicated Biomass Again](https://omnivore.app/me/can-we-please-never-talk-about-dedicated-biomass-again-1858d6deece)
-	        collapsed:: true
 	        site:: [Climateer](https://climateer.substack.com/p/biomass)
 	        author:: Steve
 	        date_saved:: [[Jan 7th, 2023]]
 		- > As the mathematician Richard Courant commented, after viewing a prototype of a 1950s rocket design based on throwing little nuclear bombs out the back to push the rocket forward:
 		  Zis is not nuts, zis is super-nuts. [⤴️](https://omnivore.app/me/can-we-please-never-talk-about-dedicated-biomass-again-1858d6deece#af4d24ab-c760-4f5e-88f7-c52a7390a5ac)
 	- [The science of why you have great ideas in the shower | National Geographic](https://omnivore.app/me/the-science-of-why-you-have-great-ideas-in-the-shower-national-g-1858d6d29d6)
-	        collapsed:: true
 	        site:: [National Geographic](https://www.nationalgeographic.co.uk/history-and-civilisation/2022/08/the-science-of-why-you-have-great-ideas-in-the-shower)
 	        labels:: [[learning]]
 	        date_saved:: [[Jan 7th, 2023]]
 		- > “People always get surprised when they realise they get interesting, novel ideas at unexpected times because our cultural narrative tells us we should do it through hard work,” says Kalina Christoff, a cognitive neuroscientist at the University of British Columbia in Vancouver. [⤴️](https://omnivore.app/me/the-science-of-why-you-have-great-ideas-in-the-shower-national-g-1858d6d29d6#867087aa-c8a3-4575-96b9-d87631d21931)
 	- [artsy/README: - The documentation for being an Artsy Engineer](https://omnivore.app/me/artsy-readme-the-documentation-for-being-an-artsy-engineer-1858a20ff57)
-	        collapsed:: true
 	        site:: [GitHub](https://github.com/artsy/README)
 	        author:: artsy
 	        date_saved:: [[Jan 6th, 2023]]
 	- [Growing Leaders to Solve the Hardest Problems – Jeff Ammons](https://omnivore.app/me/growing-leaders-to-solve-the-hardest-problems-jeff-ammons-1858906b039)
-	      collapsed:: true
 	      site:: [Jeff Ammons](https://jeffammons.com/2023/01/06/growing-leaders-to-solve-the-hardest-problems)
 	      author:: Jeff Ammons
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Sunken Greenhouse: The Solution To Plant Year Round - The Tiny Life](https://omnivore.app/me/sunken-greenhouse-the-solution-to-plant-year-round-the-tiny-life-18588f8a6ee)
-	      collapsed:: true
 	      site:: [The Tiny Life](https://thetinylife.com/sunken-greenhouse)
 	      author:: Ryan Mitchell
 	      labels:: [[gardening]]
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Politics and the English Language | The Orwell Foundation](https://omnivore.app/me/politics-and-the-english-language-the-orwell-foundation-18588563594)
-	      collapsed:: true
 	      site:: [The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language)
 	      author:: Eric Blair
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Thousands of scientists publish a paper every five days](https://omnivore.app/me/thousands-of-scientists-publish-a-paper-every-five-days-18588000a4d)
-	      collapsed:: true
 	      site:: [nature.com](https://www.nature.com/articles/d41586-018-06185-8)
 	      author:: Boyack, Kevin W.
 	      labels:: [[information]]
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Why Some Cities Thrive - by Tomas Pueyo](https://omnivore.app/me/why-some-cities-thrive-by-tomas-pueyo-18587f5bebc)
-	      collapsed:: true
 	      site:: [Uncharted Territories](https://unchartedterritories.tomaspueyo.com/p/why-cities-thrive)
 	      author:: Tomas Pueyo
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Pan De Cristal (100% Hydration Spanish Glass Bread) is an Airy Crunchy Dream](https://omnivore.app/me/pan-de-cristal-100-hydration-spanish-glass-bread-is-an-airy-crun-185855e230b)
-	      collapsed:: true
 	      site:: [youtube.com](https://youtube.com/watch?amp%3Bfeature=share&v=6sOEHrawhX0)
 	      author:: King Arthur Baking Company
 	      date_saved:: [[Jan 5th, 2023]]
 	- [Breaking Smart](https://omnivore.app/me/breaking-smart-185847d620c)
-	        collapsed:: true
 	        site:: [Breaking Smart](https://breakingsmart.com/en/season-1)
 	        author:: breakingsmart
 	        date_saved:: [[Jan 5th, 2023]]
@@ -95,20 +138,18 @@
 	      site:: [phrack.org](http://phrack.org/issues/70/15.html)
 	      date_saved:: [[Jan 5th, 2023]]
 	- [Quantitative Information Risk Management | The FAIR Institute](https://omnivore.app/me/quantitative-information-risk-management-the-fair-institute-1858383b00f)
-	      collapsed:: true
 	      site:: [fairinstitute.org](https://www.fairinstitute.org)
 	      author:: FAIR Institute
 	      date_saved:: [[Jan 5th, 2023]]
 	- [Omnivore](https://omnivore.app/me/omnivore-185832eca1a)
-	      collapsed:: true
 	      site:: [chrome.google.com](https://chrome.google.com/webstore/detail/omnivore/blkggjdmcfjdbmmmlfcpplkchpeaiiab/related)
 	      date_saved:: [[Jan 5th, 2023]]
 	- [Getting Started with Omnivore](https://omnivore.app/me/getting-started-with-omnivore-185832bcaba)
-	      collapsed:: true
 	      site:: [Omnivore Blog](https://blog.omnivore.app/p/getting-started-with-omnivore)
 	      author:: The Omnivore Team
 	      date_saved:: [[Jan 5th, 2023]]
-		- > Newsletter Subscriptions via Email             
+		- collapsed:: true
+		  > Newsletter Subscriptions via Email             
 		                1. On the Omnivore website or app, tap your photo, initial, or avatar in the top right corner to access the profile menu. Select Emails from the menu.                        
 		                2. Tap Create a New Email Address to add a new email address (ex: username-123abc@inbox.omnivore.app) to the list.                        
 		   3. Click the Copy icon next to the email address.             
@@ -129,7 +170,6 @@
 		- > No matter how you conceptualize this distinction — specific vs. general, human knowledge vs. nature knowledge, or concepts vs. tools — most people are aware of it. But being aware is not enough. [⤴️](https://omnivore.app/me/on-demand-learning-is-ruining-the-tech-industry-185834306fe#8d76fcbe-4be3-4b3f-8262-322a74097e35)
 			- Testing logseq
 	- [The Secret Power of ‘Read It Later’ Apps](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8)
-	        collapsed:: true
 	        site:: [Forte Labs](https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps)
 	        author:: Tiago Forte
 	        date_saved:: [[Jan 5th, 2023]]
@@ -140,12 +180,10 @@
 		- > So you need a little entertainment, and you open…an ebook? Yeah right. Monochrome pages don’t attract you. They don’t draw you in. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#771f497c-0cea-4fca-8db0-dfb5c81d569f)
 		- > If you think your behavior is not affected by such trivialities, think again. Even on a subconscious level, you will resist even opening apps that don’t reward you with snappy response times. Which is a problem because the apps most people turn to for reading are either ebook apps like iBooks and Kindle, or web browsers like Chrome and Safari. I’m not sure which category is slower, but they’re both abysmal. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8#2bb7c4a7-add9-48be-ac05-30abb1f49043)
 	- [Organize your Omnivore library with labels](https://omnivore.app/me/organize-your-omnivore-library-with-labels-185832bc44a)
-	        collapsed:: true
 	        site:: [Omnivore Blog](https://blog.omnivore.app/p/organize-your-omnivore-library-with)
 	        author:: The Omnivore Team
 	        date_saved:: [[Jan 5th, 2023]]
 	- [ChatGPT](https://omnivore.app/me/chat-gpt-185832ed5c8)
-	        collapsed:: true
 	        site:: [chat.openai.com](https://chat.openai.com/chat/999f4f5a-724b-4788-82d3-3357e90d881f)
 	        date_saved:: [[Jan 5th, 2023]]
 		- > Roja chili is a type of chili pepper that is native to Mexico and is commonly used in Mexican cuisine. It is known for its moderate to hot heat level and its unique flavor, which has hints of fruitiness and a slight bitterness. The chili gets its name from the fact that it is often shaped like a small, red paw or claw. [⤴️](https://omnivore.app/me/chat-gpt-185832ed5c8#41ff79cf-ab63-443e-aaf9-f78b67ce5a72)

@@ -1,4 +1,41 @@
 - ## 🔖 Articles
+	- [Tech-Foo: Visualising the Ubuntu Package Repository](https://omnivore.app/me/tech-foo-visualising-the-ubuntu-package-repository-185e4fe341d)
+	      collapsed:: true
+	      site:: [tech-foo.blogspot.com](https://tech-foo.blogspot.com/2013/01/visualising-ubuntu-package-repository.html?m=1)
+	      labels:: [[information]][[programming]][[dependencies]]
+	      date_saved:: [[Jan 24th, 2023]]
+	- [The Git source code audit, viewed as a Rust programmer | Blog of Litchi Pi](https://omnivore.app/me/the-git-source-code-audit-viewed-as-a-rust-programmer-blog-of-li-185e4e2f1eb)
+	      collapsed:: true
+	      site:: [Blog of Litchi Pi](https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
+	      author:: Litchi pi
+	      date_saved:: [[Jan 24th, 2023]]
+	- [How Equifax Became a Private IRS - BIG by Matt Stoller](https://omnivore.app/me/how-equifax-became-a-private-irs-big-by-matt-stoller-185e27afd2f)
+	      collapsed:: true
+	      site:: [BIG by Matt Stoller](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
+	      author:: Matt Stoller
+	      date_saved:: [[Jan 23rd, 2023]]
+	- [UxPlay: Sharing iPad Screen on Linux (Ubuntu) – Montessori Muddle](https://omnivore.app/me/ux-play-sharing-i-pad-screen-on-linux-ubuntu-montessori-muddle-185e15d7cf3)
+	      collapsed:: true
+	      site:: [Montessori Muddle](https://montessorimuddle.org/2020/12/05/uxplay-sharing-ipad-screen-on-linux-ubuntu)
+	      author:: Lensyl Urbano
+	      date_saved:: [[Jan 23rd, 2023]]
+	- [How to Accept a Manager Invite to YouTube Channels | Mandy's Media](https://omnivore.app/me/how-to-accept-a-manager-invite-to-you-tube-channels-mandy-s-medi-185e15bdb62)
+	      collapsed:: true
+	      site:: [Mandy's Media | Successful Marketing Platforms for Authors](https://mandysmedia.com/how-to-accept-a-manager-invite-to-youtube-channels)
+	      author:: Amanda Hagarty
+	      date_saved:: [[Jan 23rd, 2023]]
+	- [TIL About the i3 Scratchpad | rockyourcode](https://omnivore.app/me/til-about-the-i-3-scratchpad-rockyourcode-185e09c7dd6)
+	      collapsed:: true
+	      site:: [rockyourcode.com](https://www.rockyourcode.com/til-about-the-i3-scratchpad)
+	      date_saved:: [[Jan 23rd, 2023]]
+	- [Frequently Asked Questions (FAQ) - The Go Programming Language](https://omnivore.app/me/frequently-asked-questions-faq-the-go-programming-language-185e08202a9)
+	      collapsed:: true
+	      site:: [go.dev](https://go.dev/doc/faq)
+	      date_saved:: [[Jan 23rd, 2023]]
+	- [Netflix’s New Chapter – Stratechery by Ben Thompson](https://omnivore.app/me/netflix-s-new-chapter-stratechery-by-ben-thompson-185dfb48996)
+	      collapsed:: true
+	      site:: [Stratechery by Ben Thompson](https://stratechery.com/2023/netflixs-new-chapter)
+	      date_saved:: [[Jan 23rd, 2023]]
 	- [The "Scooby Doo" psyop - by Ryan Broderick - Garbage Day](https://omnivore.app/me/the-scooby-doo-psyop-by-ryan-broderick-garbage-day-185dc46efbb)
 	      collapsed:: true
 	      site:: [Garbage Day](https://www.garbageday.email/p/the-scooby-doo-psyop)

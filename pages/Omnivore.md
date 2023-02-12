@@ -1,19 +1,72 @@
 - ## 🔖 Articles
-	- [Tech-Foo: Visualising the Ubuntu Package Repository](https://omnivore.app/me/tech-foo-visualising-the-ubuntu-package-repository-185e4fe341d)
+	- [A Physical Theory For When the Brain Performs Best | Quanta Magazine](https://omnivore.app/me/a-physical-theory-for-when-the-brain-performs-best-quanta-magazi-1860abb25af)
 	      collapsed:: true
-	      site:: [tech-foo.blogspot.com](https://tech-foo.blogspot.com/2013/01/visualising-ubuntu-package-repository.html?m=1)
-	      labels:: [[information]][[programming]][[dependencies]]
+	      site:: [Quanta Magazine](https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131)
+	      author:: John M. Beggs
+	      date_saved:: [[Jan 31st, 2023]]
+	- [Halvar Flake on Twitter](https://omnivore.app/me/halvar-flake-on-twitter-1860a25fe18)
+	      collapsed:: true
+	      site:: [twitter.com](https://twitter.com/halvarflake/status/1492805304672792578)
+	      author:: Halvar Flake
+	      date_saved:: [[Jan 31st, 2023]]
+	- [Introduction | Automerge CRDT](https://omnivore.app/me/introduction-automerge-crdt-1860591cb39)
+	      collapsed:: true
+	      site:: [automerge.org](https://automerge.org/docs/tutorial/introduction)
+	      labels:: [[programming]]
+	      date_saved:: [[Jan 30th, 2023]]
+	- [SQL should be your default choice for data engineering pipelines](https://omnivore.app/me/sql-should-be-your-default-choice-for-data-engineering-pipelines-18603a63743)
+	      collapsed:: true
+	      site:: [robinlinacre.com](https://www.robinlinacre.com/recommend_sql)
+	      date_saved:: [[Jan 30th, 2023]]
+	- [The Sauce That Survived Italy's War on Pasta - Gastro Obscura](https://omnivore.app/me/the-sauce-that-survived-italy-s-war-on-pasta-gastro-obscura-185ff4ad4d4)
+	      collapsed:: true
+	      site:: [Atlas Obscura](https://www.atlasobscura.com/articles/italian-futurist-pasta)
+	      author:: Sam Lin-Sommer
+	      date_saved:: [[Jan 29th, 2023]]
+	- [Features I'd like in PostgreSQL | Gil's LotD](https://omnivore.app/me/features-i-d-like-in-postgre-sql-gil-s-lot-d-185fafd492c)
+	      collapsed:: true
+	      site:: [gilslotd.com](https://gilslotd.com/blog/features_id_postgresql)
+	      date_saved:: [[Jan 28th, 2023]]
+	- [The Good, the Bad and the Ugly Standup | Loris Cro's Blog](https://omnivore.app/me/the-good-the-bad-and-the-ugly-standup-loris-cro-s-blog-185f6ddf4f9)
+	      collapsed:: true
+	      site:: [kristoff.it](https://kristoff.it/blog/good-bad-ugly-standup)
+	      author::  • 6 min read • by Loris Cro
+	      date_saved:: [[Jan 27th, 2023]]
+	- [Share Great Reads with Friends or Coworkers - Omnivore](https://omnivore.app/me/share-great-reads-with-friends-or-coworkers-omnivore-1859fda1c59)
+	      collapsed:: true
+	      site:: [Omnivore](https://blog.omnivore.app/p/dca38ba4-8a74-42cc-90ca-d5ffa5d075cc)
+	      author:: Omnivore
+	      date_saved:: [[Jan 11th, 2023]]
+	- [A Chat With Adam Conover](https://omnivore.app/me/a-chat-with-adam-conover-185ebff6690)
+	      collapsed:: true
+	      site:: [youtube.com](https://www.youtube.com/watch?ab_channel=PhilosophyTubeLive&v=JBcjKopyYz8)
+	      author:: Philosophy Tube Live
+	      date_saved:: [[Jan 25th, 2023]]
+	- [Sharing SQLite databases across containers is surprisingly brilliant](https://omnivore.app/me/sharing-sq-lite-databases-across-containers-is-surprisingly-bril-185e6a2c8d3)
+	      collapsed:: true
+	      site:: [Medium](https://rbranson.medium.com/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
+	      author:: Rick Branson
 	      date_saved:: [[Jan 24th, 2023]]
+	- [Enforcing Device AuthN & Compliance at Pinterest](https://omnivore.app/me/enforcing-device-auth-n-compliance-at-pinterest-185e64edde9)
+	      collapsed:: true
+	      site:: [Pinterest Engineering Blog](https://medium.com/pinterest-engineering/enforcing-device-authn-compliance-at-pinterest-a74938cb089b)
+	      author:: Pinterest Engineering
+	      date_saved:: [[Jan 24th, 2023]]
+	- [Tech-Foo: Visualising the Ubuntu Package Repository](https://omnivore.app/me/tech-foo-visualising-the-ubuntu-package-repository-185e4fe341d)
+	        collapsed:: true
+	        site:: [tech-foo.blogspot.com](https://tech-foo.blogspot.com/2013/01/visualising-ubuntu-package-repository.html?m=1)
+	        labels:: [[information]][[programming]][[dependencies]]
+	        date_saved:: [[Jan 24th, 2023]]
 	- [The Git source code audit, viewed as a Rust programmer | Blog of Litchi Pi](https://omnivore.app/me/the-git-source-code-audit-viewed-as-a-rust-programmer-blog-of-li-185e4e2f1eb)
 	      collapsed:: true
 	      site:: [Blog of Litchi Pi](https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html)
 	      author:: Litchi pi
 	      date_saved:: [[Jan 24th, 2023]]
 	- [How Equifax Became a Private IRS - BIG by Matt Stoller](https://omnivore.app/me/how-equifax-became-a-private-irs-big-by-matt-stoller-185e27afd2f)
-	      collapsed:: true
-	      site:: [BIG by Matt Stoller](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
-	      author:: Matt Stoller
-	      date_saved:: [[Jan 23rd, 2023]]
+	        collapsed:: true
+	        site:: [BIG by Matt Stoller](https://mattstoller.substack.com/p/how-equifax-became-a-private-irs)
+	        author:: Matt Stoller
+	        date_saved:: [[Jan 23rd, 2023]]
 	- [UxPlay: Sharing iPad Screen on Linux (Ubuntu) – Montessori Muddle](https://omnivore.app/me/ux-play-sharing-i-pad-screen-on-linux-ubuntu-montessori-muddle-185e15d7cf3)
 	      collapsed:: true
 	      site:: [Montessori Muddle](https://montessorimuddle.org/2020/12/05/uxplay-sharing-ipad-screen-on-linux-ubuntu)
@@ -207,6 +260,7 @@
 		- > No matter how you conceptualize this distinction — specific vs. general, human knowledge vs. nature knowledge, or concepts vs. tools — most people are aware of it. But being aware is not enough. [⤴️](https://omnivore.app/me/on-demand-learning-is-ruining-the-tech-industry-185834306fe#8d76fcbe-4be3-4b3f-8262-322a74097e35)
 			- Testing logseq
 	- [The Secret Power of ‘Read It Later’ Apps](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-185832bc6b8)
+	        collapsed:: true
 	        site:: [Forte Labs](https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps)
 	        author:: Tiago Forte
 	        date_saved:: [[Jan 5th, 2023]]

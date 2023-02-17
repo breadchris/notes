@@ -2,8 +2,8 @@
 title: Information About Gloving
 tags: 
 categories: 
-date: 2023-02-16
-lastMod: 2023-02-16
+date: 2023-02-17
+lastMod: 2023-02-17
 ---
 Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https://www.emazinglights.com/pages/learn-gloving) seems to be down. I have moved the information over here to keep it alive!
 

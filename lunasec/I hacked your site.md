@@ -1,4 +1,10 @@
+public:: true
+tags:: hacking, cyber security
+
 - It isn't your fault, you were just doing your job. Even if you wanted to try to stop it, there isn't much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy.
+- ```js
+  const asdf = () => {}
+  ```
 - Your company's site uses javascript. It has a package.json that's filled with dependencies. It is probably fair to say you are using at least one of the top 1000 most popular javascript packages. Go ahead, find one that you use:
 - select package -> package X
 - So let's take a look at package X. It has N lines of code and is maintained by M number of maintainers. But wait, there is more. What about the packages package X depends on? Well, it turns out there are D of them. And if you were to consider all of the maintainers of those packages, there are M' of them. Pretty wild.
@@ -19,5 +25,4 @@
   It doesn't take an experienced hacker or really anyone with any security experience to do this. In fact, a regular developer would probably be more equipped that me to execute this attack because they probably know those weird forgotten about packages better than me.
 - You know what, next time I hack your site, I am not going to wait around for some developer to accept my PR. I wonder how hard it would be to find a developer who is down on their luck and offer them a good amount of money, a hard earned wage, in exchange for them including my library in their project to help me "get my feet off the ground" as a fellow developer applying for jobs.
 - We know this attack is happening, and us at LunaSec are building the future of protection from this type of attack. We aren't waiting around for some security researcher to raise the next alarm and deal with the fire drill of responding to these incidents. No, we are automatically _eradicating_ this problem by using our knowledge as security researchers _and_ developers to design an intelligent, automated system that silently protects you and your company's code.
-- Click here to proactively prevent this attack and others like it.
 -

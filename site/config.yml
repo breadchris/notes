@@ -1,4 +1,4 @@
-baseURL: http://localhost:8001
+baseURL: https://breadchris.com
 languageCode: en-us
 title: breadchris
 theme: "PaperMod"

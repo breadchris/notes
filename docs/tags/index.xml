@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on breadchris</title>
-    <link>http://localhost:8001/tags/</link>
+    <link>https://breadchris.com/tags/</link>
     <description>Recent content in Tags on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8001/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://breadchris.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ctfg</title>
-      <link>http://localhost:8001/tags/ctfg/</link>
+      <link>https://breadchris.com/tags/ctfg/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8001/tags/ctfg/</guid>
+      <guid>https://breadchris.com/tags/ctfg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cyber security</title>
-      <link>http://localhost:8001/tags/cyber-security/</link>
+      <link>https://breadchris.com/tags/cyber-security/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8001/tags/cyber-security/</guid>
+      <guid>https://breadchris.com/tags/cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>http://localhost:8001/tags/education/</link>
+      <link>https://breadchris.com/tags/education/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8001/tags/education/</guid>
+      <guid>https://breadchris.com/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hacking</title>
-      <link>http://localhost:8001/tags/hacking/</link>
+      <link>https://breadchris.com/tags/hacking/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8001/tags/hacking/</guid>
+      <guid>https://breadchris.com/tags/hacking/</guid>
       <description></description>
     </item>
     

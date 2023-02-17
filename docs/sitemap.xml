@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8001/</loc>
+    <loc>https://breadchris.com/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/tags/ctfg/</loc>
+    <loc>https://breadchris.com/tags/ctfg/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/tags/cyber-security/</loc>
+    <loc>https://breadchris.com/tags/cyber-security/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/tags/education/</loc>
+    <loc>https://breadchris.com/tags/education/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/tags/hacking/</loc>
+    <loc>https://breadchris.com/tags/hacking/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/pages/i-hacked-your-site/</loc>
+    <loc>https://breadchris.com/pages/i-hacked-your-site/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/pages/information-about-gloving/</loc>
+    <loc>https://breadchris.com/pages/information-about-gloving/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/pages/nyu-dropped-the-ball/</loc>
+    <loc>https://breadchris.com/pages/nyu-dropped-the-ball/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/pages/</loc>
+    <loc>https://breadchris.com/pages/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/tags/</loc>
+    <loc>https://breadchris.com/tags/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:8001/categories/</loc>
+    <loc>https://breadchris.com/categories/</loc>
   </url>
 </urlset>

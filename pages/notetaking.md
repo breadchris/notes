@@ -4,3 +4,5 @@
 - ios client
 	- working copy
 	- ios shortcut for syncing https://www.icloud.com/shortcuts/e71ecd65487242f0b3f417e76c9d3a46 "hey siri, sync notes"
+- #notetaking/graphs
+-

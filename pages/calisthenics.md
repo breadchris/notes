@@ -1,0 +1,15 @@
+- instagram accounts
+	- https://www.instagram.com/c_raytrains/
+	- https://www.instagram.com/khalilsantarelli_sw/
+- abs
+	- https://www.instagram.com/reel/CnrlpdqIlzC/?utm_source=ig_web_copy_link
+- push ups
+	- variations https://www.instagram.com/reel/CnpNSd9oNcE/?utm_source=ig_web_copy_link
+- beginner
+	- example workout https://www.instagram.com/reel/Cnhav5dIymX/?utm_source=ig_web_copy_link
+		- push up reaches 4x8
+		- plant hold 4x15
+		- squats 3x20
+		- alternating leg raises 4x12
+		- cross body 3x20
+		- walk out push ups 3x8

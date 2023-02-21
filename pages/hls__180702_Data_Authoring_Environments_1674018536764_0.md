@@ -1,0 +1,53 @@
+file:: [180702_Data_Authoring_Environments_1674018536764_0.pdf](../assets/180702_Data_Authoring_Environments_1674018536764_0.pdf)
+file-path:: ../assets/180702_Data_Authoring_Environments_1674018536764_0.pdf
+
+- IDE history
+- [:span]
+  ls-type:: annotation
+  hl-page:: 258
+  hl-color:: yellow
+  id:: 63c77f5f-c144-413a-9c10-5dd0e12f964f
+  hl-type:: area
+  hl-stamp:: 1674018654819
+- [:span]
+  ls-type:: annotation
+  hl-page:: 259
+  hl-color:: yellow
+  id:: 63c77f6c-2a55-4a65-8245-786fccb4f5ad
+  hl-type:: area
+  hl-stamp:: 1674018668010
+- [:span]
+  ls-type:: annotation
+  hl-page:: 260
+  hl-color:: yellow
+  id:: 63c77f7f-5834-443c-8e3d-ed72631433b9
+  hl-type:: area
+  hl-stamp:: 1674018686781
+- [:span]
+  ls-type:: annotation
+  hl-page:: 261
+  hl-color:: yellow
+  id:: 63c77f8e-502e-47df-aa10-071121e5359f
+  hl-type:: area
+  hl-stamp:: 1674018701921
+- [:span]
+  ls-type:: annotation
+  hl-page:: 262
+  hl-color:: yellow
+  id:: 63c77faa-7463-4198-af36-f284e205ac9a
+  hl-type:: area
+  hl-stamp:: 1674018730056
+- [:span]
+  ls-type:: annotation
+  hl-page:: 263
+  hl-color:: yellow
+  id:: 63c77fb0-515d-43f8-907f-441f4db31f62
+  hl-type:: area
+  hl-stamp:: 1674018736405
+- [:span]
+  ls-type:: annotation
+  hl-page:: 264
+  hl-color:: yellow
+  id:: 63c77fb8-1b1c-4499-972a-d2879d972cc8
+  hl-type:: area
+  hl-stamp:: 1674018743757

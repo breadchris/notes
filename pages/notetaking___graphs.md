@@ -1,0 +1,7 @@
+- https://qwxlea.github.io/#/page/Start%20here
+	- talks about logseq and psychology
+- https://ramses.blog/
+- http://hyperphor.com/ammdi/Agency-Made-Me-Do-It
+- https://theochu.com/
+- https://wiki.nikiv.dev/
+	- this person has so much shit, it is incredible

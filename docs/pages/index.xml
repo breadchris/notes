@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on breadchris</title>
+    <link>https://breadchris.com/pages/</link>
+    <description>Recent content in Pages on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://breadchris.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I hacked your site</title>
+      <link>https://breadchris.com/pages/i-hacked-your-site/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/i-hacked-your-site/</guid>
+      <description>It isn&amp;rsquo;t your fault, you were just doing your job. Even if you wanted to try to stop it, there isn&amp;rsquo;t much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy.
+const asdf = () =&amp;gt; {} Your company&amp;rsquo;s site uses javascript.</description>
+    </item>
+    
+    <item>
+      <title>Information About Gloving</title>
+      <link>https://breadchris.com/pages/information-about-gloving/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/information-about-gloving/</guid>
+      <description>Since the EmazingLights site seems to be down. I have moved the information over here to keep it alive!
+Start Gloving Welcome to the Learn Gloving Center, the most extensive online resource out there for learning everything you need to know about gloving. Constantly being updated and contributed to by the world’s most knowledgeable glovers, this is your first and best resource for learning what you need to jump into the world of gloving.</description>
+    </item>
+    
+    <item>
+      <title>NYU Dropped the Ball</title>
+      <link>https://breadchris.com/pages/nyu-dropped-the-ball/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/nyu-dropped-the-ball/</guid>
+      <description>How it went wrong I have a pretty bad taste in my mouth with NYU after what they have done with CSAW over time. The fact that HSF became a CTF, quality went downhill, and then now non-existent is something that really bothers me. It had felt to me that there was a complete disregard for the exceptional talent pipeline that Nasir/Poly had established for continuing to build out cyber security at NYU.</description>
+    </item>
+    
+    <item>
+      <title>We need Legos for Code</title>
+      <link>https://breadchris.com/pages/we-need-legos-for-code/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/we-need-legos-for-code/</guid>
+      <description>Playing with Legos Legos are fun, they are composable. Code is not composable, not at least in the way we learn to code
+Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem.
+Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego.</description>
+    </item>
+    
+  </channel>
+</rss>

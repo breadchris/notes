@@ -1,6 +1,6 @@
+- [[How I Got to Where I Am]]
 - [[NYU Dropped the Ball]]
 - [[I hacked your site]]
 - [[We need Legos for Code]]
 - [[Information About Gloving]]
 - [[What holds us back]]
--

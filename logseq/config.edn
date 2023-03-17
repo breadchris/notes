@@ -34,7 +34,7 @@
  ;; Disable Built-in Scheduled and deadline Query
  ;; :feature/disable-scheduled-and-deadline-query? true
 
- ;; Specify the date on which the week starts.
+ ;; Specify the date on w no hich the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
  :start-of-week 6
 

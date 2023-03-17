@@ -1,24 +1,278 @@
 - ## 🔖 Articles
+	- [Docker is deleting Open Source organisations - what you need to know](https://omnivore.app/me/docker-is-deleting-open-source-organisations-what-you-need-to-kn-186e5846c92)
+	      collapsed:: true
+	      site:: [Alex Ellis&#x27; Blog](https://blog.alexellis.io/docker-is-deleting-open-source-images)
+	      author:: Alex Ellis
+	      date_saved:: [[Mar 15th, 2023]]
+		- >  [⤴️](https://omnivore.app/me/docker-is-deleting-open-source-organisations-what-you-need-to-kn-186e5846c92#1528b55a-98fd-4c76-a9ee-86aea542d64e)
+		- > Anyone could cybersquat the image and publish malicious content. [⤴️](https://omnivore.app/me/docker-is-deleting-open-source-organisations-what-you-need-to-kn-186e5846c92#6c7a2028-bcd8-4e3a-bf86-963675d1b9ba)
+		- > Anyone could cybersquat the image and publish malicious content. [⤴️](https://omnivore.app/me/docker-is-deleting-open-source-organisations-what-you-need-to-kn-186e5846c92#f91a52e4-6cf3-42f2-a507-76662ba399a5)
+	- [Hacker News](https://omnivore.app/me/hacker-news-186e1a7695c)
+	      collapsed:: true
+	      site:: [news.ycombinator.com](https://news.ycombinator.com)
+	      date_saved:: [[Mar 14th, 2023]]
+	- [Khan Academy](https://omnivore.app/me/khan-academy-186e1a6f85e)
+	      collapsed:: true
+	      site:: [openai.com](https://openai.com/customer-stories/khan-academy)
+	      date_saved:: [[Mar 14th, 2023]]
+		- > “It’s challenging to keep everyone [⤴️](https://omnivore.app/me/khan-academy-186e1a6f85e#4df58f98-bfb9-4908-878f-86e2c60f4339)
+	- [What's your go-to website for recipes? | basement community](https://omnivore.app/me/what-s-your-go-to-website-for-recipes-basement-community-186de388a02)
+	      collapsed:: true
+	      site:: [basementcommunity.com](https://basementcommunity.com/threads/67)
+	      author:: i'm straight-up not having a good time rn
+	      date_saved:: [[Mar 13th, 2023]]
+	- [Plasmic - The headless page builder for your codebase](https://omnivore.app/me/plasmic-the-headless-page-builder-for-your-codebase-186ddaf120a)
+	      collapsed:: true
+	      site:: [plasmic.app](https://www.plasmic.app)
+	      date_saved:: [[Mar 13th, 2023]]
+	- [Stanford Alpaca, and the acceleration of on-device large language model development](https://omnivore.app/me/stanford-alpaca-and-the-acceleration-of-on-device-large-language-186dd50d4d8)
+	      collapsed:: true
+	      site:: [simonwillison.net](https://simonwillison.net/2023/Mar/13/alpaca)
+	      date_saved:: [[Mar 13th, 2023]]
+	- [CS 6120: The Self-Guided Course](https://omnivore.app/me/cs-6120-the-self-guided-course-186dc1f7422)
+	      collapsed:: true
+	      site:: [cs.cornell.edu](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided)
+	      date_saved:: [[Mar 13th, 2023]]
+	- [AI and game theory for public safety and security](https://omnivore.app/me/ai-and-game-theory-for-public-safety-and-security-186dc1e3be9)
+	      collapsed:: true
+	      site:: [web.archive.org](https://web.archive.org/web/20190104045403/http://teamcore.usc.edu/projects/security)
+	      date_saved:: [[Mar 13th, 2023]]
+	- [GitHub - spokestack/react-native-spokestack: Spokestack: give your React Native app a voice interface!](https://omnivore.app/me/git-hub-spokestack-react-native-spokestack-spokestack-give-your--186d809c1fa)
+	      collapsed:: true
+	      site:: [GitHub](https://github.com/spokestack/react-native-spokestack)
+	      author:: spokestack
+	      date_saved:: [[Mar 12th, 2023]]
+	- [8 Million Species of Aliens](https://omnivore.app/me/8-million-species-of-aliens-186d70a93fa)
+	      collapsed:: true
+	      site:: [m.youtube.com](https://m.youtube.com/watch?feature=youtu.be&v=DvkUo05xtFM)
+	      author:: exurb1a
+	      date_saved:: [[Mar 12th, 2023]]
+	- [How To Like Things — Matt Gemmell](https://omnivore.app/me/how-to-like-things-matt-gemmell-186d69ea94b)
+	      collapsed:: true
+	      site:: [Matt Gemmell — Thriller, Horror, and Suspense author](https://mattgemmell.scot/how-to-like-things)
+	      author:: Matt Gemmell
+	      date_saved:: [[Mar 12th, 2023]]
+	- [How React server components work: an in-depth guide](https://omnivore.app/me/how-react-server-components-work-an-in-depth-guide-186d608a309)
+	      collapsed:: true
+	      site:: [Team Plasmic](https://www.plasmic.app/blog/how-react-server-components-work)
+	      author:: Chung Wu
+	      date_saved:: [[Mar 12th, 2023]]
+	- [Pgrok – Poor Man’s Ngrok | Hacker News](https://omnivore.app/me/pgrok-poor-man-s-ngrok-hacker-news-186d5fd76c2)
+	      collapsed:: true
+	      site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=35119261)
+	      date_saved:: [[Mar 12th, 2023]]
+	- [TinyPilot: Month 32 · mtlynch.io](https://omnivore.app/me/tiny-pilot-month-32-mtlynch-io-186d5dac2a6)
+	      collapsed:: true
+	      site:: [mtlynch.io](https://mtlynch.io/retrospectives/2023/03)
+	      author:: Michael Lynch
+	      date_saved:: [[Mar 12th, 2023]]
+	- [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp | Simon Willison’s TILs](https://omnivore.app/me/running-l-la-ma-7-b-and-13-b-on-a-64-gb-m-2-mac-book-pro-with-ll-186d49faa96)
+	      collapsed:: true
+	      site:: [til.simonwillison.net](https://til.simonwillison.net/llms/llama-7b-m2)
+	      date_saved:: [[Mar 11th, 2023]]
+	- [Large language models are having their Stable Diffusion moment](https://omnivore.app/me/large-language-models-are-having-their-stable-diffusion-moment-186d33c81ca)
+	      collapsed:: true
+	      site:: [simonwillison.net](https://simonwillison.net/2023/Mar/11/llama)
+	      date_saved:: [[Mar 11th, 2023]]
+	- [Don’t just check errors, handle them gracefully | Dave Cheney](https://omnivore.app/me/don-t-just-check-errors-handle-them-gracefully-dave-cheney-186d48cd14a)
+	      collapsed:: true
+	      site:: [Dave Cheney](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully)
+	      author:: Dave Cheney
+	      date_saved:: [[Mar 11th, 2023]]
+	- [Manufactured Discontent and Fortnite](https://omnivore.app/me/manufactured-discontent-and-fortnite-186d3c193f4)
+	      collapsed:: true
+	      site:: [m.youtube.com](https://m.youtube.com/watch?v=dPHPNgIihR0)
+	      author:: Folding Ideas
+	      date_saved:: [[Mar 11th, 2023]]
+	- [ChatGPT's API is So Good and Cheap, It Makes Most Text Generating AI Obsolete | Max Woolf's Blog](https://omnivore.app/me/chat-gpt-s-api-is-so-good-and-cheap-it-makes-most-text-generatin-186d26001e9)
+	      collapsed:: true
+	      site:: [Max Woolf's Blog](https://minimaxir.com/2023/03/new-chatgpt-overlord)
+	      author:: Max Woolf
+	      date_saved:: [[Mar 11th, 2023]]
+		- > commands to ensure that [⤴️](https://omnivore.app/me/chat-gpt-s-api-is-so-good-and-cheap-it-makes-most-text-generatin-186d26001e9#4f8f364b-3020-4700-96b8-b87a179c1027)
+		- > for [⤴️](https://omnivore.app/me/chat-gpt-s-api-is-so-good-and-cheap-it-makes-most-text-generatin-186d26001e9#d6e471da-298b-4f2b-8b1f-e3d7ff22d500)
+			- cool
+	- [cedrickchee/chatgpt-universe: ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)](https://omnivore.app/me/cedrickchee-chatgpt-universe-chat-gpt-universe-is-fleeting-notes-1868e7e8b32)
+	      collapsed:: true
+	      site:: [GitHub](https://github.com/cedrickchee/chatgpt-universe)
+	      author:: cedrickchee
+	      date_saved:: [[Feb 26th, 2023]]
+	- [The Effects of Censorship on Attitude Change: The Influence of Censor and Communication Characteristics1](https://omnivore.app/me/the-effects-of-censorship-on-attitude-change-the-influence-of-ce-186d1546a1d)
+	        collapsed:: true
+	        site:: [ResearchGate](https://www.researchgate.net/publication/229526525_The_Effects_of_Censorship_on_Attitude_Change_The_Influence_of_Censor_and_Communication_Characteristics1)
+	        date_saved:: [[Mar 11th, 2023]]
+		- > when an attractive expert censor forbade a [⤴️](https://omnivore.app/me/the-effects-of-censorship-on-attitude-change-the-influence-of-ce-186d1546a1d#06a8319c-5d57-4bca-a863-eebe4bc74753)
+	- [When to add context to errors](https://omnivore.app/me/when-to-add-context-to-errors-186cd9fd703)
+	        collapsed:: true
+	        site:: [Efe’s Blog](https://www.efekarakus.com/golang/2019/09/26/when-to-wrap-errors.html)
+	        date_saved:: [[Mar 10th, 2023]]
+	- [Color Contrast for Better Readability | Viget](https://omnivore.app/me/color-contrast-for-better-readability-viget-186ccacbad9)
+	      collapsed:: true
+	      site:: [Viget](https://www.viget.com/articles/color-contrast)
+	      author:: Tom Osborne
+	      date_saved:: [[Mar 10th, 2023]]
+	- [Writing a Kubernetes Operator MetalBear 🐻 - Tools for Backend Engineers](https://omnivore.app/me/writing-a-kubernetes-operator-metal-bear-tools-for-backend-engin-186c9f0f565)
+	      collapsed:: true
+	      site:: [MetalBear 🐻 - Tools for Backend Engineers](https://metalbear.co/blog/writing-a-kubernetes-operator)
+	      date_saved:: [[Mar 9th, 2023]]
+	- [Popular education in Sweden: much more than you wanted to know - LessWrong](https://omnivore.app/me/popular-education-in-sweden-much-more-than-you-wanted-to-know-le-1868e1b05ce)
+	        collapsed:: true
+	        site:: [lesswrong.com](https://www.lesswrong.com/posts/tjxgbovwc5Ft7wrtc/popular-education-in-sweden-much-more-than-you-wanted-to-1)
+	        author:: Henrik Karlsson
+	        date_saved:: [[Feb 26th, 2023]]
+		- > It was about creating the conditions for people who had lived in simple small-scale communities to develop the knowledge and psychological complexity required to navigate modern society. [⤴️](https://omnivore.app/me/popular-education-in-sweden-much-more-than-you-wanted-to-know-le-1868e1b05ce#b19e35af-bca6-440d-93bb-78aac8ff1ae0)
+	- [Computers Aren’t So Smart, After All - The Atlantic](https://omnivore.app/me/computers-aren-t-so-smart-after-all-the-atlantic-186c2119edd)
+	        collapsed:: true
+	        site:: [The Atlantic](https://www.theatlantic.com/magazine/archive/1974/08/computers-aren-t-so-smart-after-all/303467)
+	        author:: Fred Hapgood
+	        date_saved:: [[Mar 8th, 2023]]
+	- [Composite Indexes and the Faiss Index Factory | Pinecone](https://omnivore.app/me/composite-indexes-and-the-faiss-index-factory-pinecone-18694dab35c)
+	      collapsed:: true
+	      site:: [Pinecone](https://www.pinecone.io/learn/composite-indexes)
+	      date_saved:: [[Feb 27th, 2023]]
+	- [Rebuilding Loggi’s Design System on top of Material UI | by Gustavo de Paula | Having Fun | Medium](https://omnivore.app/me/rebuilding-loggi-s-design-system-on-top-of-material-ui-by-gustav-18693122973)
+	      collapsed:: true
+	      site:: [Having Fun](https://medium.com/havingfun/rebuilding-loggis-design-system-on-top-of-material-ui-9555fede0466)
+	      author:: Gustavo de Paula
+	      date_saved:: [[Feb 27th, 2023]]
+		- > Rebuilding Loggi’s Design System on top of Material UI | by Gustavo de Paula | Having Fun | Medium [⤴️](https://omnivore.app/me/rebuilding-loggi-s-design-system-on-top-of-material-ui-by-gustav-18693122973#8c89ed65-5632-403c-bb7f-67290ceae681)
+			- An interesting analysis of design systems and the decision making process of picking a library.
+	- [(Web-)Insecurity Blog | SSO Gadgets: Escalate (Self-)XSS to ATO](https://omnivore.app/me/web-insecurity-blog-sso-gadgets-escalate-self-xss-to-ato-186930f26fe)
+	        collapsed:: true
+	        site:: [security.lauritz-holtmann.de](https://security.lauritz-holtmann.de/post/xss-ato-gadgets)
+	        date_saved:: [[Feb 27th, 2023]]
+		- > In fact, that the implicit flow cannot be disabled, was already noted in StackOverflow questions years ago13. [⤴️](https://omnivore.app/me/web-insecurity-blog-sso-gadgets-escalate-self-xss-to-ato-186930f26fe#5aa95346-dcbf-4e36-9a5d-d8ba0cc94aa4)
+			- Share this with Ory
+	- [electronic music calendars](https://omnivore.app/me/electronic-music-calendars-1868ead259d)
+	      collapsed:: true
+	      site:: [19hz.info](https://19hz.info)
+	      date_saved:: [[Feb 26th, 2023]]
+	- [The Twelve-Factor App](https://omnivore.app/me/the-twelve-factor-app-1868debe277)
+	      collapsed:: true
+	      site:: [12factor.net](https://12factor.net)
+	      author:: Adam Wiggins
+	      date_saved:: [[Feb 26th, 2023]]
+	- [Everything I understand about chatgpt](https://omnivore.app/me/everything-i-understand-about-chatgpt-18688bc574a)
+	      collapsed:: true
+	      site:: [Gist](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698)
+	      date_saved:: [[Feb 25th, 2023]]
+	- [AskHN - The collective GPT-embodied wisdom of Hacker News | Patterns](https://omnivore.app/me/ask-hn-the-collective-gpt-embodied-wisdom-of-hacker-news-pattern-18688b88e39)
+	      collapsed:: true
+	      site:: [patterns.app](https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering)
+	      author:: Ken Van Haren
+	      date_saved:: [[Feb 25th, 2023]]
+	- [How Your LED Lights and Screens are Killing You](https://omnivore.app/me/how-your-led-lights-and-screens-are-killing-you-1867cfbb5bd)
+	      collapsed:: true
+	      site:: [Syonyk’s Project Blog](https://www.sevarg.net/2023/02/11/how-your-leds-are-killing-you)
+	      author:: Russell Graves
+	      date_saved:: [[Feb 22nd, 2023]]
+	- [Svelte Guide For React Developers](https://omnivore.app/me/svelte-guide-for-react-developers-1867cba2543)
+	      collapsed:: true
+	      site:: [Joy Of Code](https://joyofcode.xyz/svelte-for-react-developers)
+	      date_saved:: [[Feb 22nd, 2023]]
+	- [The Unreasonable Effectiveness of Conditional Probabilities](https://omnivore.app/me/the-unreasonable-effectiveness-of-conditional-probabilities-1867a9872f0)
+	      collapsed:: true
+	      site:: [two-wrongs.com](https://two-wrongs.com/unreasonable-effectiveness-of-conditional-probabilities.html)
+	      author:: kqr
+	      date_saved:: [[Feb 22nd, 2023]]
+	- [James Shore: Testing Without Mocks: A Pattern Language](https://omnivore.app/me/james-shore-testing-without-mocks-a-pattern-language-18674d87cc4)
+	      collapsed:: true
+	      site:: [jamesshore.com](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
+	      date_saved:: [[Feb 21st, 2023]]
+	- [Introducing ScenarioTests, an experiment in improving the .NET testing experience - On The Drift](https://omnivore.app/me/introducing-scenario-tests-an-experiment-in-improving-the-net-te-186658f4858)
+	      collapsed:: true
+	      site:: [https://www.onthedrift.com](https://onthedrift.com/posts/scenario-tests)
+	      author:: Koen
+	      date_saved:: [[Feb 18th, 2023]]
+	- [A comparison of Supabase, Hasura and Aista](https://omnivore.app/me/a-comparison-of-supabase-hasura-and-aista-1865863bb42)
+	      collapsed:: true
+	      site:: [Aista Magic Cloud](https://aista.com/blog/a-comparison-of-supabase-hasura-and-aista)
+	      author:: admin
+	      date_saved:: [[Feb 15th, 2023]]
+	- [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://omnivore.app/me/what-is-chat-gpt-doing-and-why-does-it-work-stephen-wolfram-writ-186531c234e)
+	      collapsed:: true
+	      site:: [Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)
+	      author:: Stephen Wolfram
+	      date_saved:: [[Feb 14th, 2023]]
+	- [Unlocking security updates for transitive dependencies with npm | The GitHub Blog](https://omnivore.app/me/unlocking-security-updates-for-transitive-dependencies-with-npm--18632bbf893)
+	      collapsed:: true
+	      site:: [The GitHub Blog](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm)
+	      author:: Bryan Dragon
+	      date_saved:: [[Feb 8th, 2023]]
+	- [How I Use Logseq to Take Notes and Organize My Life](https://omnivore.app/me/how-i-use-logseq-to-take-notes-and-organize-my-life-18632b85f85)
+	      collapsed:: true
+	      site:: [Shu Omi’s Blog](https://medium.com/my-learning-journal/how-i-use-logseq-to-take-notes-and-organize-my-life-3669a75eb224)
+	      author:: Shu Omi
+	      date_saved:: [[Feb 8th, 2023]]
+		- > That means you don’t have to think about which folder to put this note in or what title you should give to it. [⤴️](https://omnivore.app/me/how-i-use-logseq-to-take-notes-and-organize-my-life-18632b85f85#f0c4ec78-bb63-4380-baf6-94c2145a8483)
+			- this is the main value prop for me
+	- [Golang Dependency Injection Using Wire](https://omnivore.app/me/golang-dependency-injection-using-wire-18623bd05a7)
+	        collapsed:: true
+	        site:: [June Personal Web](https://clavinjune.dev/en/blogs/golang-dependency-injection-using-wire)
+	        author:: Clavin June
+	        date_saved:: [[Feb 5th, 2023]]
+	- [blog/semantic_future.md at main · GavinMendelGleason/blog](https://omnivore.app/me/blog-semantic-future-md-at-main-gavin-mendel-gleason-blog-18622b11eba)
+	      collapsed:: true
+	      site:: [GitHub](https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md)
+	      author:: GavinMendelGleason
+	      date_saved:: [[Feb 5th, 2023]]
+		- > In short, the information age needs an information super-highway andnot just a big pipe for interactive documents. [⤴️](https://omnivore.app/me/blog-semantic-future-md-at-main-gavin-mendel-gleason-blog-18622b11eba#7b5749f8-cbc5-4830-96f1-d2acd82d506c)
+	- [React Is Holding Me Hostage](https://omnivore.app/me/react-is-holding-me-hostage-186c0c15cea)
+	        collapsed:: true
+	        site:: [emnudge.dev](https://emnudge.dev/blog/react-hostage)
+	        author:: EmNudge
+	        date_saved:: [[Mar 8th, 2023]]
+	- [Managing Uber's Data Workflows at Scale](https://omnivore.app/me/managing-uber-s-data-workflows-at-scale-186934e937f)
+	        collapsed:: true
+	        site:: [Uber Blog](https://www.uber.com/en-IE/blog/managing-data-workflows-at-scale)
+	        author:: Alex Kira
+	        date_saved:: [[Feb 27th, 2023]]
+	- [I'm sorry, but no: Generics *are* a technical issue and *are not* a political on... | Hacker News](https://omnivore.app/me/i-m-sorry-but-no-generics-are-a-technical-issue-and-are-not-a-po-186bbeaac06)
+	        collapsed:: true
+	        site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=9622417)
+	        date_saved:: [[Mar 7th, 2023]]
+	- [Don't repeat yourself - Wikipedia](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8)
+	        collapsed:: true
+	        site:: [Wikimedia Foundation, Inc.](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
+	        author:: Contributors to Wikimedia projects
+	        date_saved:: [[Mar 7th, 2023]]
+		- > WET, a backronym commonly taken to stand for write everything twice [⤴️](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8#1220307d-aaf3-4e74-8e82-6c0fb5307320)
+		- > AHA stands for avoid hasty abstractions, described by Kent C. Dodds as optimizing for change first, and avoiding premature optimization. [⤴️](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8#a2cb13fc-395f-4594-8ff4-e9eb8149d57c)
+		- > "Don't repeat yourself" (DRY) is a principle of software development aimed at reducing repetition of software patterns,[1] replacing it with abstractions or using data normalization to avoid redundancy. [⤴️](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8#86d30b82-185a-48d7-b682-aae8781a1adb)
+		- > "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system". [⤴️](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8#b40b84b5-5454-47e6-85ac-68b572de42d9)
+	- [New Cognitive Skills in the Age of AI Tailored Information Presentation](https://omnivore.app/me/new-cognitive-skills-in-the-age-of-ai-tailored-information-prese-186bbb11f79)
+	      collapsed:: true
+	      site:: [Krystian Safjan's Blog](https://safjan.com/pros-and-cons-of-reliance-on-ai-generating-models)
+	      author:: Krystian Safjan
+	      date_saved:: [[Mar 7th, 2023]]
+	- [Reliability: It's Not Great - General - Fly.io](https://omnivore.app/me/reliability-it-s-not-great-general-fly-io-186bb578f51)
+	      collapsed:: true
+	      site:: [Fly.io](https://community.fly.io/t/reliability-its-not-great/11253)
+	      date_saved:: [[Mar 7th, 2023]]
+	- [Discord, or the Death of Lore « ASCII by Jason Scott](https://omnivore.app/me/discord-or-the-death-of-lore-ascii-by-jason-scott-186bb5266d1)
+	      collapsed:: true
+	      site:: [ASCII by Jason Scott](http://ascii.textfiles.com/archives/5509)
+	      date_saved:: [[Mar 7th, 2023]]
 	- [I’m a very slow thinker | Derek Sivers](https://omnivore.app/me/i-m-a-very-slow-thinker-derek-sivers-186b715047c)
-	      collapsed:: true
-	      site:: [sive.rs](https://sive.rs/slow)
-	      date_saved:: [[Mar 6th, 2023]]
+	        collapsed:: true
+	        site:: [sive.rs](https://sive.rs/slow)
+	        date_saved:: [[Mar 6th, 2023]]
 	- [Use ChatGPT to Query Your Neo4j Database | by Tomaz Bratanic | Jan, 2023 | Towards Data Science](https://omnivore.app/me/use-chat-gpt-to-query-your-neo-4-j-database-by-tomaz-bratanic-ja-186b38ec8df)
-	      collapsed:: true
-	      site:: [Towards Data Science](https://towardsdatascience.com/use-chatgpt-to-query-your-neo4j-database-78680a05ec2)
-	      author:: Tomaz Bratanic
-	      date_saved:: [[Mar 5th, 2023]]
+	        collapsed:: true
+	        site:: [Towards Data Science](https://towardsdatascience.com/use-chatgpt-to-query-your-neo4j-database-78680a05ec2)
+	        author:: Tomaz Bratanic
+	        date_saved:: [[Mar 5th, 2023]]
 	- [x/pkgsite: API for pkg.go.dev · Issue #36785 · golang/go](https://omnivore.app/me/x-pkgsite-api-for-pkg-go-dev-issue-36785-golang-go-186b1b5c74f)
 	      collapsed:: true
 	      site:: [GitHub](https://github.com/golang/go/issues/36785)
 	      author:: golang
 	      date_saved:: [[Mar 5th, 2023]]
 	- [Why Golang is doomed to succeed](https://omnivore.app/me/why-golang-is-doomed-to-succeed-186b1ac9c16)
-	      collapsed:: true
-	      site:: [texlution.com](https://texlution.com/post/why-go-is-doomed-to-succeed)
-	      author:: Posted on Jun 13, 2015
-	      labels:: [[programming]]
-	      date_saved:: [[Mar 5th, 2023]]
+	        collapsed:: true
+	        site:: [texlution.com](https://texlution.com/post/why-go-is-doomed-to-succeed)
+	        author:: Posted on Jun 13, 2015
+	        labels:: [[programming]]
+	        date_saved:: [[Mar 5th, 2023]]
 	- [Maintenance Matters: Documentation | Viget](https://omnivore.app/me/maintenance-matters-documentation-viget-186b1a6b652)
 	      collapsed:: true
 	      site:: [Viget](https://www.viget.com/articles/maintenance-matters-documentation)
@@ -60,6 +314,7 @@
 	        site:: [Medium](https://daviws.medium.com/scaling-your-artifacts-with-your-team-de9b0c7775b3)
 	        author:: Davi de Castro Reis
 	        date_saved:: [[Feb 26th, 2023]]
+		- > One creative technique I came up with recently to create a “universal” protocol buffer based ORM is to use a Postgres JSONB column together with generated columns and INSTEAD rules, so you can have both the json view when working with full protos and a more regular relational view when just accessing individual fields. Let us see how it plays out in the long run. [⤴️](https://omnivore.app/me/scaling-your-artifacts-with-your-team-1868dbc81b8#6aa682c4-a116-4d0b-9682-3e32e16ced4a)
 		- > the main one is that the data view wants to be aware of the whole history of the data, whereas serving systems are primarily concerned with the current state of the data. [⤴️](https://omnivore.app/me/scaling-your-artifacts-with-your-team-1868dbc81b8#bd5058ed-ac35-41d3-ad8c-54df5eae29b1)
 		- > It would be amazing if we could use protocol buffers for things like Scala case classes, C++ pod types, or the new Python Data Classes. [⤴️](https://omnivore.app/me/scaling-your-artifacts-with-your-team-1868dbc81b8#ed7c62da-8055-4bf5-9a86-e2ab43b5116b)
 		- > Borrowing some machine learning lingo, we can say that instead of trying to tune precision and recall on every decision, you want to develop principles that improve the area under the curve of your model. [⤴️](https://omnivore.app/me/scaling-your-artifacts-with-your-team-1868dbc81b8#eb79ce79-5b42-4808-8ae0-1999370fb67a)

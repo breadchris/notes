@@ -1,0 +1,94 @@
+I guess we're gonna try to record this thought with a regular mic so I guess you
+could listen to this as kind of like a podcast all right I guess I guess this is
+the official high-pinkies podcast because effectively what I can do if this
+audio is embedded in my site is I can link this to hashtag high-pinkies and I could
+put that out there so isn't hasn't logsec effectively made the perfect
+podcasting platform because I could just record my thoughts and I could listen to
+them back someone else could listen to them back maybe I have the the GitHub
+like the script thing where I can turn speech into text but if I have that set
+up then I can I can go back and turn turn my the audio that I'm saying until
+like the perfect yeah the perfect podcasting platform I don't see why this
+wouldn't work and actually you know what I can do is I could just record a
+video so if I I wonder how well this would work if I just wanted to if I could
+sync my phone with my remarkable then I could just take out a sheet of
+paper right effectively that's what I'd be doing and writing down my notes and
+that could effectively screencast right because you can set up a VNC
+server on a remarkable you could screencast to your phone like I need to
+figure out if you can do video or if it's feasible to do video recording over
+VNC I guess you have to be connected the same local network which is fine I
+mean you're probably on your home Wi-Fi network or if you're walking around I
+think maybe you could do like a mobile hotspot
+to connect to and then maybe you're remarkable I guess I need to figure out if you
+have your iPhone connected or set up as a hotspot can your phone talk to can it
+talk to I'm trying a blank yeah right okay right if you have a mobile hotspot
+can your phone connect to another device that is shared on the mobile hotspot I
+guess is what I'm saying so like as I'm talking right I can talk I can have my
+words roughly translated into text right at least like the the words that are
+if they're nonsense you can click on that word and it will take you to that point
+in time in the audio and then I could also write if I wanted to just stream my
+notes taking right because I have the remarkable I can take out my remarkable I
+can have it be running a VNC server for that my phone connects to right because
+they're on the same local network and they should be able to find each other and
+then I just record that as a video and then I also insert that into lock set
+because it can just reference notes so in the repo there would like for this
+entry there would be the audio there would be the playback text which in lock
+set mobile you wouldn't be able to see but you could write a plug-in right on the
+desktop that
+damn why am I doing a blank plug-in on the desktop that would
+run as
+JS that would hopefully this doesn't sound completely okay here and because this is
+for sure this is like I guess that's the whole point of the high think he's
+broadcast is that it's literally going to sound ridiculous and that's what
+makes I think he's special you just record yourself thinking
+yeah anyway I hope I'm able to listen to this back and I guess no I don't need
+to listen to this back because I wanted to try to develop this because
+theoretically I think he's with even with massive gaps the text that you read
+would be different like you could just zoom around to the parts that interest you
+so if I start talking about cooking right I could rattle off like an
+ingredient recipe for example like like if I could speak naturally and I could
+say to make a pie crust right and so or I just like say the words like new
+recipe pie crust one part flour one part butter then a little bit of salt and if
+I'm still here still just thinking so I would say change and
+I would say change and then I would change the recipe step so for example I would
+change the recipe step two what you would call it oh I would change the first
+recipe step of pie crust to be combined flour salt sugar in bowl which would
+then like mark that as the step and then for the second one right I would say on
+this like podcast thing you like you tag it right so it's like I said the word I'm
+just going to say we're in a word right Harvard I don't know why I'm taking
+hard but I say Harvard and I pronounced it clearly enough that it added the tag
+Harvard you could then create a whole page that is like the Grap Results of a whole
+page in Logsack that is like the Grap Results of me saying Harvard right I search
+through all these like text documents right because that's what this audio would turn
+into right it would turn into a text document and it wouldn't be perfect but it's like good
+enough right the conversion be good enough that I could go back through everything that
+I've said right all my notes on something and recall them so for example let's just like
+what's the stupid example of this like I say the word balloon right I say the word right
+now and then maybe tomorrow right maybe tomorrow I go to a circus for whatever reason and
+at the circus they have balloons right so this would be the second entry into my note
+taking journal is balloons so now like through analysis of the text you can identify words
+or you put that into essentially your personal search engine which I'm going to see right
+so I have my notes up right now and I'm going to try to see if I can find this search engine
+that I saved because I saw it before but I don't quite know so basically if this thing I can
+definitely had it like somewhere search it was like index damn like so for example if so
+there's this tool that I have in mind if it was like really fast it was like really fast
+right so if I said like I'm reading hacker news right so I start my day and I just hit
+record right and I start talking and it's like talking about hacker news then then I would have
+this thought right of searching like I could then search for the tags like and maybe it works
+maybe maybe I can do that so search for say hacker news and it was thinking about search now see if
+when I saved that article as browsing the internet and I saved that article if it did text extraction
+because right this is what I want to do this is the whole point of 50 is I can make it trivial like in
+like a an API call a single API call I could turn a holy shit this could be huge like I could just
+fork log sec right could I just fork log sec
+I don't know is it like a hacker news and then search now index goddamn what was it maybe I can go
+online it's very usually so I can leave my note now oh my god this is so funny my face didn't
+cool type sensor that's a note now if I wanted to right I could tag it because it right it took
+me so long to put this in right because that way I can search things from oh it's not called
+hacker news it's called white combinator but I remember it in my head is hacker news right so and I'm
+going to take this note right now and I'm going to say hashtag we'll say hashtag what's what I want to
+say oh no I guess this is like I think he's going to link it to the page I think he is
+whoops I come on I think he's that page cool
+right so this thing and this is the right and if I had this this fucking the title of the page and I
+wouldn't have to copy it all this shit down so annoying oh my goodness
+it's not quite organized the way that I wanted to oh well be like close enough maybe
+I think it's working hopefully
+so I'm going on this train of thought I guess maybe I'll stop here see what happens

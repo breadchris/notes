@@ -1,7 +1,4 @@
-created-at:: 01/01/1997
 public:: true
-publication-date:: 01/01/1997
-tags:: ctfg, cyber security, hacking, education
 
 - ## How it went wrong
 - I have a pretty bad taste in my mouth with NYU after what they have done with CSAW over time. The fact that HSF became a CTF, quality went downhill, and then now non-existent is something that really bothers me. It had felt to me that there was a complete disregard for the exceptional talent pipeline that Nasir/Poly had established for continuing to build out cyber security at NYU. It feels disrespectful to all of the volunteers (you and I included) that worked so hard to not just maintain the quality of the program, but to make it 1% better every year, and make sure everything was in place for it to keep running.

@@ -1,3 +1,5 @@
+- [[Start with a Static Site]]
+- [[A Sustainable Thinker Always Wins]]
 - [[How I Got to Where I Am]]
 - [[NYU Dropped the Ball]]
 - [[I hacked your site]]

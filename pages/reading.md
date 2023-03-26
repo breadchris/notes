@@ -1,0 +1,3 @@
+- [[blogs]] are great
+- I have [[Omnivore]] which is where I save and read things that cross my screen.
+- [[books]] for the people that want to read something longer.

@@ -1,4 +1,21 @@
 - ## 🔖 Articles
+	- [Computers Are Bad](https://omnivore.app/me/computers-are-bad-1871c22f45f)
+	      collapsed:: true
+	      site:: [computer.rip](https://computer.rip/2023-03-24-docker.html)
+	      labels:: [[programming]][[computers]]
+	      date_saved:: [[Mar 25th, 2023]]
+	- [Why Take a Compiler Course? – Embedded in Academia](https://omnivore.app/me/why-take-a-compiler-course-embedded-in-academia-1871c17b4fc)
+	      collapsed:: true
+	      site:: [blog.regehr.org](https://blog.regehr.org/archives/169)
+	      author:: regehr
+	      labels:: [[programming]]
+	      date_saved:: [[Mar 25th, 2023]]
+	- [Society's Technical Debt and Software's Gutenberg Moment](https://omnivore.app/me/society-s-technical-debt-and-software-s-gutenberg-moment-1871c176a66)
+	      collapsed:: true
+	      site:: [Irregular Ideas with Paul Kedrosky & Eric Norlin of SKV](https://skventures.substack.com/p/societys-technical-debt-and-softwares)
+	      author:: SK Ventures
+	      labels:: [[ai]]
+	      date_saved:: [[Mar 25th, 2023]]
 	- [The Myth of the Alpha Wolf | The New Yorker](https://omnivore.app/me/the-myth-of-the-alpha-wolf-the-new-yorker-1871b191d34)
 	      collapsed:: true
 	      site:: [The New Yorker](https://www.newyorker.com/science/elements/the-myth-of-the-alpha-wolf)
@@ -6,11 +23,13 @@
 	      labels:: [[business ]]
 	      date_saved:: [[Mar 25th, 2023]]
 	- [A Simple Framework for Architectural Decisions](https://omnivore.app/me/a-simple-framework-for-architectural-decisions-1871b183aa2)
-	      collapsed:: true
-	      site:: [InfoQ](https://www.infoq.com/articles/framework-architectural-decisions)
-	      author:: Grygoriy Gonchar
-	      labels:: [[business ]][[programming]]
-	      date_saved:: [[Mar 25th, 2023]]
+	        collapsed:: true
+	        site:: [InfoQ](https://www.infoq.com/articles/framework-architectural-decisions)
+	        author:: Grygoriy Gonchar
+	        labels:: [[business ]]
+	        date_saved:: [[Mar 25th, 2023]]
+		- > plans to use. A Technology Radar is a visual representation of your company’s current and desired [⤴️](https://omnivore.app/me/a-simple-framework-for-architectural-decisions-1871b183aa2#b5df67af-a995-42aa-a714-b2812a09bb1e)
+		- > In this article, I’d like to share key building blocks which such a [⤴️](https://omnivore.app/me/a-simple-framework-for-architectural-decisions-1871b183aa2#176e9ea0-add9-4386-83fc-961e78281924)
 	- [determined-ai/determined: Determined: Deep Learning Training Platform](https://omnivore.app/me/determined-ai-determined-determined-deep-learning-training-platf-187199c1a6b)
 	      collapsed:: true
 	      site:: [GitHub](https://github.com/determined-ai/determined)
@@ -437,10 +456,10 @@
 		- > "Don't repeat yourself" (DRY) is a principle of software development aimed at reducing repetition of software patterns,[1] replacing it with abstractions or using data normalization to avoid redundancy. [⤴️](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8#86d30b82-185a-48d7-b682-aae8781a1adb)
 		- > "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system". [⤴️](https://omnivore.app/me/don-t-repeat-yourself-wikipedia-186bbe9e5c8#b40b84b5-5454-47e6-85ac-68b572de42d9)
 	- [New Cognitive Skills in the Age of AI Tailored Information Presentation](https://omnivore.app/me/new-cognitive-skills-in-the-age-of-ai-tailored-information-prese-186bbb11f79)
-	      collapsed:: true
-	      site:: [Krystian Safjan's Blog](https://safjan.com/pros-and-cons-of-reliance-on-ai-generating-models)
-	      author:: Krystian Safjan
-	      date_saved:: [[Mar 7th, 2023]]
+	        collapsed:: true
+	        site:: [Krystian Safjan's Blog](https://safjan.com/pros-and-cons-of-reliance-on-ai-generating-models)
+	        author:: Krystian Safjan
+	        date_saved:: [[Mar 7th, 2023]]
 	- [Reliability: It's Not Great - General - Fly.io](https://omnivore.app/me/reliability-it-s-not-great-general-fly-io-186bb578f51)
 	      collapsed:: true
 	      site:: [Fly.io](https://community.fly.io/t/reliability-its-not-great/11253)

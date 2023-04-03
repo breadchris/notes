@@ -2,8 +2,8 @@
 title: What holds us back
 tags: 
 categories: 
-date: 2023-02-24
-lastMod: 2023-03-26
+date: 2023-04-03
+lastMod: 2023-04-03
 ---
 I don’t know if I personally would say that my life has been “hard”. I hear people use this to describe their life; “I have fallen on hard times”. But I don’t know, it doesn’t seem to be a relatable feeling. I have had to solve “hard” problems. Whether it is a math problem with seemingly random symbols or trying to comprehend why my parents won’t get along with each other.
 

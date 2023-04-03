@@ -2,8 +2,8 @@
 title: I hacked your site
 tags: 
 categories: 
-date: 2023-03-26
-lastMod: 2023-03-26
+date: 2023-04-03
+lastMod: 2023-04-03
 ---
 It isn't your fault, you were just doing your job. Even if you wanted to try to stop it, there isn't much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy.
 

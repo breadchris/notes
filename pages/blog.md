@@ -1,4 +1,6 @@
+- [[AI Can't Fold 1000 Cranes]]
 - [[Start with a Static Site]]
+  id:: 641f9021-a48c-462b-a3cd-768f86f38848
 - [[A Sustainable Thinker Always Wins]]
 - [[How I Got to Where I Am]]
 - [[NYU Dropped the Ball]]

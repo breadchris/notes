@@ -2,8 +2,8 @@
 title: NYU Dropped the Ball
 tags: 
 categories: 
-date: 2023-03-26
-lastMod: 2023-03-26
+date: 2023-04-03
+lastMod: 2023-04-03
 ---
 ## How it went wrong
 

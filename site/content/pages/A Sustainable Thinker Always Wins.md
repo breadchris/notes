@@ -2,8 +2,8 @@
 title: A Sustainable Thinker Always Wins
 tags: 
 categories: 
-date: 2023-03-25
-lastMod: 2023-03-26
+date: 2023-04-03
+lastMod: 2023-04-03
 ---
 You can think about a lot of different things all the time. Think about too many things and this becomes a serious problem, especially for those who have ADD. If you have a problem focusing on which idea to pursue, it is easy to experience the feeling of being lost. Life is happening, ideas come and go, but there is nothing for you to bring to show and tell.
 

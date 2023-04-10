@@ -1,3 +1,4 @@
+- [[I hacked my high school, and you should too]]
 - [[AI Can't Fold 1000 Cranes]]
 - [[Start with a Static Site]]
   id:: 641f9021-a48c-462b-a3cd-768f86f38848

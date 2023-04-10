@@ -1,0 +1,3 @@
+- #ml/bert
+- #ml/gpt
+- https://huggingface.co/ great place for models and datasets

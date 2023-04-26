@@ -2,8 +2,8 @@
 title: I hacked my high school, and you should too
 tags: 
 categories: 
-date: 2023-04-10
-lastMod: 2023-04-10
+date: 2023-04-26
+lastMod: 2023-04-26
 ---
 I have worked for Northrup Grumman and Uber as a security engineer and I built security tools that have been used around the world. The coolest thing that I have done in my life is that I got to help develop code that ran on every device that had Uber installed on it. The purpose of this code was to help the [20% Uber was losing to fraudulent trips](https://www.cnet.com/culture/uber-fights-off-scammers-every-day-heres-how-it-learned-the-tricks/). The talent needed to work on a project like this was so rare that I was hired on as the first team member, as an intern and later hired on as a college dropout. This is not to toot my own horn, but it is to make a point: being a "hacker" is rare and it might be one of the most powerful skills in the age of computers.
 

@@ -2,8 +2,8 @@
 title: We need Legos for Code
 tags: 
 categories: 
-date: 2023-04-03
-lastMod: 2023-04-03
+date: 2023-04-26
+lastMod: 2023-04-26
 ---
 ## Playing with Legos
 

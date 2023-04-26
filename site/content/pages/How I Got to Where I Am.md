@@ -2,8 +2,8 @@
 title: How I Got to Where I Am
 tags: 
 categories: 
-date: 2023-04-03
-lastMod: 2023-04-03
+date: 2023-04-26
+lastMod: 2023-04-26
 ---
 So i was in a really good high school [https://en.wikipedia.org/wiki/Poolesville_High_School](https://en.wikipedia.org/wiki/Poolesville_High_School) and so there would be some ridiculously smart people who would work on things and because the program was so close knit, information would disseminate between the grades and so the younger group of kids would only get that much better. I got involved in cyber security because the older kids competed in a competition that was for hacking and they did very well. So I strived to be like them and compete in competitions. Note that around this time CTFs were gaining traction, but hadn't quite got to the high schoolers yet. So the competition that I got brought up on was Brooklyn Polytechnic (now [https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering](https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering)) CSAW HSF (High School Forensics). It was a month long competition for high schoolers where the first round you had to spend a month looking at NCIS-like cyber forensics data online (go to fake website clones of facebook to look at someone's profile, they link to an image they took, image has EXIF data in it that has the next bit of evidence). So this competition was so cool that me and my friends were finalists for the competition. It was so cool, not only did you get an all expenses paid for trip to New york city to compete in finals, you got to also interact with all the other ridiculously smart finalists. They were from all over the country and they were all so cool that we ended up connecting our online social networks with them. A number of my friends today were finalists from that competition, including my roommate. They don't run this competition anymore because of politics, but I am trying to keep it alive with [https://github.com/CTFg/CTFg](https://github.com/CTFg/CTFg).
 

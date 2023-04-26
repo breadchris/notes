@@ -1,3 +1,5 @@
+- [[This is for Nolan]]
+- [[teach yourself about ai]]
 - [[I hacked my high school, and you should too]]
 - [[AI Can't Fold 1000 Cranes]]
 - [[Start with a Static Site]]
@@ -9,3 +11,4 @@
 - [[We need Legos for Code]]
 - [[Information About Gloving]]
 - [[What holds us back]]
+-

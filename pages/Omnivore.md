@@ -1,9 +1,406 @@
 - ## 🔖 Articles
-	- [Oneohtrix Point Never Discovers the End of the Internet in “Still Life (Betamale)”](https://omnivore.app/me/oneohtrix-point-never-discovers-the-end-of-the-internet-in-still-187683b791d)
+	- [Product news for writers: Boost, Subscriber report, Chat on the web, and more](https://omnivore.app/me/product-news-for-writers-boost-subscriber-report-chat-on-the-web-187ba48782e)
 	      collapsed:: true
-	      site:: [VICE](https://www.vice.com/en/article/r35v9r/oneohtrix-point-never-discovers-the-end-of-the-internet-in-still-life-betamale)
-	      author:: Brandon Soderberg
-	      date_saved:: [[Apr 9th, 2023]]
+	      site:: [on.substack.com](https://on.substack.com/p/product-news-dispatch-apr-23)
+	      author:: Substack
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 25th, 2023]]
+	- [Edge 285: A Recap Of Our Series About Federated Learning](https://omnivore.app/me/edge-285-a-recap-of-our-series-about-federated-learning-187b81aed8c)
+	      collapsed:: true
+	      site:: [thesequence.substack.com](https://thesequence.substack.com/p/edge-285-a-recap-of-our-series-about)
+	      author:: TheSequence
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 25th, 2023]]
+	- [Keep the monolith, but split the workloads | incident.io](https://omnivore.app/me/keep-the-monolith-but-split-the-workloads-incident-io-187b3fc9981)
+	      collapsed:: true
+	      site:: [incident.io](https://incident.io/blog/monolith)
+	      labels:: [[programming]][[infra]]
+	      date_saved:: [[Apr 24th, 2023]]
+	- [TheSequence subscription for you to give away](https://omnivore.app/me/the-sequence-subscription-for-you-to-give-away-187b3a6c375)
+	      collapsed:: true
+	      site:: [omnivore.app](https://omnivore.app/no_url?q=9d570610-67d6-4cc7-9d68-cd69e1c2b42e)
+	      author:: TheSequence
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 24th, 2023]]
+	- [Weekly AI and NLP News — April 24th 2023](https://omnivore.app/me/weekly-ai-and-nlp-news-april-24-th-2023-187b3858d8d)
+	      collapsed:: true
+	      site:: [nlplanet.beehiiv.com](https://nlplanet.beehiiv.com/p/weekly-ai-nlp-news-april-24th-2023)
+	      author:: NLPlanet Newsletter
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 24th, 2023]]
+	- [📝 Guest post: Elemeta: Metafeature extraction for unstructured data*](https://omnivore.app/me/guest-post-elemeta-metafeature-extraction-for-unstructured-data-187b36500e9)
+	      collapsed:: true
+	      site:: [thesequence.substack.com](https://thesequence.substack.com/p/guest-post-elemeta-metafeature-extraction)
+	      author:: TheSequence
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 24th, 2023]]
+	- [YouTube, the jewel of the internet | Financial Times](https://omnivore.app/me/you-tube-the-jewel-of-the-internet-financial-times-187b2275dee)
+	      collapsed:: true
+	      site:: [archive.is](https://archive.is/kUh3M)
+	      date_saved:: [[Apr 24th, 2023]]
+	- [Prompt-Engineering-Guide/prompts-advanced-usage.md at main · dair-ai/Prompt-Engineering-Guide · GitHub](https://omnivore.app/me/prompt-engineering-guide-prompts-advanced-usage-md-at-main-dair--187b0ad20d6)
+	      collapsed:: true
+	      site:: [github.com](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-advanced-usage.md)
+	      author:: dair-ai
+	      labels:: [[ai]][[programming]]
+	      date_saved:: [[Apr 23rd, 2023]]
+	- [Open Source Generative AI is Experiencing a "Linux Moment" but it Needs an "Apache Moment"](https://omnivore.app/me/open-source-generative-ai-is-experiencing-a-linux-moment-but-it--187adca952b)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/open-source-generative-ai-is-experiencing)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 23rd, 2023]]
+		- > This reference is based on the fact that the release of the Apache Web server was the event that raised the profile of Linux and gave it an edge over Microsoft’s Windows for hosting websites. Prior to the release of Apache, Linux remained an incredible open-source OS with a small community of early adopters and enthusiasts. [⤴️](https://omnivore.app/me/open-source-generative-ai-is-experiencing-a-linux-moment-but-it--187adca952b#1fdd8708-7418-4921-8cdd-e6f6bb0993ec)
+	- [Large Language Models and the Future of the ML Infrastructure Stack | Outerbounds](https://omnivore.app/me/large-language-models-and-the-future-of-the-ml-infrastructure-st-187aa5caa20)
+	        collapsed:: true
+	        site:: [Outerbounds](https://outerbounds.com/blog/llm-infrastructure-stack)
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 22nd, 2023]]
+		- > Although the internet and the web were very much in the public consciousness in 2001, no one could have predicted the success of TikTok or the ubiquity of internet-enabled rentable scooters. [⤴️](https://omnivore.app/me/large-language-models-and-the-future-of-the-ml-infrastructure-st-187aa5caa20#6f35ead1-fe84-4e84-9b23-51a0c7b95b0f)
+		- >  [⤴️](https://omnivore.app/me/large-language-models-and-the-future-of-the-ml-infrastructure-st-187aa5caa20#df757546-ded0-4fdf-95c5-83c5eee18fd5)
+	- [Finetuning Large Language Models - by Sebastian Raschka](https://omnivore.app/me/finetuning-large-language-models-by-sebastian-raschka-187aa5a78df)
+	        collapsed:: true
+	        site:: [Ahead of AI](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+	        author:: Sebastian Raschka
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 22nd, 2023]]
+	- [Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto](https://omnivore.app/me/prompt-engineering-vs-blind-prompting-mitchell-hashimoto-187aa5723b7)
+	        collapsed:: true
+	        site:: [Mitchell Hashimoto](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+	        labels:: [[ai]][[programming]]
+	        date_saved:: [[Apr 22nd, 2023]]
+	- [AI-powered Search for the Enterprise — with Deedy Das of Glean](https://omnivore.app/me/ai-powered-search-for-the-enterprise-with-deedy-das-of-glean-187a649cadc)
+	      collapsed:: true
+	      site:: [latent.space](https://www.latent.space/p/deedy-das)
+	      author:: swyx from Latent.Space
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 21st, 2023]]
+	- [Some thoughts on writing](https://omnivore.app/me/some-thoughts-on-writing-187a4e1210e)
+	      collapsed:: true
+	      site:: [danluu.com](https://danluu.com/writing-non-advice)
+	      date_saved:: [[Apr 21st, 2023]]
+	- [💡The Buyer’s Guide to Evaluating ML Feature Stores & Feature Platforms](https://omnivore.app/me/the-buyer-s-guide-to-evaluating-ml-feature-stores-feature-platfo-187a3821127)
+	      collapsed:: true
+	      site:: [thesequence.substack.com](https://thesequence.substack.com/p/the-buyers-guide-to-evaluating-ml)
+	      author:: TheSequence
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 21st, 2023]]
+	- [Edge 284: Meet Dolly 2.0: One of the First Open Source Instruction Following LLMs](https://omnivore.app/me/edge-284-meet-dolly-2-0-one-of-the-first-open-source-instruction-1879e5ad773)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/meet-dolly-20-one-of-the-first-open)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 20th, 2023]]
+	- [Why is it so hard to buy things that work well?](https://omnivore.app/me/why-is-it-so-hard-to-buy-things-that-work-well-1879bdaa1f4)
+	        collapsed:: true
+	        site:: [danluu.com](https://danluu.com/nothing-works)
+	        date_saved:: [[Apr 19th, 2023]]
+	- [Microsoft has a chip on their shoulder](https://omnivore.app/me/microsoft-has-a-chip-on-their-shoulder-187999cfedf)
+	      collapsed:: true
+	      site:: [bensbites.co](https://www.bensbites.co/p/microsoft-chip-shoulder)
+	      author:: Ben's Bites
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 19th, 2023]]
+		- > Thatch - **Virtual mailbox** to scan through your all of your inbound mail quickly with a fast summary. ([link](https://link.mail.beehiiv.com/ss/c/znicDlvJFyGBhcMAVWxZFgS-%5FbrAVjajm1IaoHLsuX6AXvdNmFpfv3XJrVuyJC0FCqAdBFFT8W9Bcorl6cAOBAENrvFRktbseeZdNoMoh3PrdeHpfF2k1wUde6QMbikw4fqSvrOdxBxlKDfUP%5FRT96aAjoqb87Xem%5FQd62TgboXxM-ulcIWeV%5FNEz71PE%5F0g/3vh/5jVqemWRSHyl42Jw-gZImw/h15/KHfBHSkfgCi7HnPT5SkriiiYSq-pIUxX9nWdZUgHOws)) [⤴️](https://omnivore.app/me/microsoft-has-a-chip-on-their-shoulder-187999cfedf#b08426c8-5a34-4982-b198-12b2efdebb93)
+	- [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c)
+	        collapsed:: true
+	        site:: [latent.space](https://www.latent.space/p/agents)
+	        author:: swyx from Latent.Space
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 19th, 2023]]
+		- > Demand and Supply Aggregators, Production-ready frameworks for underspecified Standards, “Shadow IT” to circumvent internal politics and byzantine rules, systems of record ([Zawinswyx’s Law](https://substack.com/redirect/f9f6491a-905e-4cf7-b98e-03a369d4a739?j=eyJ1IjoiMWlyZXJoIn0.yrLAMXN8W5URO7zYEpUyXu45MgQxHQwGZU8N-Pp6cdY)), and also replacing people and manual processes. [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#06dcd5cd-dac1-46da-a503-4f244b0e7111)
+		- > orchestration and the cyborg problem [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#79fada5a-8eca-44b3-8d8a-33277a631d74)
+		- > Yohei added the need for “[relevant (task) context](https://substack.com/redirect/244709a8-79d2-4f07-8692-bde1dedd8ca6?j=eyJ1IjoiMWlyZXJoIn0.yrLAMXN8W5URO7zYEpUyXu45MgQxHQwGZU8N-Pp6cdY)” [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#32a16703-8cff-45f3-a752-b76ecda94463)
+		- > **Capability 2: External Memory** (reading from mostly static external data) [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#2d8f65b8-b1b2-4fc2-b84b-b072c147cbb8)
+		- > Why do people all use pinecone to store like 10 things in memory [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#07033939-3463-4225-90ae-49bb57c81447)
+		- > all the open source winners are new to open source lol? is “open source experience” that valuable? [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#45696fe9-220f-40b7-97d7-80001ec1d861)
+		- > Capability 1: Metacognition (self improvement of pure reasoning) [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#840bfaff-e199-455d-812c-609cc388f799)
+		- > Jasper AI going 0 to $75m ARR in 2 years [⤴️](https://omnivore.app/me/the-anatomy-of-autonomy-why-agents-are-the-next-ai-killer-app-af-1879985518c#1137ab10-b59a-49e8-9c74-6c0c777f2fe3)
+	- [The Sequence Chat: Consensys's Lex Sokolin on Generative Art and Philosophical Principles of Generative AI](https://omnivore.app/me/the-sequence-chat-consensys-s-lex-sokolin-on-generative-art-and--18799358d1e)
+	      collapsed:: true
+	      site:: [thesequence.substack.com](https://thesequence.substack.com/p/the-sequence-chat-consensyss-lex)
+	      author:: TheSequence
+	      labels:: [[Newsletter]]
+	      date_saved:: [[Apr 19th, 2023]]
+		- > The role of the natural language model is to create the navigation, the view finder, by which you traverse the latent space of all visual data. [⤴️](https://omnivore.app/me/the-sequence-chat-consensys-s-lex-sokolin-on-generative-art-and--18799358d1e#402a54ff-6611-4c25-9cab-cc36393eff93)
+	- [Load Balancing](https://omnivore.app/me/load-balancing-18797a4f19d)
+	        collapsed:: true
+	        site:: [samwho.dev](https://samwho.dev/load-balancing)
+	        date_saved:: [[Apr 18th, 2023]]
+	- [Life Universe](https://omnivore.app/me/life-universe-18797a323ca)
+	        collapsed:: true
+	        site:: [oimo.io](https://oimo.io/works/life)
+	        date_saved:: [[Apr 18th, 2023]]
+	- [Will Open Source win?](https://omnivore.app/me/will-open-source-win-1879476b3ad)
+	        collapsed:: true
+	        site:: [bensbites.co](https://www.bensbites.co/p/will-open-source-win)
+	        author:: Ben's Bites
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 18th, 2023]]
+		- > Low-code LLM - **Visual programming over LLMs.** [⤴️](https://omnivore.app/me/will-open-source-win-1879476b3ad#3cb5a8ce-c99c-4a6f-b447-417199b0eff9)
+	- [Edge 283: Federated Learning and Differential Privacy](https://omnivore.app/me/edge-283-federated-learning-and-differential-privacy-187940e565c)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/edge-283-federated-learning-and-differential)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 18th, 2023]]
+		- > * [Google Differential Privacy Libraries:](https://substack.com/redirect/1f5fabbb-c0dc-4b4b-943a-0d3008b34e4d?j=eyJ1IjoiMWlyZXJoIn0.yrLAMXN8W5URO7zYEpUyXu45MgQxHQwGZU8N-Pp6cdY) Open-source library that includes data collection, preprocessing, and analysis tools (in C++, Java, and Go) for adding differential privacy to workflows. [⤴️](https://omnivore.app/me/edge-283-federated-learning-and-differential-privacy-187940e565c#58adf2c2-2f11-4d9f-ac27-e2e62623a2e4)
+	- [Kind Persistent Volumes](https://omnivore.app/me/kind-persistent-volumes-1879284180a)
+	        collapsed:: true
+	        site:: [mauilion.dev](https://mauilion.dev/posts/kind-pvc)
+	        date_saved:: [[Apr 17th, 2023]]
+	- [Google Search Killer, by Google](https://omnivore.app/me/google-search-killer-by-google-1878f4ef237)
+	        collapsed:: true
+	        site:: [bensbites.co](https://www.bensbites.co/p/new-google-search)
+	        author:: Ben's Bites
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 17th, 2023]]
+		- > Amazon CEO - We're **democratising generative AI.** [⤴️](https://omnivore.app/me/google-search-killer-by-google-1878f4ef237#5342d229-e4c3-4d9c-8f72-c52ffae8fa0a)
+		- > Sam Altman - The **size of LLMs won’t matter** as much moving forward. [⤴️](https://omnivore.app/me/google-search-killer-by-google-1878f4ef237#258366a8-2956-4f82-9cf2-b7132ec1ca48)
+		- > **Stephen Wolfram talks AI,** the universe, Richard Feynman and life advice. [⤴️](https://omnivore.app/me/google-search-killer-by-google-1878f4ef237#f9767990-f665-4148-949f-5fc9a9bddab9)
+		- > Now, I don’t know about Excel but I got you with AI. This article has **35 examples of people using AI** for gardening, doctor visits, designing spaceships and guess what? write Excel formulas. [⤴️](https://omnivore.app/me/google-search-killer-by-google-1878f4ef237#7418c21c-d5ef-4ba1-a81c-9efebdbe0842)
+	- [Weekly AI and NLP News — April 17th 2023](https://omnivore.app/me/weekly-ai-and-nlp-news-april-17-th-2023-1878f4799f0)
+	        collapsed:: true
+	        site:: [nlplanet.beehiiv.com](https://nlplanet.beehiiv.com/p/weekly-ai-nlp-news-april-17th-2023)
+	        author:: NLPlanet Newsletter
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 17th, 2023]]
+		- > Microsoft's Graphormer model. [⤴️](https://omnivore.app/me/weekly-ai-and-nlp-news-april-17-th-2023-1878f4799f0#7c298749-2295-4727-a0c0-dc3bd7ac48f7)
+		- > EU's proposed Cyber Resilience Act &amp; Product Liability Act [⤴️](https://omnivore.app/me/weekly-ai-and-nlp-news-april-17-th-2023-1878f4799f0#cff895fa-6737-48e8-920b-42d2449d68d8)
+	- [Understanding Large Language Models - by Sebastian Raschka](https://omnivore.app/me/understanding-large-language-models-by-sebastian-raschka-1878dd382f1)
+	      collapsed:: true
+	      site:: [Ahead of AI](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+	      author:: Sebastian Raschka
+	      date_saved:: [[Apr 16th, 2023]]
+	- [Cryptographic Best Practices](https://omnivore.app/me/cryptographic-best-practices-1878dd2b903)
+	      collapsed:: true
+	      site:: [Gist](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)
+	      date_saved:: [[Apr 16th, 2023]]
+	- [Ticketmaster’s Dark History - The American Prospect](https://omnivore.app/me/ticketmaster-s-dark-history-the-american-prospect-1878c1e32ce)
+	      collapsed:: true
+	      site:: [The American Prospect](https://prospect.org/power/ticketmasters-dark-history)
+	      author:: Maureen Tkacik, Krista Brown
+	      date_saved:: [[Apr 16th, 2023]]
+	- [In-depth analysis on Valorant's Guarded Regions :: Xyrem Engineering](https://omnivore.app/me/in-depth-analysis-on-valorant-s-guarded-regions-xyrem-engineerin-1878bbcfc53)
+	      collapsed:: true
+	      site:: [Xyrem Engineering](https://reversing.info/posts/guardedregions)
+	      author:: Xyrem
+	      labels:: [[programming]]
+	      date_saved:: [[Apr 16th, 2023]]
+	- [Big vs. Small, Open Source vs. API Based, the Philosophical Frictions of Foundation Models](https://omnivore.app/me/big-vs-small-open-source-vs-api-based-the-philosophical-friction-18789be7027)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/big-vs-small-open-source-vs-api-based)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 16th, 2023]]
+	- [stochasticai/xturing: Easily build, customize and control your own LLMs](https://omnivore.app/me/stochasticai-xturing-easily-build-customize-and-control-your-own-187864a9b04)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/stochasticai/xturing)
+	        author:: stochasticai
+	        date_saved:: [[Apr 15th, 2023]]
+	- [Smoke-away on Twitter](https://omnivore.app/me/https-twitter-com-smokeawayyy-status-1646670920214536193-187835492de)
+	        collapsed:: true
+	        site:: [Twitter](https://twitter.com/smokeawayyy/status/1646670920214536193)
+	        author:: Smoke-away
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 14th, 2023]]
+	- [What Are Transformer Models and How Do They Work?](https://omnivore.app/me/https-txt-cohere-ai-what-are-transformer-models-18783546352)
+	      collapsed:: true
+	      site:: [Context by Cohere](https://txt.cohere.ai/what-are-transformer-models)
+	      author:: Luis Serrano
+	      labels:: [[ai]]
+	      date_saved:: [[Apr 14th, 2023]]
+	- [LMQL: Programming Large Language Models](https://omnivore.app/me/lmql-programming-large-language-models-18783193519)
+	        collapsed:: true
+	        site:: [lmql.ai](https://lmql.ai)
+	        author:: Luca Beurer-Kellner,
+	        date_saved:: [[Apr 14th, 2023]]
+		- > LMQL is a programming language for language model interaction.  [⤴️](https://omnivore.app/me/lmql-programming-large-language-models-18783193519#5861ff5c-fc85-4c5c-a94f-54c0238cda0a)
+			- #gpt/prompts
+	- [Microservice Devs: Put Down the Particle Accelerator | Tilt Blog](https://omnivore.app/me/microservice-devs-put-down-the-particle-accelerator-tilt-blog-18782a6cc76)
+	        collapsed:: true
+	        site:: [Tilt Blog](https://blog.tilt.dev/2019/09/05/put-down-particle-accelerator.html)
+	        author:: dan
+	        date_saved:: [[Apr 14th, 2023]]
+		- > Stu Feldman created the first build tool, [Make](https://en.wikipedia.org/wiki/Make%5F%28software%29), to replace a script like `build.sh` because he kept making a mistake: he’d [debug the wrong code](https://www.princeton.edu/~hos/mike/transcripts/feldman.htm). [⤴️](https://omnivore.app/me/microservice-devs-put-down-the-particle-accelerator-tilt-blog-18782a6cc76#78177b15-f411-4e8d-a445-6930c0126e13)
+	- [Prompt injection: what’s the worst that can happen?](https://omnivore.app/me/prompt-injection-what-s-the-worst-that-can-happen-1878211f24e)
+	        collapsed:: true
+	        site:: [simonwillison.net](https://simonwillison.net/2023/Apr/14/worst-that-can-happen)
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 14th, 2023]]
+	- [Ben's Bites New Launch!](https://omnivore.app/me/ben-s-bites-new-launch-1877fded5ed)
+	        collapsed:: true
+	        site:: [bensbites.co](https://www.bensbites.co/p/amazons-copilot-called-bedrock)
+	        author:: Ben's Bites
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 14th, 2023]]
+	- [📌 Webinar: Improving search relevance with ML monitoring](https://omnivore.app/me/webinar-improving-search-relevance-with-ml-monitoring-1877f80df4d)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/webinar-improving-search-relevance)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 14th, 2023]]
+	- [“A really big deal”—Dolly is a free, open source, ChatGPT-style AI model | Ars Technica](https://omnivore.app/me/a-really-big-deal-dolly-is-a-free-open-source-chat-gpt-style-ai--1877c8e8919)
+	        collapsed:: true
+	        site:: [Ars Technica](https://arstechnica.com/information-technology/2023/04/a-really-big-deal-dolly-is-a-free-open-source-chatgpt-style-ai-model)
+	        author:: Benj Edwards
+	        date_saved:: [[Apr 13th, 2023]]
+	- [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego](https://omnivore.app/me/vicuna-an-open-source-chatbot-impressing-gpt-4-with-90-chat-gpt--1877c4428b4)
+	        collapsed:: true
+	        site:: [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality](https://vicuna.lmsys.org)
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 13th, 2023]]
+	- [Building LLM applications for production](https://omnivore.app/me/building-llm-applications-for-production-1877b9cf8a8)
+	        collapsed:: true
+	        site:: [huyenchip.com](https://huyenchip.com/2023/04/11/llm-engineering.html)
+	        author:: Chip Huyen
+	        date_saved:: [[Apr 13th, 2023]]
+		- > Whenever ChatGPT was down, OpenAI discord is flooded with students complaining about not being to complete their homework. [⤴️](https://omnivore.app/me/building-llm-applications-for-production-1877b9cf8a8#f5f21fa1-99d1-483f-94b5-735dc7f250fc)
+		- > **The cost of LLMOps is in inference.** [⤴️](https://omnivore.app/me/building-llm-applications-for-production-1877b9cf8a8#4dfb5110-54e1-4ea4-8ba7-5dae2489f3e3)
+		- > * Part 1 discusses the key challenges of productionizing LLM applications and the solutions that I’ve seen.
+		  * Part 2 discusses how to compose multiple tasks with control flows (e.g. if statement, for loop) and incorporate tools (e.g. SQL executor, bash, web browsers, third-party APIs) for more complex and powerful applications.
+		  * Part 3 covers some of the promising use cases that I’ve seen companies building on top of LLMs and how to construct them from smaller tasks. [⤴️](https://omnivore.app/me/building-llm-applications-for-production-1877b9cf8a8#741cf0e8-6ab5-448d-83db-952d94d163ae)
+	- [Robots that recycle](https://omnivore.app/me/robots-that-recycle-1877ab78d3d)
+	        collapsed:: true
+	        site:: [bensbites.co](https://www.bensbites.co/p/robots-recycle)
+	        author:: Ben's Bites
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 13th, 2023]]
+	- [Inside LangChain: The Super Popular LLM Framework You Need to Know About](https://omnivore.app/me/inside-lang-chain-the-super-popular-llm-framework-you-need-to-kn-1877a51ad32)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/inside-langchain-the-super-popular)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 13th, 2023]]
+	- [SQLite performance tuning - Scaling SQLite databases to many concurrent readers and multiple gigabytes while maintaining 100k SELECTs per second - phiresky's blog](https://omnivore.app/me/sq-lite-performance-tuning-scaling-sq-lite-databases-to-many-con-18779480f5c)
+	        collapsed:: true
+	        site:: [phiresky.github.io](https://phiresky.github.io/blog/2020/sqlite-performance-tuning)
+	        labels:: [[programming]]
+	        date_saved:: [[Apr 12th, 2023]]
+		- > pragma journal\_mode = WAL;pragma synchronous \= normal;pragma temp\_store = memory;pragma mmap\_size = 30000000000; [⤴️](https://omnivore.app/me/sq-lite-performance-tuning-scaling-sq-lite-databases-to-many-con-18779480f5c#18050814-a744-4ae9-8c1f-d2720f712e01)
+	- [Kids Toys Suck « Featured « JESDA.COM | Cars, travel, etc.](https://omnivore.app/me/kids-toys-suck-featured-jesda-com-cars-travel-etc-187792821b3)
+	        collapsed:: true
+	        site:: [jesda.com](http://jesda.com/2011/02/10/kids-toys-suck)
+	        author:: jesda
+	        date_saved:: [[Apr 12th, 2023]]
+	- [What is gotemplate.io? – Go Template Preview](https://omnivore.app/me/what-is-gotemplate-io-go-template-preview-18778511617)
+	        collapsed:: true
+	        site:: [gotemplate.io](https://gotemplate.io/what-is-this)
+	        date_saved:: [[Apr 12th, 2023]]
+	- [How does gotemplate.io work? – Go Template Preview](https://omnivore.app/me/how-does-gotemplate-io-work-go-template-preview-1877850347d)
+	        collapsed:: true
+	        site:: [gotemplate.io](https://gotemplate.io/how-does-this-work)
+	        date_saved:: [[Apr 12th, 2023]]
+	- [Scaffolded LLMs as natural language computers](https://omnivore.app/me/scaffolded-ll-ms-as-natural-language-computers-18777ada1e8)
+	        collapsed:: true
+	        site:: [beren.io](https://www.beren.io/2023-04-11-Scaffolded-LLMs-natural-language-computers)
+	        author:: Beren Millidge
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 12th, 2023]]
+	- [Experimenting with LLMs to Research, Reflect, and Plan](https://omnivore.app/me/experimenting-with-ll-ms-to-research-reflect-and-plan-18777acc025)
+	        collapsed:: true
+	        site:: [eugeneyan.com](https://eugeneyan.com/writing/llm-experiments)
+	        author:: Eugene Yan
+	        labels:: [[ai]][[search]]
+	        date_saved:: [[Apr 12th, 2023]]
+	- [FerretDB/FerretDB: A truly Open Source MongoDB alternative](https://omnivore.app/me/ferret-db-ferret-db-a-truly-open-source-mongo-db-alternative-18777ac0bcf)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/FerretDB/FerretDB)
+	        author:: FerretDB
+	        labels:: [[programming]]
+	        date_saved:: [[Apr 12th, 2023]]
+	- [DeepSpeed/README.md at master · microsoft/DeepSpeed · GitHub](https://omnivore.app/me/deep-speed-readme-md-at-master-microsoft-deep-speed-git-hub-18777ab61b6)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+	        author:: microsoft
+	        date_saved:: [[Apr 12th, 2023]]
+		- > DeepSpeed-RLHF System [⤴️](https://omnivore.app/me/deep-speed-readme-md-at-master-microsoft-deep-speed-git-hub-18777ab61b6#5b19b68e-f6dd-47a5-96c6-1ec2a7175066)
+		- > DeepSpeed-RLHF Pipeline [⤴️](https://omnivore.app/me/deep-speed-readme-md-at-master-microsoft-deep-speed-git-hub-18777ab61b6#a9cc3f60-c51c-4e06-987d-5ac21d622881)
+		- > Easy-to-use Training and Inference Experience for ChatGPT Like Models [⤴️](https://omnivore.app/me/deep-speed-readme-md-at-master-microsoft-deep-speed-git-hub-18777ab61b6#507ee42a-c241-47c8-82f7-ecaaaebe0041)
+	- [everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision](https://omnivore.app/me/everythingishacked-semaphore-a-full-body-keyboard-using-gestures-18777ab116b)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/everythingishacked/Semaphore)
+	        author:: everythingishacked
+	        date_saved:: [[Apr 12th, 2023]]
+	- [Regulation is on the way dear](https://omnivore.app/me/regulation-is-on-the-way-dear-18775908045)
+	        collapsed:: true
+	        site:: [bensbites.co](https://www.bensbites.co/p/regulations-way)
+	        author:: Ben's Bites
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 12th, 2023]]
+	- [The Sequence Chat: Salesforce Research's Junnan Li on Multimodal Generative AI](https://omnivore.app/me/the-sequence-chat-salesforce-research-s-junnan-li-on-multimodal--187752be6a1)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/the-sequence-chat-salesforce-researchs)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 12th, 2023]]
+	- [ravenscroftj/turbopilot](https://omnivore.app/me/ravenscroftj-turbopilot-18772885afc)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/ravenscroftj/turbopilot)
+	        author:: ravenscroftj
+	        date_saved:: [[Apr 11th, 2023]]
+	- [The Coming of Local LLMs - Nick Arner](https://omnivore.app/me/the-coming-of-local-ll-ms-nick-arner-18770fd509c)
+	        collapsed:: true
+	        site:: [nickarner.com](https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023)
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 11th, 2023]]
+		- > The cream of the crop of expertise in LLM’s are at OpenAI, Anthropic, and DeepMind. [⤴️](https://omnivore.app/me/the-coming-of-local-ll-ms-nick-arner-18770fd509c#e9bc6050-aeb8-4196-bf04-d815f04996e8)
+		- > the weights of [Facebook’s LLaMA model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) [leaked via a torrent posted to 4Chan](https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse) [⤴️](https://omnivore.app/me/the-coming-of-local-ll-ms-nick-arner-18770fd509c#4a3a9990-12a3-4fb8-82a6-62e184019c27)
+		- > Anih Thite [posted a video](https://twitter.com/thiteanish/status/1635188333705043969) of it running on a Google Pixel 6 phone. It was incredibly slow, at 1 token per second [⤴️](https://omnivore.app/me/the-coming-of-local-ll-ms-nick-arner-18770fd509c#6435c498-2075-4e6a-b48d-b017d7314c1e)
+		- > [Artem Andreenko](https://twitter.com/miolini) soon was able to get LLaMA running on a Raspberry Pi 4: [⤴️](https://omnivore.app/me/the-coming-of-local-ll-ms-nick-arner-18770fd509c#a678882a-c4d9-4bbe-85b1-ba5c21c8969d)
+	- [The secret history of Elon Musk, Sam Altman, and OpenAI | Semafor](https://omnivore.app/me/the-secret-history-of-elon-musk-sam-altman-and-open-ai-semafor-1877074f080)
+	        collapsed:: true
+	        site:: [semafor.com](https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai)
+	        author:: Reed Albergotti
+	        labels:: [[business ]][[ai]]
+	        date_saved:: [[Apr 11th, 2023]]
+	- [Edge 281: Cross-Device Federated Learning](https://omnivore.app/me/edge-281-cross-device-federated-learning-1877005e17f)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/edge-281-cross-device-federated-learning)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 11th, 2023]]
+	- [Python and Go : Part III - Packaging Python Code](https://omnivore.app/me/python-and-go-part-iii-packaging-python-code-1876e4d4ebe)
+	        collapsed:: true
+	        site:: [ardanlabs.com](https://www.ardanlabs.com/blog/2020/08/packaging-python-code.html)
+	        author:: Miki Tebeka
+	        labels:: [[programming]]
+	        date_saved:: [[Apr 10th, 2023]]
+	- [beir-cellar/beir: A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.](https://omnivore.app/me/beir-cellar-beir-a-heterogeneous-benchmark-for-information-retri-1876def7fa2)
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/beir-cellar/beir)
+	        author:: beir-cellar
+	        date_saved:: [[Apr 10th, 2023]]
+		- > beir-cellar/beir: A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets. [⤴️](https://omnivore.app/me/beir-cellar-beir-a-heterogeneous-benchmark-for-information-retri-1876def7fa2#90878b24-d833-4757-8c6f-7b6b6c1b8e5f)
+			- #lunabrain/search
+	- [Introduction | Platyplus](https://omnivore.app/me/introduction-platyplus-1876dd8679d)
+	        collapsed:: true
+	        site:: [platy.plus](https://platy.plus/docs)
+	        date_saved:: [[Apr 10th, 2023]]
+		- > As Platyplus brings the Hasura roles and permissions system to the frontend [⤴️](https://omnivore.app/me/introduction-platyplus-1876dd8679d#83f1ef64-15f6-49bc-b8e7-5a332557c7a7)
+	- [How To Deploy PyTorch Models as Production-Ready APIs | by Ahmed Besbes | Apr, 2023 | Towards Data Science](https://omnivore.app/me/how-to-deploy-py-torch-models-as-production-ready-ap-is-by-ahmed-1876d578336)
+	      collapsed:: true
+	      site:: [Towards Data Science](https://towardsdatascience.com/how-to-deploy-pytorch-models-as-production-ready-apis-f61136fd0244)
+	      author:: Ahmed Besbes
+	      labels:: [[ai]][[infra]]
+	      date_saved:: [[Apr 10th, 2023]]
+	- [HackerNews Ranking Algorithm: How would you have done it?](https://omnivore.app/me/hacker-news-ranking-algorithm-how-would-you-have-done-it-1876d490948)
+	        collapsed:: true
+	        site:: [Vigneshwarar’s Newsletter](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
+	        author:: Vigneshwarar
+	        labels:: [[search]]
+	        date_saved:: [[Apr 10th, 2023]]
+	- [📝 Guest Post: Caching LLM Queries for Improved Performance and Cost Savings*](https://omnivore.app/me/guest-post-caching-llm-queries-for-improved-performance-and-cost-1876c917eaa)
+	        collapsed:: true
+	        site:: [thesequence.substack.com](https://thesequence.substack.com/p/guest-post-caching-llm-queries-for)
+	        author:: TheSequence
+	        labels:: [[Newsletter]]
+	        date_saved:: [[Apr 10th, 2023]]
+	- [Oneohtrix Point Never Discovers the End of the Internet in “Still Life (Betamale)”](https://omnivore.app/me/oneohtrix-point-never-discovers-the-end-of-the-internet-in-still-187683b791d)
+	        collapsed:: true
+	        site:: [VICE](https://www.vice.com/en/article/r35v9r/oneohtrix-point-never-discovers-the-end-of-the-internet-in-still-life-betamale)
+	        author:: Brandon Soderberg
+	        date_saved:: [[Apr 9th, 2023]]
 	- [“Future Sex”: Adventures in an Erotic Wonderland | The New Yorker](https://omnivore.app/me/future-sex-adventures-in-an-erotic-wonderland-the-new-yorker-1876838cd22)
 	      collapsed:: true
 	      site:: [The New Yorker](https://www.newyorker.com/magazine/2016/10/17/future-sex-adventures-in-an-erotic-wonderland)
@@ -25,16 +422,17 @@
 	      labels:: [[Newsletter]]
 	      date_saved:: [[Apr 9th, 2023]]
 	- [The LLama Effect: How an Accidental Leak Sparked a Series of Impressive Open Source Alternatives to ChatGPT](https://omnivore.app/me/the-l-lama-effect-how-an-accidental-leak-sparked-a-series-of-imp-18767f78ff3)
-	      collapsed:: true
-	      site:: [TheSequence](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
-	      author:: Jesus Rodriguez
-	      labels:: [[ai]]
-	      date_saved:: [[Apr 9th, 2023]]
+	        collapsed:: true
+	        site:: [TheSequence](https://thesequence.substack.com/p/the-llama-effect-how-an-accidental)
+	        author:: Jesus Rodriguez
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 9th, 2023]]
 	- [From Deep to Long Learning? · Hazy Research](https://omnivore.app/me/from-deep-to-long-learning-hazy-research-18766910846)
-	      collapsed:: true
-	      site:: [hazyresearch.stanford.edu](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
-	      labels:: [[ai]]
-	      date_saved:: [[Apr 9th, 2023]]
+	        collapsed:: true
+	        site:: [hazyresearch.stanford.edu](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning)
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 9th, 2023]]
+		- > One fundamental issue we ran into was that the attention layers in Transformers scale quadratically in sequence length: [⤴️](https://omnivore.app/me/from-deep-to-long-learning-hazy-research-18766910846#e35ce804-fb7b-4294-a73d-f1e164309870)
 	- [A Closer Look at Go’s sync Package | by Teiva Harsanyi | Medium](https://omnivore.app/me/a-closer-look-at-go-s-sync-package-by-teiva-harsanyi-medium-187633a962d)
 	        collapsed:: true
 	        site:: [Medium](https://teivah.medium.com/a-closer-look-at-go-sync-package-9f4e4a28c35a)
@@ -51,37 +449,38 @@
 	      labels:: [[books]]
 	      date_saved:: [[Apr 8th, 2023]]
 	- [The Erosion of Free Will: Why Society's Loss of Belief in Freedom is Dangerous](https://omnivore.app/me/the-erosion-of-free-will-why-society-s-loss-of-belief-in-freedom-1875f46e516)
-	      collapsed:: true
-	      site:: [Anti-Mimetic](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
-	      author:: Luke Burgis
-	      date_saved:: [[Apr 7th, 2023]]
+	        collapsed:: true
+	        site:: [Anti-Mimetic](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
+	        author:: Luke Burgis
+	        date_saved:: [[Apr 7th, 2023]]
 	- [Beyond the PayPal Mafia: A Case Study on the Uber Alumni Network](https://omnivore.app/me/beyond-the-pay-pal-mafia-a-case-study-on-the-uber-alumni-network-1875e3f26e2)
-	      collapsed:: true
-	      site:: [Life on the Trail](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
-	      author:: Allison Barr Allen
-	      date_saved:: [[Apr 7th, 2023]]
+	        collapsed:: true
+	        site:: [Life on the Trail](https://trailruncapital.substack.com/p/beyond-the-paypal-mafia-a-case-study)
+	        author:: Allison Barr Allen
+	        date_saved:: [[Apr 7th, 2023]]
 	- [StackLLaMA: A hands-on guide to train LLaMA with RLHF](https://omnivore.app/me/stack-l-la-ma-a-hands-on-guide-to-train-l-la-ma-with-rlhf-1875c9458c3)
 	      collapsed:: true
 	      site:: [huggingface.co](https://huggingface.co/blog/stackllama)
 	      labels:: [[ai]]
 	      date_saved:: [[Apr 7th, 2023]]
 	- [Why I Blog](https://omnivore.app/me/why-i-blog-1875c93dbef)
-	      collapsed:: true
-	      site:: [dannyguo.com](https://www.dannyguo.com/blog/why-i-blog)
-	      labels:: [[learning]]
-	      date_saved:: [[Apr 7th, 2023]]
+	        collapsed:: true
+	        site:: [dannyguo.com](https://www.dannyguo.com/blog/why-i-blog)
+	        labels:: [[learning]]
+	        date_saved:: [[Apr 7th, 2023]]
+		- > What I understand now is that the very act of writing can change your thinking. [⤴️](https://omnivore.app/me/why-i-blog-1875c93dbef#9c935225-fe07-476f-8b04-2a69bac637f8)
 	- [Fundamental concepts of plugin infrastructures - Eli Bendersky's website](https://omnivore.app/me/fundamental-concepts-of-plugin-infrastructures-eli-bendersky-s-w-18758abe298)
-	      collapsed:: true
-	      site:: [eli.thegreenplace.net](https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures)
-	      date_saved:: [[Apr 6th, 2023]]
+	        collapsed:: true
+	        site:: [eli.thegreenplace.net](https://eli.thegreenplace.net/2012/08/07/fundamental-concepts-of-plugin-infrastructures)
+	        date_saved:: [[Apr 6th, 2023]]
 	- [Design patterns in Go's database/sql package - Eli Bendersky's website](https://omnivore.app/me/design-patterns-in-go-s-database-sql-package-eli-bendersky-s-web-18758ab8566)
 	      collapsed:: true
 	      site:: [eli.thegreenplace.net](https://eli.thegreenplace.net/2019/design-patterns-in-gos-databasesql-package)
 	      date_saved:: [[Apr 6th, 2023]]
 	- [SQLite as a document database](https://omnivore.app/me/sq-lite-as-a-document-database-18758a7465b)
-	      collapsed:: true
-	      site:: [dgl.cx](https://dgl.cx/2020/06/sqlite-json-support)
-	      date_saved:: [[Apr 6th, 2023]]
+	        collapsed:: true
+	        site:: [dgl.cx](https://dgl.cx/2020/06/sqlite-json-support)
+	        date_saved:: [[Apr 6th, 2023]]
 	- [Hybrid vigor: a winning way to use hybrid search - OpenSource Connections](https://omnivore.app/me/hybrid-vigor-a-winning-way-to-use-hybrid-search-open-source-conn-18757f2ffc8)
 	      collapsed:: true
 	      site:: [OpenSource Connections](https://opensourceconnections.com/blog/2023/02/27/hybrid-vigor-winning-at-hybrid-search)
@@ -94,10 +493,10 @@
 	      labels:: [[ai]][[search]]
 	      date_saved:: [[Apr 6th, 2023]]
 	- [SQLite journal in Go (golang)](https://omnivore.app/me/sq-lite-journal-in-go-golang-187548fcc94)
-	      collapsed:: true
-	      site:: [Gist](https://gist.github.com/corny/0c2a2372aaeac0e4a4bcba3e940ab114)
-	      author:: corny
-	      date_saved:: [[Apr 5th, 2023]]
+	        collapsed:: true
+	        site:: [Gist](https://gist.github.com/corny/0c2a2372aaeac0e4a4bcba3e940ab114)
+	        author:: corny
+	        date_saved:: [[Apr 5th, 2023]]
 	- [Posts - rand[om]](https://omnivore.app/me/posts-rand-om-187548dcc00)
 	      collapsed:: true
 	      site:: [ricardoanderegg.com](https://ricardoanderegg.com/posts)
@@ -112,15 +511,17 @@
 	      labels:: [[programming]]
 	      date_saved:: [[Apr 5th, 2023]]
 	- [So you want i3wm on MacOS? | Christian Bargmann](https://omnivore.app/me/so-you-want-i-3-wm-on-mac-os-christian-bargmann-18754598e41)
-	      collapsed:: true
-	      site:: [Christian Bargmann](https://cbrgm.net/post/2021-05-5-setup-macos)
-	      author:: Christian Bargmann
-	      date_saved:: [[Apr 5th, 2023]]
+	        collapsed:: true
+	        site:: [Christian Bargmann](https://cbrgm.net/post/2021-05-5-setup-macos)
+	        author:: Christian Bargmann
+	        date_saved:: [[Apr 5th, 2023]]
+		- > In fact, I’m very happy with the result, because it covers 90% of the features that made me love `i3wm` for years. [⤴️](https://omnivore.app/me/so-you-want-i-3-wm-on-mac-os-christian-bargmann-18754598e41#b69a64ea-407e-4807-aa44-6ee373b40c78)
+			- #linux/i3
 	- [Neural Networks: Zero To Hero](https://omnivore.app/me/neural-networks-zero-to-hero-18753d31600)
-	      collapsed:: true
-	      site:: [karpathy.ai](https://karpathy.ai/zero-to-hero.html)
-	      labels:: [[ai]]
-	      date_saved:: [[Apr 5th, 2023]]
+	        collapsed:: true
+	        site:: [karpathy.ai](https://karpathy.ai/zero-to-hero.html)
+	        labels:: [[ai]]
+	        date_saved:: [[Apr 5th, 2023]]
 	- [Extract knowledge from text: End-to-end information extraction pipeline with spaCy and Neo4j | by Tomaz Bratanic | Towards Data Science](https://omnivore.app/me/extract-knowledge-from-text-end-to-end-information-extraction-pi-1874da87afa)
 	        collapsed:: true
 	        site:: [Towards Data Science](https://towardsdatascience.com/extract-knowledge-from-text-end-to-end-information-extraction-pipeline-with-spacy-and-neo4j-502b2b1e0754)
@@ -155,9 +556,11 @@
 	      labels:: [[business ]]
 	      date_saved:: [[Apr 2nd, 2023]]
 	- [The Joy of Computer History Books](https://omnivore.app/me/the-joy-of-computer-history-books-1873f534850)
-	      collapsed:: true
-	      site:: [fabiensanglard.net](https://fabiensanglard.net/joy/index.html)
-	      date_saved:: [[Apr 1st, 2023]]
+	        collapsed:: true
+	        site:: [fabiensanglard.net](https://fabiensanglard.net/joy/index.html)
+	        date_saved:: [[Apr 1st, 2023]]
+		- > The Joy of Computer History Books [⤴️](https://omnivore.app/me/the-joy-of-computer-history-books-1873f534850#a3d6275e-28d0-48c9-bf08-7928c936ab11)
+			- #books
 	- [PCIe Bifurcation – What is it? How to enable? Optimal Configurations and use cases for NVMe SDDs/GPUs - Virtualization Blogs - Primarily focusing on VMware NSX](https://omnivore.app/me/pc-ie-bifurcation-what-is-it-how-to-enable-optimal-configuration-1873f51e07d)
 	        collapsed:: true
 	        site:: [Virtualization Blogs - Primarily focusing on VMware NSX](https://shuttletitan.com/miscellaneous/pcie-bifurcation-what-is-it-how-to-enable-optimal-configurations-and-use-cases-for-nvme-sdds-gpus)
@@ -222,11 +625,6 @@
 		- > Apple has their own (slightly inferior) lossless audio format, called ALAC. [⤴️](https://omnivore.app/me/yahweasel-s-audio-primer-craig-18739623169#c3bfa5b2-8266-4efc-a8c8-8e443f3bd954)
 		- > The most popular lossless audio compression format is FLAC (Free Lossless Audio Codec) [⤴️](https://omnivore.app/me/yahweasel-s-audio-primer-craig-18739623169#8b81769c-0da5-4a12-83bc-9d681dfe0a98)
 		- > The classic and simplest technology is a WAV file, or a “raw PCM waveform”. [⤴️](https://omnivore.app/me/yahweasel-s-audio-primer-craig-18739623169#69a537dc-7a1e-42ef-abd3-33526a446a1c)
-	- [Launch HN: Baseplate (YC W23) – Back end-as-a-service for LLM apps | Hacker News](https://omnivore.app/me/launch-hn-baseplate-yc-w-23-back-end-as-a-service-for-llm-apps-h-18738721eca)
-	        collapsed:: true
-	        site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=35375727)
-	        labels:: [[ai]]
-	        date_saved:: [[Mar 31st, 2023]]
 	- [Shtetl-Optimized » Blog Archive » If AI scaling is to be shut down, let it be for a coherent reason](https://omnivore.app/me/shtetl-optimized-blog-archive-if-ai-scaling-is-to-be-shut-down-l-18738705c6d)
 	      collapsed:: true
 	      site:: [Shtetl-Optimized](https://scottaaronson.blog/?p=7174)
@@ -239,9 +637,9 @@
 	      author:: Jordana Cepelewicz
 	      date_saved:: [[Mar 31st, 2023]]
 	- [AI-enhanced development makes me more ambitious with my projects](https://omnivore.app/me/ai-enhanced-development-makes-me-more-ambitious-with-my-projects-1873860585e)
-	      collapsed:: true
-	      site:: [simonwillison.net](https://simonwillison.net/2023/Mar/27/ai-enhanced-development)
-	      date_saved:: [[Mar 31st, 2023]]
+	        collapsed:: true
+	        site:: [simonwillison.net](https://simonwillison.net/2023/Mar/27/ai-enhanced-development)
+	        date_saved:: [[Mar 31st, 2023]]
 	- [Scratch is the world’s largest coding community for children | Hacker News](https://omnivore.app/me/scratch-is-the-world-s-largest-coding-community-for-children-hac-1873370af2e)
 	      collapsed:: true
 	      site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=35373052)
@@ -251,14 +649,16 @@
 	      site:: [GiiKER](https://giiker.com/products/super-slide)
 	      date_saved:: [[Mar 30th, 2023]]
 	- [verse-March23](https://omnivore.app/me/verse-march-23-187314209c0)
-	      collapsed:: true
-	      site:: [simon.peytonjones.org](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
-	      date_saved:: [[Mar 29th, 2023]]
+	        collapsed:: true
+	        site:: [simon.peytonjones.org](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
+	        date_saved:: [[Mar 29th, 2023]]
 	- [Deffro/text-preprocessing-techniques: 16 Text Preprocessing Techniques in Python for Twitter Sentiment Analysis.](https://omnivore.app/me/deffro-text-preprocessing-techniques-16-text-preprocessing-techn-1872fc72f62)
-	      collapsed:: true
-	      site:: [GitHub](https://github.com/Deffro/text-preprocessing-techniques)
-	      author:: Deffro
-	      date_saved:: [[Mar 29th, 2023]]
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/Deffro/text-preprocessing-techniques)
+	        author:: Deffro
+	        date_saved:: [[Mar 29th, 2023]]
+		- > #### 0\. Remove Unicode Strings and Noise
+			- #ml/preprocessing
 	- [What if you're already on top of things? | Oliver Burkeman](https://omnivore.app/me/what-if-you-re-already-on-top-of-things-oliver-burkeman-1872f59520b)
 	      collapsed:: true
 	      site:: [Oliver Burkeman](https://www.oliverburkeman.com/donelist)
@@ -276,11 +676,11 @@
 	      date_saved:: [[Mar 29th, 2023]]
 		- >  [⤴️](https://omnivore.app/me/your-best-option-for-speech-recognition-in-react-with-a-speech-t-1872ea9b346#3f63023f-5eda-4fb8-b5d9-34c5260f7037)
 	- [Building a transcript editor for the web - Cortico](https://omnivore.app/me/building-a-transcript-editor-for-the-web-cortico-1872ea7bbf2)
-	      collapsed:: true
-	      site:: [Cortico](https://cortico.ai/news/product-updates/building-a-transcript-editor-for-the-web)
-	      author:: Cortico Engineering
-	      labels:: [[search]]
-	      date_saved:: [[Mar 29th, 2023]]
+	        collapsed:: true
+	        site:: [Cortico](https://cortico.ai/news/product-updates/building-a-transcript-editor-for-the-web)
+	        author:: Cortico Engineering
+	        labels:: [[search]]
+	        date_saved:: [[Mar 29th, 2023]]
 	- [The Teen Mental Illness Epidemic is International: The Anglosphere](https://omnivore.app/me/the-teen-mental-illness-epidemic-is-international-the-anglospher-1872e4835c4)
 	      collapsed:: true
 	      site:: [After Babel](https://jonathanhaidt.substack.com/p/international-mental-illness-part-one)
@@ -338,15 +738,16 @@
 	      labels:: [[ai]]
 	      date_saved:: [[Mar 27th, 2023]]
 	- [Glamorize your problem domain - Richard Marmorstein](https://omnivore.app/me/glamorize-your-problem-domain-richard-marmorstein-187241d4aae)
-	      collapsed:: true
-	      site:: [twitchard.github.io](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
-	      labels:: [[programming]]
-	      date_saved:: [[Mar 27th, 2023]]
+	        collapsed:: true
+	        site:: [twitchard.github.io](https://twitchard.github.io/posts/2022-09-02-glamorize-your-problem-domain.html)
+	        labels:: [[programming]]
+	        date_saved:: [[Mar 27th, 2023]]
 	- [Thoughts on shipping a CLI-first product | Ergomake](https://omnivore.app/me/thoughts-on-shipping-a-cli-first-product-ergomake-187241c630f)
-	      collapsed:: true
-	      site:: [Ergomake](https://ergomake.dev/blog/building-cli-first)
-	      labels:: [[programming]]
-	      date_saved:: [[Mar 27th, 2023]]
+	        collapsed:: true
+	        site:: [Ergomake](https://ergomake.dev/blog/building-cli-first)
+	        labels:: [[programming]]
+	        date_saved:: [[Mar 27th, 2023]]
+		- > To cite a more commercial example, [Snyk](https://snyk.io/) also started as a CLI tool, [as Ben Williams, their VP of Product, mentions on Lenny's podcast](https://www.youtube.com/watch?v=21sFTZzIfUk). [⤴️](https://omnivore.app/me/thoughts-on-shipping-a-cli-first-product-ergomake-187241c630f#8945c022-6bbb-480c-9cee-64ed25e324bf)
 	- [Using compose files as a universal infrastructure interface | Ergomake](https://omnivore.app/me/using-compose-files-as-a-universal-infrastructure-interface-ergo-187241b0817)
 	      collapsed:: true
 	      site:: [Ergomake](https://ergomake.dev/blog/docker-compose-as-a-universal-interface)
@@ -366,10 +767,10 @@
 			- wat
 		- > Kubeflow is also integrated withSeldon Core, an open source platform for deploying machine learningmodels on Kubernetes, NVIDIA Triton Inference Server formaximized GPU utilization when deploying ML/DL models at scale, and MLRun Serving, an open-source serverless framework for deployment and monitoring of real-time ML/DL pipelines. [⤴️](https://omnivore.app/me/kubeflow-187228cf4af#134ef0bd-d00f-4bde-b2a7-4a80bb60effd)
 	- [Tutorial: How to Fine-Tune BERT for Extractive Summarization - by Skim AI](https://omnivore.app/me/tutorial-how-to-fine-tune-bert-for-extractive-summarization-by-s-1872254b3b6)
-	      collapsed:: true
-	      site:: [Skim AI](https://skimai.com/tutorial-how-to-fine-tune-bert-for-summarization)
-	      author:: Greggory Elias
-	      date_saved:: [[Mar 27th, 2023]]
+	        collapsed:: true
+	        site:: [Skim AI](https://skimai.com/tutorial-how-to-fine-tune-bert-for-summarization)
+	        author:: Greggory Elias
+	        date_saved:: [[Mar 27th, 2023]]
 	- [Graphical User Interface Gallery](https://omnivore.app/me/graphical-user-interface-gallery-1872183a332)
 	      collapsed:: true
 	      site:: [toastytech.com](http://toastytech.com/guis/index.html)
@@ -416,10 +817,12 @@
 	      labels:: [[ai]][[programming]]
 	      date_saved:: [[Mar 26th, 2023]]
 	- [PuerkitoBio/purell: tiny Go library to normalize URLs](https://omnivore.app/me/puerkito-bio-purell-tiny-go-library-to-normalize-ur-ls-1871d7cf893)
-	      collapsed:: true
-	      site:: [GitHub](https://github.com/PuerkitoBio/purell)
-	      author:: PuerkitoBio
-	      date_saved:: [[Mar 26th, 2023]]
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/PuerkitoBio/purell)
+	        author:: PuerkitoBio
+	        date_saved:: [[Mar 26th, 2023]]
+		- > Purell is a tiny Go library to normalize URLs. It returns a pure URL. Pure-ell. Sanitizer and all. Yeah, I know... [⤴️](https://omnivore.app/me/puerkito-bio-purell-tiny-go-library-to-normalize-ur-ls-1871d7cf893#57f17f2a-0d76-4efc-ab06-7f2fb63001c6)
+			- #golang/libraries
 	- [prototool/faq.md at a6d064684c011c8482f4218c681a66a64031fb1d · uber/prototool](https://omnivore.app/me/prototool-faq-md-at-a-6-d-064684-c-011-c-8482-f-4218-c-681-a-66--1871d3d2c5b)
 	      collapsed:: true
 	      site:: [GitHub](https://github.com/uber/prototool/blob/a6d064684c011c8482f4218c681a66a64031fb1d/docs/faq.md?plain=1)
@@ -442,10 +845,12 @@
 	      site:: [jbrandhorst.com](https://jbrandhorst.com/post/gogoproto)
 	      date_saved:: [[Mar 25th, 2023]]
 	- [bep/gr: Aka Go React: GopherJS bindings for Facebook React. NOTE: Still early and not production ready.](https://omnivore.app/me/bep-gr-aka-go-react-gopher-js-bindings-for-facebook-react-note-s-1871c58bc8e)
-	      collapsed:: true
-	      site:: [GitHub](https://github.com/bep/gr)
-	      author:: bep
-	      date_saved:: [[Mar 25th, 2023]]
+	        collapsed:: true
+	        site:: [GitHub](https://github.com/bep/gr)
+	        author:: bep
+	        date_saved:: [[Mar 25th, 2023]]
+		- > [GopherJS](https://github.com/gopherjs/gopherjs) bindings for Facebook React. [⤴️](https://omnivore.app/me/bep-gr-aka-go-react-gopher-js-bindings-for-facebook-react-note-s-1871c58bc8e#62894a9f-0fb0-4901-a540-e15d104aa147)
+			- #golang/libraries
 	- [bep/grouter: Highly Experimental React-Router Bindings for GopherJS](https://omnivore.app/me/bep-grouter-highly-experimental-react-router-bindings-for-gopher-1871c588dec)
 	      collapsed:: true
 	      site:: [github.com](https://github.com/bep/grouter)
@@ -500,9 +905,9 @@
 	      labels:: [[ai]][[programming]]
 	      date_saved:: [[Mar 25th, 2023]]
 	- [csw2023](https://omnivore.app/me/csw-2023-18719946cca)
-	      collapsed:: true
-	      site:: [openbsd.org](https://www.openbsd.org/papers/csw2023.pdf)
-	      date_saved:: [[Mar 25th, 2023]]
+	        collapsed:: true
+	        site:: [openbsd.org](https://www.openbsd.org/papers/csw2023.pdf)
+	        date_saved:: [[Mar 25th, 2023]]
 	- [BookCorpus - Wikipedia](https://omnivore.app/me/book-corpus-wikipedia-18717680208)
 	      collapsed:: true
 	      site:: [Wikimedia Foundation, Inc.](https://en.wikipedia.org/wiki/BookCorpus)
@@ -1281,10 +1686,13 @@
 	      author:: Jeff Ammons
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Sunken Greenhouse: The Solution To Plant Year Round - The Tiny Life](https://omnivore.app/me/sunken-greenhouse-the-solution-to-plant-year-round-the-tiny-life-18588f8a6ee)
-	      site:: [The Tiny Life](https://thetinylife.com/sunken-greenhouse)
-	      author:: Ryan Mitchell
-	      labels:: [[gardening]]
-	      date_saved:: [[Jan 6th, 2023]]
+	        collapsed:: true
+	        site:: [The Tiny Life](https://thetinylife.com/sunken-greenhouse)
+	        author:: Ryan Mitchell
+	        labels:: [[gardening]]
+	        date_saved:: [[Jan 6th, 2023]]
+		- > The Wallapini sunken greenhouse is one of the earliest known sheltered greenhouses in the world. They are used all across the globe by farmers and gardeners who hope to harness the sun’s thermal energy and extend their traditional growing season. [⤴️](https://omnivore.app/me/sunken-greenhouse-the-solution-to-plant-year-round-the-tiny-life-18588f8a6ee#6a939862-0d59-459f-b031-d13e7554db57)
+			- #plants/growing
 	- [Politics and the English Language | The Orwell Foundation](https://omnivore.app/me/politics-and-the-english-language-the-orwell-foundation-18588563594)
 	      site:: [The Orwell Foundation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language)
 	      author:: Eric Blair
@@ -1299,22 +1707,19 @@
 	      author:: Tomas Pueyo
 	      date_saved:: [[Jan 6th, 2023]]
 	- [Pan De Cristal (100% Hydration Spanish Glass Bread) is an Airy Crunchy Dream](https://omnivore.app/me/pan-de-cristal-100-hydration-spanish-glass-bread-is-an-airy-crun-185855e230b)
-	      site:: [youtube.com](https://youtube.com/watch?amp%3Bfeature=share&v=6sOEHrawhX0)
-	      author:: King Arthur Baking Company
-	      date_saved:: [[Jan 5th, 2023]]
+	        collapsed:: true
+	        site:: [youtube.com](https://youtube.com/watch?amp%3Bfeature=share&v=6sOEHrawhX0)
+	        author:: King Arthur Baking Company
+	        date_saved:: [[Jan 5th, 2023]]
 	- [Breaking Smart](https://omnivore.app/me/breaking-smart-185847d620c)
 	        site:: [Breaking Smart](https://breakingsmart.com/en/season-1)
 	        author:: breakingsmart
 	        date_saved:: [[Jan 5th, 2023]]
 	- [.:: Phrack Magazine ::.](https://omnivore.app/me/phrack-magazine-18583e718b0)
 	  collapsed:: true
-	      collapsed:: true
-	      site:: [phrack.org](http://phrack.org/issues/70/15.html)
-	      date_saved:: [[Jan 5th, 2023]]
-	- [Quantitative Information Risk Management | The FAIR Institute](https://omnivore.app/me/quantitative-information-risk-management-the-fair-institute-1858383b00f)
-	      site:: [fairinstitute.org](https://www.fairinstitute.org)
-	      author:: FAIR Institute
-	      date_saved:: [[Jan 5th, 2023]]
+	        collapsed:: true
+	        site:: [phrack.org](http://phrack.org/issues/70/15.html)
+	        date_saved:: [[Jan 5th, 2023]]
 	- [Omnivore](https://omnivore.app/me/omnivore-185832eca1a)
 	      site:: [chrome.google.com](https://chrome.google.com/webstore/detail/omnivore/blkggjdmcfjdbmmmlfcpplkchpeaiiab/related)
 	      date_saved:: [[Jan 5th, 2023]]

@@ -2,8 +2,8 @@
 title: Start with a Static Site
 tags: 
 categories: 
-date: 2023-04-03
-lastMod: 2023-04-03
+date: 2023-04-26
+lastMod: 2023-04-26
 ---
 Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.
 

@@ -1,0 +1,98 @@
+.standard-resume {
+  position: relative;
+  width: 580px;
+  margin: 0 auto;
+  display: block;
+  font-size: 10px;
+  font-weight: 300;
+
+  blockquote {
+    right: 50px;
+    top: -18px;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    max-width: 200px;
+    white-space: nowrap;
+  }
+
+  h2, h3 {
+    font-weight: bold;
+  }
+
+  h2 {
+    color: #323336;
+    margin: 25px 0;
+    text-transform: none;
+    font-size: 20px;
+  }
+
+  h3 {
+    margin: 20px 0;
+    color: darken(#c9cccf, 60%);
+    text-transform: uppercase;
+    font-size: 16px;
+  }
+
+
+  h4 {
+    color: darken(#c9cccf, 50%);
+    font-size: 14px;
+    & > a {
+      color: inherit;
+    }
+  }
+
+  p {
+    color: #96999b;
+  }
+
+  hr {
+    display: none;
+  }
+
+  ol, ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    zoom: 1;
+    font-size: 0;
+
+    &:after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+
+    li {
+      display: inline-block;
+      padding: 5px 18px;
+      background-color: #f1f5f7;
+      margin-right: 3px;
+      margin-bottom: 5px;
+      font-size: 14px;
+    }
+  }
+
+  p + p {
+    margin-top: 10px !important;
+  }
+
+  h3 ~ p {
+    color: #323336;
+    line-height: 1.66em;
+    margin-top: 15px;
+
+    strong {
+      text-transform: uppercase;
+      font-size: 18px;
+      font-weight: 600;
+      padding-bottom: 12px;
+    }
+
+    em {
+      color: #96999b;
+      font-style: normal;
+    }
+  }
+}

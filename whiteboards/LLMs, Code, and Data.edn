@@ -1,0 +1,257 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64596016-88f8-40f6-ab6c-fcb4062c7532"}
+:block/parent 
+{:block/uuid #uuid "64596016-88f8-40f6-ab6c-fcb4062c7532"}
+:block/properties 
+{}
+:block/uuid #uuid "6459604a-97f5-4f73-8024-cdfcc88a9e44"} 
+{:block/created-at 1683578967203
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:fill "purple"
+:type "box"
+:size [132 84.43470517850682]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Data"
+:id "d24bc940-ede1-11ed-a98c-b1c82c74b49a"
+:fontWeight 400
+:noFill false
+:point [312.84972312658266 303.0939189878584]
+:fontSize 20
+:parentId "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:nonce 1683578967425
+:italic false}}
+:block/updated-at 1683579322586} 
+{:block/content "Composing Data and code together to create more data\nid:: 64596078-8dbf-45d3-a9ac-b361acc13493"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6459604a-97f5-4f73-8024-cdfcc88a9e44"}
+:block/parent 
+{:block/uuid #uuid "64596016-88f8-40f6-ab6c-fcb4062c7532"}
+:block/properties 
+{:id "64596078-8dbf-45d3-a9ac-b361acc13493"}
+:block/uuid #uuid "64596078-8dbf-45d3-a9ac-b361acc13493"} 
+{:block/created-at 1683579000930
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "64596078-8dbf-45d3-a9ac-b361acc13493"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400.8461770403104 231.38560383377148]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e5ca7a70-ede1-11ed-a98c-b1c82c74b49a"
+:noFill false
+:point [6.725156244856805 32.959358210812184]
+:parentId "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:collapsedHeight 0
+:nonce 1683578999943}}
+:block/updated-at 1683579322586} 
+{:block/created-at 1683579041847
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:fill ""
+:type "box"
+:size [148 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Code"
+:id "fec48570-ede1-11ed-a98c-b1c82c74b49a"
+:fontWeight 400
+:noFill false
+:point [301.6001845822782 437.73344556677887]
+:fontSize 20
+:parentId "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:nonce 1683579041802
+:italic false}}
+:block/updated-at 1683579322586} 
+{:block/created-at 1683579105474
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:borderRadius 2
+:index 3
+:scale [1 1]
+:fill "purple"
+:type "box"
+:size [146.62521449573796 95.61001196538388]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Data"
+:id "23f69db0-ede2-11ed-a98c-b1c82c74b49a"
+:fontWeight 400
+:noFill false
+:point [300.821451892664 580.9398231163797]
+:fontSize 20
+:parentId "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:nonce 1683579104109
+:italic false}}
+:block/updated-at 1683579322586} 
+{:block/created-at 1683579127728
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "31b1ef90-ede2-11ed-a98c-b1c82c74b49a"
+:fontWeight 400
+:noFill true
+:point [380.98 388.53]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "31b1c880-ede2-11ed-a98c-b1c82c74b49a"}
+:end 
+{:id "end"
+:canBind true
+:point [2.23 45.2]
+:bindingId "31b1c881-ede2-11ed-a98c-b1c82c74b49a"}}
+:decorations 
+{:end "arrow"}
+:parentId "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:nonce 1683579127060
+:italic false}}
+:block/updated-at 1683579322586} 
+{:block/created-at 1683579136406
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "36c67142-ede2-11ed-a98c-b1c82c74b49a"
+:fontWeight 400
+:noFill true
+:point [377.78 526.73]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "36c67140-ede2-11ed-a98c-b1c82c74b49a"}
+:end 
+{:id "end"
+:canBind true
+:point [2.42 50.21]
+:bindingId "36c67141-ede2-11ed-a98c-b1c82c74b49a"}}
+:decorations 
+{:end "arrow"}
+:parentId "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:nonce 1683579135586
+:italic false}}
+:block/updated-at 1683579322586} 
+{:block/content "**Data** provides **context** to **code**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64596078-8dbf-45d3-a9ac-b361acc13493"}
+:block/parent 
+{:block/uuid #uuid "64596078-8dbf-45d3-a9ac-b361acc13493"}
+:block/properties 
+{}
+:block/uuid #uuid "64596116-1bd6-4fef-8c55-4fa78d6d822a"} 
+{:block/content "When you run code with some context, it can transform the data into some new resulting data\nid:: 64596123-2278-4b78-8795-d448f5701cd7"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64596116-1bd6-4fef-8c55-4fa78d6d822a"}
+:block/parent 
+{:block/uuid #uuid "64596078-8dbf-45d3-a9ac-b361acc13493"}
+:block/properties 
+{:id "64596123-2278-4b78-8795-d448f5701cd7"}
+:block/uuid #uuid "64596123-2278-4b78-8795-d448f5701cd7"})
+:pages (
+{:block/uuid #uuid "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64596016-88f8-40f6-ab6c-fcb4062c7532"
+:name "llms, code, and data"
+:bindings 
+{:31b1c880-ede2-11ed-a98c-b1c82c74b49a 
+{:id "31b1c880-ede2-11ed-a98c-b1c82c74b49a"
+:type "line"
+:fromId "31b1ef90-ede2-11ed-a98c-b1c82c74b49a"
+:toId "d24bc940-ede1-11ed-a98c-b1c82c74b49a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:31b1c881-ede2-11ed-a98c-b1c82c74b49a 
+{:id "31b1c881-ede2-11ed-a98c-b1c82c74b49a"
+:type "line"
+:fromId "31b1ef90-ede2-11ed-a98c-b1c82c74b49a"
+:toId "fec48570-ede1-11ed-a98c-b1c82c74b49a"
+:handleId "end"
+:point [0.57 0.7]
+:distance 4}
+:36c67140-ede2-11ed-a98c-b1c82c74b49a 
+{:id "36c67140-ede2-11ed-a98c-b1c82c74b49a"
+:type "line"
+:fromId "36c67142-ede2-11ed-a98c-b1c82c74b49a"
+:toId "fec48570-ede1-11ed-a98c-b1c82c74b49a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:36c67141-ede2-11ed-a98c-b1c82c74b49a 
+{:id "36c67141-ede2-11ed-a98c-b1c82c74b49a"
+:type "line"
+:fromId "36c67142-ede2-11ed-a98c-b1c82c74b49a"
+:toId "23f69db0-ede2-11ed-a98c-b1c82c74b49a"
+:handleId "end"
+:point [0.56 0.64]
+:distance 4}}
+:nonce 101
+:assets []}}
+:block/journal? false
+:block/updated-at 1683579322585
+:block/created-at 1683578902250
+:block/type "whiteboard"
+:block/name "llms, code, and data"
+:block/original-name "LLMs, Code, and Data"})}

@@ -1,0 +1,240 @@
+{:blocks (
+{:block/created-at 1686157150499
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [112.51171875 84.99609375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "node"
+:id "9c1f6900-0554-11ee-97cc-670e80f3acdb"
+:fontWeight 400
+:noFill false
+:point [271.796875 281.78515625]
+:fontSize 20
+:parentId "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:nonce 1686157145031
+:italic false}}
+:block/updated-at 1686157150499} 
+{:block/created-at 1686157205545
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [112.51171875 84.99609375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "generate"
+:id "a008b120-0554-11ee-97cc-670e80f3acdb"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [481.19140625 278.34765625]
+:fontSize 20
+:parentId "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:nonce 1686157162218
+:italic false}}
+:block/updated-at 1686157205545} 
+{:block/created-at 1686157200691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b16cbfb2-0554-11ee-97cc-670e80f3acdb"
+:fontWeight 400
+:noFill true
+:point [385.31 325.99]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "b16cbfb0-0554-11ee-97cc-670e80f3acdb"}
+:end 
+{:id "end"
+:canBind true
+:point [81.57 2.43]
+:bindingId "b8a3d341-0554-11ee-97cc-670e80f3acdb"}}
+:decorations 
+{:end "arrow"}
+:parentId "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:nonce 1686157181061
+:italic false}}
+:block/updated-at 1686157200691} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480b749-55c3-417f-8cc5-aff108dac6dd"}
+:block/parent 
+{:block/uuid #uuid "6480b749-55c3-417f-8cc5-aff108dac6dd"}
+:block/properties 
+{}
+:block/uuid #uuid "6480b79d-3b56-4380-9865-6e00a49d3837"} 
+{:block/content "you can generate a..."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480b79d-3b56-4380-9865-6e00a49d3837"}
+:block/parent 
+{:block/uuid #uuid "6480b749-55c3-417f-8cc5-aff108dac6dd"}
+:block/properties 
+{}
+:block/uuid #uuid "6480b7b7-c0c7-4ebb-9fd5-924608ebf827"} 
+{:block/created-at 1686157319841
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "6480b7b7-c0c7-4ebb-9fd5-924608ebf827"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 200]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d2c23a00-0554-11ee-97cc-670e80f3acdb"
+:noFill false
+:point [665.39453125 200.234375]
+:parentId "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:collapsedHeight 0
+:nonce 1686157236879}}
+:block/updated-at 1686157319841} 
+{:block/content "untyped scaffold"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480b7b7-c0c7-4ebb-9fd5-924608ebf827"}
+:block/parent 
+{:block/uuid #uuid "6480b7b7-c0c7-4ebb-9fd5-924608ebf827"}
+:block/properties 
+{}
+:block/uuid #uuid "6480b7f5-c5f4-4f51-95c1-ecb95c029bd5"} 
+{:block/content "scaffold with types"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480b7f5-c5f4-4f51-95c1-ecb95c029bd5"}
+:block/parent 
+{:block/uuid #uuid "6480b7b7-c0c7-4ebb-9fd5-924608ebf827"}
+:block/uuid #uuid "6480b7f6-0da7-4215-849d-7f9ededf70c8"} 
+{:block/content "AI implementation"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6480b7f6-0da7-4215-849d-7f9ededf70c8"}
+:block/parent 
+{:block/uuid #uuid "6480b7b7-c0c7-4ebb-9fd5-924608ebf827"}
+:block/uuid #uuid "6480b7f6-01d3-470d-ae4a-4c7295a14416"} 
+{:block/created-at 1686157319844
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "023d12a1-0555-11ee-97cc-670e80f3acdb"
+:fontWeight 400
+:noFill true
+:point [594.7 326.52]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "023ceb90-0555-11ee-97cc-670e80f3acdb"}
+:end 
+{:id "end"
+:canBind true
+:point [66.69 6.6]
+:bindingId "023d12a0-0555-11ee-97cc-670e80f3acdb"}}
+:decorations 
+{:end "arrow"}
+:parentId "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:nonce 1686157316334
+:italic false}}
+:block/updated-at 1686157319844})
+:pages (
+{:block/uuid #uuid "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6480b749-55c3-417f-8cc5-aff108dac6dd"
+:name "protoflow node lifecycle"
+:bindings 
+{:b16cbfb0-0554-11ee-97cc-670e80f3acdb 
+{:id "b16cbfb0-0554-11ee-97cc-670e80f3acdb"
+:type "line"
+:fromId "b16cbfb2-0554-11ee-97cc-670e80f3acdb"
+:toId "9c1f6900-0554-11ee-97cc-670e80f3acdb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b8a3d341-0554-11ee-97cc-670e80f3acdb 
+{:id "b8a3d341-0554-11ee-97cc-670e80f3acdb"
+:type "line"
+:fromId "b16cbfb2-0554-11ee-97cc-670e80f3acdb"
+:toId "a008b120-0554-11ee-97cc-670e80f3acdb"
+:handleId "end"
+:point [0.81 0.56]
+:distance 4}
+:023ceb90-0555-11ee-97cc-670e80f3acdb 
+{:id "023ceb90-0555-11ee-97cc-670e80f3acdb"
+:type "line"
+:fromId "023d12a1-0555-11ee-97cc-670e80f3acdb"
+:toId "a008b120-0554-11ee-97cc-670e80f3acdb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:023d12a0-0555-11ee-97cc-670e80f3acdb 
+{:id "023d12a0-0555-11ee-97cc-670e80f3acdb"
+:type "line"
+:fromId "023d12a1-0555-11ee-97cc-670e80f3acdb"
+:toId "d2c23a00-0554-11ee-97cc-670e80f3acdb"
+:handleId "end"
+:point [0.37 0.73]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("9c1f6900-0554-11ee-97cc-670e80f3acdb" "a008b120-0554-11ee-97cc-670e80f3acdb" "b16cbfb2-0554-11ee-97cc-670e80f3acdb" "d2c23a00-0554-11ee-97cc-670e80f3acdb" "023d12a1-0555-11ee-97cc-670e80f3acdb")}}
+:block/updated-at 1686157319840
+:block/created-at 1686157129233
+:block/type "whiteboard"
+:block/name "protoflow node lifecycle"
+:block/original-name "protoflow node lifecycle"})}

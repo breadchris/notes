@@ -1,0 +1,170 @@
+{:blocks (
+{:block/created-at 1686182950706
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [156.171875 119.75]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "The sky"
+:id "e871d320-058f-11ee-97cc-670e80f3acdb"
+:fontWeight 400
+:noFill false
+:point [400.66796875 170.51171875]
+:fontSize 20
+:parentId "64811ac8-d3b1-4e0c-9311-2de648f5ea42"
+:nonce 1686182724342
+:italic false}}
+:block/updated-at 1686182950706} 
+{:block/content "prompts"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64811ac8-d3b1-4e0c-9311-2de648f5ea42"}
+:block/parent 
+{:block/uuid #uuid "64811ac8-d3b1-4e0c-9311-2de648f5ea42"}
+:block/properties 
+{}
+:block/uuid #uuid "64811bc7-02c3-47e8-8f85-45c3216f2fae"} 
+{:block/created-at 1686182950708
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "64811bc7-02c3-47e8-8f85-45c3216f2fae"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [393.50390625000006 195.76953125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "76616d30-0590-11ee-97cc-670e80f3acdb"
+:noFill false
+:point [304.82890624999993 373.73359374999995]
+:parentId "64811ac8-d3b1-4e0c-9311-2de648f5ea42"
+:collapsedHeight 0
+:nonce 1686182851542}}
+:block/updated-at 1686182950708} 
+{:block/content "you are building a mind map of the topic: {.Input}. The output should be a json key value mapping"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64811bc7-02c3-47e8-8f85-45c3216f2fae"}
+:block/parent 
+{:block/uuid #uuid "64811bc7-02c3-47e8-8f85-45c3216f2fae"}
+:block/properties 
+{}
+:block/uuid #uuid "64811bfb-fb33-4478-bd49-802f53e787c4"} 
+{:block/content "((64442f38-e873-4b49-bc19-eea23bc7f91d))"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64811bfb-fb33-4478-bd49-802f53e787c4"}
+:block/parent 
+{:block/uuid #uuid "64811bfb-fb33-4478-bd49-802f53e787c4"}
+:block/properties 
+{}
+:block/uuid #uuid "64811c3b-4198-4189-9c79-2a1edff05128"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64811c3b-4198-4189-9c79-2a1edff05128"}
+:block/parent 
+{:block/uuid #uuid "64811bfb-fb33-4478-bd49-802f53e787c4"}
+:block/properties 
+{}
+:block/uuid #uuid "64811c63-6033-4916-8316-9715ba631651"} 
+{:block/content "question"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64811bc7-02c3-47e8-8f85-45c3216f2fae"}
+:block/parent 
+{:block/uuid #uuid "64811ac8-d3b1-4e0c-9311-2de648f5ea42"}
+:block/properties 
+{}
+:block/uuid #uuid "648227cd-61e6-4bad-a3a3-7210d36cec87"} 
+{:block/content "question and answer tree"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "648227cd-61e6-4bad-a3a3-7210d36cec87"}
+:block/parent 
+{:block/uuid #uuid "64811ac8-d3b1-4e0c-9311-2de648f5ea42"}
+:block/properties 
+{}
+:block/uuid #uuid "6482280b-7866-4bb2-8bfe-0bb1fb020310"} 
+{:block/created-at 1686251584443
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "6482280b-7866-4bb2-8bfe-0bb1fb020310"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 195]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5e683ab0-0630-11ee-97cc-670e80f3acdb"
+:noFill false
+:point [884.9796874999989 363.01171874999966]
+:parentId "64811ac8-d3b1-4e0c-9311-2de648f5ea42"
+:collapsedHeight 0
+:nonce 1686251530738}}
+:block/updated-at 1686251584443} 
+{:block/content "each node is a piece of data"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6482280b-7866-4bb2-8bfe-0bb1fb020310"}
+:block/parent 
+{:block/uuid #uuid "6482280b-7866-4bb2-8bfe-0bb1fb020310"}
+:block/properties 
+{}
+:block/uuid #uuid "6482281e-04a6-4378-9017-135ea620ee9b"} 
+{:block/content "data is related to each other in a context chain"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6482281e-04a6-4378-9017-135ea620ee9b"}
+:block/parent 
+{:block/uuid #uuid "6482280b-7866-4bb2-8bfe-0bb1fb020310"}
+:block/properties 
+{}
+:block/uuid #uuid "64822826-833d-4772-9696-8964eb318932"})
+:pages (
+{:block/uuid #uuid "64811ac8-d3b1-4e0c-9311-2de648f5ea42"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64811ac8-d3b1-4e0c-9311-2de648f5ea42"
+:name "llm tree contextualizer"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e871d320-058f-11ee-97cc-670e80f3acdb" "76616d30-0590-11ee-97cc-670e80f3acdb" "5e683ab0-0630-11ee-97cc-670e80f3acdb")}}
+:block/updated-at 1686251585737
+:block/created-at 1686182600537
+:block/type "whiteboard"
+:block/name "llm tree contextualizer"
+:block/original-name "llm tree contextualizer"})}

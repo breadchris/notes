@@ -1,0 +1,11 @@
+- microsoft: embrace, extend, extinguish
+	- GPL is a virus
+	- "Embrace, extend, extinguish" (EEE) is a phrase that refers to a business strategy often associated with Microsoft in the late 1990s. It implies a plan to gain dominance in a market by initially embracing and extending an existing technology or standard, and eventually extinguishing competing alternatives.
+	- The strategy involves the following steps:
+	- Embrace: The company adopts or supports an existing technology or standard, typically in a way that appears cooperative and beneficial to the industry as a whole. This can lead to partnerships, collaborations, or interoperability agreements.
+	- Extend: The company introduces proprietary or additional features to the adopted technology or standard, making it more attractive or advanced compared to alternatives. These extensions are typically designed to work best with the company's own products or services.
+	- Extinguish: The company leverages its market power, dominance, or exclusive features to marginalize or eliminate competing technologies or standards. This can involve discouraging the use of alternative options, limiting interoperability, or promoting their own solutions as the de facto standard.
+	- The phrase "embrace, extend, extinguish" is often used to describe a perceived anti-competitive strategy, where a dominant player in a market attempts to control or monopolize the industry by undermining competition. It has been a subject of debate and criticism, particularly in the context of software and technology markets.
+	- intel management engine
+		- Intel Management Engine (ME) is a subsystem present in many Intel CPUs that provides various features and functionalities, primarily for system management and security purposes. It is an embedded microcontroller with its own firmware that operates independently of the main CPU and operating system.
+	-

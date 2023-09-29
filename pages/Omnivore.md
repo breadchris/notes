@@ -1,4 +1,31 @@
 ## 🔖 Articles
+	- [Just kidding: the evolutionary roots of playful teasing | Biology Letters](https://omnivore.app/me/just-kidding-the-evolutionary-roots-of-playful-teasing-biology-l-18adfe3860d)
+	  collapsed:: true
+	  site:: [Biology Letters](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0370)
+	  author:: Erica A. Cartmill
+	  labels:: [[communication]]
+	  date-saved:: [[Sep 29th, 2023]]
+	  date-published:: [[Dec 31st, 2019]]
+	- [Getting Started with Rails — Ruby on Rails Guides](https://omnivore.app/me/https-guides-rubyonrails-org-getting-started-html-18ade6839cd)
+	  collapsed:: true
+	  site:: [Ruby on Rails Guides](https://guides.rubyonrails.org/getting_started.html)
+	  labels:: [[programming]]
+	  date-saved:: [[Sep 28th, 2023]]
+	  date-published:: [[Jan 17th, 2020]]
+	- [Strut — Turn rough notes into finished content with AI](https://omnivore.app/me/strut-turn-rough-notes-into-finished-content-with-ai-18addc934dd)
+	  collapsed:: true
+	  site:: [strut.so](https://strut.so)
+	  date-saved:: [[Sep 28th, 2023]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/strut-turn-rough-notes-into-finished-content-with-ai-18addc934dd#d4a236f0-d47a-4030-8fcb-9eb0802782dd)
+	- [Publishers and Scholars, Unite! - Public Books](https://omnivore.app/me/publishers-and-scholars-unite-public-books-18add9c6568)
+	  collapsed:: true
+	  site:: [Public Books](https://www.publicbooks.org/publishers-and-scholars-unite)
+	  author:: Imani Radney
+	  date-saved:: [[Sep 28th, 2023]]
+	  date-published:: [[Sep 28th, 2023]]
+		- ### Highlights
+			- > Between 1975 and 1995, the percentage of part-time faculty in the academic workforce increased from 24 percent to 33 percent, while the percentage of tenure-track and tenured faculty dropped from 45 percent to 34 percent. [⤴️](https://omnivore.app/me/publishers-and-scholars-unite-public-books-18add9c6568#36bbd8c2-0b9d-4f9f-900f-15755c980c28)
 	- [Nougat](https://omnivore.app/me/nougat-18ad84551ba)
 	  collapsed:: true
 	  site:: [facebookresearch.github.io](https://facebookresearch.github.io/nougat)
@@ -20,6 +47,14 @@
 	  labels:: [[ai]]
 	  date-saved:: [[Sep 26th, 2023]]
 	  date-published:: [[Sep 21st, 2023]]
+		- ### Highlights
+			- > Standalone general consumer search [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#79d4b36b-e3dc-4fd6-afc1-abd4618cbe26)
+			- > Running large models locally [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#2e192a0b-b130-40f7-ae68-06e57e58c50b)
+			- > Digital asset generation for work &amp; for fun [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#ed6789ce-0ac2-4eb4-b6d0-80ef5eb0ce4e)
+			- > Developer tooling platform [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#95b8c2f4-c506-411a-b33f-85eaa30ee0c5)
+			- > Personal assistant &amp; coach [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#ea069e78-590d-43fc-a969-37d0c57843ef)
+			- > Augmenting knowledge workers (consulting, legal, medical, finance, etc.) [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#f4ad5bc1-3b58-4bb6-87c8-75caf6e05787)
+			- > In medicine, doctors can have more leverage with [automatic entry of patient data\* ](https://www.ambiencehealthcare.com/)into their electronic health records after a meeting (especially important with the [turnover of medical scribes](https://www.statnews.com/2016/04/25/scribes-emergency-room/)) as well as automated patient or hospital Q&amp;A through [chatbots](https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt). [⤴️](https://omnivore.app/me/how-to-make-history-with-ll-ms-other-generative-models-18ad22cb88a#732f78c3-61de-4488-a18b-959bd0a80355)
 	- [Anna’s Archive](https://omnivore.app/me/anna-s-archive-18ad228bacf)
 	  collapsed:: true
 	  site:: [annas-archive.org](https://annas-archive.org)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [arvis-workflows/arvis-chrome-workflow: Chrome kernel based broswer workflow for Arvis](https://omnivore.app/me/arvis-workflows-arvis-chrome-workflow-chrome-kernel-based-broswe-18ae7a9a72c)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/arvis-workflows/arvis-chrome-workflow)
+	  labels:: [[programming]]
+	  date-saved:: [[Sep 30th, 2023]]
+	- [tgrassl/rekishi: 🔍 Relive your search history!](https://omnivore.app/me/tgrassl-rekishi-relive-your-search-history-18ae7a88011)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/tgrassl/rekishi/tree/main)
+	  labels:: [[programming]]
+	  date-saved:: [[Sep 30th, 2023]]
 	- [Low-Code Programming Models | October 2023 | Communications of the ACM](https://omnivore.app/me/low-code-programming-models-october-2023-communications-of-the-a-18ae400d1bb)
 	  collapsed:: true
 	  site:: [m-cacm.acm.org](https://m-cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)

@@ -1,4 +1,40 @@
 ## 🔖 Articles
+	- [Low-Code Programming Models | October 2023 | Communications of the ACM](https://omnivore.app/me/low-code-programming-models-october-2023-communications-of-the-a-18ae400d1bb)
+	  collapsed:: true
+	  site:: [m-cacm.acm.org](https://m-cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
+	  author:: Martin Hirzel
+	  labels:: [[programming]]
+	  date-saved:: [[Sep 29th, 2023]]
+	  date-published:: [[Sep 30th, 2023]]
+	- [How to win your first 10 B2B customers - by Lenny Rachitsky](https://omnivore.app/me/https-www-lennysnewsletter-com-p-how-to-win-your-first-10-b-2-b--18ae39216fc)
+	  collapsed:: true
+	  site:: [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-win-your-first-10-b2b-customers)
+	  author:: Lenny Rachitsky
+	  date-saved:: [[Sep 29th, 2023]]
+	  date-published:: [[Sep 5th, 2023]]
+	- [How to identify your ideal customer profile (ICP)](https://omnivore.app/me/https-www-lennysnewsletter-com-p-how-to-identify-your-ideal-cust-18ae3920463)
+	  collapsed:: true
+	  site:: [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-identify-your-ideal-customer)
+	  author:: Lenny Rachitsky
+	  date-saved:: [[Sep 29th, 2023]]
+	  date-published:: [[Aug 29th, 2023]]
+	- [How to validate your B2B startup idea - by Lenny Rachitsky](https://omnivore.app/me/https-www-lennysnewsletter-com-p-how-to-validate-your-b-2-b-star-18ae391edd2)
+	  collapsed:: true
+	  site:: [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-validate-your-b2b-startup)
+	  author:: Lenny Rachitsky
+	  date-saved:: [[Sep 29th, 2023]]
+	  date-published:: [[Aug 15th, 2023]]
+	- [How the most successful B2B startups came up with their original idea](https://omnivore.app/me/https-www-lennysnewsletter-com-p-how-the-most-successful-b-2-b-s-18ae391dd7e)
+	  collapsed:: true
+	  site:: [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups)
+	  author:: Lenny Rachitsky
+	  date-saved:: [[Sep 29th, 2023]]
+	  date-published:: [[Aug 8th, 2023]]
+	- [ruddfawcett/Notepad: [iOS] A fully themeable markdown editor with live syntax highlighting.](https://omnivore.app/me/ruddfawcett-notepad-i-os-a-fully-themeable-markdown-editor-with--18ae357d2ba)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ruddfawcett/Notepad)
+	  labels:: [[programming]]
+	  date-saved:: [[Sep 29th, 2023]]
 	- [Just kidding: the evolutionary roots of playful teasing | Biology Letters](https://omnivore.app/me/just-kidding-the-evolutionary-roots-of-playful-teasing-biology-l-18adfe3860d)
 	  collapsed:: true
 	  site:: [Biology Letters](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0370)
@@ -134,11 +170,6 @@
 	- [NSA Backdoor Key from Lotus-Notes](https://omnivore.app/me/nsa-backdoor-key-from-lotus-notes-18aaabdf874)
 	  collapsed:: true
 	  site:: [cypherspace.org](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
-	  date-saved:: [[Sep 18th, 2023]]
-	- [38TB of data accidentally exposed by Microsoft AI researchers | Wiz Blog](https://omnivore.app/me/38-tb-of-data-accidentally-exposed-by-microsoft-ai-researchers-w-18aa90da765)
-	  collapsed:: true
-	  site:: [wiz.io](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
-	  labels:: [[security ]]
 	  date-saved:: [[Sep 18th, 2023]]
 	- [Chili Oil Notes - Up to Interpretation](https://omnivore.app/me/chili-oil-notes-up-to-interpretation-18aa466fa93)
 	  collapsed:: true

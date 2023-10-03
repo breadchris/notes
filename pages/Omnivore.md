@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [book notes | Derek Sivers](https://omnivore.app/me/book-notes-derek-sivers-18af724b35c)
+	  collapsed:: true
+	  site:: [sive.rs](https://sive.rs/book)
+	  labels:: [[books]]
+	  date-saved:: [[Oct 3rd, 2023]]
+	- [HackerNews Readings: Thinking, Fast and Slow](https://omnivore.app/me/hacker-news-readings-thinking-fast-and-slow-18af7207eab)
+	  collapsed:: true
+	  site:: [hacker-recommended-books.vercel.app](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
+	  date-saved:: [[Oct 3rd, 2023]]
+	- [flomo - Capture faster, review better](https://omnivore.app/me/flomo-capture-faster-review-better-18af71773dd)
+	  collapsed:: true
+	  site:: [flomoapp.com](https://flomoapp.com)
+	  labels:: [[notetaking]]
+	  date-saved:: [[Oct 3rd, 2023]]
 	- [decomp.me](https://omnivore.app/me/decomp-me-18aeecee339)
 	  collapsed:: true
 	  site:: [decomp.me](https://decomp.me)

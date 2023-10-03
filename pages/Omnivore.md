@@ -1,4 +1,32 @@
 ## 🔖 Articles
+	- [decomp.me](https://omnivore.app/me/decomp-me-18aeecee339)
+	  collapsed:: true
+	  site:: [decomp.me](https://decomp.me)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 1st, 2023]]
+	- [What is Hybrid Search? Maybe Not What You Think - Pureinsights](https://omnivore.app/me/what-is-hybrid-search-maybe-not-what-you-think-pureinsights-18a1ee496a3)
+	  collapsed:: true
+	  site:: [Pureinsights](https://pureinsights.com/blog/2023/what-is-hybrid-search-maybe-not-what-you-think)
+	  author:: Graham Gillen
+	  labels:: [[ai]][[search]]
+	  date-saved:: [[Aug 22nd, 2023]]
+	  date-published:: [[Jan 24th, 2023]]
+	- [npm Blog Archive: npm v7 Series - Arborist Deep Dive](https://omnivore.app/me/npm-blog-archive-npm-v-7-series-arborist-deep-dive-1862a72399c)
+	  collapsed:: true
+	  site:: [blog.npmjs.org](https://blog.npmjs.org/post/618653678433435649/npm-v7-series-arborist-deep-dive)
+	  labels:: [[programming]]
+	  date-saved:: [[Feb 6th, 2023]]
+	- [A Case Against CVSS: Vulnerability Management Done Wrong](https://omnivore.app/me/a-case-against-cvss-vulnerability-management-done-wrong-1861f0ec05a)
+	  collapsed:: true
+	  site:: [Medium](https://hlchowland.medium.com/a-case-against-cvss-vulnerability-management-done-wrong-99a0f8b740a3)
+	  author:: Henry Howland
+	  date-saved:: [[Feb 4th, 2023]]
+	  date-published:: [[Jan 23rd, 2021]]
+	- [A closer look at CVSS scores :: Theory of Predictable Software](https://omnivore.app/me/a-closer-look-at-cvss-scores-theory-of-predictable-software-1861f04b03e)
+	  collapsed:: true
+	  site:: [theoryof.predictable.software](https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores)
+	  date-saved:: [[Feb 4th, 2023]]
+	  date-published:: [[Oct 11th, 2021]]
 	- [arvis-workflows/arvis-chrome-workflow: Chrome kernel based broswer workflow for Arvis](https://omnivore.app/me/arvis-workflows-arvis-chrome-workflow-chrome-kernel-based-broswe-18ae7a9a72c)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/arvis-workflows/arvis-chrome-workflow)
@@ -264,6 +292,18 @@
 	  site:: [bricolage.io](https://bricolage.io/some-notes-on-local-first-development)
 	  labels:: [[programming]]
 	  date-saved:: [[Sep 12th, 2023]]
+		- ### Highlights
+			- > SQLite to SQLite
+			  > 
+			  * [libSQL](https://libsql.org/)
+			  * [SQLSync](https://github.com/orbitinghail/sqlsync)
+			  * [VLCN](https://vlcn.io/)
+			  * [Mycelite](https://mycelial.com/) [⤴️](https://omnivore.app/me/bricolage-some-notes-on-local-first-development-18a8cde7daa#85f7fdef-6798-46af-a87f-f12aae078ce7)
+			- > #### Postgres to SQLite:
+			  > 
+			  * [ElectricSQL](https://electric-sql.com/)
+			  * [Powersync](https://www.powersync.co/)
+			  * [SQLedge](https://github.com/zknill/sqledge) [⤴️](https://omnivore.app/me/bricolage-some-notes-on-local-first-development-18a8cde7daa#64df015f-fb78-449f-a9fa-4e40878b44c3)
 	- [Sweden brings more books and handwriting practice back to its tech-heavy schools | AP News](https://omnivore.app/me/sweden-brings-more-books-and-handwriting-practice-back-to-its-te-18a8cde1ab4)
 	  collapsed:: true
 	  site:: [AP News](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
@@ -717,6 +757,8 @@
 	  collapsed:: true
 	  site:: [maryrosecook.com](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 	  date-saved:: [[Aug 24th, 2023]]
+		- ### Highlights
+			- > You and your research by Richard Hamming. [⤴️](https://omnivore.app/me/is-this-a-good-book-for-me-now-18a28b9f294#9ac9ff83-74b0-4516-a178-19105db3c229)
 	- [Use web components for what they’re good at | Read the Tea Leaves](https://omnivore.app/me/use-web-components-for-what-they-re-good-at-read-the-tea-leaves-18a2647ef29)
 	  collapsed:: true
 	  site:: [Read the Tea Leaves](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at)
@@ -3094,10 +3136,12 @@
 	      author:: admin
 	      date_saved:: [[Feb 15th, 2023]]
 	- [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://omnivore.app/me/what-is-chat-gpt-doing-and-why-does-it-work-stephen-wolfram-writ-186531c234e)
-	      collapsed:: true
-	      site:: [Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)
-	      author:: Stephen Wolfram
-	      date_saved:: [[Feb 14th, 2023]]
+	  collapsed:: true
+	  site:: [Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)
+	  author:: Stephen Wolfram
+	  labels:: [[ai]]
+	  date-saved:: [[Feb 14th, 2023]]
+	  date-published:: [[Feb 13th, 2023]]
 	- [Unlocking security updates for transitive dependencies with npm | The GitHub Blog](https://omnivore.app/me/unlocking-security-updates-for-transitive-dependencies-with-npm--18632bbf893)
 	      collapsed:: true
 	      site:: [The GitHub Blog](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm)
@@ -3497,9 +3541,10 @@
 	        author:: Sympawnies by Noam Oxman
 	        date_saved:: [[Jan 19th, 2023]]
 	- [12ft | How Noma Made Fine Dining Far Worse - The Atlantic](https://omnivore.app/me/12-ft-how-noma-made-fine-dining-far-worse-the-atlantic-185c94a261c)
-	      site:: [12ft.io](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fideas%2Farchive%2F2023%2F01%2Fnoma-copenhagen-fine-dining-unsustainable%2F672738%2F)
-	      labels:: [[food]][[restaurants ]]
-	      date_saved:: [[Jan 19th, 2023]]
+	  collapsed:: true
+	  site:: [12ft.io](https://12ft.io/proxy?q=https%3A%2F%2Fwww.theatlantic.com%2Fideas%2Farchive%2F2023%2F01%2Fnoma-copenhagen-fine-dining-unsustainable%2F672738%2F)
+	  labels:: [[food]][[restaurants ]]
+	  date-saved:: [[Jan 19th, 2023]]
 	- [rauljordan::blog](https://omnivore.app/me/rauljordan-blog-185c5dd6cfb)
 	        site:: [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier)
 	        labels:: [[programming]]

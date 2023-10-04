@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [1.3B Worldcat scrape & data science mini-competition - Anna’s Blog](https://omnivore.app/me/1-3-b-worldcat-scrape-data-science-mini-competition-anna-s-blog-18afc839aa5)
+	  collapsed:: true
+	  site:: [annas-blog.org](https://annas-blog.org/worldcat-scrape.html)
+	  date-saved:: [[Oct 4th, 2023]]
+	  date-published:: [[Oct 2nd, 2023]]
 	- [An Interactive Intro to CRDTs | jakelazaroff.com](https://omnivore.app/me/an-interactive-intro-to-crd-ts-jakelazaroff-com-18afb6cbf07)
 	  collapsed:: true
 	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/an-interactive-intro-to-crdts)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Roads - Discover the Future of Audio](https://omnivore.app/me/roads-discover-the-future-of-audio-18af85dfdca)
+	  collapsed:: true
+	  site:: [roadsaudio.com](https://roadsaudio.com)
+	  date-saved:: [[Oct 3rd, 2023]]
 	- [book notes | Derek Sivers](https://omnivore.app/me/book-notes-derek-sivers-18af724b35c)
 	  collapsed:: true
 	  site:: [sive.rs](https://sive.rs/book)

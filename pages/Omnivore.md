@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Extracting Hacker News Book Recommendations with the ChatGPT API - reyem.dev blog](https://omnivore.app/me/extracting-hacker-news-book-recommendations-with-the-chat-gpt-ap-18af979c22a)
+	  collapsed:: true
+	  site:: [blog.reyem.dev](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api)
+	  date-saved:: [[Oct 3rd, 2023]]
+	- [Explore the In Our Time archive | Braggoscope](https://omnivore.app/me/explore-the-in-our-time-archive-braggoscope-18af9789d51)
+	  collapsed:: true
+	  site:: [Braggoscope](https://www.braggoscope.com)
+	  author:: Braggoscope
+	  date-saved:: [[Oct 3rd, 2023]]
 	- [Roads - Discover the Future of Audio](https://omnivore.app/me/roads-discover-the-future-of-audio-18af85dfdca)
 	  collapsed:: true
 	  site:: [roadsaudio.com](https://roadsaudio.com)

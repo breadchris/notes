@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [bitmagnet-io/bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.](https://omnivore.app/me/bitmagnet-io-bitmagnet-a-self-hosted-bit-torrent-indexer-dht-cra-18b00c2709e)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/bitmagnet-io/bitmagnet)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 5th, 2023]]
+	- [Where does my computer get the time from? – Tony Finch](https://omnivore.app/me/where-does-my-computer-get-the-time-from-tony-finch-18b00bfec84)
+	  collapsed:: true
+	  site:: [dotat.at](https://dotat.at/@/2023-05-26-whence-time.html)
+	  date-saved:: [[Oct 5th, 2023]]
+	  date-published:: [[May 25th, 2023]]
 	- [LLMs confabulate not hallucinate](https://omnivore.app/me/ll-ms-confabulate-not-hallucinate-18afdc06bcd)
 	  collapsed:: true
 	  site:: [beren.io](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate)

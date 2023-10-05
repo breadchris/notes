@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [LLMs confabulate not hallucinate](https://omnivore.app/me/ll-ms-confabulate-not-hallucinate-18afdc06bcd)
+	  collapsed:: true
+	  site:: [beren.io](https://www.beren.io/2023-03-19-LLMs-confabulate-not-hallucinate)
+	  author:: Beren Millidge
+	  date-saved:: [[Oct 4th, 2023]]
+	- [1.1.1.1 lookup failures on October 4th, 2023](https://omnivore.app/me/1-1-1-1-lookup-failures-on-october-4-th-2023-18afdb1aa0f)
+	  collapsed:: true
+	  site:: [The Cloudflare Blog](https://blog.cloudflare.com/1-1-1-1-lookup-failures-on-october-4th-2023)
+	  author:: Ólafur Guðmundsson
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 4th, 2023]]
+	  date-published:: [[Oct 4th, 2023]]
 	- [1.3B Worldcat scrape & data science mini-competition - Anna’s Blog](https://omnivore.app/me/1-3-b-worldcat-scrape-data-science-mini-competition-anna-s-blog-18afc839aa5)
 	  collapsed:: true
 	  site:: [annas-blog.org](https://annas-blog.org/worldcat-scrape.html)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [pen - YARN search](https://omnivore.app/me/pen-yarn-search-18b033ffaa9)
+	  collapsed:: true
+	  site:: [Yarn](https://getyarn.io/yarn-find?text=pen)
+	  date-saved:: [[Oct 5th, 2023]]
 	- [bitmagnet-io/bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.](https://omnivore.app/me/bitmagnet-io-bitmagnet-a-self-hosted-bit-torrent-indexer-dht-cra-18b00c2709e)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/bitmagnet-io/bitmagnet)

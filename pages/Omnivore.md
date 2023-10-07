@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Coldtype](https://omnivore.app/me/coldtype-18b092aab14)
+	  collapsed:: true
+	  site:: [coldtype.xyz](https://coldtype.xyz)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [TUNDRA - NOMAD live (extract)](https://omnivore.app/me/https-youtu-be-b-34-o-vhcwl-fy-si-e-m-cx-uv-74-agqvm-7-bj-18b09262d64)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/b34OVhcwlFY?si=eMCxUV74agqvm7Bj)
+	  author:: we are tundra
+	  labels:: [[art]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [The Workflow Pattern](https://omnivore.app/me/the-workflow-pattern-18b071d97f3)
+	  collapsed:: true
+	  site:: [Blog](https://blog.bittacklr.be/the-workflow-pattern.html)
+	  author:: Yves Reynhout
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 6th, 2023]]
+	  date-published:: [[Jan 26th, 2023]]
 	- [pen - YARN search](https://omnivore.app/me/pen-yarn-search-18b033ffaa9)
 	  collapsed:: true
 	  site:: [Yarn](https://getyarn.io/yarn-find?text=pen)

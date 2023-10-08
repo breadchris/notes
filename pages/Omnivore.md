@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [pg_bm25: Elastic-Quality Full Text Search Inside Postgres - ParadeDB](https://omnivore.app/me/pg-bm-25-elastic-quality-full-text-search-inside-postgres-parade-18b0fb21c71)
+	  collapsed:: true
+	  site:: [ParadeDB](https://docs.paradedb.com/blog/introducing_bm25)
+	  date-saved:: [[Oct 8th, 2023]]
+	- [#cancelQuora – Interesting Authors Blog](https://omnivore.app/me/cancel-quora-interesting-authors-blog-18b0fb12801)
+	  collapsed:: true
+	  site:: [Interesting Authors Blog](https://interestingauthors.com/blog/experience/quora)
+	  author:: Roland Hughes
+	  date-saved:: [[Oct 8th, 2023]]
+	  date-published:: [[Jul 2nd, 2022]]
 	- [Quake/work logs](https://omnivore.app/me/quake-work-logs-18b0daf67c8)
 	  collapsed:: true
 	  site:: [gamers.org](https://www.gamers.org/dEngine/quake/info/worklogs.html)

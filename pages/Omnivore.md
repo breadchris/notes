@@ -1,4 +1,68 @@
 ## 🔖 Articles
+	- [Quake/work logs](https://omnivore.app/me/quake-work-logs-18b0daf67c8)
+	  collapsed:: true
+	  site:: [gamers.org](https://www.gamers.org/dEngine/quake/info/worklogs.html)
+	  date-saved:: [[Oct 7th, 2023]]
+	- [Jumperless: Hackaday Prize 2023](https://omnivore.app/me/https-m-youtube-com-watch-embeds-referring-euri-https-3-a-2-f-2--18b0da26fb4)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.tindie.com%2F&feature=emb_logo&source_ve_path=Mjg2NjY&time_continue=184&v=_k0aKM68Xl4)
+	  author:: Architeuthis Flux
+	  labels:: [[computers]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [Jumperless from Architeuthis Flux on Tindie](https://omnivore.app/me/jumperless-from-architeuthis-flux-on-tindie-18b0da116d0)
+	  collapsed:: true
+	  site:: [Tindie](https://www.tindie.com/products/architeuthisflux/jumperless)
+	  labels:: [[computers]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [An Oregon city wants the U.S. Supreme Court to approve its camping ban. San Diego’s on board | The Seattle Times](https://omnivore.app/me/https-www-seattletimes-com-nation-world-an-oregon-city-wants-the-18b0d3c2252)
+	  collapsed:: true
+	  site:: [The Seattle Times](https://www.seattletimes.com/nation-world/an-oregon-city-wants-the-u-s-supreme-court-to-approve-its-camping-ban-san-diegos-on-board)
+	  author:: Sep. 20, 2023 at 3:55 pm
+	  date-saved:: [[Oct 7th, 2023]]
+	  date-published:: [[Sep 20th, 2023]]
+	- [In rare alliance, Democrats and Republicans seek legal power to clear homeless camps | The Seattle Times](https://omnivore.app/me/in-rare-alliance-democrats-and-republicans-seek-legal-power-to-c-18b0d3bb9e3)
+	  collapsed:: true
+	  site:: [The Seattle Times](https://www.seattletimes.com/nation-world/in-rare-alliance-democrats-and-republicans-seek-legal-power-to-clear-homeless-camps)
+	  author:: Sep. 27, 2023 at 2:15 pm
+	  date-saved:: [[Oct 7th, 2023]]
+	  date-published:: [[Sep 27th, 2023]]
+	- [savonet/liquidsoap: Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.](https://omnivore.app/me/savonet-liquidsoap-liquidsoap-is-a-statically-typed-scripting-ge-18b0d28ffd0)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/savonet/liquidsoap)
+	  author:: Authors
+	  date-saved:: [[Oct 7th, 2023]]
+	- [Gboard 帽バージョン](https://omnivore.app/me/https-youtu-be-6-vib-77-c-ux-nm-si-r-bz-1-jt-5-q-9-kw-b-efwd-18b0d26b7cd)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/6vib77CUxNM?si=rBz1Jt5q9kwBEfwd)
+	  author:: Google Japan
+	  date-saved:: [[Oct 7th, 2023]]
+	- [hashicorp/mdns: Simple mDNS client/server library in Golang](https://omnivore.app/me/hashicorp-mdns-simple-m-dns-client-server-library-in-golang-18b0d0a7d2c)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/hashicorp/mdns)
+	  labels:: [[go]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [Study Hall | Online Courses](https://omnivore.app/me/study-hall-online-courses-18b0cffe7ed)
+	  collapsed:: true
+	  site:: [gostudyhall.com](https://gostudyhall.com)
+	  labels:: [[learning]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [Anthropic \ Decomposing Language Models Into Understandable Components](https://omnivore.app/me/anthropic-decomposing-language-models-into-understandable-compon-18b0cecc662)
+	  collapsed:: true
+	  site:: [Anthropic](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+	  labels:: [[ai]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [Siliconpr0n](https://omnivore.app/me/siliconpr-0-n-18b0ce68c34)
+	  collapsed:: true
+	  site:: [siliconpr0n.org](https://siliconpr0n.org)
+	  labels:: [[computers]]
+	  date-saved:: [[Oct 7th, 2023]]
+	- [A Clutter-Free Life: Going Paperless with Paperless-ngx](https://omnivore.app/me/a-clutter-free-life-going-paperless-with-paperless-ngx-18b0b220059)
+	  collapsed:: true
+	  site:: [Nerdy Articles](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx)
+	  author:: Henning
+	  labels:: [[search]]
+	  date-saved:: [[Oct 7th, 2023]]
+	  date-published:: [[Oct 6th, 2023]]
 	- [Coldtype](https://omnivore.app/me/coldtype-18b092aab14)
 	  collapsed:: true
 	  site:: [coldtype.xyz](https://coldtype.xyz)

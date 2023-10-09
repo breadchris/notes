@@ -1,4 +1,43 @@
 ## 🔖 Articles
+	- [Jade Rubick - Demo-driven development](https://omnivore.app/me/jade-rubick-demo-driven-development-18b11ccdf82)
+	  collapsed:: true
+	  site:: [rubick.com](https://www.rubick.com/demo-driven-development)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 8th, 2023]]
+	  date-published:: [[Feb 5th, 2021]]
+	- [100 Food Hacks I Learned In Restaurants](https://omnivore.app/me/https-m-youtube-com-watch-v-h-er-g-7-hsk-0-a-18b11aaaf36)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=H_erG7HSK0A)
+	  author:: Joshua Weissman
+	  labels:: [[food]]
+	  date-saved:: [[Oct 8th, 2023]]
+	- [How Render Scaled Knative to 100k+ Web Apps | Render](https://omnivore.app/me/how-render-scaled-knative-to-100-k-web-apps-render-18b119de83f)
+	  collapsed:: true
+	  site:: [How Render Scaled Knative to 100k+ Web Apps | Render](https://render.com/blog/knative)
+	  date-saved:: [[Oct 8th, 2023]]
+	  date-published:: [[Jul 11th, 2023]]
+	- [Know Yourself Better by Writing What Pops into Your Head - Scientific American](https://omnivore.app/me/know-yourself-better-by-writing-what-pops-into-your-head-scienti-18b116166c9)
+	  collapsed:: true
+	  site:: [Scientific American](https://www.scientificamerican.com/article/know-yourself-better-by-writing-what-pops-into-your-head)
+	  author:: Christiane Gelitz
+	  labels:: [[notetaking]]
+	  date-saved:: [[Oct 8th, 2023]]
+	- [Introducing the Tailscale Universal Docker Mod](https://omnivore.app/me/introducing-the-tailscale-universal-docker-mod-18b116111bd)
+	  collapsed:: true
+	  site:: [Tailscale Community](https://tailscale.dev/blog/docker-mod-tailscale)
+	  date-saved:: [[Oct 8th, 2023]]
+	  date-published:: [[Apr 13th, 2023]]
+	- ["The Economics of Programming Languages" by Evan Czaplicki (Strange Loop 2023)](https://omnivore.app/me/https-youtu-be-xz-3-w-jec-1-v-8-si-yxa-3-z-5-t-acnd-fql-9-j-18b10718397)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/XZ3w_jec1v8?si=YXA3Z5tAcndFql9j)
+	  author:: Strange Loop Conference
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 8th, 2023]]
+	- [How To Get Better At Freestyle Rapping - Setup, Punchline](https://omnivore.app/me/https-m-youtube-com-watch-v-kp-5-k-zreli-bi-18b1067dfd4)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=KP5kZreliBI)
+	  author:: Harry Mack
+	  date-saved:: [[Oct 8th, 2023]]
 	- [pg_bm25: Elastic-Quality Full Text Search Inside Postgres - ParadeDB](https://omnivore.app/me/pg-bm-25-elastic-quality-full-text-search-inside-postgres-parade-18b0fb21c71)
 	  collapsed:: true
 	  site:: [ParadeDB](https://docs.paradedb.com/blog/introducing_bm25)

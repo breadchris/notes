@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [Why pivot tables are the spreadsheet’s most powerful tool](https://omnivore.app/me/why-pivot-tables-are-the-spreadsheet-s-most-powerful-tool-18b1591cbc7)
+	  collapsed:: true
+	  site:: [Quartz](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)
+	  author:: Dan Kopf
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 9th, 2023]]
+	  date-published:: [[Oct 4th, 2020]]
 	- [Jade Rubick - Demo-driven development](https://omnivore.app/me/jade-rubick-demo-driven-development-18b11ccdf82)
 	  collapsed:: true
 	  site:: [rubick.com](https://www.rubick.com/demo-driven-development)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Retrieval Augmented Generation at scale — Building a distributed system for synchronizing and ingesting billions of text embeddings | by Neum AI | Sep, 2023 | Medium](https://omnivore.app/me/retrieval-augmented-generation-at-scale-building-a-distributed-s-18b16a423bb)
+	  collapsed:: true
+	  site:: [Medium](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
+	  author:: Neum AI
+	  date-saved:: [[Oct 9th, 2023]]
+	  date-published:: [[Sep 28th, 2023]]
 	- [Why pivot tables are the spreadsheet’s most powerful tool](https://omnivore.app/me/why-pivot-tables-are-the-spreadsheet-s-most-powerful-tool-18b1591cbc7)
 	  collapsed:: true
 	  site:: [Quartz](https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool)

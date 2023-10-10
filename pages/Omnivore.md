@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Jim Collins - Articles - Building Companies to Last](https://omnivore.app/me/jim-collins-articles-building-companies-to-last-18b1ba3d8f7)
+	  collapsed:: true
+	  site:: [jimcollins.com](https://www.jimcollins.com/article_topics/articles/building-companies.html)
+	  author:: Jim Collins
+	  date-saved:: [[Oct 10th, 2023]]
+	  date-published:: [[Dec 31st, 1994]]
+	- [Jim Collins - Books](https://omnivore.app/me/jim-collins-books-18b1ba382d0)
+	  collapsed:: true
+	  site:: [jimcollins.com](https://www.jimcollins.com/books.html)
+	  date-saved:: [[Oct 10th, 2023]]
 	- [How the Apple AirTags were hacked](https://omnivore.app/me/https-youtu-be-e-0-pw-qv-w-14-si-sbt-ub-v-obg-89-hq-mp-p-18b17869937)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/_E0PWQvW-14?si=SBTUbVObg89HqMpP)

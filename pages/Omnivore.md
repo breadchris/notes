@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [How the Apple AirTags were hacked](https://omnivore.app/me/https-youtu-be-e-0-pw-qv-w-14-si-sbt-ub-v-obg-89-hq-mp-p-18b17869937)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/_E0PWQvW-14?si=SBTUbVObg89HqMpP)
+	  author:: stacksmashing
+	  date-saved:: [[Oct 9th, 2023]]
+	- [Colin O'Flynn – Electronics & More](https://omnivore.app/me/colin-o-flynn-electronics-more-18b17838d76)
+	  collapsed:: true
+	  site:: [colinoflynn.com](https://colinoflynn.com)
+	  date-saved:: [[Oct 9th, 2023]]
 	- [Retrieval Augmented Generation at scale — Building a distributed system for synchronizing and ingesting billions of text embeddings | by Neum AI | Sep, 2023 | Medium](https://omnivore.app/me/retrieval-augmented-generation-at-scale-building-a-distributed-s-18b16a423bb)
 	  collapsed:: true
 	  site:: [Medium](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)

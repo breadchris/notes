@@ -2,6 +2,7 @@
 	- [monster-labs/control_v1p_sd15_qrcode_monster · Hugging Face](https://omnivore.app/me/monster-labs-control-v-1-p-sd-15-qrcode-monster-hugging-face-18b201b4a35)
 	  collapsed:: true
 	  site:: [huggingface.co](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)
+	  labels:: [[ai]]
 	  date-saved:: [[Oct 11th, 2023]]
 	- [Paul Dancstep: The Universal Library; A novel approach to teaching category theory](https://omnivore.app/me/paul-dancstep-the-universal-library-a-novel-approach-to-teaching-18b1fd6b847)
 	  site:: [YouTube](https://www.youtube.com/watch?v=hNRETzXkE5M)

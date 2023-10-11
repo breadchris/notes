@@ -1,8 +1,18 @@
 ## 🔖 Articles
+	- [Reversing the CyberPatriot National Competition Scoring Engine](https://omnivore.app/me/reversing-the-cyber-patriot-national-competition-scoring-engine-18b1c3e678d)
+	  collapsed:: true
+	  site:: [Bill Demirkapi&#x27;s Blog](https://billdemirkapi.me/reversing-the-cyberpatriot-national-competition)
+	  author:: Bill Demirkapi
+	  labels:: [[security ]]
+	  date-saved:: [[Oct 10th, 2023]]
+	  date-published:: [[Apr 12th, 2019]]
+		- ### Highlights
+			- > In conclusion, the CyberPatriot Scoring Engine is really not that complicated. [⤴️](https://omnivore.app/me/reversing-the-cyber-patriot-national-competition-scoring-engine-18b1c3e678d#716e2459-f95f-462f-aab1-25abac2f81a3)
 	- [Jim Collins - Articles - Building Companies to Last](https://omnivore.app/me/jim-collins-articles-building-companies-to-last-18b1ba3d8f7)
 	  collapsed:: true
 	  site:: [jimcollins.com](https://www.jimcollins.com/article_topics/articles/building-companies.html)
 	  author:: Jim Collins
+	  labels:: [[programming]][[business ]]
 	  date-saved:: [[Oct 10th, 2023]]
 	  date-published:: [[Dec 31st, 1994]]
 	- [Jim Collins - Books](https://omnivore.app/me/jim-collins-books-18b1ba382d0)
@@ -13,10 +23,12 @@
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/_E0PWQvW-14?si=SBTUbVObg89HqMpP)
 	  author:: stacksmashing
+	  labels:: [[security ]]
 	  date-saved:: [[Oct 9th, 2023]]
 	- [Colin O'Flynn – Electronics & More](https://omnivore.app/me/colin-o-flynn-electronics-more-18b17838d76)
 	  collapsed:: true
 	  site:: [colinoflynn.com](https://colinoflynn.com)
+	  labels:: [[security ]]
 	  date-saved:: [[Oct 9th, 2023]]
 	- [Retrieval Augmented Generation at scale — Building a distributed system for synchronizing and ingesting billions of text embeddings | by Neum AI | Sep, 2023 | Medium](https://omnivore.app/me/retrieval-augmented-generation-at-scale-building-a-distributed-s-18b16a423bb)
 	  collapsed:: true

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://omnivore.app/me/before-psychedelic-therapy-for-wartime-trauma-there-was-narcosyn-18b1c7849f6)
+	  collapsed:: true
+	  site:: [Res Obscura](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)
+	  author:: Benjamin Breen
+	  date-saved:: [[Oct 10th, 2023]]
+	  date-published:: [[Oct 10th, 2023]]
 	- [Reversing the CyberPatriot National Competition Scoring Engine](https://omnivore.app/me/reversing-the-cyber-patriot-national-competition-scoring-engine-18b1c3e678d)
 	  collapsed:: true
 	  site:: [Bill Demirkapi&#x27;s Blog](https://billdemirkapi.me/reversing-the-cyberpatriot-national-competition)

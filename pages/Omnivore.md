@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Paul Dancstep: The Universal Library; A novel approach to teaching category theory](https://omnivore.app/me/paul-dancstep-the-universal-library-a-novel-approach-to-teaching-18b1fd6b847)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=hNRETzXkE5M)
+	  author:: Topos Institute
+	  date-saved:: [[Oct 11th, 2023]]
+	- [Coding Adventure: Simulating Fluids](https://omnivore.app/me/coding-adventure-simulating-fluids-18b1fd699eb)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=rSKMYc1CQHE)
+	  author:: Sebastian Lague
+	  date-saved:: [[Oct 11th, 2023]]
 	- [Before psychedelic therapy for wartime trauma, there was narcosynthesis](https://omnivore.app/me/before-psychedelic-therapy-for-wartime-trauma-there-was-narcosyn-18b1c7849f6)
 	  collapsed:: true
 	  site:: [Res Obscura](https://resobscura.substack.com/p/before-psychedelic-therapy-narcosynthesis)

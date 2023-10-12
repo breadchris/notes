@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [LSP could have been better](https://omnivore.app/me/lsp-could-have-been-better-18b224e1795)
+	  collapsed:: true
+	  site:: [matklad.github.io](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
+	  date-saved:: [[Oct 11th, 2023]]
+	  date-published:: [[Oct 11th, 2023]]
 	- [monster-labs/control_v1p_sd15_qrcode_monster · Hugging Face](https://omnivore.app/me/monster-labs-control-v-1-p-sd-15-qrcode-monster-hugging-face-18b201b4a35)
 	  collapsed:: true
 	  site:: [huggingface.co](https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster)

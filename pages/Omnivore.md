@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Populating the page: how browsers work - Web performance | MDN](https://omnivore.app/me/populating-the-page-how-browsers-work-web-performance-mdn-18b29c875a1)
+	  collapsed:: true
+	  site:: [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+	  date-saved:: [[Oct 13th, 2023]]
+	  date-published:: [[Jul 19th, 2023]]
+	- [Signal Identification Wiki](https://omnivore.app/me/signal-identification-wiki-18b29c83e45)
+	  collapsed:: true
+	  site:: [sigidwiki.com](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+	  date-saved:: [[Oct 13th, 2023]]
+	  date-published:: [[Oct 5th, 2023]]
 	- [Why LSP?](https://omnivore.app/me/why-lsp-18b27b3b0ca)
 	  collapsed:: true
 	  site:: [matklad.github.io](https://matklad.github.io/2022/04/25/why-lsp.html)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [How Israeli Apartheid Destroyed My Hometown](https://omnivore.app/me/how-israeli-apartheid-destroyed-my-hometown-18b2711ef33)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=aEdGcej-6D0)
+	  author:: AJ+
+	  date-saved:: [[Oct 12th, 2023]]
 	- [LSP could have been better](https://omnivore.app/me/lsp-could-have-been-better-18b224e1795)
 	  collapsed:: true
 	  site:: [matklad.github.io](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)

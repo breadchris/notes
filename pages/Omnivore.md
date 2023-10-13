@@ -1,9 +1,15 @@
 ## 🔖 Articles
-	- [An introduction to Shader Art Coding](https://omnivore.app/me/an-introduction-to-shader-art-coding-18b2ab53a7e)
+	- ["The first note-taking tool that works exactly how my brain does" - RoamBrain.com](https://omnivore.app/me/the-first-note-taking-tool-that-works-exactly-how-my-brain-does--18b2ac4bca9)
 	  collapsed:: true
+	  site:: [RoamBrain.com](http://roambrain.com/the-first-note-taking-tool-that-works-exactly-how-my-brain-does)
+	  author:: Drew Coffman
+	  date-saved:: [[Oct 13th, 2023]]
+	  date-published:: [[Mar 31st, 2020]]
+	- [An introduction to Shader Art Coding](https://omnivore.app/me/an-introduction-to-shader-art-coding-18b2ab53a7e)
 	  site:: [YouTube](https://www.youtube.com/watch?v=f4s1h2YETNY)
 	  author:: kishimisu
 	  date-saved:: [[Oct 13th, 2023]]
+	  collapsed:: true
 	- [Populating the page: how browsers work - Web performance | MDN](https://omnivore.app/me/populating-the-page-how-browsers-work-web-performance-mdn-18b29c875a1)
 	  collapsed:: true
 	  site:: [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)

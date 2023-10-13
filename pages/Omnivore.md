@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Why LSP?](https://omnivore.app/me/why-lsp-18b27b3b0ca)
+	  collapsed:: true
+	  site:: [matklad.github.io](https://matklad.github.io/2022/04/25/why-lsp.html)
+	  date-saved:: [[Oct 12th, 2023]]
+	  date-published:: [[Apr 24th, 2022]]
 	- [How Israeli Apartheid Destroyed My Hometown](https://omnivore.app/me/how-israeli-apartheid-destroyed-my-hometown-18b2711ef33)
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/watch?v=aEdGcej-6D0)
@@ -7,6 +12,7 @@
 	- [LSP could have been better](https://omnivore.app/me/lsp-could-have-been-better-18b224e1795)
 	  collapsed:: true
 	  site:: [matklad.github.io](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 11th, 2023]]
 	  date-published:: [[Oct 11th, 2023]]
 	- [monster-labs/control_v1p_sd15_qrcode_monster · Hugging Face](https://omnivore.app/me/monster-labs-control-v-1-p-sd-15-qrcode-monster-hugging-face-18b201b4a35)

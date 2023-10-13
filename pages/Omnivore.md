@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [An introduction to Shader Art Coding](https://omnivore.app/me/an-introduction-to-shader-art-coding-18b2ab53a7e)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=f4s1h2YETNY)
+	  author:: kishimisu
+	  date-saved:: [[Oct 13th, 2023]]
 	- [Populating the page: how browsers work - Web performance | MDN](https://omnivore.app/me/populating-the-page-how-browsers-work-web-performance-mdn-18b29c875a1)
 	  collapsed:: true
 	  site:: [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)

@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Nintendo Game Boy Advance - Games Database](https://omnivore.app/me/nintendo-game-boy-advance-games-database-18b30278f2d)
+	  collapsed:: true
+	  site:: [gamesdatabase.org](https://www.gamesdatabase.org/list.aspx?system=nintendo_game_boy_advance)
+	  date-saved:: [[Oct 14th, 2023]]
+	- [ChatGPT-AutoExpert/System Prompts.md at main · spdustin/ChatGPT-AutoExpert](https://omnivore.app/me/chat-gpt-auto-expert-system-prompts-md-at-main-spdustin-chat-gpt-18b2f17ae88)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
+	  labels:: [[ai]]
+	  date-saved:: [[Oct 14th, 2023]]
 	- [Kitchen - The Blind Kitchen - Everyone has a place at the table!](https://omnivore.app/me/kitchen-the-blind-kitchen-everyone-has-a-place-at-the-table-18b2cfa0d77)
 	  collapsed:: true
 	  site:: [The Blind Kitchen](https://theblindkitchen.com)

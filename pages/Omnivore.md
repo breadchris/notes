@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Kitchen - The Blind Kitchen - Everyone has a place at the table!](https://omnivore.app/me/kitchen-the-blind-kitchen-everyone-has-a-place-at-the-table-18b2cfa0d77)
+	  collapsed:: true
+	  site:: [The Blind Kitchen](https://theblindkitchen.com)
+	  author:: Chef Debra Erickson
+	  labels:: [[cooking]]
+	  date-saved:: [[Oct 13th, 2023]]
 	- ["The first note-taking tool that works exactly how my brain does" - RoamBrain.com](https://omnivore.app/me/the-first-note-taking-tool-that-works-exactly-how-my-brain-does--18b2ac4bca9)
 	  collapsed:: true
 	  site:: [RoamBrain.com](http://roambrain.com/the-first-note-taking-tool-that-works-exactly-how-my-brain-does)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Recursive Recipes | Make food from scratch](https://omnivore.app/me/recursive-recipes-make-food-from-scratch-18b316d986d)
+	  collapsed:: true
+	  site:: [Recursive Recipes | Make food from scratch](https://recursiverecipes.schollz.com/recipe/refried-beans?amount=0&ingredientsToBuild=&timelimit=1)
+	  date-saved:: [[Oct 14th, 2023]]
 	- [Nintendo Game Boy Advance - Games Database](https://omnivore.app/me/nintendo-game-boy-advance-games-database-18b30278f2d)
 	  collapsed:: true
 	  site:: [gamesdatabase.org](https://www.gamesdatabase.org/list.aspx?system=nintendo_game_boy_advance)

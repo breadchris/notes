@@ -16,3 +16,5 @@ public:: true
 	- Building and leveraging a professional network.
 - Conclusion
 	- Encouragement to pursue passion, continuously learn, and engage with the cybersecurity community​
+- References
+	- https://breadchris.com/pages/how-i-got-to-where-i-am/

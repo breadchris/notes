@@ -1,4 +1,27 @@
 ## 🔖 Articles
+	- [TECHING 1/10 Full Metal Working Turbofan Engine Model - Build Your Own Turbofan Engine that Works– EngineDIY](https://omnivore.app/me/teching-1-10-full-metal-working-turbofan-engine-model-build-your-18b34d53835)
+	  collapsed:: true
+	  site:: [EngineDIY](https://www.enginediy.com/products/turbofan-engine-model-kit-that-works-build-your-own-turbofan-engine-teching-1-10-full-metal-dual-spool-turbofan-engine-aircraft-engine-model-1000-pcs?variant=44300623806678)
+	  labels:: [[presents]]
+	  date-saved:: [[Oct 15th, 2023]]
+	- [I Put a V8 Engine On My PaddleBoard](https://omnivore.app/me/i-put-a-v-8-engine-on-my-paddle-board-18b34d52822)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=u7_EDpmvZQU)
+	  author:: rctestflight
+	  labels:: [[engineering]]
+	  date-saved:: [[Oct 15th, 2023]]
+	- [History | Vivaldi Browser Help](https://omnivore.app/me/history-vivaldi-browser-help-18b34ce15f6)
+	  collapsed:: true
+	  site:: [Vivaldi Browser Help](https://help.vivaldi.com/desktop/navigation/history)
+	  labels:: [[lunabrain/ideas]]
+	  date-saved:: [[Oct 15th, 2023]]
+	  date-published:: [[Mar 29th, 2017]]
+	- [How to Shop at a Japanese Supermarket (A Tour of Uwajimaya in Seattle) | Kenji's Cooking Show](https://omnivore.app/me/how-to-shop-at-a-japanese-supermarket-a-tour-of-uwajimaya-in-sea-18b34cc66e4)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=OzJIDh9pwWQ)
+	  author:: J. Kenji López-Alt
+	  labels:: [[food]]
+	  date-saved:: [[Oct 15th, 2023]]
 	- [The Open Book | Hackaday.io](https://omnivore.app/me/the-open-book-hackaday-io-18b34c16416)
 	  collapsed:: true
 	  site:: [hackaday.io](https://hackaday.io/project/192688-the-open-book)

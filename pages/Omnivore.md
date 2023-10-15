@@ -20,12 +20,13 @@
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/watch?v=OzJIDh9pwWQ)
 	  author:: J. Kenji López-Alt
-	  labels:: [[food]]
+	  labels:: [[cookwherever/videos]][[food]]
 	  date-saved:: [[Oct 15th, 2023]]
 	- [The Open Book | Hackaday.io](https://omnivore.app/me/the-open-book-hackaday-io-18b34c16416)
 	  collapsed:: true
 	  site:: [hackaday.io](https://hackaday.io/project/192688-the-open-book)
 	  author:: joey castillo
+	  labels:: [[computers]][[books]]
 	  date-saved:: [[Oct 15th, 2023]]
 	  date-published:: [[Sep 30th, 2023]]
 	- [Lotus 1-2-3 For Linux](https://omnivore.app/me/lotus-1-2-3-for-linux-18b3414f192)

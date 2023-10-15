@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [The Open Book | Hackaday.io](https://omnivore.app/me/the-open-book-hackaday-io-18b34c16416)
+	  collapsed:: true
+	  site:: [hackaday.io](https://hackaday.io/project/192688-the-open-book)
+	  author:: joey castillo
+	  date-saved:: [[Oct 15th, 2023]]
+	  date-published:: [[Sep 30th, 2023]]
+	- [Lotus 1-2-3 For Linux](https://omnivore.app/me/lotus-1-2-3-for-linux-18b3414f192)
+	  collapsed:: true
+	  site:: [lock.cmpxchg8b.com](https://lock.cmpxchg8b.com/linux123.html)
+	  author:: Tavis Ormandy
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 15th, 2023]]
 	- [Recursive Recipes | Make food from scratch](https://omnivore.app/me/recursive-recipes-make-food-from-scratch-18b316d986d)
 	  collapsed:: true
 	  site:: [Recursive Recipes | Make food from scratch](https://recursiverecipes.schollz.com/recipe/refried-beans?amount=0&ingredientsToBuild=&timelimit=1)

@@ -2,6 +2,7 @@
 	- [Recursive Recipes | Make food from scratch](https://omnivore.app/me/recursive-recipes-make-food-from-scratch-18b316d986d)
 	  collapsed:: true
 	  site:: [Recursive Recipes | Make food from scratch](https://recursiverecipes.schollz.com/recipe/refried-beans?amount=0&ingredientsToBuild=&timelimit=1)
+	  labels:: [[food]]
 	  date-saved:: [[Oct 14th, 2023]]
 	- [Nintendo Game Boy Advance - Games Database](https://omnivore.app/me/nintendo-game-boy-advance-games-database-18b30278f2d)
 	  collapsed:: true
@@ -25,13 +26,15 @@
 	  date-saved:: [[Oct 13th, 2023]]
 	  date-published:: [[Mar 31st, 2020]]
 	- [An introduction to Shader Art Coding](https://omnivore.app/me/an-introduction-to-shader-art-coding-18b2ab53a7e)
+	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=f4s1h2YETNY)
 	  author:: kishimisu
+	  labels:: [[art]]
 	  date-saved:: [[Oct 13th, 2023]]
-	  collapsed:: true
 	- [Populating the page: how browsers work - Web performance | MDN](https://omnivore.app/me/populating-the-page-how-browsers-work-web-performance-mdn-18b29c875a1)
 	  collapsed:: true
 	  site:: [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 13th, 2023]]
 	  date-published:: [[Jul 19th, 2023]]
 	- [Signal Identification Wiki](https://omnivore.app/me/signal-identification-wiki-18b29c83e45)
@@ -88,6 +91,8 @@
 	  labels:: [[programming]][[business ]]
 	  date-saved:: [[Oct 10th, 2023]]
 	  date-published:: [[Dec 31st, 1994]]
+		- ### Highlights
+			- > book _Built to Last_ [⤴️](https://omnivore.app/me/jim-collins-articles-building-companies-to-last-18b1ba3d8f7#de3d0527-04aa-463b-bcde-da21128f36cb)
 	- [Jim Collins - Books](https://omnivore.app/me/jim-collins-books-18b1ba382d0)
 	  collapsed:: true
 	  site:: [jimcollins.com](https://www.jimcollins.com/books.html)

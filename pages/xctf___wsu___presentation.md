@@ -12,6 +12,7 @@ public:: true
 	- Co-founding Refinery and developing LunaDefend.
 - Continuous Learning and Adaptation
 	- Responding to the Log4j vulnerability.
+	- ![Log4Shell Logo](https://www.lunasec.io/docs/img/log4shell-logo.png)
 - Networking and Community Engagement
 	- Building and leveraging a professional network.
 - Conclusion

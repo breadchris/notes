@@ -6,15 +6,21 @@
 	- Engaging in Capture The Flag (CTF) competitions.
 	- ![36364661 Facebook.jpg](../assets/36364661_Facebook_1697435773557_0.jpg)
 - Gaining Practical Experience
-	- Internships at BAE systems and Uber.
+	- Internships at Northrop Grumman and BAE systems.
+	- ![B-2 Spirit Stealth Jet Bomber 1993.webp](../assets/B-2_Spirit_Stealth_Jet_Bomber_1993_1697436517996_0.webp)
 	- Real-world impact: Working on mobile security at Uber.
+	- ![Super Pumped.jpg](../assets/Super_Pumped_1697436457296_0.jpg)
 - Entrepreneurial Venture
 	- Co-founding Refinery and developing LunaDefend.
+	-
 - Continuous Learning and Adaptation
 	- Responding to the Log4j vulnerability.
 	- ![Log4Shell Logo](https://www.lunasec.io/docs/img/log4shell-logo.png)
 - Networking and Community Engagement
 	- Building and leveraging a professional network.
+	- !['LinkedIn Social Share Image.jpg](../assets/'LinkedIn_Social_Share_Image_1697436574156_0.jpg)
+	- Go to conferences, make friends.
+	- ![Defcon.jpg](../assets/Defcon_1697436609583_0.jpg)
 - Conclusion
 	- Encouragement to pursue passion, continuously learn, and engage with the cybersecurity community​
 - References

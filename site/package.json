@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dom8509/logseq-to-markdown": "^0.4.1"
+  }
+}

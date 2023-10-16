@@ -23,7 +23,7 @@ type UserService struct { userRepository UserRepository } func (us *UserService)
 <link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<meta name="generator" content="Hugo 0.110.0">
+<meta name="generator" content="Hugo 0.119.0">
 <noscript>
     <style>
         #theme-toggle,
@@ -67,8 +67,8 @@ Single Responsibility Principle (SRP) Example:
 type UserService struct { userRepository UserRepository } func (us *UserService) CreateUser(user *User) error { return us.userRepository.Create(user) } func (us *UserService) GetUserByID(id int) (*User, error) { return us." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://breadchris.com/pages/this-is-for-nolan/" /><meta property="article:section" content="pages" />
-<meta property="article:published_time" content="2023-04-26T00:00:00&#43;00:00" />
-<meta property="article:modified_time" content="2023-04-26T00:00:00&#43;00:00" />
+<meta property="article:published_time" content="2023-06-16T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2023-06-16T00:00:00&#43;00:00" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="This is for Nolan"/>
@@ -111,8 +111,8 @@ type UserService struct { userRepository UserRepository } func (us *UserService)
   "articleBody": "SOLID principles The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.\nIn Go, the SOLID principles can be applied as follows:\nSingle Responsibility Principle (SRP) Example:\ntype UserService struct { userRepository UserRepository } func (us *UserService) CreateUser(user *User) error { return us.userRepository.Create(user) } func (us *UserService) GetUserByID(id int) (*User, error) { return us.userRepository.GetById(id) } In this example, the UserService has a single responsibility - to manage user-related operations. It does not have any knowledge of the underlying storage mechanism for the user data - this is delegated to the UserRepository interface.\nOpen/Closed Principle Example:\ntype Shape interface { Area() float64 } - type Rectangle struct { Width float64 Height float64 } - func (r *Rectangle) Area() float64 { return r.Width * r.Height } - type Circle struct { Radius float64 } - func (c *Circle) Area() float64 { return math.Pi * c.Radius * c.Radius } In this example, we define a Shape interface that defines an Area() method. The Rectangle and Circle structs both implement this interface, and provide their own implementation of the Area() method. Now, if we want to add a new shape, we can simply create a new struct that implements the Shape interface without having to modify the existing code.\nLiskov Substitution Principle Example:\ntype Animal struct{} - func (a *Animal) Speak() string { return \"Animal sound\" } - type Dog struct { Animal } - func (d *Dog) Speak() string { return \"Woof!\" } - type Cat struct { Animal } - func (c *Cat) Speak() string { return \"Meow!\" } In this example, the Dog and Cat structs inherit from the Animal struct. However, they each provide their own implementation of the Speak() method. By adhering to the LSP, we should be able to use an instance of Dog or Cat wherever we would have used an instance of Animal without modifying the behavior of the program.\nInterface Segregation Principle Example:\ntype Animal struct{} - func (a *Animal) Speak() string { return \"Animal sound\" } - type Dog struct { Animal } - func (d *Dog) Speak() string { return \"Woof!\" } - type Cat struct { Animal } - func (c *Cat) Speak() string { return \"Meow!\" } In this example, the Dog and Cat structs inherit from the Animal struct. However, they each provide their own implementation of the Speak() method. By adhering to the LSP, we should be able to use an instance of Dog or Cat wherever we would have used an instance of Animal without modifying the behavior of the program.\nInterface Segregation Principle (ISP):\nExample:\ntype UserRepository interface { Create(user *User) error GetById(id int) (*User, error) } - type PasswordRepository interface { CreateHash(password string) (string, error) ValidatePassword(hash, password string) error } In this example, we have two distinct interfaces - UserRepository and PasswordRepository. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.\nDependency Inversion Principle Example:\ntype Animal struct{} - func (a *Animal) Speak() string { return \"Animal sound\" } - type Dog struct { Animal } - func (d *Dog) Speak() string { return \"Woof!\" } - type Cat struct { Animal } - func (c *Cat) Speak() string { return \"Meow!\" } In this example, the Dog and Cat structs inherit from the Animal struct. However, they each provide their own implementation of the Speak() method. By adhering to the LSP, we should be able to use an instance of Dog or Cat wherever we would have used an instance of Animal without modifying the behavior of the program.\nInterface Segregation Principle (ISP): Example:\ntype UserRepository interface { Create(user *User) error GetById(id int) (*User, error) } - type PasswordRepository interface { CreateHash(password string) (string, error) ValidatePassword(hash, password string) error } In this example, we have two distinct interfaces - UserRepository and PasswordRepository. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.\nFull Example Here is an example of a Go program that applies the SOLID principles:\npackage main import \"fmt\" // Single Responsibility Principle: // Each struct has only a single responsibility. // User struct represents a user in the system. type User struct { ID int FirstName string LastName string } - // UserService struct defines a service for managing users. type UserService struct { users []User } // AddUser adds a new user to the service. func (s *UserService) AddUser(u User) { s.users = append(s.users, u) } // GetUserByID returns the user with the given ID. func (s *UserService) GetUserByID(id int) User { for _, u := range s.users { if u.ID == id { return u } } return User{} } // Open/Closed Principle: // The UserService is open for extension, but closed for modification. // We can add new functionality by implementing new interfaces, // rather than modifying the existing UserService. // UserRepository defines the interface for a user repository. type UserRepository interface { SaveUser(u User) error FindUserByID(id int) (User, error) } - // UserRepositoryImpl is a concrete implementation of the UserRepository interface. // It uses the UserService to store and retrieve users. type UserRepositoryImpl struct { userService *UserService } // SaveUser saves a user to the repository. func (r *UserRepositoryImpl) SaveUser(u User) error { r.userService.AddUser(u) return nil } // FindUserByID finds a user with the given ID in the repository. func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) { return r.userService.GetUserByID(id), nil } // Liskov Substitution Principle: // The UserRepositoryImpl should be substitutable for the UserRepository interface. // This means that we should be able to use either the interface or the concrete implementation // without knowing which one we are using. // UserController is a controller for managing users. // It uses a UserRepository to store and retrieve users. type UserController struct { repository UserRepository } - // NewUserController creates a new UserController. func NewUserController(r UserRepository) *UserController { return \u0026UserController{repository: r} } // CreateUser creates a new user. func (c *UserController) CreateUser(u User) error { return c.repository.SaveUser(u) } // GetUserByID gets the user with the given ID. func (c *UserController) GetUserByID(id int) (User, error) { return c.repository.FindUserByID(id) } func main() { // Dependency Inversion Principle: // The UserController depends on the UserRepository interface, // rather than on the concrete UserRepositoryImpl. // This allows us to use any implementation of the UserRepository interface with the UserController. userService := \u0026UserService{} repository := \u0026UserRepositoryImpl{userService: userService} controller := NewUserController(repository) user := User{ID: 1, FirstName: \"John\", LastName: \"Doe\"} controller.CreateUser(user) retrievedUser, _ := controller.GetUserByID(1) fmt.Println(retrievedUser) } In this example, the User struct represents a user in the system and has only the data and methods that are related to a user. The UserService struct defines a service for managing users, and follows the Single Responsibility Principle by having only a single responsibility (managing users).\nThe UserRepository interface and the UserRepositoryImpl struct demonstrate the Open/Closed Principle by defining an interface that can be implemented by different types, rather than modifying the existing UserService. The UserRepositoryImpl also satisfies the Liskov Substitution Principle by being substitutable for the UserRepository interface.\nFinally, the UserController struct applies the Dependency Inversion Principle by depending on the UserRepository interface, rather than on a specific implementation of the interface. This allows us to use any implementation of the UserRepository interface with the UserController. For example, a memory implementation of UserRepository could be used in unit tests and a real database implementation of UserRepository could be used in integration tests using test containers.\nTo summarize, the SOLID principles are a set of design principles for object-oriented programming that can help to make software designs more understandable, flexible, and maintainable. In Go, these principles can be applied by using structs, interfaces, and other language features to create modular, decoupled code that is easy to understand and extend.\nPersonally, following these principles have helped me to maintain a well tested, 50k+ line solo project.\nHope this was a useful read!\nQuestions Does this still fulfill SOLID, if UserService is removed (by moving the UserService logic to UserRepository)?\nIn this specific example it wouldn’t explicitly violate any principles, but if you were using a real database you’d want to abstract the database queries away so that data access implementation details don’t leak into your business logic.\nTo illustrate using the example above, let’s remove the UserService logic and move it to UserRepositoryImpl:\nvar ErrUserNotFound = errors.New(\"user was not found\") - // Open/Closed Principle: // The UserService is open for extension, but closed for modification. // We can add new functionality by implementing new interfaces, // rather than modifying the existing UserService. // UserRepository defines the interface for a user repository. type UserRepository interface { SaveUser(u User) error FindUserByID(id int) (User, error) } - // UserRepositoryImpl is a concrete implementation of the UserRepository interface. // It uses an explicit users slice type UserRepositoryImpl struct { users []User } // SaveUser saves a user to the repository. func (r *UserRepositoryImpl) SaveUser(u User) error { s.users = append(s.users, u) return nil } // FindUserByID finds a user with the given ID in the repository. func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) { for _, u := range s.users { if u.ID == id { return u, nil } } - return User{}, ErrUserNotFound } This looks fine, functionality stays the same and we removed 17 lines of code, but let’s add a few things.\nWhat if we want to check if a user exists before saving it? We can do so with the following:\n// SaveUser saves a user to the repository. func (r *UserRepositoryImpl) SaveUser(u User) error { for _, user := range s.users { if u.ID == user.ID { return ErrUserWithIDExists } } - s.users = append(s.users, u) return nil } As our user base grows, maybe we want to add a unique username field to the User. We can add the field to the User struct and on save check if the username is unique and doesn’t contain any bad words.\nvar ErrUsernameExists = errors.New(\"user with username already exists\") - type User struct { ID int FirstName string LastName string Username string } - // SaveUser saves a user to the repository. func (r *UserRepositoryImpl) SaveUser(u User) error { if badWords.Contains(u.Username) { return ErrUsernameInvalid } - for _, user := range s.users { if u.ID == user.ID { return ErrUserWithIDExists } - if u.Username == user.Username { return ErrUsernameExists } } - s.users = append(s.users, u) - return nil } Now if we wanted to rewrite SaveUser using an actual database:\n// SaveUser saves a user to the repository. func (r *UserRepositoryImpl) SaveUser(u User) error { if badWords.Contains(u.Username) { return ErrUsernameInvalid } - users := r.db.Query(\"select * from users\").ScanStructs(User{}) for _, user := range users { if u.ID == user.ID { return ErrUserWithIDExists } - if u.Username == user.Username { return ErrUsernameExists } } - return r.db.Exec(\"insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)\", u.ID, u.FirstName, u.LastName, u.Username) } Still maintainable but it could look something like this which I personally find more readable:\nfunc (r *UserRepositoryImpl) SaveUser(u User) error { if badWords.Contains(u.Username) { return ErrUsernameInvalid } - users := r.repository.QueryAllUsers() for _, user := range users { if u.ID == user.ID { return ErrUserWithIDExists } - if u.Username == user.Username { return ErrUsernameExists } } - return r.repository.SaveUser(u) } You could refactor even further:\nfunc (r *UserRepositoryImpl) SaveUser(u User) error { err := r.repository.ValidateUser(u); if err != nil { return err } - return r.repository.SaveUser(u) } Now it’s even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.\n",
   "wordCount" : "2012",
   "inLanguage": "en",
-  "datePublished": "2023-04-26T00:00:00Z",
-  "dateModified": "2023-04-26T00:00:00Z",
+  "datePublished": "2023-06-16T00:00:00Z",
+  "dateModified": "2023-06-16T00:00:00Z",
   "author":{
     "@type": "Person",
     "name": "breadchris"
@@ -184,26 +184,6 @@ gtag('js', new Date());
             </span>
         </div>
         <ul id="menu">
-            <li>
-                <a href="https://breadchris.com/categories/" title="Categories">
-                    <span>Categories</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/archives/" title="Archive">
-                    <span>Archive</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/search/" title="Search">
-                    <span>Search</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/tags/" title="Tags">
-                    <span>Tags</span>
-                </a>
-            </li>
         </ul>
     </nav>
 </header>
@@ -216,7 +196,7 @@ gtag('js', new Date());
     <h1 class="post-title">
       This is for Nolan
     </h1>
-    <div class="post-meta"><span title='2023-04-26 00:00:00 +0000 UTC'>April 26, 2023</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;breadchris
+    <div class="post-meta"><span title='2023-06-16 00:00:00 +0000 UTC'>June 16, 2023</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;breadchris
 
 </div>
   </header> 
@@ -226,15 +206,15 @@ gtag('js', new Date());
 <h3 id="single-responsibility-principle-srp">Single Responsibility Principle (SRP)<a hidden class="anchor" aria-hidden="true" href="#single-responsibility-principle-srp">#</a></h3>
 <p>Example:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserService</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">userRepository</span> <span style="color:#a6e22e">UserRepository</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">userRepository</span> <span style="color:#a6e22e">UserRepository</span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">us</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>) <span style="color:#a6e22e">CreateUser</span>(<span style="color:#a6e22e">user</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">us</span>.<span style="color:#a6e22e">userRepository</span>.<span style="color:#a6e22e">Create</span>(<span style="color:#a6e22e">user</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#a6e22e">us</span>.<span style="color:#a6e22e">userRepository</span>.<span style="color:#a6e22e">Create</span>(<span style="color:#a6e22e">user</span>)
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">us</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>) <span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#f92672">*</span><span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>) {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">us</span>.<span style="color:#a6e22e">userRepository</span>.<span style="color:#a6e22e">GetById</span>(<span style="color:#a6e22e">id</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#a6e22e">us</span>.<span style="color:#a6e22e">userRepository</span>.<span style="color:#a6e22e">GetById</span>(<span style="color:#a6e22e">id</span>)
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>In this example, the <code>UserService</code> has a single responsibility - to manage user-related operations. It does not have any knowledge of the underlying storage mechanism for the user data - this is delegated to the <code>UserRepository</code> interface.</p>
 <h3 id="openclosed-principle">Open/Closed Principle<a hidden class="anchor" aria-hidden="true" href="#openclosed-principle">#</a></h3>
@@ -338,90 +318,90 @@ return &#34;Meow!&#34;
 <h3 id="full-example">Full Example<a hidden class="anchor" aria-hidden="true" href="#full-example">#</a></h3>
 <p>Here is an example of a Go program that applies the SOLID principles:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Single Responsibility Principle:
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// Each struct has only a single responsibility.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// User struct represents a user in the system.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">type</span> <span style="color:#a6e22e">User</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">ID</span>        <span style="color:#66d9ef">int</span>
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">FirstName</span> <span style="color:#66d9ef">string</span>
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">LastName</span>  <span style="color:#66d9ef">string</span>
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> <span style="color:#e6db74">&#34;fmt&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// Single Responsibility Principle:
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// Each struct has only a single responsibility.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// User struct represents a user in the system.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">User</span> <span style="color:#66d9ef">struct</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">ID</span>        <span style="color:#66d9ef">int</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">FirstName</span> <span style="color:#66d9ef">string</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">LastName</span>  <span style="color:#66d9ef">string</span>
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#75715e">// UserService struct defines a service for managing users.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserService</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">users</span> []<span style="color:#a6e22e">User</span>
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// AddUser adds a new user to the service.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">s</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>) <span style="color:#a6e22e">AddUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> = append(<span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span>, <span style="color:#a6e22e">u</span>)
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// GetUserByID returns the user with the given ID.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">s</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>) <span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) <span style="color:#a6e22e">User</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">u</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">id</span> {
-</span></span><span style="display:flex;"><span>              <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">u</span>
-</span></span><span style="display:flex;"><span>          }
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserService</span> <span style="color:#66d9ef">struct</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">users</span> []<span style="color:#a6e22e">User</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// AddUser adds a new user to the service.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">s</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>) <span style="color:#a6e22e">AddUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> = append(<span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span>, <span style="color:#a6e22e">u</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// GetUserByID returns the user with the given ID.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">s</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>) <span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) <span style="color:#a6e22e">User</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">u</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">id</span> {
+</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">u</span>
 </span></span><span style="display:flex;"><span>      }
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">User</span>{}
 </span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Open/Closed Principle:
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// The UserService is open for extension, but closed for modification.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// We can add new functionality by implementing new interfaces,
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// rather than modifying the existing UserService.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// UserRepository defines the interface for a user repository.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserRepository</span> <span style="color:#66d9ef">interface</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span>
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>)
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">User</span>{}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// Open/Closed Principle:
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// The UserService is open for extension, but closed for modification.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// We can add new functionality by implementing new interfaces,
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// rather than modifying the existing UserService.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// UserRepository defines the interface for a user repository.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserRepository</span> <span style="color:#66d9ef">interface</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>)
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#75715e">// UserRepositoryImpl is a concrete implementation of the UserRepository interface.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// It uses the UserService to store and retrieve users.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserRepositoryImpl</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">userService</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// SaveUser saves a user to the repository.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">userService</span>.<span style="color:#a6e22e">AddUser</span>(<span style="color:#a6e22e">u</span>)
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// FindUserByID finds a user with the given ID in the repository.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">userService</span>.<span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span>), <span style="color:#66d9ef">nil</span>
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Liskov Substitution Principle:
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// The UserRepositoryImpl should be substitutable for the UserRepository interface.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// This means that we should be able to use either the interface or the concrete implementation
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// without knowing which one we are using.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// UserController is a controller for managing users.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// It uses a UserRepository to store and retrieve users.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserController</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">repository</span> <span style="color:#a6e22e">UserRepository</span>
-</span></span><span style="display:flex;"><span>  }
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// It uses the UserService to store and retrieve users.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserRepositoryImpl</span> <span style="color:#66d9ef">struct</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">userService</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserService</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// SaveUser saves a user to the repository.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">userService</span>.<span style="color:#a6e22e">AddUser</span>(<span style="color:#a6e22e">u</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// FindUserByID finds a user with the given ID in the repository.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>) {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">userService</span>.<span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span>), <span style="color:#66d9ef">nil</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// Liskov Substitution Principle:
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// The UserRepositoryImpl should be substitutable for the UserRepository interface.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// This means that we should be able to use either the interface or the concrete implementation
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// without knowing which one we are using.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// UserController is a controller for managing users.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e">// It uses a UserRepository to store and retrieve users.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserController</span> <span style="color:#66d9ef">struct</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">repository</span> <span style="color:#a6e22e">UserRepository</span>
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#75715e">// NewUserController creates a new UserController.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> <span style="color:#a6e22e">NewUserController</span>(<span style="color:#a6e22e">r</span> <span style="color:#a6e22e">UserRepository</span>) <span style="color:#f92672">*</span><span style="color:#a6e22e">UserController</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#f92672">&amp;</span><span style="color:#a6e22e">UserController</span>{<span style="color:#a6e22e">repository</span>: <span style="color:#a6e22e">r</span>}
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// CreateUser creates a new user.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">c</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserController</span>) <span style="color:#a6e22e">CreateUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">c</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span>)
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// GetUserByID gets the user with the given ID.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">c</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserController</span>) <span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">c</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span>)
-</span></span><span style="display:flex;"><span>  }
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
-</span></span><span style="display:flex;"><span>      <span style="color:#75715e">// Dependency Inversion Principle:
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#75715e">// The UserController depends on the UserRepository interface,
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#75715e">// rather than on the concrete UserRepositoryImpl.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#75715e">// This allows us to use any implementation of the UserRepository interface with the UserController.
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">userService</span> <span style="color:#f92672">:=</span> <span style="color:#f92672">&amp;</span><span style="color:#a6e22e">UserService</span>{}
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">repository</span> <span style="color:#f92672">:=</span> <span style="color:#f92672">&amp;</span><span style="color:#a6e22e">UserRepositoryImpl</span>{<span style="color:#a6e22e">userService</span>: <span style="color:#a6e22e">userService</span>}
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">controller</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">NewUserController</span>(<span style="color:#a6e22e">repository</span>)
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">User</span>{<span style="color:#a6e22e">ID</span>: <span style="color:#ae81ff">1</span>, <span style="color:#a6e22e">FirstName</span>: <span style="color:#e6db74">&#34;John&#34;</span>, <span style="color:#a6e22e">LastName</span>: <span style="color:#e6db74">&#34;Doe&#34;</span>}
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">controller</span>.<span style="color:#a6e22e">CreateUser</span>(<span style="color:#a6e22e">user</span>)
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">retrievedUser</span>, <span style="color:#a6e22e">_</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">controller</span>.<span style="color:#a6e22e">GetUserByID</span>(<span style="color:#ae81ff">1</span>)
-</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#a6e22e">retrievedUser</span>)
-</span></span><span style="display:flex;"><span>  }
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">NewUserController</span>(<span style="color:#a6e22e">r</span> <span style="color:#a6e22e">UserRepository</span>) <span style="color:#f92672">*</span><span style="color:#a6e22e">UserController</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#f92672">&amp;</span><span style="color:#a6e22e">UserController</span>{<span style="color:#a6e22e">repository</span>: <span style="color:#a6e22e">r</span>}
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// CreateUser creates a new user.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">c</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserController</span>) <span style="color:#a6e22e">CreateUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">c</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// GetUserByID gets the user with the given ID.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">c</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserController</span>) <span style="color:#a6e22e">GetUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>) {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">c</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span>)
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>  <span style="color:#75715e">// Dependency Inversion Principle:
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// The UserController depends on the UserRepository interface,
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// rather than on the concrete UserRepositoryImpl.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#75715e">// This allows us to use any implementation of the UserRepository interface with the UserController.
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">userService</span> <span style="color:#f92672">:=</span> <span style="color:#f92672">&amp;</span><span style="color:#a6e22e">UserService</span>{}
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">repository</span> <span style="color:#f92672">:=</span> <span style="color:#f92672">&amp;</span><span style="color:#a6e22e">UserRepositoryImpl</span>{<span style="color:#a6e22e">userService</span>: <span style="color:#a6e22e">userService</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">controller</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">NewUserController</span>(<span style="color:#a6e22e">repository</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">User</span>{<span style="color:#a6e22e">ID</span>: <span style="color:#ae81ff">1</span>, <span style="color:#a6e22e">FirstName</span>: <span style="color:#e6db74">&#34;John&#34;</span>, <span style="color:#a6e22e">LastName</span>: <span style="color:#e6db74">&#34;Doe&#34;</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">controller</span>.<span style="color:#a6e22e">CreateUser</span>(<span style="color:#a6e22e">user</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">retrievedUser</span>, <span style="color:#a6e22e">_</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">controller</span>.<span style="color:#a6e22e">GetUserByID</span>(<span style="color:#ae81ff">1</span>)
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">fmt</span>.<span style="color:#a6e22e">Println</span>(<span style="color:#a6e22e">retrievedUser</span>)
+</span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>In this example, the <code>User</code> struct represents a user in the system and has only the data and methods that are related to a user. The <code>UserService</code> struct defines a service for managing users, and follows the Single Responsibility Principle by having only a single responsibility (managing users).</p>
 <p>The <code>UserRepository</code> interface and the <code>UserRepositoryImpl</code> struct demonstrate the Open/Closed Principle by defining an interface that can be implemented by different types, rather than modifying the existing <code>UserService</code>. The <code>UserRepositoryImpl</code> also satisfies the Liskov Substitution Principle by being substitutable for the <code>UserRepository</code> interface.</p>
 <p>Finally, the <code>UserController</code> struct applies the Dependency Inversion Principle by depending on the <code>UserRepository</code> interface, rather than on a specific implementation of the interface. This allows us to use any implementation of the <code>UserRepository</code> interface with the <code>UserController</code>. For example, a memory implementation of <code>UserRepository</code> could be used in unit tests and a real database implementation of <code>UserRepository</code> could be used in integration tests using test containers.</p>
@@ -441,103 +421,103 @@ return &#34;Meow!&#34;
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">// rather than modifying the existing UserService.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">// UserRepository defines the interface for a user repository.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserRepository</span> <span style="color:#66d9ef">interface</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>)
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>)
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#75715e">// UserRepositoryImpl is a concrete implementation of the UserRepository interface.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e">// It uses an explicit users slice
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">UserRepositoryImpl</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">users</span> []<span style="color:#a6e22e">User</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">users</span> []<span style="color:#a6e22e">User</span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#75715e">// SaveUser saves a user to the repository.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> = append(<span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span>, <span style="color:#a6e22e">u</span>)
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> = append(<span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span>, <span style="color:#a6e22e">u</span>)
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#75715e">// FindUserByID finds a user with the given ID in the repository.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">FindUserByID</span>(<span style="color:#a6e22e">id</span> <span style="color:#66d9ef">int</span>) (<span style="color:#a6e22e">User</span>, <span style="color:#66d9ef">error</span>) {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">u</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">id</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">u</span>, <span style="color:#66d9ef">nil</span>
-</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">u</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">id</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">u</span>, <span style="color:#66d9ef">nil</span>
 </span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">User</span>{}, <span style="color:#a6e22e">ErrUserNotFound</span>
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>This looks fine, functionality stays the same and we removed 17 lines of code, but let&rsquo;s add a few things.</p>
 <p>What if we want to check if a user exists before saving it? We can do so with the following:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#75715e">// SaveUser saves a user to the repository.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
-</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
 </span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> = append(<span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span>, <span style="color:#a6e22e">u</span>)
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>As our user base grows, maybe we want to add a unique <code>username</code> field to the <code>User</code>. We can add the field to the <code>User</code> struct and on save check if the username is unique and doesn&rsquo;t contain any bad words.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">ErrUsernameExists</span> = <span style="color:#a6e22e">errors</span>.<span style="color:#a6e22e">New</span>(<span style="color:#e6db74">&#34;user with username already exists&#34;</span>)
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">type</span> <span style="color:#a6e22e">User</span> <span style="color:#66d9ef">struct</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">ID</span>        <span style="color:#66d9ef">int</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">FirstName</span> <span style="color:#66d9ef">string</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">LastName</span>  <span style="color:#66d9ef">string</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">Username</span> <span style="color:#66d9ef">string</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">ID</span>        <span style="color:#66d9ef">int</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">FirstName</span> <span style="color:#66d9ef">string</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">LastName</span>  <span style="color:#66d9ef">string</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">Username</span> <span style="color:#66d9ef">string</span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#75715e">// SaveUser saves a user to the repository.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">badWords</span>.<span style="color:#a6e22e">Contains</span>(<span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameInvalid</span>
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#a6e22e">badWords</span>.<span style="color:#a6e22e">Contains</span>(<span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>) {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameInvalid</span>
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
-</span></span><span style="display:flex;"><span>      }
-</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">Username</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameExists</span>
-</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
 </span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">Username</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameExists</span>
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span> = append(<span style="color:#a6e22e">s</span>.<span style="color:#a6e22e">users</span>, <span style="color:#a6e22e">u</span>)
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">nil</span>
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>Now if we wanted to rewrite SaveUser using an actual database:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#75715e">// SaveUser saves a user to the repository.
 </span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">badWords</span>.<span style="color:#a6e22e">Contains</span>(<span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameInvalid</span>
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#a6e22e">badWords</span>.<span style="color:#a6e22e">Contains</span>(<span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>) {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameInvalid</span>
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#a6e22e">users</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">db</span>.<span style="color:#a6e22e">Query</span>(<span style="color:#e6db74">&#34;select * from users&#34;</span>).<span style="color:#a6e22e">ScanStructs</span>(<span style="color:#a6e22e">User</span>{})
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">users</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
-</span></span><span style="display:flex;"><span>      }
-</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">Username</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameExists</span>
-</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">users</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
 </span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">Username</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameExists</span>
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">db</span>.<span style="color:#a6e22e">Exec</span>(<span style="color:#e6db74">&#34;insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)&#34;</span>, <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span>, <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">FirstName</span>, <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">LastName</span>, <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>)
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>Still maintainable but it could look something like this which I personally find more readable:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">badWords</span>.<span style="color:#a6e22e">Contains</span>(<span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>) {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameInvalid</span>
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#a6e22e">badWords</span>.<span style="color:#a6e22e">Contains</span>(<span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span>) {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameInvalid</span>
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#a6e22e">users</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">QueryAllUsers</span>()
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">users</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
-</span></span><span style="display:flex;"><span>      }
-</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">Username</span> {
-</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameExists</span>
-</span></span><span style="display:flex;"><span>      }
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">for</span> <span style="color:#a6e22e">_</span>, <span style="color:#a6e22e">user</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">users</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">ID</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">ID</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUserWithIDExists</span>
 </span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">u</span>.<span style="color:#a6e22e">Username</span> <span style="color:#f92672">==</span> <span style="color:#a6e22e">user</span>.<span style="color:#a6e22e">Username</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">ErrUsernameExists</span>
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span>)
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>You could refactor even further:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#66d9ef">func</span> (<span style="color:#a6e22e">r</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">UserRepositoryImpl</span>) <span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span> <span style="color:#a6e22e">User</span>) <span style="color:#66d9ef">error</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">ValidateUser</span>(<span style="color:#a6e22e">u</span>);
-</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
-</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">err</span>
-</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">ValidateUser</span>(<span style="color:#a6e22e">u</span>);
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">err</span>
+</span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span><span style="color:#f92672">-</span> <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">r</span>.<span style="color:#a6e22e">repository</span>.<span style="color:#a6e22e">SaveUser</span>(<span style="color:#a6e22e">u</span>)
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>Now it&rsquo;s even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.</p>

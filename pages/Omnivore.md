@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Napflix | Siesta Video Platform.](https://omnivore.app/me/napflix-siesta-video-platform-18b3a3f99ba)
+	  collapsed:: true
+	  site:: [napflix.tv](https://napflix.tv)
+	  labels:: [[art]]
+	  date-saved:: [[Oct 16th, 2023]]
+	- [Organizing multiple Git identities | Garrit's Notes](https://omnivore.app/me/organizing-multiple-git-identities-garrit-s-notes-18b3a2e7d46)
+	  collapsed:: true
+	  site:: [garrit.xyz](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 16th, 2023]]
+	  date-published:: [[Oct 12th, 2023]]
 	- [Conversations at the Forefront of Cybersecurity with NYU CCS featuring Nasir Memon](https://omnivore.app/me/conversations-at-the-forefront-of-cybersecurity-with-nyu-ccs-fea-18b371e9c85)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=dZNhfAf1z5g)
@@ -13,6 +24,7 @@
 	- [Quickstart: Deploy a Go service to Cloud Run  |  Cloud Run Documentation  |  Google Cloud](https://omnivore.app/me/quickstart-deploy-a-go-service-to-cloud-run-cloud-run-documentat-18b36856765)
 	  collapsed:: true
 	  site:: [Google Cloud](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-go-service)
+	  labels:: [[golang/programming]]
 	  date-saved:: [[Oct 15th, 2023]]
 	  date-published:: [[Oct 8th, 2023]]
 	- [Uptrace: Open Source APM [Forever Free]](https://omnivore.app/me/uptrace-open-source-apm-forever-free-18b36692085)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Quickstart: Deploy a Go service to Cloud Run  |  Cloud Run Documentation  |  Google Cloud](https://omnivore.app/me/quickstart-deploy-a-go-service-to-cloud-run-cloud-run-documentat-18b36856765)
+	  collapsed:: true
+	  site:: [Google Cloud](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-go-service)
+	  date-saved:: [[Oct 15th, 2023]]
+	  date-published:: [[Oct 8th, 2023]]
+	- [Uptrace: Open Source APM [Forever Free]](https://omnivore.app/me/uptrace-open-source-apm-forever-free-18b36692085)
+	  collapsed:: true
+	  site:: [Uptrace](https://uptrace.dev/get/open-source-apm.html)
+	  date-saved:: [[Oct 15th, 2023]]
+	  date-published:: [[Jul 31st, 2023]]
 	- [TECHING 1/10 Full Metal Working Turbofan Engine Model - Build Your Own Turbofan Engine that Works– EngineDIY](https://omnivore.app/me/teching-1-10-full-metal-working-turbofan-engine-model-build-your-18b34d53835)
 	  collapsed:: true
 	  site:: [EngineDIY](https://www.enginediy.com/products/turbofan-engine-model-kit-that-works-build-your-own-turbofan-engine-teching-1-10-full-metal-dual-spool-turbofan-engine-aircraft-engine-model-1000-pcs?variant=44300623806678)

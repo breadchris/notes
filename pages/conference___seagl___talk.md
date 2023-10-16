@@ -1,6 +1,11 @@
 - Legos for Code
-	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg)
-- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 844, :width 409}
-- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951)
-- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856)
+- I want to be able to play with code
+	- Simple
+	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 532, :width 398}
+	- Complex
+	- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856){:height 476, :width 304}
+- Design Principles of LEGO
+	-
+	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 844, :width 409}
+	- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951)
 -

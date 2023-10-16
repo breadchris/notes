@@ -23,5 +23,8 @@
 	- ![Defcon.jpg](../assets/Defcon_1697436609583_0.jpg)
 - Conclusion
 	- Encouragement to pursue passion, continuously learn, and engage with the cybersecurity community​
+	- ![Screenshot 2023-10-15 at 11.10.50 PM.png](../assets/Screenshot_2023-10-15_at_11.10.50 PM_1697436653008_0.png)
 - References
 	- https://breadchris.com/pages/how-i-got-to-where-i-am/
+	- https://www.youtube.com/@LiveOverflow
+	- https://picoctf.org/

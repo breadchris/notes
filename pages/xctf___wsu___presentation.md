@@ -1,10 +1,9 @@
-public:: true
-
 - Introduction to Cybersecurity
 	- Personal story: Early interest sparked by high school competitions (CSAW HSF).
 - College Journey
 	- Joining a cybersecurity lab (OSIRIS LAB).
 	- Engaging in Capture The Flag (CTF) competitions.
+	- ![36364661 Facebook.jpg](../assets/36364661_Facebook_1697435773557_0.jpg)
 - Gaining Practical Experience
 	- Internships at BAE systems and Uber.
 	- Real-world impact: Working on mobile security at Uber.

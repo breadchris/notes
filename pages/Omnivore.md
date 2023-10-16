@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Conversations at the Forefront of Cybersecurity with NYU CCS featuring Nasir Memon](https://omnivore.app/me/conversations-at-the-forefront-of-cybersecurity-with-nyu-ccs-fea-18b371e9c85)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=dZNhfAf1z5g)
+	  author:: NYU Tandon School of Engineering
+	  date-saved:: [[Oct 15th, 2023]]
+	- [NYC Students, Hackers Train for Cybersecurity Jobs – NBC New York](https://omnivore.app/me/nyc-students-hackers-train-for-cybersecurity-jobs-nbc-new-york-18b371e329b)
+	  collapsed:: true
+	  site:: [NBC New York](https://www.nbcnewyork.com/news/local/new-york-city-cybersecurity-hacker-students-training-programs/2078091)
+	  author:: Jake Pearson
+	  date-saved:: [[Oct 15th, 2023]]
+	  date-published:: [[Apr 11th, 2013]]
 	- [Quickstart: Deploy a Go service to Cloud Run  |  Cloud Run Documentation  |  Google Cloud](https://omnivore.app/me/quickstart-deploy-a-go-service-to-cloud-run-cloud-run-documentat-18b36856765)
 	  collapsed:: true
 	  site:: [Google Cloud](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-go-service)

@@ -1,2 +1,4 @@
 - Legos for Code
+- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 844, :width 409}
+- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951)
 -

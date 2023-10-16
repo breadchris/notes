@@ -9,14 +9,12 @@ params:
     Content: I have lots of ideas and not enough time to make them happen. I live to share and collaborate with others so please do not hesitate to reach out!
 
   socialIcons:
+    - name: "youtube"
+      url: "https://www.youtube.com/@breadchris/streams"
     - name: "github"
       url: "https://github.com/breadchris"
     - name: "twitter"
       url: "https://twitter.com/breadchris"
-    - name: "twitch"
-      url: "https://www.twitch.tv/marvelousbreadchris"
-    - name: "rss"
-      url: "https://breadchris.com/index.xml"
   ShowReadingTime: true
   author: "breadchris"
   contact: "contact@breadchris.com"
@@ -57,20 +55,4 @@ outputs:
     - JSON
 
 menu:
-  main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 20
-    - identifier: archive
-      name: Archive
-      url: /archives/
-      weight: 20
+  main: []

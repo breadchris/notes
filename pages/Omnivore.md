@@ -148,6 +148,7 @@
 	  collapsed:: true
 	  site:: [Medium](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521)
 	  author:: Neum AI
+	  labels:: [[programming]][[ai]]
 	  date-saved:: [[Oct 9th, 2023]]
 	  date-published:: [[Sep 28th, 2023]]
 	- [Why pivot tables are the spreadsheet’s most powerful tool](https://omnivore.app/me/why-pivot-tables-are-the-spreadsheet-s-most-powerful-tool-18b1591cbc7)
@@ -172,6 +173,7 @@
 	- [How Render Scaled Knative to 100k+ Web Apps | Render](https://omnivore.app/me/how-render-scaled-knative-to-100-k-web-apps-render-18b119de83f)
 	  collapsed:: true
 	  site:: [How Render Scaled Knative to 100k+ Web Apps | Render](https://render.com/blog/knative)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 8th, 2023]]
 	  date-published:: [[Jul 11th, 2023]]
 	- [Know Yourself Better by Writing What Pops into Your Head - Scientific American](https://omnivore.app/me/know-yourself-better-by-writing-what-pops-into-your-head-scienti-18b116166c9)
@@ -183,6 +185,7 @@
 	- [Introducing the Tailscale Universal Docker Mod](https://omnivore.app/me/introducing-the-tailscale-universal-docker-mod-18b116111bd)
 	  collapsed:: true
 	  site:: [Tailscale Community](https://tailscale.dev/blog/docker-mod-tailscale)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 8th, 2023]]
 	  date-published:: [[Apr 13th, 2023]]
 	- ["The Economics of Programming Languages" by Evan Czaplicki (Strange Loop 2023)](https://omnivore.app/me/https-youtu-be-xz-3-w-jec-1-v-8-si-yxa-3-z-5-t-acnd-fql-9-j-18b10718397)

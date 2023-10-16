@@ -1,5 +1,6 @@
 - Introduction to Cybersecurity
 	- Personal story: Early interest sparked by high school competitions (CSAW HSF).
+	- !['NYU CSAW DSC 0617.webp](../assets/'NYU_CSAW_DSC_0617_1697436165742_0.webp)
 - College Journey
 	- Joining a cybersecurity lab (OSIRIS LAB).
 	- Engaging in Capture The Flag (CTF) competitions.

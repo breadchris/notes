@@ -1,0 +1,13 @@
+- [[Oct 17th, 2023]]
+	- site: https://ctf.chals.mcpshsf.com/
+	- solution: https://justluk.dev/posts/writeups/mcpshsf/
+	- challenge generator: https://github.com/xctf-io/chalgen
+		- Competition files: https://github.com/xctf-io/chalgen/tree/master/competitions/mcpshsf-2023
+		- ![evidence graph](https://github.com/xctf-io/chalgen/raw/master/competitions/mcpshsf-2023/evidence_graph.png)
+	- resources
+		- programming
+			- learn python https://www.freecodecamp.org/
+				- ideas
+					-
+			- learn go https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440
+			-

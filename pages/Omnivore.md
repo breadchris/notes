@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Frasier Fantasy by Edward La Barbera](https://omnivore.app/me/frasier-fantasy-by-edward-la-barbera-18b40545e93)
+	  collapsed:: true
+	  site:: [itch.io](https://edward-la-barbera.itch.io/frasier-fantasy)
+	  date-saved:: [[Oct 17th, 2023]]
 	- [Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife – The Marginalian](https://omnivore.app/me/love-after-life-nobel-winning-physicist-richard-feynman-s-extrao-18b3efb20da)
 	  collapsed:: true
 	  site:: [The Marginalian](https://www.themarginalian.org/2017/10/17/richard-feynman-arline-letter)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Introducing The Node](https://omnivore.app/me/introducing-the-node-18b48ba5588)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/l8qEVdLjHOs?si=IdZS5PFg7iIoo9tk)
+	  author:: Encase
+	  date-saved:: [[Oct 19th, 2023]]
 	- [Version Museum: A Visual History of Your Favorite Technology](https://omnivore.app/me/version-museum-a-visual-history-of-your-favorite-technology-18b46312690)
 	  collapsed:: true
 	  site:: [Version Museum](https://www.versionmuseum.com)

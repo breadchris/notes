@@ -1,4 +1,39 @@
 ## 🔖 Articles
+	- [You’re not lacking creativity, you’re overwhelmed](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5)
+	  collapsed:: true
+	  site:: [thejorgemedina](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)
+	  author:: Jorge Medina
+	  labels:: [[mah boi]]
+	  date-saved:: [[Oct 18th, 2023]]
+	  date-published:: [[Oct 17th, 2023]]
+		- ### Highlights
+			- > **The Creative Flywheel;** curation, ideation, creation, and distribution. [⤴️](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5#5ebd2a35-f443-4406-9730-60487fc22f9f)
+			- > The core concept of the book revolves around the **CODE Framework**, which stands for:
+			  > 
+			  1. **Capture** \- Keep what resonates
+			  2. **Organize** \- Save for actionability
+			  3. **Distill** \- Find the essence
+			  4. **Express** \- Show your work [⤴️](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5#319a7647-af86-4c49-a37b-884ec9a9fca7)
+			- > **The Creative Flywheel;** curation, ideation, creation, and distribution. [⤴️](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5#eee8a5da-6e17-11ee-abba-b3066b943485)
+			- > The core concept of the book revolves around the **CODE Framework**, which stands for:
+			  > 
+			  1. **Capture** \- Keep what resonates
+			  2. **Organize** \- Save for actionability
+			  3. **Distill** \- Find the essence
+			  4. **Express** \- Show your work [⤴️](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5#eee8e644-6e17-11ee-abba-ff981159c253)
+	- [What is the Demoscene? - by Kiefer Kazimir - On the Arts](https://omnivore.app/me/what-is-the-demoscene-by-kiefer-kazimir-on-the-arts-18b44adfe6d)
+	  collapsed:: true
+	  site:: [On the Arts](https://onthearts.com/p/what-is-the-demoscene)
+	  author:: Kiefer Kazimir
+	  labels:: [[programming]][[art]]
+	  date-saved:: [[Oct 18th, 2023]]
+	  date-published:: [[Oct 18th, 2023]]
+	- [Psytrance Guide](https://omnivore.app/me/psytrance-guide-18b43bd1ea5)
+	  collapsed:: true
+	  site:: [psytranceguide.com](https://psytranceguide.com)
+	  author:: Daniel Sokolovskiy
+	  labels:: [[music]]
+	  date-saved:: [[Oct 18th, 2023]]
 	- [Frasier Fantasy by Edward La Barbera](https://omnivore.app/me/frasier-fantasy-by-edward-la-barbera-18b40545e93)
 	  collapsed:: true
 	  site:: [itch.io](https://edward-la-barbera.itch.io/frasier-fantasy)
@@ -412,7 +447,7 @@
 	- [flomo - Capture faster, review better](https://omnivore.app/me/flomo-capture-faster-review-better-18af71773dd)
 	  collapsed:: true
 	  site:: [flomoapp.com](https://flomoapp.com)
-	  labels:: [[notetaking]]
+	  labels:: [[lunabrain/ideas]][[notetaking]]
 	  date-saved:: [[Oct 3rd, 2023]]
 	- [decomp.me](https://omnivore.app/me/decomp-me-18aeecee339)
 	  collapsed:: true

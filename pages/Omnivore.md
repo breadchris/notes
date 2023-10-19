@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Version Museum: A Visual History of Your Favorite Technology](https://omnivore.app/me/version-museum-a-visual-history-of-your-favorite-technology-18b46312690)
+	  collapsed:: true
+	  site:: [Version Museum](https://www.versionmuseum.com)
+	  date-saved:: [[Oct 18th, 2023]]
 	- [You’re not lacking creativity, you’re overwhelmed](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5)
 	  collapsed:: true
 	  site:: [thejorgemedina](https://newsletter.thejorgemedina.com/p/youre-not-lacking-creativity-youre)

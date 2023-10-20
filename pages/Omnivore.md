@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- ['Awesome lists' parser in Elixir - Chat / Discussions - Elixir Programming Language Forum](https://omnivore.app/me/awesome-lists-parser-in-elixir-chat-discussions-elixir-programmi-18b4b219b96)
+	  collapsed:: true
+	  site:: [Elixir Programming Language Forum](https://elixirforum.com/t/awesome-lists-parser-in-elixir/5926)
+	  date-saved:: [[Oct 19th, 2023]]
+	  date-published:: [[Jun 10th, 2017]]
 	- [humungus.tedunangst.com](https://omnivore.app/me/humungus-tedunangst-com-18b4aa73be8)
 	  collapsed:: true
 	  site:: [humungus.tedunangst.com](https://humungus.tedunangst.com)

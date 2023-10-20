@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [humungus.tedunangst.com](https://omnivore.app/me/humungus-tedunangst-com-18b4aa73be8)
+	  collapsed:: true
+	  site:: [humungus.tedunangst.com](https://humungus.tedunangst.com)
+	  date-saved:: [[Oct 19th, 2023]]
+	- [banging errors in go](https://omnivore.app/me/banging-errors-in-go-18b4aa482bf)
+	  collapsed:: true
+	  site:: [flak.tedunangst.com](https://flak.tedunangst.com/post/bango)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Oct 19th, 2023]]
 	- [Introducing The Node](https://omnivore.app/me/introducing-the-node-18b48ba5588)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/l8qEVdLjHOs?si=IdZS5PFg7iIoo9tk)

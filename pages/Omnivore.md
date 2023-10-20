@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Does Go Have Subtyping? – journal.stuffwithstuff.com](https://omnivore.app/me/does-go-have-subtyping-journal-stuffwithstuff-com-18b4be2370b)
+	  collapsed:: true
+	  site:: [journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Oct 19th, 2023]]
+	  date-published:: [[Oct 18th, 2023]]
 	- ['Awesome lists' parser in Elixir - Chat / Discussions - Elixir Programming Language Forum](https://omnivore.app/me/awesome-lists-parser-in-elixir-chat-discussions-elixir-programmi-18b4b219b96)
 	  collapsed:: true
 	  site:: [Elixir Programming Language Forum](https://elixirforum.com/t/awesome-lists-parser-in-elixir/5926)

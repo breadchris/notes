@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Flowistry - Visual Studio Marketplace](https://omnivore.app/me/flowistry-visual-studio-marketplace-18b5126d8fe)
+	  collapsed:: true
+	  site:: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=wcrichton.flowistry)
+	  date-saved:: [[Oct 21st, 2023]]
+	- [Will Crichton](https://omnivore.app/me/will-crichton-18b5125e5ef)
+	  collapsed:: true
+	  site:: [willcrichton.net](https://willcrichton.net)
+	  author:: Will Crichton
+	  date-saved:: [[Oct 21st, 2023]]
 	- [Lessons learned adding messaging to a notes app (Guest Post) at andrewchen](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817)
 	  collapsed:: true
 	  site:: [andrewchen.com](https://andrewchen.com/lessons-learned-adding-messaging-to-a-notes-app-guest-post)

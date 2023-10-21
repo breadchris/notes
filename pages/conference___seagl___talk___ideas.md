@@ -9,5 +9,13 @@
 	- I was more of a junior application engineer at the start of this
 	- wanted to use this project as a sandbox for trying different technology
 - I wanted to play with things I would learn about like NLP or trying out different ways of displaying recipes. People dont want to read blog posts before they get to the recipe, let's make that simpler. Do people want to watch a video of a chef making this recipe while they cook? What does a grocery list feature look like? This seemingly simple project ended up exploding with features and complexity, which is really fun to play with.
-- But holy shit is writing an application complicated. What happened to PHP? I guess django, rails, flask, aspnet still exist, but man those also kind of annoying in their own ways. Is it unavoidable that a web app framework is going to just kind of
-	-
+- But holy shit is writing an application complicated. What happened to PHP? I guess django, rails, flask, aspnet still exist, but man those also kind of annoying in their own ways. Is it unavoidable that a web app framework is going to just kind of be annoying. Are there just too many things that
+- If you haven't heard of htmx, I would highly recommend you check it out. It is a return to the ideas that the Internet was founded on and addresses the current shortcomings in html that set it back. I really like the book they have published because it reintroduces these concepts without saying they have the silver bullet to people's problems. There is a difference between a site and an app. There is a time and place for the React SPA and there is a time and place for an htmx application.
+	- https://hypermedia.systems/
+- This talk isn't even about htmx. This talk is about LEGOs. Does anyone remember spending a ton of money on these plastic foot destroyers? Maybe you still buy legos because they scratch an itch that nothing else really can quite scratch.
+	- LATER picture of contest LEGO
+	  :LOGBOOK:
+	  CLOCK: [2023-10-21 Sat 15:07:05]--[2023-10-21 Sat 15:07:05] =>  00:00:00
+	  CLOCK: [2023-10-21 Sat 15:07:06]--[2023-10-21 Sat 15:07:06] =>  00:00:00
+	  :END:
+- LEGOs that were built

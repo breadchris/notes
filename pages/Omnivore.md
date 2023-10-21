@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Common-Knowledge Effect: A Harmful Bias in Team Decision Making](https://omnivore.app/me/common-knowledge-effect-a-harmful-bias-in-team-decision-making-18b53724085)
+	  collapsed:: true
+	  site:: [Nielsen Norman Group](https://www.nngroup.com/articles/common-knowledge-effect)
+	  author:: World Leaders in Research-Based User Experience
+	  date-saved:: [[Oct 21st, 2023]]
+	- [MemGPT](https://omnivore.app/me/mem-gpt-18b5365f3ac)
+	  collapsed:: true
+	  site:: [memgpt.ai](https://memgpt.ai)
+	  date-saved:: [[Oct 21st, 2023]]
 	- [Flowistry - Visual Studio Marketplace](https://omnivore.app/me/flowistry-visual-studio-marketplace-18b5126d8fe)
 	  collapsed:: true
 	  site:: [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=wcrichton.flowistry)

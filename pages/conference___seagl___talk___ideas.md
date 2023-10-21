@@ -5,5 +5,9 @@
 - So I first need the recipes, I can get those semi-legally? from the API/scraping the page I am on, I can normalize the ingredients, and I can get close. If the measurement is in oz I am good, but if it is volumetric I need some more processing. I am going to spare you the rabbit hole that this project became, but TL;DR I found the FDA database for nutrition facts, I can further normalize these recipes, but I had to build out this whole recipe normalizing pipeline, along the way, of course, there was scope creep and now this is what the database looks like.
 	- https://fdc.nal.usda.gov/
 	- https://dbdiagram.io/d/633fdc01f0018a1c5fb53234
-- I promise this talk isn't just about my recipe site. I bring up this project because at this point I have rewritten this code 7, 8 times? Between the python scripts, javascript frontend, javascript backend, and now my dream of a future rewrite of go
+- I promise this talk isn't just about my recipe site. I bring up this project because at this point I have rewritten this code 7, 8 times? Between the python scripts, javascript frontend, javascript backend, and now my dream of a future rewrite of this site in go, it has gotten out of hand. I have written and rewritten this project because
+	- I was more of a junior application engineer at the start of this
+	- wanted to use this project as a sandbox for trying different technology
+- I wanted to play with things I would learn about like NLP or trying out different ways of displaying recipes. People dont want to read blog posts before they get to the recipe, let's make that simpler. Do people want to watch a video of a chef making this recipe while they cook? What does a grocery list feature look like? This seemingly simple project ended up exploding with features and complexity, which is really fun to play with.
+- But holy shit is writing an application complicated. What happened to PHP? I guess django, rails, flask, aspnet still exist, but man those also kind of annoying in their own ways. Is it unavoidable that a web app framework is going to just kind of
 	-

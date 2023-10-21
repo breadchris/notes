@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Lessons learned adding messaging to a notes app (Guest Post) at andrewchen](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817)
+	  collapsed:: true
+	  site:: [andrewchen.com](https://andrewchen.com/lessons-learned-adding-messaging-to-a-notes-app-guest-post)
+	  date-saved:: [[Oct 20th, 2023]]
+	- [Lessons from the front lines: building Fetchnotes | by Alex Schiff | Medium](https://omnivore.app/me/lessons-from-the-front-lines-building-fetchnotes-by-alex-schiff--18b505167d5)
+	  collapsed:: true
+	  site:: [Medium](https://alexschiff.medium.com/lessons-from-the-front-lines-building-fetchnotes-d36d2cca6fff)
+	  author:: Alex Schiff
+	  date-saved:: [[Oct 20th, 2023]]
+	  date-published:: [[Jun 12th, 2015]]
+	- [Farewell, Fetchnotes. On October 8, I sent the following… | by Alex Schiff | Medium](https://omnivore.app/me/farewell-fetchnotes-on-october-8-i-sent-the-following-by-alex-sc-18b504f971b)
+	  collapsed:: true
+	  site:: [Medium](https://alexschiff.medium.com/farewell-fetchnotes-4c66013362f)
+	  author:: Alex Schiff
+	  date-saved:: [[Oct 20th, 2023]]
+	  date-published:: [[Oct 11th, 2016]]
 	- [How Fetchnotes Can Help You Increase Your Productivity](https://omnivore.app/me/how-fetchnotes-can-help-you-increase-your-productivity-18b4fa5bbd2)
 	  collapsed:: true
 	  site:: [Skillhub](https://skillhub.com/blog/fetchnotes)

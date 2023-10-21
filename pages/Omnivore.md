@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [How Fetchnotes Can Help You Increase Your Productivity](https://omnivore.app/me/how-fetchnotes-can-help-you-increase-your-productivity-18b4fa5bbd2)
+	  collapsed:: true
+	  site:: [Skillhub](https://skillhub.com/blog/fetchnotes)
+	  author:: Skillhub
+	  date-saved:: [[Oct 20th, 2023]]
+	  date-published:: [[Nov 14th, 2021]]
 	- [Does Go Have Subtyping? – journal.stuffwithstuff.com](https://omnivore.app/me/does-go-have-subtyping-journal-stuffwithstuff-com-18b4be2370b)
 	  collapsed:: true
 	  site:: [journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping)

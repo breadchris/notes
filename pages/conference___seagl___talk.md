@@ -18,4 +18,5 @@
 		- Create interactive elements that promote engagement and collaboration among users, mirroring the interactive and social nature of LEGO play.
 	- **Accessibility and Inclusivity**
 		- Ensure that the software is accessible to a wide range of users, reflecting LEGO’s design which caters to different abilities and backgrounds.
+- #conference/seagl/talk/ideas
 -

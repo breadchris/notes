@@ -67,9 +67,11 @@
 		- {{video https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_}}
 - Why Go?
 	- Studying Go has brought me closer to experiencing the "zen of programming" than any other language (sorry python)
-	- I plan on giving a whole presentation on Go, maybe next year here. I think some things to highlight with go is that there is no "package registry", you are just cloning projects from Git which means you get to see every line of source that is included in your project. This means you are constantly learning design patterns, probably from
+	- It is infuriatingly simple and forces you into thinking a certain way, making it very difficult to be "clever" when you code. Giving up cleverness on the micro scale means that you are spending more time in your brain thinking about how to architect a larger system. It is by no means a perfect language, but I have been able to code in Go much faster than any other language I have used.
+	- The fact that you can send someone a "main.go" and they can run it with "go run main.go" and the modules are automatically downloaded, no virtualenv, no node_modules, no maven, not even a run of "cargo" is insanely valuable imo. It feels a lot closer to that feeling of "play" that I have been chasing.
+	- Try asking chatgpt to write you some go code and give it a run, you might be surprised how easy it is.
+	- I plan on giving a whole presentation on Go, maybe next year here. I think some things to highlight with go is that there is no "package registry", you are just cloning projects from Git which means you get to see every line of source that is included in your project. This means you are constantly learning design patterns, probably from people who have been developing Go professionally at Google or one of the many other companies that write it.
 	- I think Rust would also be a reasonable language to write this in, especially to squeeze out every ounce of performance, but I haven't written a line of Rust and the book is just collecting dust on my desk. Go is performant enough to prove out this idea for now.
-	-
 - Why should you use protoflow?
 	- If it can achieve its goals, it will be the easiest way to start from zero and set you in the direction of building a business that you can scale very big.
 	- What is cool is that you theoretically wouldn't even need to learn Go either. Being just a workflow orchestration system, you could come with your Python, JS, etc. and hook them up as jobs that could be dispatched.

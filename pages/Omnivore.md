@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [OpenRefine](https://omnivore.app/me/open-refine-18b54e30328)
+	  collapsed:: true
+	  site:: [openrefine.org](https://openrefine.org)
+	  date-saved:: [[Oct 21st, 2023]]
+	- [History of Tcl](https://omnivore.app/me/history-of-tcl-18b54e1c171)
+	  collapsed:: true
+	  site:: [tcl.tk](https://www.tcl.tk/about/history.html)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 21st, 2023]]
 	- [Common-Knowledge Effect: A Harmful Bias in Team Decision Making](https://omnivore.app/me/common-knowledge-effect-a-harmful-bias-in-team-decision-making-18b53724085)
 	  collapsed:: true
 	  site:: [Nielsen Norman Group](https://www.nngroup.com/articles/common-knowledge-effect)

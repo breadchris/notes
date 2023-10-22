@@ -19,6 +19,11 @@
 	  CLOCK: [2023-10-21 Sat 15:07:06]--[2023-10-21 Sat 15:07:06] =>  00:00:00
 	  :END:
 - LEGO's founding principles
+	- TODO
 - LEGOs are toys that still attract an international fan base and range from young kids to adults. People build small "cars" with a couple of bricks all the way up to incredible feats of engineering all with the same bricks.
 - LEGO was not always the "perfect" toy. There was a point in their history where they were hemorrhaging cash as they went through an identity crisis. Brand deals like star wars and harry potter did more harm than good for LEGO's identity. They had to sell LEGO land in europe to fix their problem. A kid who was dying of cancer ended up saving their brand with bionicle. It was a whole thing
+- There is an unfair comparison between LEGOs and code and that is
+	- the world isn't built on LEGOs, and more and more of it is being built with code every day
+	- LEGOs are a premium, physical toy, code is either libre or impossibly expensive
+-
 -

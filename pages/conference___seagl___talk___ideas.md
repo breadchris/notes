@@ -43,7 +43,10 @@
 		- https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082
 		- ![Screenshot 2023-10-22 at 1.00.06 PM.png](../assets/Screenshot_2023-10-22_at_1.00.06 PM_1698004808407_0.png)
 	- Before pivoting, I moved the internals over to using Temporal, and it worked pretty well. The cobwebs were starting to become untangled, but it was too late.
-	- We started building out a security product and ended up making a n
+	- We started building out a security product and ended up making a name for ourselves with Log4Shell
+	- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)
+	- It was honestly pretty ridiculous what we ended up building. It was a SCA tool that was supposed to not suck (ehem snyk) and we built an npm replicator to determine if vulnerabilities that were being trigged on your repo were actually vulnerabilities. Turns out almost
+		- https://github.com/lunasec-io/lunasec/blob/master/lunatrace/bsl/ingest-worker/pkg/metadata/replicator/npm.go
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

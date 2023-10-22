@@ -2,16 +2,16 @@
 - What you can do with it is just as important as how you can communicate how you did it
 - I want to be able to play with code
 	- Simple
-	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 532, :width 398}
+	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 222, :width 186}
 	- Complex
-	- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856){:height 476, :width 304}
+	- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856){:height 222, :width 179}
 - Design Principles of LEGO
 	- **Innovation and Simplicity**
 		- Foster creativity by providing a straightforward and intuitive interface, akin to LEGO’s simple interlocking mechanism, which enables users to build and create freely without a steep learning curve.
-	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 844, :width 409}
+	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}
 	- **Educational Value**
 		- Ensure that the code or software has educational aspects, helping users to learn and develop new skills, similar to how LEGO teaches basic engineering and geometry principles.
-	- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951)
+	- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951){:height 248, :width 262}
 	- **Expandability and Flexibility**
 		- Design the code to be modular and extensible, allowing for growth and adaptation over time, much like how LEGO sets can be combined and expanded upon.
 	- **Interactive and Engaging**

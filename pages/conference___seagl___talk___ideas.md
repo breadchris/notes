@@ -80,6 +80,15 @@
 	- Prototypes either survive or get killed quickly, which is good
 	- Once you have something that is functional in your hands that gets the point across, you can build momentum with your team because now you have shared context on what to go deep on
 	- TODO reference for apple design ebook
+- Other companies
+	- [val.town](https://www.val.town/)
+		- Cool project for running javascript super quickly, not open source
+	- https://n8n.io/
+		- nice UI
+		- Not a single executable, can't embed
+		- Not really focused on power users?
+	- https://github.com/windmill-labs/windmill
+		- lots of cool things here, need to use the UI to code?
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

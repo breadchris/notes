@@ -52,7 +52,11 @@
 	- Years passed as we were working on the security company, but we had a chance recently to go to Las Vegas for a week for a "grindcation" to build out the prototype of protoflow. The goal of the week was "JIT CRUD" which we totally nailed.
 	- Since then, I have been focused on trying to build small workflows in protoflow and seeing how it feels to use it.
 	- I built a UI because I personally loved that part of Refinery. Throwing blocks up on a screen and connecting them to see what happens.
-	- I have addressed one of the major problems that Refinery had, vendor lock in. Being so deeply connected with AWS made it a nightmare to suggest to engineers to play with. No one wants that shit.
+	- I have addressed one of the major problems that Refinery had, vendor lock in. Being so deeply connected with AWS made it a nightmare to suggest to engineers to play with. No one wants that shit. Instead, the focus has been on building a single executable, that you could even embed into a go program as a library if you wanted, so that it is very portable.
+	- I went from considering protoflow as a runtime, to a programming language, to now I think what I am building is more of a code generator/debugging tool.
+	- I have talked to a lot of my experienced developer friends and I find it very interesting that most of them seem to not have many personal coding projects of their own.
+	- It seems to me that they have been exposed to what things look like at scale and what great effort it takes to get there that all the wind has been taken out of their sail when it comes to just building a small POC of a feature.
+	- Something as simple as a web app has become insanely complicated with the seeming requirement of needing to know the "javascript framework
 - You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think writing it all down helped me realize something important
 	- When you get to play, you can build small, rapid prototypes
 	- Prototypes either survive or get killed quickly, which is good

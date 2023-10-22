@@ -45,8 +45,11 @@
 	- Before pivoting, I moved the internals over to using Temporal, and it worked pretty well. The cobwebs were starting to become untangled, but it was too late.
 	- We started building out a security product and ended up making a name for ourselves with Log4Shell
 	- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)
-	- It was honestly pretty ridiculous what we ended up building. It was a SCA tool that was supposed to not suck (ehem snyk) and we built an npm replicator to determine if vulnerabilities that were being trigged on your repo were actually vulnerabilities. Turns out almost
+	- It was honestly pretty ridiculous what we ended up building. It was a SCA tool that was supposed to not suck (ehem snyk) and we built an npm replicator to determine if vulnerabilities that were being trigged on your repo were actually vulnerabilities. Turns out almost all of them arent (go figure)
 		- https://github.com/lunasec-io/lunasec/blob/master/lunatrace/bsl/ingest-worker/pkg/metadata/replicator/npm.go
+	- Once again, we couldn't figure out how to make money and we ended up pivoting. But I'll be damned if all along the way I was thinking about how we would have really have loved to have Refinery. We had built out all of this infrastructure in order to replicate, analyze, report, etc. and
+	- It is actually a pretty funny story. I had a friend from college who was looking at hackernews back when we were building Refinery because they were looking for something similar
+- You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

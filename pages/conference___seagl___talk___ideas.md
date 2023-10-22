@@ -56,7 +56,14 @@
 	- I went from considering protoflow as a runtime, to a programming language, to now I think what I am building is more of a code generator/debugging tool.
 	- I have talked to a lot of my experienced developer friends and I find it very interesting that most of them seem to not have many personal coding projects of their own.
 	- It seems to me that they have been exposed to what things look like at scale and what great effort it takes to get there that all the wind has been taken out of their sail when it comes to just building a small POC of a feature.
-	- Something as simple as a web app has become insanely complicated with the seeming requirement of needing to know the "javascript framework
+	- Something as simple as a web app has become insanely complicated with the seeming requirement of needing to know the "javascript framework of the week" in order to build a "modern app".
+	- I have become obsessed with studying the "old and boring". Remember HTML and CSS? Those are still alive and well. Bootstrap? Yeah that is still there. There is an amazing project htmx, if you haven't seen it, which has an entire book written about it. Enhancing web applications without using SPA frameworks.
+		- https://hypermedia.systems/
+	- What else has been overlooked? Protobuf has been around for almost 2 decades and it solved Google's problem of needing to pipe data around an international company that deals with world scale data needs. GRPC has been around for a decade and helps build services. Buf, also an ex-Uber company, has tackled the last bit of effort to get GRPC tooling in a useable state, and consequently, Protoflow uses this.
+		- https://buf.build/
+	-
+	- I talked to a math nerd at great length about Protoflow and they suggested I learn about category theory since it seemed to them this is what I was discovering through what I was building.
+		- {{video https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_}}
 - You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think writing it all down helped me realize something important
 	- When you get to play, you can build small, rapid prototypes
 	- Prototypes either survive or get killed quickly, which is good

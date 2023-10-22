@@ -29,8 +29,14 @@
 - I think what I really want to study is how to make design decisions that have two attributes
 	- Stand the test of time
 	- Building things feels more like playing than working
-		- Playing does not proclude
-- It is pretty natural to
+		- Playing does not preclude things sometimes being "hard", but the underlying technology needs to _anticipate_ use cases and provide support when those are hit. There should _never_ be any unexpected behavior. It is undeniable how to use a LEGO, it will not lie to you.
+		- Working is when you have to trudge through refuse of neglect because people before you could not have been bothered to build a better foundation. Typically the result of incentives being in the wrong place.
+- What even is Protoflow?
+	- To be honest, I don't really know.
+	- I worked at Uber and got to see Cadence. A workflow orchestration system that was battle tested at Uber. The team forked it and started Temporal.
+		- https://github.com/uber/cadence
+		- https://temporal.io/
+	- I worked at a startup building Refinery
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

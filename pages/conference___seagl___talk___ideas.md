@@ -36,7 +36,14 @@
 	- I worked at Uber and got to see Cadence. A workflow orchestration system that was battle tested at Uber. The team forked it and started Temporal.
 		- https://github.com/uber/cadence
 		- https://temporal.io/
-	- I worked at a startup building Refinery
+	- I worked at a startup building Refinery, a block editor for code and infrastructure, and it actually worked pretty well.
+		- https://web.archive.org/web/20221206160058/https://www.refinery.io/
+		- ![create-api-endpoint-homepage-example.webm](../assets/create-api-endpoint-homepage-example_1698004681546_0.webm)
+	- There was a lot of promise, but we ended up pivoting because we couldn't quite figure out a focus and who would pay for it. Also this:
+		- https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082
+		- ![Screenshot 2023-10-22 at 1.00.06 PM.png](../assets/Screenshot_2023-10-22_at_1.00.06 PM_1698004808407_0.png)
+	- Before pivoting, I moved the internals over to using Temporal, and it worked pretty well. The cobwebs were starting to become untangled, but it was too late.
+	- We started building out a security product and ended up making a n
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

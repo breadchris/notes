@@ -63,6 +63,10 @@
 		- https://buf.build/
 	- I have become militant about removing code from Protoflow when I think that things could be expressed more simply. The simpler the code gets, the more extensible it becomes. Spending time to understand the right abstractions does wonders for code clarity and usability.
 	- The reason I thought I was building a programming language was that I started writing more and more of protoflow, with protoflow. Actions that you would do in the app would trigger a protoflow workflow to update the protoflow graph, which I thought was super cool.
+	- The more that I coded the workflow engine, the more I realized that I really wanted to incorporate reactive programming. I saw this being used at Uber, but hadn't thought much of it. It is inspired by functional programming and libraries for non-functional languages have been built to help bridge the gap. Starting to code the workflow engine with these primitives, a lot of things started to fall into place. It really started to feel like I am building something to bridge the gap between our imperative programs and the desired qualities of a functional language.
+		- https://www.baeldung.com/cs/reactive-programming#:~:text=Reactive%20programming%20is%20a%20declarative,or%20reactive%20systems%20in%20general.
+		- https://rxjs.dev/
+		- https://github.com/ReactiveX/RxGo/tree/master
 	- I talked to a math nerd at great length about Protoflow and they suggested I learn about category theory since it seemed to them this is what I was discovering through what I was building.
 		- {{video https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_}}
 - Why Go?

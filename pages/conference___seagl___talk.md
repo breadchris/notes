@@ -5,6 +5,10 @@
 	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 222, :width 186}
 	- Complex
 	- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856){:height 222, :width 179}
+	- This isn't fun
+	- ![Ride Down Into JavaScript Dependency Hell | AppSignal Blog](https://blog.appsignal.com/images/blog/2020-04/anvaka-vizualization-gatsby.png)
+	- This isn't fun
+		-
 - Design Principles of LEGO
 	- **Innovation and Simplicity**
 		- Foster creativity by providing a straightforward and intuitive interface, akin to LEGO’s simple interlocking mechanism, which enables users to build and create freely without a steep learning curve.
@@ -19,4 +23,3 @@
 	- **Accessibility and Inclusivity**
 		- Ensure that the software is accessible to a wide range of users, reflecting LEGO’s design which caters to different abilities and backgrounds.
 - #conference/seagl/talk/ideas
--

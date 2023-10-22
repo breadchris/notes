@@ -61,9 +61,14 @@
 		- https://hypermedia.systems/
 	- What else has been overlooked? Protobuf has been around for almost 2 decades and it solved Google's problem of needing to pipe data around an international company that deals with world scale data needs. GRPC has been around for a decade and helps build services. Buf, also an ex-Uber company, has tackled the last bit of effort to get GRPC tooling in a useable state, and consequently, Protoflow uses this.
 		- https://buf.build/
-	-
+	- I have become militant about removing code from Protoflow when I think that things could be expressed more simply. The simpler the code gets, the more extensible it becomes. Spending time to understand the right abstractions does wonders for code clarity and usability.
+	- The reason I thought I was building a programming language was that I started writing more and more of protoflow, with protoflow. Actions that you would do in the app would trigger a protoflow workflow to update the protoflow graph, which I thought was super cool.
 	- I talked to a math nerd at great length about Protoflow and they suggested I learn about category theory since it seemed to them this is what I was discovering through what I was building.
 		- {{video https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_}}
+- Why Go?
+	- I think
+- Why should you use protoflow?
+	- If it can achieve its goals, it will be the easiest way to start from zero and set you in the direction
 - You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think writing it all down helped me realize something important
 	- When you get to play, you can build small, rapid prototypes
 	- Prototypes either survive or get killed quickly, which is good

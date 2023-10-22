@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Nuova pagina 1](https://omnivore.app/me/nuova-pagina-1-18b55ee0bb3)
+	  collapsed:: true
+	  site:: [modernautomatamuseum.com](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
+	  labels:: [[learning]]
+	  date-saved:: [[Oct 21st, 2023]]
 	- [介绍 - react timeline editor](https://omnivore.app/me/react-timeline-editor-18b5561d488)
 	  collapsed:: true
 	  site:: [zdarcy.com](https://zdarcy.com)

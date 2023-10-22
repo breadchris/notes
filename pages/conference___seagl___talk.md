@@ -6,9 +6,14 @@
 	- Complex
 	- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856){:height 222, :width 179}
 	- This isn't fun
-	- ![Ride Down Into JavaScript Dependency Hell | AppSignal Blog](https://blog.appsignal.com/images/blog/2020-04/anvaka-vizualization-gatsby.png)
+	- ![Ride Down Into JavaScript Dependency Hell | AppSignal Blog](https://blog.appsignal.com/images/blog/2020-04/anvaka-vizualization-gatsby.png){:height 290, :width 263}
 	- This isn't fun
-		-
+	- ![amazon web services - Why do I get The deployment failed because no  instances were found in your green fleet when using AWS CodeDeploy? - Stack  Overflow](https://i.stack.imgur.com/ftAjC.png){:height 255, :width 263}
+	- This isn't fun
+	- ![kumar Shubham on LinkedIn: #knowledgepost](https://media.licdn.com/dms/image/D4D22AQHiHnjTlMr3hQ/feedshare-shrink_800/0/1694628520706?e=1700697600&v=beta&t=rVejUPGoiTuyjjelpS5LVE2PkhKKmCRVWFmNdPSKv_w){:height 351, :width 278}
+	- This is fun
+	- ![simple fractal art - Google Search | Fractal tree, Fractal patterns,  Fractal tattoo](https://i.pinimg.com/originals/ff/20/db/ff20dbf6b268e5a133aa28ffb78ccfa9.jpg){:height 330, :width 283}
+	-
 - Design Principles of LEGO
 	- **Innovation and Simplicity**
 		- Foster creativity by providing a straightforward and intuitive interface, akin to LEGO’s simple interlocking mechanism, which enables users to build and create freely without a steep learning curve.

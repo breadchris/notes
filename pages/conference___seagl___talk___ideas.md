@@ -49,7 +49,10 @@
 		- https://github.com/lunasec-io/lunasec/blob/master/lunatrace/bsl/ingest-worker/pkg/metadata/replicator/npm.go
 	- Once again, we couldn't figure out how to make money and we ended up pivoting. But I'll be damned if all along the way I was thinking about how we would have really have loved to have Refinery. We had built out all of this infrastructure in order to replicate, analyze, report, etc. and
 	- It is actually a pretty funny story. I had a friend from college who was looking at hackernews back when we were building Refinery because they were looking for something similar
-- You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think
+- You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think writing it all down helped me realize something important
+	- When you get to play, you can build small, rapid prototypes
+	- Prototypes either survive or get killed quickly, which is good
+	- Once you have something that is functional in your hands that gets the point across, you can build momentum with your team because now you have shared context on what to go deep on
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

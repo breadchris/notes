@@ -48,11 +48,16 @@
 	- It was honestly pretty ridiculous what we ended up building. It was a SCA tool that was supposed to not suck (ehem snyk) and we built an npm replicator to determine if vulnerabilities that were being trigged on your repo were actually vulnerabilities. Turns out almost all of them arent (go figure)
 		- https://github.com/lunasec-io/lunasec/blob/master/lunatrace/bsl/ingest-worker/pkg/metadata/replicator/npm.go
 	- Once again, we couldn't figure out how to make money and we ended up pivoting. But I'll be damned if all along the way I was thinking about how we would have really have loved to have Refinery. We had built out all of this infrastructure in order to replicate, analyze, report, etc. and
-	- It is actually a pretty funny story. I had a friend from college who was looking at hackernews back when we were building Refinery because they were looking for something similar
+	- It is actually a pretty funny story. I had a friend from college who was looking at hackernews years back and discovered a mention of Refinery and we got reconnected.
+	- Years passed as we were working on the security company, but we had a chance recently to go to Las Vegas for a week for a "grindcation" to build out the prototype of protoflow. The goal of the week was "JIT CRUD" which we totally nailed.
+	- Since then, I have been focused on trying to build small workflows in protoflow and seeing how it feels to use it.
+	- I built a UI because I personally loved that part of Refinery. Throwing blocks up on a screen and connecting them to see what happens.
+	- I have addressed one of the major problems that Refinery had, vendor lock in. Being so deeply connected with AWS made it a nightmare to suggest to engineers to play with. No one wants that shit.
 - You should look at my manic notes to try to capture how I ended up with protoflow sticking in my brain. I think writing it all down helped me realize something important
 	- When you get to play, you can build small, rapid prototypes
 	- Prototypes either survive or get killed quickly, which is good
 	- Once you have something that is functional in your hands that gets the point across, you can build momentum with your team because now you have shared context on what to go deep on
+	- TODO reference for apple design ebook
 - There are some design goals that I want to work toward with protoflow
 	- Enable seamless connection of gRPC methods to facilitate data movement.
 	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).

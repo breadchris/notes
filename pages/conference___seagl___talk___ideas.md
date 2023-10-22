@@ -25,5 +25,17 @@
 - There is an unfair comparison between LEGOs and code and that is
 	- the world isn't built on LEGOs, and more and more of it is being built with code every day
 	- LEGOs are a premium, physical toy, code is either libre or impossibly expensive
--
--
+	- But, how did LEGO just absolutely nail what a LEGO was almost a century ago??
+- I think what I really want to study is how to make design decisions that have two attributes
+	- Stand the test of time
+	- Building things feels more like playing than working
+		- Playing does not proclude
+- It is pretty natural to
+- There are some design goals that I want to work toward with protoflow
+	- Enable seamless connection of gRPC methods to facilitate data movement.
+	- Support free-formed data and data with loose or rigid schemas (JSON and Protocol Buffers).
+	- Provide a composable function capability to transform data.
+	- Offer abstractions for various types of resources, such as language services, blobs, docstores, RDS, and pub/sub.
+	- Support development, staging, and production environments.
+	- Encourage efficient local development by minimizing the reliance on virtualization.
+	- Leverage existing tools and frameworks for deployment (e.g., Tilt) and production (e.g., Kubernetes).

@@ -20,4 +20,5 @@
 	  :END:
 - LEGO's founding principles
 - LEGOs are toys that still attract an international fan base and range from young kids to adults. People build small "cars" with a couple of bricks all the way up to incredible feats of engineering all with the same bricks.
-- LEGO was not always the "perfect" toy. There was a point in their history where they were hemorrhaging cash as they went through an identity crisis. Brand deals like star wars and harry potter did more harm than good for LEGO's identity. They had to sell LEGO land in europe to fix their problem. A kid who was dying of cancer ended up saving their brand wi
+- LEGO was not always the "perfect" toy. There was a point in their history where they were hemorrhaging cash as they went through an identity crisis. Brand deals like star wars and harry potter did more harm than good for LEGO's identity. They had to sell LEGO land in europe to fix their problem. A kid who was dying of cancer ended up saving their brand with bionicle. It was a whole thing
+-

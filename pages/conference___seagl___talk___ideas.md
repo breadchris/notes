@@ -42,6 +42,7 @@
 	- There was a lot of promise, but we ended up pivoting because we couldn't quite figure out a focus and who would pay for it. Also this:
 		- https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082
 		- ![Screenshot 2023-10-22 at 1.00.06 PM.png](../assets/Screenshot_2023-10-22_at_1.00.06 PM_1698004808407_0.png)
+	- I think what really stood out to me
 	- Before pivoting, I moved the internals over to using Temporal, and it worked pretty well. The cobwebs were starting to become untangled, but it was too late.
 	- We started building out a security product and ended up making a name for ourselves with Log4Shell
 	- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)

@@ -15,6 +15,7 @@
 	- ![simple fractal art - Google Search | Fractal tree, Fractal patterns,  Fractal tattoo](https://i.pinimg.com/originals/ff/20/db/ff20dbf6b268e5a133aa28ffb78ccfa9.jpg){:height 330, :width 283}
 	- I think this is fun
 	- ![What Is Web Scraping? How To Legally Extract Web Content](https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png){:height 219, :width 313}
+	- Spend more time doing fun things vs the not fun things
 	-
 - Design Principles of LEGO
 	- **Innovation and Simplicity**

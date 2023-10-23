@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Flashpoint Archive](https://omnivore.app/me/flashpoint-archive-18b5ddd6719)
+	  collapsed:: true
+	  site:: [flashpointarchive.org](https://flashpointarchive.org)
+	  author:: BlueMaxima
+	  date-saved:: [[Oct 23rd, 2023]]
 	- [How To Make A CPU - A Simple Picture Based Explanation](https://omnivore.app/me/how-to-make-a-cpu-a-simple-picture-based-explanation-18b599dac15)
 	  collapsed:: true
 	  site:: [Robert Elder Software Inc.](https://blog.robertelder.org/how-to-make-a-cpu)

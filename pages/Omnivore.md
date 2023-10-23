@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [How To Make A CPU - A Simple Picture Based Explanation](https://omnivore.app/me/how-to-make-a-cpu-a-simple-picture-based-explanation-18b599dac15)
+	  collapsed:: true
+	  site:: [Robert Elder Software Inc.](https://blog.robertelder.org/how-to-make-a-cpu)
+	  author:: Robert Elder Software Inc.
+	  labels:: [[computers]]
+	  date-saved:: [[Oct 22nd, 2023]]
+	  date-published:: [[Nov 8th, 2021]]
 	- [Nuova pagina 1](https://omnivore.app/me/nuova-pagina-1-18b55ee0bb3)
 	  collapsed:: true
 	  site:: [modernautomatamuseum.com](http://www.modernautomatamuseum.com/Clohe/00-CLOHE-EN.htm)
@@ -39,6 +46,17 @@
 	  collapsed:: true
 	  site:: [andrewchen.com](https://andrewchen.com/lessons-learned-adding-messaging-to-a-notes-app-guest-post)
 	  date-saved:: [[Oct 20th, 2023]]
+		- ### Highlights
+			- > ### **The Passive Follower**
+			  > 
+			  These are the people that just go with the flow on how things are planned. [⤴️](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817#88ed4d7e-712a-11ee-8d7e-afbeacd9777f)
+			- > The engaged follower is the person who contributes to the conversation, but defaults to using existing channels like email or text. [⤴️](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817#88ed2b8c-712a-11ee-8d7e-438b46780951)
+			- > The leader isn’t necessarily the “alpha” of the group, but they’re the one who takes the lead in planning and organizing. [⤴️](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817#88ece74e-712a-11ee-8d7e-9fb22e59119b)
+			- > ### **The Passive Follower**
+			  > 
+			  These are the people that just go with the flow on how things are planned. [⤴️](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817#3433cbd4-1569-4677-a97a-2e30ba2678f1)
+			- > The engaged follower is the person who contributes to the conversation, but defaults to using existing channels like email or text. [⤴️](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817#866dadfe-6216-4d34-a030-25c1bc3e32e0)
+			- > The leader isn’t necessarily the “alpha” of the group, but they’re the one who takes the lead in planning and organizing. [⤴️](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817#60530e70-2e97-474b-9a7d-e1e900d54989)
 	- [Lessons from the front lines: building Fetchnotes | by Alex Schiff | Medium](https://omnivore.app/me/lessons-from-the-front-lines-building-fetchnotes-by-alex-schiff--18b505167d5)
 	  collapsed:: true
 	  site:: [Medium](https://alexschiff.medium.com/lessons-from-the-front-lines-building-fetchnotes-d36d2cca6fff)
@@ -344,7 +362,7 @@
 	- [Jade Rubick - Demo-driven development](https://omnivore.app/me/jade-rubick-demo-driven-development-18b11ccdf82)
 	  collapsed:: true
 	  site:: [rubick.com](https://www.rubick.com/demo-driven-development)
-	  labels:: [[programming]]
+	  labels:: [[team]][[programming]][[business ]]
 	  date-saved:: [[Oct 8th, 2023]]
 	  date-published:: [[Feb 5th, 2021]]
 	- [100 Food Hacks I Learned In Restaurants](https://omnivore.app/me/https-m-youtube-com-watch-v-h-er-g-7-hsk-0-a-18b11aaaf36)

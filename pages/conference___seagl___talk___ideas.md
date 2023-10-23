@@ -73,8 +73,10 @@
 	- I talked to a math nerd at great length about Protoflow and they suggested I learn about category theory since it seemed to them this is what I was discovering through what I was building.
 		- {{video https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_}}
 - What did refinery teach me?
-	- It is hard to sell a developer productivity tool
-	-
+	- Business: It is hard to sell a developer productivity tool
+	- There are some fundamental things that we are missing in our development experience that could make a lot of simple coding tasks much easier.
+	- If we get those features, development is more fun
+	- I don't want to have to benchmark V8 to benchmark my code
 - Why Go?
 	- Studying Go has brought me closer to experiencing the "zen of programming" than any other language (sorry python)
 	- It is infuriatingly simple and forces you into thinking a certain way, making it very difficult to be "clever" when you code. Giving up cleverness on the micro scale means that you are spending more time in your brain thinking about how to architect a larger system. It is by no means a perfect language, but I have been able to code in Go much faster than any other language I have used.

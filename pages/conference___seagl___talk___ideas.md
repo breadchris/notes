@@ -42,7 +42,9 @@
 	- There was a lot of promise, but we ended up pivoting because we couldn't quite figure out a focus and who would pay for it. Also this:
 		- https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082
 		- ![Screenshot 2023-10-22 at 1.00.06 PM.png](../assets/Screenshot_2023-10-22_at_1.00.06 PM_1698004808407_0.png)
-	- I think what really stood out to me
+	- TODO go deeper on refinery https://docs.refinery.io/getting-started/
+	- I think what was pretty crazy was how much you could do, and at the scale you could deploy to
+	- All code was run in aws lambdas, which meant performance was pretty crazy
 	- Before pivoting, I moved the internals over to using Temporal, and it worked pretty well. The cobwebs were starting to become untangled, but it was too late.
 	- We started building out a security product and ended up making a name for ourselves with Log4Shell
 	- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)
@@ -70,6 +72,9 @@
 		- https://github.com/ReactiveX/RxGo/tree/master
 	- I talked to a math nerd at great length about Protoflow and they suggested I learn about category theory since it seemed to them this is what I was discovering through what I was building.
 		- {{video https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_}}
+- What did refinery teach me?
+	- It is hard to sell a developer productivity tool
+	-
 - Why Go?
 	- Studying Go has brought me closer to experiencing the "zen of programming" than any other language (sorry python)
 	- It is infuriatingly simple and forces you into thinking a certain way, making it very difficult to be "clever" when you code. Giving up cleverness on the micro scale means that you are spending more time in your brain thinking about how to architect a larger system. It is by no means a perfect language, but I have been able to code in Go much faster than any other language I have used.

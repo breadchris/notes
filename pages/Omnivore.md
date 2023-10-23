@@ -50,6 +50,7 @@
 	- [Lessons learned adding messaging to a notes app (Guest Post) at andrewchen](https://omnivore.app/me/lessons-learned-adding-messaging-to-a-notes-app-guest-post-at-an-18b50589817)
 	  collapsed:: true
 	  site:: [andrewchen.com](https://andrewchen.com/lessons-learned-adding-messaging-to-a-notes-app-guest-post)
+	  labels:: [[mah boi]]
 	  date-saved:: [[Oct 20th, 2023]]
 		- ### Highlights
 			- > ### **The Passive Follower**

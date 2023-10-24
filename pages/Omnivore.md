@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Show HN: Autolicious – AI-powered bookmark cataloging Chrome extension | Hacker News](https://omnivore.app/me/show-hn-autolicious-ai-powered-bookmark-cataloging-chrome-extens-18b6035f588)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=37987877)
+	  date-saved:: [[Oct 23rd, 2023]]
+	- [WebSession](https://omnivore.app/me/web-session-18b60343557)
+	  collapsed:: true
+	  site:: [websession.dev](https://websession.dev)
+	  author:: Zachary Voase
+	  date-saved:: [[Oct 23rd, 2023]]
+	  date-published:: [[Jun 13th, 2023]]
+	- [Psychedelic Mushrooms Hit the Market in Oregon - The New York Times](https://omnivore.app/me/psychedelic-mushrooms-hit-the-market-in-oregon-the-new-york-time-18b6032e1bc)
+	  collapsed:: true
+	  site:: [The New York Times](https://www.nytimes.com/2023/10/23/us/oregon-psychedelic-mushrooms.html)
+	  author:: Mike Baker
+	  date-saved:: [[Oct 23rd, 2023]]
+	  date-published:: [[Oct 23rd, 2023]]
 	- [Extreme Explorations of TypeScript's Type System | Learning TypeScript](https://omnivore.app/me/extreme-explorations-of-type-script-s-type-system-learning-type--18b5f8d9df0)
 	  collapsed:: true
 	  site:: [learningtypescript.com](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)

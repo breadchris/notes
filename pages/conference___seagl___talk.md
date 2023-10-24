@@ -61,5 +61,19 @@
 	- ![simple fractal art - Google Search | Fractal tree, Fractal patterns,  Fractal tattoo](https://i.pinimg.com/originals/ff/20/db/ff20dbf6b268e5a133aa28ffb78ccfa9.jpg){:height 330, :width 283}
 	- ![text_alert 215x300.webp](../assets/text_alert_215x300_1698115528963_0.webp)
 	- Accessibility and Inclusivity
-	-
+- When is code fun?
+	- When you get to see something happen
+	- When you can take some data and make sense of it
+	- When you can hand it to someone else and they can use it
+- I want to help people have fun with code
+	- I have taught at schools with scratch
+	- I have seen how people code at Uber
+	- I have some ideas about what it might look like
+- What do I want to build?
+	- Language
+	- Framework
+	- Developer tool
+- Answer
+- I don't know!
+- Let's find out
 - #conference/seagl/talk/ideas

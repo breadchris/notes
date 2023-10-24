@@ -1,5 +1,7 @@
 - Legos for Code
-- "" - breadchris
+- "If you want a bathroom to keep working, someone needs to know where the shit goes." - breadchris
+- "To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions." - Steve Jobs
+-
 - I want to be able to play with code
   collapsed:: true
 	- Simple

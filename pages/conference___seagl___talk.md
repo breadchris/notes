@@ -1,6 +1,7 @@
 - Legos for Code
-- What you can do with it is just as important as how you can communicate how you did it
+- "" - breadchris
 - I want to be able to play with code
+  collapsed:: true
 	- Simple
 	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 222, :width 186}
 	- Complex
@@ -18,8 +19,9 @@
 	- I think this is fun
 	- ![What Is Web Scraping? How To Legally Extract Web Content](https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png){:height 219, :width 313}
 	- Spend more time doing fun things vs the not fun things
-	-
+- This is what I have figured out so far
 - Design Principles of LEGO
+  collapsed:: true
 	- **Innovation and Simplicity**
 		- Foster creativity by providing a straightforward and intuitive interface, akin to LEGO’s simple interlocking mechanism, which enables users to build and create freely without a steep learning curve.
 	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}

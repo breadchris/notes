@@ -3420,7 +3420,7 @@
 			- > It used to be the case that you needed to train to become a scribe to write words for any reason. But just as pens were taken out of the hands of the scribe during the Reformation of Europe, we must take the code out of the hands of software engineers and share it with the masses. [⤴️](https://omnivore.app/me/communal-computing-networks-18688a92b21#585c3ac7-8809-4ad3-8bf1-80caa19fce46) 
 			  
 			  note:: #protoflow/ideas
-				- #protoflow/ideas
+				- #protoflow/ideas #seagl/ideas
 			- > Our web has turned into a relentless competition for our attention. [⤴️](https://omnivore.app/me/communal-computing-networks-18688a92b21#2a8f3a20-920f-4ab4-a101-0032f038d7d5)
 	- [Svelte for the Experienced React Dev | CSS-Tricks - CSS-Tricks](https://omnivore.app/me/svelte-for-the-experienced-react-dev-css-tricks-css-tricks-1867cba6a83)
 	      collapsed:: true

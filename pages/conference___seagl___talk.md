@@ -1,7 +1,6 @@
 - Legos for Code
 - "If you want a bathroom to keep working, someone needs to know where the shit goes." - breadchris
 - "To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions." - Steve Jobs
--
 - I want to be able to play with code
   collapsed:: true
 	- Simple
@@ -22,11 +21,11 @@
 	- ![What Is Web Scraping? How To Legally Extract Web Content](https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png){:height 219, :width 313}
 	- Spend more time doing fun things vs the not fun things
 - This is what I have figured out so far
-- Design Principles of LEGO
-  collapsed:: true
+- LEGO was an idea
+	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}
+	-
 	- **Innovation and Simplicity**
 		- Foster creativity by providing a straightforward and intuitive interface, akin to LEGO’s simple interlocking mechanism, which enables users to build and create freely without a steep learning curve.
-	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}
 	- **Educational Value**
 		- Ensure that the code or software has educational aspects, helping users to learn and develop new skills, similar to how LEGO teaches basic engineering and geometry principles.
 	- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951){:height 248, :width 262}

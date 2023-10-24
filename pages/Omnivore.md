@@ -1,7 +1,13 @@
 ## 🔖 Articles
+	- [Server-side sandboxing: Containers and seccomp | Figma Blog](https://omnivore.app/me/server-side-sandboxing-containers-and-seccomp-figma-blog-18b62c8f998)
+	  collapsed:: true
+	  site:: [Figma](https://www.figma.com/blog/server-side-sandboxing-containers-and-seccomp)
+	  date-saved:: [[Oct 24th, 2023]]
+	  date-published:: [[Oct 23rd, 2023]]
 	- [Show HN: Autolicious – AI-powered bookmark cataloging Chrome extension | Hacker News](https://omnivore.app/me/show-hn-autolicious-ai-powered-bookmark-cataloging-chrome-extens-18b6035f588)
 	  collapsed:: true
 	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=37987877)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 23rd, 2023]]
 	- [WebSession](https://omnivore.app/me/web-session-18b60343557)
 	  collapsed:: true

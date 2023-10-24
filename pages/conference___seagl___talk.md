@@ -17,9 +17,9 @@
 	- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951){:height 248, :width 262}
 	- Expandability and Flexibility
 	- ![Crazy Bioncile Builds.jpg](../assets/Crazy_Bioncile_Builds_1698114159744_0.jpg){:height 229, :width 276}
-	- **Interactive and Engaging**
+	- Interactive and Engaging
 	- ![The Recorder - Imagination stacked high at Sunderland Lego Club](https://www.recorder.com/getattachment/2c6891be-bd2c-4ba8-975e-474227224f0d/b1-Lego-club-ph3){:height 234, :width 399}
-	- **Accessibility and Inclusivity**
+	- Accessibility and Inclusivity
 	- !['Different Lego Sizes.jpg](../assets/'Different_Lego_Sizes_1698114261101_0.jpg){:height 306, :width 353}
 - Simple
 	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 222, :width 186}
@@ -43,7 +43,8 @@
 	  ```
 	- ![amazon web services - Why do I get The deployment failed because no  instances were found in your green fleet when using AWS CodeDeploy? - Stack  Overflow](https://i.stack.imgur.com/ftAjC.png){:height 255, :width 263}
 	- Expandability and Flexibility
-	- ```go
+	- ```haskell
+	  data Tree a = Branch (Tree a) (Tree a) | Leaf a
 	  ```
 	- ```typescript
 	  type Winner = TicTacToe<`
@@ -56,12 +57,9 @@
 	      X 1 2
 	  `>;
 	  ```
-	- ![kumar Shubham on LinkedIn: #knowledgepost](https://media.licdn.com/dms/image/D4D22AQHiHnjTlMr3hQ/feedshare-shrink_800/0/1694628520706?e=1700697600&v=beta&t=rVejUPGoiTuyjjelpS5LVE2PkhKKmCRVWFmNdPSKv_w){:height 351, :width 278}
-	- This is fun
+	- Interactive and Engaging
 	- ![simple fractal art - Google Search | Fractal tree, Fractal patterns,  Fractal tattoo](https://i.pinimg.com/originals/ff/20/db/ff20dbf6b268e5a133aa28ffb78ccfa9.jpg){:height 330, :width 283}
-	- This is fun
-	- ![Screenshot 2023-10-22 at 7.02.57 PM.png](../assets/Screenshot_2023-10-22_at_7.02.57 PM_1698026594238_0.png){:height 395, :width 276}
-	- I think this is fun
-	- ![What Is Web Scraping? How To Legally Extract Web Content](https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png){:height 219, :width 313}
-	- Spend more time doing fun things vs the not fun things
+	- ![text_alert 215x300.webp](../assets/text_alert_215x300_1698115528963_0.webp)
+	- Accessibility and Inclusivity
+	-
 - #conference/seagl/talk/ideas

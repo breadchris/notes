@@ -77,6 +77,7 @@
 - I don't know!
 - Let's find out
 - Some backstory, I like cooking
+  collapsed:: true
 	- but cooking sites could be better
 	- ![Screenshot 2023-10-23 at 7.54.10 PM.png](../assets/Screenshot_2023-10-23_at_7.54.10 PM_1698116062560_0.png){:height 661, :width 511}
 	- so i made my own
@@ -88,6 +89,44 @@
 	- Software engineers like to make complicated things
 	- It is only code. Why does it have to be so hard?
 	- ![Minecraft (1)..png](../assets/Minecraft_(1)._1698116335357_0.png)
-- {{video https://www.youtube.com/watch?v=FDiapbD0Xfg}}
--
+	- {{video https://www.youtube.com/watch?v=FDiapbD0Xfg}}
+- Some ideas on the matter
+- But first, more backstory
+	- I worked at Uber and got to see Cadence.
+	- [Uber's Cadence](https://github.com/uber/cadence)
+	- [Temporal](https://temporal.io/)
+	- I worked at a startup building [Refinery](https://web.archive.org/web/20221206160058/https://www.refinery.io/)
+	- ![create-api-endpoint-homepage-example.webm](../assets/create-api-endpoint-homepage-example_1698004681546_0.webm)
+	- There was a lot of promise, but we ended up pivoting.
+	- ![Screenshot 2023-10-22 at 1.00.06 PM.png](../assets/Screenshot_2023-10-22_at_1.00.06 PM_1698004808407_0.png)
+		- [Refinery's Server Code](https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082)
+	- TODO go deeper on refinery [Refinery Docs](https://docs.refinery.io/getting-started/)
+	- I think what was pretty crazy was how much you could do.
+	- All code was run in AWS lambdas.
+	- Before pivoting, I moved the internals over to using Temporal.
+	- We started building out a security product.
+		- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)
+	- It was a SCA tool that was supposed to not suck.
+		- [Lunasec's NPM Replicator](https://github.com/lunasec-io/lunasec/blob/master/lunatrace/bsl/ingest-worker/pkg/metadata/replicator/npm.go)
+	- Once again, we couldn't figure out how to make money.
+	- It is actually a pretty funny story.
+	- Years passed as we were working on the security company.
+	- Since then, I have been focused on Protoflow.
+	- I built a UI for Protoflow.
+	- I have addressed the vendor lock-in issue.
+	- I went from considering protoflow as a runtime to a code generator/debugging tool.
+	- I have talked to a lot of my developer friends.
+	- I have become obsessed with studying the "old and boring".
+		- [htmx](https://hypermedia.systems/)
+	- What else has been overlooked?
+		- [Buf](https://buf.build/)
+	- I have become militant about removing code from Protoflow.
+	- The reason I thought I was building a programming language.
+	- The more that I coded the workflow engine.
+		- [Reactive Programming Explained](https://www.baeldung.com/cs/reactive-programming#:~:text=Reactive%20programming%20is%20a%20declarative,or%20reactive%20systems%20in%20general.)
+		- [RxJS](https://rxjs.dev/)
+		- [RxGo](https://github.com/ReactiveX/RxGo/tree/master)
+	- I talked to a math nerd about Protoflow.
+		- [Category Theory Video Series](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+	-
 - #conference/seagl/talk/ideas

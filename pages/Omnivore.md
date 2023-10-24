@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Extreme Explorations of TypeScript's Type System | Learning TypeScript](https://omnivore.app/me/extreme-explorations-of-type-script-s-type-system-learning-type--18b5f8d9df0)
+	  collapsed:: true
+	  site:: [learningtypescript.com](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
+	  date-saved:: [[Oct 23rd, 2023]]
+	  date-published:: [[Jun 26th, 2022]]
 	- [LEGO presentation (2018) | PPT](https://omnivore.app/me/lego-presentation-2018-ppt-18b5f79c74c)
 	  collapsed:: true
 	  site:: [slideshare.net](https://www.slideshare.net/HamdhanMohamed/lego-presentation-2018)

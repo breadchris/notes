@@ -81,6 +81,13 @@
 	- ![Screenshot 2023-10-23 at 7.54.10 PM.png](../assets/Screenshot_2023-10-23_at_7.54.10 PM_1698116062560_0.png){:height 661, :width 511}
 	- so i made my own
 	- ![Screenshot 2023-10-23 at 7.54.49 PM.png](../assets/Screenshot_2023-10-23_at_7.54.49 PM_1698116105633_0.png){:height 318, :width 536}
-	-
-		-
+	- but it got complicated
+	- ![Screenshot 2023-10-23 at 7.56.20 PM.png](../assets/Screenshot_2023-10-23_at_7.56.20 PM_1698116191928_0.png){:height 736, :width 160}
+	- why was it so complicated?
+	- > It used to be the case that you needed to train to become a scribe to write words for any reason. But just as pens were taken out of the hands of the scribe during the Reformation of Europe, we must take the code out of the hands of software engineers and share it with the masses. - jzhao
+	- Software engineers like to make complicated things
+	- It is only code. Why does it have to be so hard?
+	- ![Minecraft (1)..png](../assets/Minecraft_(1)._1698116335357_0.png)
+- {{video https://www.youtube.com/watch?v=FDiapbD0Xfg}}
+-
 - #conference/seagl/talk/ideas

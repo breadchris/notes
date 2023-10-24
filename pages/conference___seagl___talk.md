@@ -3,6 +3,7 @@
 - "To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions." - Steve Jobs
 - This is what I have figured out so far
 - LEGO was an idea
+  collapsed:: true
 	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}
 	- But there are other companies
 	- ![Mega Blocks.jpg](../assets/Mega_Blocks_1698114975328_0.jpg)
@@ -11,6 +12,7 @@
 		- https://www.slideshare.net/HamdhanMohamed/lego-presentation-2018
 	- Execution
 - What makes LEGO different?
+  collapsed:: true
 	- Innovation and Simplicity
 	- ![lego red brick.jpg](../assets/lego_red_brick_1698114055209_0.jpg){:height 230, :width 447}
 	- Educational Value
@@ -22,10 +24,13 @@
 	- Accessibility and Inclusivity
 	- !['Different Lego Sizes.jpg](../assets/'Different_Lego_Sizes_1698114261101_0.jpg){:height 306, :width 353}
 - Simple
+  collapsed:: true
 	- ![legoideas.si | Lego basic, Lego duplo, Lego](https://i.pinimg.com/originals/4d/b4/12/4db412a3ac74d7202efa7406a0a97207.jpg){:height 222, :width 186}
 - Complex
+  collapsed:: true
 	- ![You can actually drive this full-size Lego car - Video - CNET](https://www.cnet.com/a/img/resize/ba49e27eab25e7789046ff9a89a3179ed2c014e8/hub/2018/08/31/17cb8761-8479-499e-b2d9-b2654715974f/lego.jpg?auto=webp&fit=cover&height=482&width=856){:height 222, :width 179}
 - What about code?
+  collapsed:: true
 	- Innovation and Simplicity
 	- ```js
 	  console.log( hello world )
@@ -62,14 +67,17 @@
 	- ![text_alert 215x300.webp](../assets/text_alert_215x300_1698115528963_0.webp)
 	- Accessibility and Inclusivity
 - When is code fun?
+  collapsed:: true
 	- When you get to see something happen
 	- When you can take some data and make sense of it
 	- When you can hand it to someone else and they can use it
 - I want to help people have fun with code
+  collapsed:: true
 	- I have taught at schools with scratch
 	- I have seen how people code at Uber
 	- I have some ideas about what it might look like
 - What do I want to build?
+  collapsed:: true
 	- Language
 	- Framework
 	- Developer tool
@@ -92,6 +100,7 @@
 	- {{video https://www.youtube.com/watch?v=FDiapbD0Xfg}}
 - Some ideas on the matter
 - But first, more backstory
+  collapsed:: true
 	- I worked at Uber and got to see Cadence.
 	- [Uber's Cadence](https://github.com/uber/cadence)
 	- [Temporal](https://temporal.io/)
@@ -124,17 +133,32 @@
 	- I have become militant about removing code from Protoflow.
 	- The more that I coded the workflow engine, the more things came "clear"
 - Here are some things that I learned
+  collapsed:: true
 	- Things that are visually and functionally simple rules everything
-	-
+		- > "premature optimization is the root of all evil." - Donald Knuth
 	- You need dependency injection
-	- You need a workflow engine
 	- You need to save state
-	- Mono
+	- You need a workflow engine
+		- Starts to make your code feel like it is functional
 		- [Reactive Programming Explained](https://www.baeldung.com/cs/reactive-programming#:~:text=Reactive%20programming%20is%20a%20declarative,or%20reactive%20systems%20in%20general.)
 		- [RxJS](https://rxjs.dev/)
 		- [RxGo](https://github.com/ReactiveX/RxGo/tree/master)
 	- I talked to a math nerd about Protoflow.
 		- [Category Theory Video Series](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
--
-	-
+- What am I going to do about it?
+  collapsed:: true
+	- Drink coffee at cafes
+	- Think about code
+	- Write some code
+	- https://github.com/protoflow-labs/protoflow
+	- Talk about code
+	- https://www.youtube.com/@breadchris/streams
+	- Write about code
+	- https://breadchris.com/
+	- Code some writing
+	- https://github.com/lunabrain-ai/lunabrain
+	- Talk about coding some writing
+	- https://www.youtube.com/@breadchris/streams
+- Resources
+	- https://docs.google.com/document/d/1T2oXT8hn8teHTqUMksfTCQojD1RGg4IjYqxkRvK7zoU/edit#heading=h.ekd4wja6dotv
 - #conference/seagl/talk/ideas

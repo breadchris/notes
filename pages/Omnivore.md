@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [LEGO presentation (2018) | PPT](https://omnivore.app/me/lego-presentation-2018-ppt-18b5f79c74c)
+	  collapsed:: true
+	  site:: [slideshare.net](https://www.slideshare.net/HamdhanMohamed/lego-presentation-2018)
+	  author:: HHamdhan MohamedFollow
+	  date-saved:: [[Oct 23rd, 2023]]
+	- [Ultimate Go Notebook | Ardan Labs](https://omnivore.app/me/ultimate-go-notebook-ardan-labs-18b5f5f6d4c)
+	  collapsed:: true
+	  site:: [ardanlabs.com](https://www.ardanlabs.com/ultimate-go-notebook)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Oct 23rd, 2023]]
+	- [timblair/go-102: A workshop to give someone their first practical experience of Go](https://omnivore.app/me/timblair-go-102-a-workshop-to-give-someone-their-first-practical-18b5f5c0f6c)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/timblair/go-102/tree/master)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Oct 23rd, 2023]]
 	- [Flashpoint Archive](https://omnivore.app/me/flashpoint-archive-18b5ddd6719)
 	  collapsed:: true
 	  site:: [flashpointarchive.org](https://flashpointarchive.org)

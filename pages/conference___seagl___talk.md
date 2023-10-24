@@ -98,19 +98,17 @@
 	- I worked at a startup building [Refinery](https://web.archive.org/web/20221206160058/https://www.refinery.io/)
 	- ![create-api-endpoint-homepage-example.webm](../assets/create-api-endpoint-homepage-example_1698004681546_0.webm)
 	- There was a lot of promise, but we ended up pivoting.
+	- Also the [code](https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082) was insane
 	- ![Screenshot 2023-10-22 at 1.00.06 PM.png](../assets/Screenshot_2023-10-22_at_1.00.06 PM_1698004808407_0.png)
-		- [Refinery's Server Code](https://github.com/refinery-labs/refinery/blob/eb49f75fab3515782ca30d85a335969d5545be45/api/server.py#L11082)
-	- TODO go deeper on refinery [Refinery Docs](https://docs.refinery.io/getting-started/)
-	- I think what was pretty crazy was how much you could do.
-	- All code was run in AWS lambdas.
-	- Before pivoting, I moved the internals over to using Temporal.
+	- I think what was pretty crazy was how much you could do. Also kind of felt a little functional...
 	- We started building out a security product.
-		- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)
+	- ![log4shell logo.png](../assets/log4shell_logo_1698004973643_0.png)
 	- It was a SCA tool that was supposed to not suck.
 		- [Lunasec's NPM Replicator](https://github.com/lunasec-io/lunasec/blob/master/lunatrace/bsl/ingest-worker/pkg/metadata/replicator/npm.go)
-	- Once again, we couldn't figure out how to make money.
-	- It is actually a pretty funny story.
-	- Years passed as we were working on the security company.
+	- My friend saw Refinery and hmu
+	- "grindcation" in Las Vegas for building prototype
+	- Code name: protoflow
+	- A real silicon valley moment
 	- Since then, I have been focused on Protoflow.
 	- I built a UI for Protoflow.
 	- I have addressed the vendor lock-in issue.

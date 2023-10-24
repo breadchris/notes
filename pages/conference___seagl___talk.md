@@ -23,9 +23,15 @@
 - This is what I have figured out so far
 - LEGO was an idea
 	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}
-	-
-	- **Innovation and Simplicity**
-		- Foster creativity by providing a straightforward and intuitive interface, akin to LEGO’s simple interlocking mechanism, which enables users to build and create freely without a steep learning curve.
+	- Why aren't there other LEGOs?
+	- MEGA Blocks
+	- What is the difference?
+	- ![Screenshot 2023-10-23 at 7.19.05 PM.png](../assets/Screenshot_2023-10-23_at_7.19.05 PM_1698113949439_0.png)
+		- https://www.slideshare.net/HamdhanMohamed/lego-presentation-2018
+	- Execution
+- What makes LEGO different?
+	- Innovation and Simplicity
+	- ![lego red brick.jpg](../assets/lego_red_brick_1698114055209_0.jpg){:height 230, :width 447}
 	- **Educational Value**
 		- Ensure that the code or software has educational aspects, helping users to learn and develop new skills, similar to how LEGO teaches basic engineering and geometry principles.
 	- ![LEGO® Monthly Mini Build Instructions - Penguin](https://cdn.shopify.com/s/files/1/1553/8473/files/201912-MMB-Instructions_Penguin-_40332_-1_2048x2048.png?v=1583304951){:height 248, :width 262}

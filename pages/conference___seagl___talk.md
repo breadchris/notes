@@ -4,8 +4,8 @@
 - This is what I have figured out so far
 - LEGO was an idea
 	- ![Amazon.com: Lego Brick Patent - NEW Famous Invention Blueprint Poster:  Posters & Prints](https://m.media-amazon.com/images/I/81hjUx2CIXL.jpg){:height 370, :width 182}
-	- Why aren't there other LEGOs?
-	- MEGA Blocks
+	- But there are other companies
+	- ![Mega Blocks.jpg](../assets/Mega_Blocks_1698114975328_0.jpg)
 	- What is the difference?
 	- ![Screenshot 2023-10-23 at 7.19.05 PM.png](../assets/Screenshot_2023-10-23_at_7.19.05 PM_1698113949439_0.png)
 		- https://www.slideshare.net/HamdhanMohamed/lego-presentation-2018
@@ -35,8 +35,27 @@
 	  ```
 	- ![Ride Down Into JavaScript Dependency Hell | AppSignal Blog](https://blog.appsignal.com/images/blog/2020-04/anvaka-vizualization-gatsby.png){:height 290, :width 263}
 	- Educational Value
+	- ```python
+	  if True:
+	    print('it is true!')
+	  else:
+	    print('it is false!')
+	  ```
 	- ![amazon web services - Why do I get The deployment failed because no  instances were found in your green fleet when using AWS CodeDeploy? - Stack  Overflow](https://i.stack.imgur.com/ftAjC.png){:height 255, :width 263}
-	- This isn't fun
+	- Expandability and Flexibility
+	- ```go
+	  ```
+	- ```typescript
+	  type Winner = TicTacToe<`
+	      X 1 1
+	      O 2 2
+	      X 2 0
+	      O 0 2
+	      X 1 0
+	      O 0 0
+	      X 1 2
+	  `>;
+	  ```
 	- ![kumar Shubham on LinkedIn: #knowledgepost](https://media.licdn.com/dms/image/D4D22AQHiHnjTlMr3hQ/feedshare-shrink_800/0/1694628520706?e=1700697600&v=beta&t=rVejUPGoiTuyjjelpS5LVE2PkhKKmCRVWFmNdPSKv_w){:height 351, :width 278}
 	- This is fun
 	- ![simple fractal art - Google Search | Fractal tree, Fractal patterns,  Fractal tattoo](https://i.pinimg.com/originals/ff/20/db/ff20dbf6b268e5a133aa28ffb78ccfa9.jpg){:height 330, :width 283}

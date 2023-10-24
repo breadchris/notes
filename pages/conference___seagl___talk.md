@@ -161,4 +161,5 @@
 	- https://www.youtube.com/@breadchris/streams
 - Resources
 	- https://docs.google.com/document/d/1T2oXT8hn8teHTqUMksfTCQojD1RGg4IjYqxkRvK7zoU/edit#heading=h.ekd4wja6dotv
+	- https://www.lunasec.io/docs/blog/how-to-build-an-open-source-business-in-2021-part-1/
 - #conference/seagl/talk/ideas

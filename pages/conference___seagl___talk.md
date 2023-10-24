@@ -108,23 +108,33 @@
 	- My friend saw Refinery and hmu
 	- "grindcation" in Las Vegas for building prototype
 	- Code name: protoflow
+	- ![MOV 6018 from Google Photos.MOV](../assets/MOV_6018_from_Google_Photos_1698117135308_0.MOV)
+	- ![MOV 6023 from Google Photos.MOV](../assets/MOV_6023_from_Google_Photos_1698117175279_0.MOV)
 	- A real silicon valley moment
-	- Since then, I have been focused on Protoflow.
-	- I built a UI for Protoflow.
-	- I have addressed the vendor lock-in issue.
-	- I went from considering protoflow as a runtime to a code generator/debugging tool.
-	- I have talked to a lot of my developer friends.
-	- I have become obsessed with studying the "old and boring".
-		- [htmx](https://hypermedia.systems/)
+	- Since then, I have been focused on Protoflow
+	- I built a UI for Protoflow
+	- I have addressed the vendor lock-in issue
+	- I went from considering protoflow as a runtime to a code generator/debugging tool
+	- I have talked to a lot of my developer friends
+	- I have become obsessed with studying the "old and boring"
+	- [htmx](https://hypermedia.systems/)
 	- What else has been overlooked?
-		- [Buf](https://buf.build/)
+	- Protobuf
+	- [Buf](https://buf.build/)
 	- I have become militant about removing code from Protoflow.
-	- The reason I thought I was building a programming language.
-	- The more that I coded the workflow engine.
+	- The more that I coded the workflow engine, the more things came "clear"
+- Here are some things that I learned
+	- Things that are visually and functionally simple rules everything
+	-
+	- You need dependency injection
+	- You need a workflow engine
+	- You need to save state
+	- Mono
 		- [Reactive Programming Explained](https://www.baeldung.com/cs/reactive-programming#:~:text=Reactive%20programming%20is%20a%20declarative,or%20reactive%20systems%20in%20general.)
 		- [RxJS](https://rxjs.dev/)
 		- [RxGo](https://github.com/ReactiveX/RxGo/tree/master)
 	- I talked to a math nerd about Protoflow.
 		- [Category Theory Video Series](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+-
 	-
 - #conference/seagl/talk/ideas

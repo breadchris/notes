@@ -76,4 +76,11 @@
 - Answer
 - I don't know!
 - Let's find out
+- Some backstory, I like cooking
+	- but cooking sites could be better
+	- ![Screenshot 2023-10-23 at 7.54.10 PM.png](../assets/Screenshot_2023-10-23_at_7.54.10 PM_1698116062560_0.png){:height 661, :width 511}
+	- so i made my own
+	- ![Screenshot 2023-10-23 at 7.54.49 PM.png](../assets/Screenshot_2023-10-23_at_7.54.49 PM_1698116105633_0.png){:height 318, :width 536}
+	-
+		-
 - #conference/seagl/talk/ideas

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Neocities: Create your own free website!](https://omnivore.app/me/neocities-create-your-own-free-website-18b65598178)
+	  collapsed:: true
+	  site:: [Neocities | neocities.org](https://neocities.org)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 24th, 2023]]
 	- [That Time the City of Seattle Accidentally Gave Me 32m Emails for 40 Dollars](https://omnivore.app/me/that-time-the-city-of-seattle-accidentally-gave-me-32-m-emails-f-18b631c86f8)
 	  collapsed:: true
 	  site:: [mchap.io](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)

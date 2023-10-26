@@ -100,7 +100,6 @@
 	- {{video https://www.youtube.com/watch?v=FDiapbD0Xfg}}
 - Some ideas on the matter
 - But first, more backstory
-  collapsed:: true
 	- I worked at Uber and got to see Cadence.
 	- [Uber's Cadence](https://github.com/uber/cadence)
 	- [Temporal](https://temporal.io/)
@@ -133,7 +132,6 @@
 	- I have become militant about removing code from Protoflow.
 	- The more that I coded the workflow engine, the more things came "clear"
 - Here are some things that I learned
-  collapsed:: true
 	- Things that are visually and functionally simple rules everything
 		- > "premature optimization is the root of all evil." - Donald Knuth
 	- You need dependency injection
@@ -146,7 +144,6 @@
 	- I talked to a math nerd about Protoflow.
 		- [Category Theory Video Series](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - What am I going to do about it?
-  collapsed:: true
 	- Drink coffee at cafes
 	- Think about code
 	- Write some code

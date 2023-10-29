@@ -1,4 +1,49 @@
 ## 🔖 Articles
+	- [Work For Only 3 Hours A Day, But Everyday | Plumshell](https://omnivore.app/me/work-for-only-3-hours-a-day-but-everyday-plumshell-18b7b0910ae)
+	  collapsed:: true
+	  site:: [plumshell](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday)
+	  date-saved:: [[Oct 29th, 2023]]
+	  date-published:: [[Mar 10th, 2016]]
+	- [How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED](https://omnivore.app/me/https-youtu-be-p-6-fo-rpg-0-k-vo-si-sp-u-9-v-zi-9-mt-nrv-n-18b73a09ea9)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/P6FORpg0KVo?si=spU_9vZI9MtNRV-n)
+	  author:: TED
+	  labels:: [[learning]]
+	  date-saved:: [[Oct 27th, 2023]]
+	- [A Journey Into Shaders](https://omnivore.app/me/a-journey-into-shaders-18b6ec9649a)
+	  collapsed:: true
+	  site:: [mayerowitz.io](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+	  author:: Antoine Mayerowitz
+	  date-saved:: [[Oct 26th, 2023]]
+	  date-published:: [[Oct 26th, 2023]]
+	- [A Slower Urgency • Writings – Bayo Akomolafe](https://omnivore.app/me/a-slower-urgency-writings-bayo-akomolafe-18b6e210bb1)
+	  collapsed:: true
+	  site:: [bayoakomolafe.net](https://www.bayoakomolafe.net/post/a-slower-urgency)
+	  author:: Bayo Akomolafe
+	  date-saved:: [[Oct 26th, 2023]]
+	  date-published:: [[Oct 17th, 2023]]
+	- [Three Architectures for a Responsive IDE](https://omnivore.app/me/https-rust-analyzer-github-io-blog-2020-07-20-three-architecture-18b6bcbdc55)
+	  collapsed:: true
+	  site:: [rust-analyzer.github.io](https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html)
+	  date-saved:: [[Oct 26th, 2023]]
+	  date-published:: [[Jul 19th, 2020]]
+	- [History of the Web, Volume I by Jay Hoffmann [PDF/iPad/Kindle]](https://omnivore.app/me/history-of-the-web-volume-i-by-jay-hoffmann-pdf-i-pad-kindle-18b67d97618)
+	  collapsed:: true
+	  site:: [Leanpub](https://leanpub.com/webhistory)
+	  author:: Jay Hoffmann
+	  labels:: [[books]]
+	  date-saved:: [[Oct 25th, 2023]]
+	  date-published:: [[May 11th, 2019]]
+	- [Web Components Will Outlive Your JavaScript Framework | jakelazaroff.com](https://omnivore.app/me/web-components-will-outlive-your-java-script-framework-jakelazar-18b67d6b626)
+	  collapsed:: true
+	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework)
+	  date-saved:: [[Oct 25th, 2023]]
+	  date-published:: [[Oct 24th, 2023]]
+	- [ArtistAssistApp - the web app to paint better with ease](https://omnivore.app/me/artist-assist-app-the-web-app-to-paint-better-with-ease-18b67206e72)
+	  collapsed:: true
+	  site:: [artistassistapp.com](https://artistassistapp.com)
+	  labels:: [[art]]
+	  date-saved:: [[Oct 25th, 2023]]
 	- [Neocities: Create your own free website!](https://omnivore.app/me/neocities-create-your-own-free-website-18b65598178)
 	  collapsed:: true
 	  site:: [Neocities | neocities.org](https://neocities.org)
@@ -22,6 +67,7 @@
 	  collapsed:: true
 	  site:: [websession.dev](https://websession.dev)
 	  author:: Zachary Voase
+	  labels:: [[security ]]
 	  date-saved:: [[Oct 23rd, 2023]]
 	  date-published:: [[Jun 13th, 2023]]
 	- [Psychedelic Mushrooms Hit the Market in Oregon - The New York Times](https://omnivore.app/me/psychedelic-mushrooms-hit-the-market-in-oregon-the-new-york-time-18b6032e1bc)
@@ -33,6 +79,7 @@
 	- [Extreme Explorations of TypeScript's Type System | Learning TypeScript](https://omnivore.app/me/extreme-explorations-of-type-script-s-type-system-learning-type--18b5f8d9df0)
 	  collapsed:: true
 	  site:: [learningtypescript.com](https://www.learningtypescript.com/articles/extreme-explorations-of-typescripts-type-system)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 23rd, 2023]]
 	  date-published:: [[Jun 26th, 2022]]
 	- [LEGO presentation (2018) | PPT](https://omnivore.app/me/lego-presentation-2018-ppt-18b5f79c74c)
@@ -141,11 +188,13 @@
 	- ['Awesome lists' parser in Elixir - Chat / Discussions - Elixir Programming Language Forum](https://omnivore.app/me/awesome-lists-parser-in-elixir-chat-discussions-elixir-programmi-18b4b219b96)
 	  collapsed:: true
 	  site:: [Elixir Programming Language Forum](https://elixirforum.com/t/awesome-lists-parser-in-elixir/5926)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 19th, 2023]]
 	  date-published:: [[Jun 10th, 2017]]
 	- [humungus.tedunangst.com](https://omnivore.app/me/humungus-tedunangst-com-18b4aa73be8)
 	  collapsed:: true
 	  site:: [humungus.tedunangst.com](https://humungus.tedunangst.com)
+	  labels:: [[golang/programming]]
 	  date-saved:: [[Oct 19th, 2023]]
 	- [banging errors in go](https://omnivore.app/me/banging-errors-in-go-18b4aa482bf)
 	  collapsed:: true
@@ -160,6 +209,7 @@
 	- [Version Museum: A Visual History of Your Favorite Technology](https://omnivore.app/me/version-museum-a-visual-history-of-your-favorite-technology-18b46312690)
 	  collapsed:: true
 	  site:: [Version Museum](https://www.versionmuseum.com)
+	  labels:: [[computers]]
 	  date-saved:: [[Oct 18th, 2023]]
 	- [You’re not lacking creativity, you’re overwhelmed](https://omnivore.app/me/you-re-not-lacking-creativity-you-re-overwhelmed-18b44af56d5)
 	  collapsed:: true
@@ -223,6 +273,7 @@
 	- [USB Made Simple](https://omnivore.app/me/usb-made-simple-18b3c064ece)
 	  collapsed:: true
 	  site:: [usbmadesimple.co.uk](https://www.usbmadesimple.co.uk)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 16th, 2023]]
 	- [Napflix | Siesta Video Platform.](https://omnivore.app/me/napflix-siesta-video-platform-18b3a3f99ba)
 	  collapsed:: true
@@ -255,6 +306,7 @@
 	- [Uptrace: Open Source APM [Forever Free]](https://omnivore.app/me/uptrace-open-source-apm-forever-free-18b36692085)
 	  collapsed:: true
 	  site:: [Uptrace](https://uptrace.dev/get/open-source-apm.html)
+	  labels:: [[golang/programming]]
 	  date-saved:: [[Oct 15th, 2023]]
 	  date-published:: [[Jul 31st, 2023]]
 	- [TECHING 1/10 Full Metal Working Turbofan Engine Model - Build Your Own Turbofan Engine that Works– EngineDIY](https://omnivore.app/me/teching-1-10-full-metal-working-turbofan-engine-model-build-your-18b34d53835)
@@ -339,6 +391,7 @@
 	- [Why LSP?](https://omnivore.app/me/why-lsp-18b27b3b0ca)
 	  collapsed:: true
 	  site:: [matklad.github.io](https://matklad.github.io/2022/04/25/why-lsp.html)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 12th, 2023]]
 	  date-published:: [[Apr 24th, 2022]]
 	- [How Israeli Apartheid Destroyed My Hometown](https://omnivore.app/me/how-israeli-apartheid-destroyed-my-hometown-18b2711ef33)
@@ -534,7 +587,7 @@
 	- [Coldtype](https://omnivore.app/me/coldtype-18b092aab14)
 	  collapsed:: true
 	  site:: [coldtype.xyz](https://coldtype.xyz)
-	  labels:: [[programming]]
+	  labels:: [[programming]][[art]]
 	  date-saved:: [[Oct 7th, 2023]]
 	- [TUNDRA - NOMAD live (extract)](https://omnivore.app/me/https-youtu-be-b-34-o-vhcwl-fy-si-e-m-cx-uv-74-agqvm-7-bj-18b09262d64)
 	  collapsed:: true
@@ -549,10 +602,6 @@
 	  labels:: [[programming]]
 	  date-saved:: [[Oct 6th, 2023]]
 	  date-published:: [[Jan 26th, 2023]]
-	- [pen - YARN search](https://omnivore.app/me/pen-yarn-search-18b033ffaa9)
-	  collapsed:: true
-	  site:: [Yarn](https://getyarn.io/yarn-find?text=pen)
-	  date-saved:: [[Oct 5th, 2023]]
 	- [bitmagnet-io/bitmagnet: A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.](https://omnivore.app/me/bitmagnet-io-bitmagnet-a-self-hosted-bit-torrent-indexer-dht-cra-18b00c2709e)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/bitmagnet-io/bitmagnet)
@@ -587,6 +636,7 @@
 	- [Extracting Hacker News Book Recommendations with the ChatGPT API - reyem.dev blog](https://omnivore.app/me/extracting-hacker-news-book-recommendations-with-the-chat-gpt-ap-18af979c22a)
 	  collapsed:: true
 	  site:: [blog.reyem.dev](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api)
+	  labels:: [[books]]
 	  date-saved:: [[Oct 3rd, 2023]]
 	- [Explore the In Our Time archive | Braggoscope](https://omnivore.app/me/explore-the-in-our-time-archive-braggoscope-18af9789d51)
 	  collapsed:: true
@@ -662,12 +712,6 @@
 	  author:: Lenny Rachitsky
 	  date-saved:: [[Sep 29th, 2023]]
 	  date-published:: [[Sep 5th, 2023]]
-	- [How to identify your ideal customer profile (ICP)](https://omnivore.app/me/https-www-lennysnewsletter-com-p-how-to-identify-your-ideal-cust-18ae3920463)
-	  collapsed:: true
-	  site:: [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-identify-your-ideal-customer)
-	  author:: Lenny Rachitsky
-	  date-saved:: [[Sep 29th, 2023]]
-	  date-published:: [[Aug 29th, 2023]]
 	- [How to validate your B2B startup idea - by Lenny Rachitsky](https://omnivore.app/me/https-www-lennysnewsletter-com-p-how-to-validate-your-b-2-b-star-18ae391edd2)
 	  collapsed:: true
 	  site:: [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-validate-your-b2b-startup)

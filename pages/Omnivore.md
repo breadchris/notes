@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Holiday artichoke dip goes terribly wrong on-air](https://omnivore.app/me/https-youtu-be-a-q-aau-vu-2-s-tg-si-ekw-4-lfj-m-5-zjx-c-3-y-0-18b7df23f56)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/aQAauVu2sTg?si=Ekw4LfjM5ZjxC3y0)
+	  author:: Global News
+	  labels:: [[food]]
+	  date-saved:: [[Oct 29th, 2023]]
+	- [Linear Algebra Done Right](https://omnivore.app/me/linear-algebra-done-right-18b7ded2172)
+	  collapsed:: true
+	  site:: [linear.axler.net](https://linear.axler.net)
+	  labels:: [[books]]
+	  date-saved:: [[Oct 29th, 2023]]
 	- [Work For Only 3 Hours A Day, But Everyday | Plumshell](https://omnivore.app/me/work-for-only-3-hours-a-day-but-everyday-plumshell-18b7b0910ae)
 	  collapsed:: true
 	  site:: [plumshell](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday)

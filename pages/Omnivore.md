@@ -1,4 +1,32 @@
 ## 🔖 Articles
+	- [Shrink Your TinyGo WebAssembly Modules by 60%](https://omnivore.app/me/shrink-your-tiny-go-web-assembly-modules-by-60-18b7ecb4c79)
+	  collapsed:: true
+	  site:: [Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/blog/optimizing-tinygo-wasm)
+	  author:: page.head.extra.author
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Oct 29th, 2023]]
+	  date-published:: [[May 9th, 2022]]
+	- [JAKE.MUSEUM](https://omnivore.app/me/jake-museum-18b7ebc8c75)
+	  collapsed:: true
+	  site:: [jake.museum](https://jake.museum)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 29th, 2023]]
+	  date-published:: [[Dec 31st, 2022]]
+	- [Codebase as Database: Turning the IDE Inside Out with Datalog | Pete's Blog](https://omnivore.app/me/https-petevilter-me-post-datalog-typechecking-18b7eb899e6)
+	  collapsed:: true
+	  site:: [petevilter.me](https://petevilter.me/post/datalog-typechecking)
+	  date-saved:: [[Oct 29th, 2023]]
+	- [Hypercritical: Apple’s Blue Ocean](https://omnivore.app/me/hypercritical-apple-s-blue-ocean-18b7ea875e0)
+	  collapsed:: true
+	  site:: [hypercritical.co](https://hypercritical.co/2023/10/29/apples-blue-ocean)
+	  author:: John Siracusa
+	  labels:: [[computers]][[business ]]
+	  date-saved:: [[Oct 29th, 2023]]
+	  date-published:: [[Oct 28th, 2023]]
+	- [Web FM synthesizer made with HTML5](https://omnivore.app/me/web-fm-synthesizer-made-with-html-5-18b7ea62d57)
+	  collapsed:: true
+	  site:: [taktech.org](https://www.taktech.org/takm/WebFMSynth)
+	  date-saved:: [[Oct 29th, 2023]]
 	- [Holiday artichoke dip goes terribly wrong on-air](https://omnivore.app/me/https-youtu-be-a-q-aau-vu-2-s-tg-si-ekw-4-lfj-m-5-zjx-c-3-y-0-18b7df23f56)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/aQAauVu2sTg?si=Ekw4LfjM5ZjxC3y0)
@@ -13,6 +41,7 @@
 	- [Work For Only 3 Hours A Day, But Everyday | Plumshell](https://omnivore.app/me/work-for-only-3-hours-a-day-but-everyday-plumshell-18b7b0910ae)
 	  collapsed:: true
 	  site:: [plumshell](http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday)
+	  labels:: [[mah boi]]
 	  date-saved:: [[Oct 29th, 2023]]
 	  date-published:: [[Mar 10th, 2016]]
 	- [How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED](https://omnivore.app/me/https-youtu-be-p-6-fo-rpg-0-k-vo-si-sp-u-9-v-zi-9-mt-nrv-n-18b73a09ea9)
@@ -25,6 +54,7 @@
 	  collapsed:: true
 	  site:: [mayerowitz.io](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 	  author:: Antoine Mayerowitz
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 26th, 2023]]
 	  date-published:: [[Oct 26th, 2023]]
 	- [A Slower Urgency • Writings – Bayo Akomolafe](https://omnivore.app/me/a-slower-urgency-writings-bayo-akomolafe-18b6e210bb1)
@@ -48,6 +78,7 @@
 	- [Web Components Will Outlive Your JavaScript Framework | jakelazaroff.com](https://omnivore.app/me/web-components-will-outlive-your-java-script-framework-jakelazar-18b67d6b626)
 	  collapsed:: true
 	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 25th, 2023]]
 	  date-published:: [[Oct 24th, 2023]]
 	- [ArtistAssistApp - the web app to paint better with ease](https://omnivore.app/me/artist-assist-app-the-web-app-to-paint-better-with-ease-18b67206e72)

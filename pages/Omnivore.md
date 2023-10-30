@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Here's EXACTLY What to Do When the Next Megaquake Hits: Cascadia Subduction Zone](https://omnivore.app/me/https-youtu-be-n-zs-4-y-cyxy-fk-si-3-yb-q-m-vw-ev-wy-be-7-o-18b81268842)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/nZs4yCyxyFk?si=3ybQ-mVwEvWyBE7O)
+	  author:: PBS Terra
+	  date-saved:: [[Oct 30th, 2023]]
 	- [Shrink Your TinyGo WebAssembly Modules by 60%](https://omnivore.app/me/shrink-your-tiny-go-web-assembly-modules-by-60-18b7ecb4c79)
 	  collapsed:: true
 	  site:: [Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/blog/optimizing-tinygo-wasm)

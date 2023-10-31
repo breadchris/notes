@@ -2,7 +2,6 @@
 - We tend to have pretty good judgement, even as kids, what toys are better than others
 - I want coding to feel more fun, like I am snapping LEGOs together.
 - Legos
-  collapsed:: true
 	- "Automatic Binding Bricks"
 	- The first LEGO set I ever had came from Mcdonalds
 	- ![1999 Lego McDonald's Toys.jpg](../assets/1999_Lego_McDonald's_Toys_1698723762328_0.jpg)
@@ -31,14 +30,13 @@
 - What about code?
 	- We don't drive cars made of LEGOs
 	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 346, :width 492}
-	- We
+	- The world runs on computers
 	- Computers have changed a lot over the years
 	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg)
 	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 221, :width 393}
-	- We have some ideas of what computers look like in the future
-	- !['Quantum Computers.png](../assets/'Quantum_Computers_1698757788218_0.png){:height 274, :width 370}
-	- ![merlin superJumbo.jpg](../assets/merlin_superJumbo_1698757816518_0.jpg){:height 341, :width 399}
-	- What does the code look like?
+	- Capabilities of computers change rapidly
+	- ![Moore's Law Transistor Count.png](../assets/Moore's_Law_Transistor_Count_1698758489596_0.png){:height 369, :width 351}
+	-
 	- Different levels of code
 	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 242, :width 250}
 	- Assembly is pretty foundational, not going to change

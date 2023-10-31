@@ -29,7 +29,6 @@
 	- > The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
 	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 266, :width 458}
 - What about code?
-  collapsed:: true
 	- Different levels of code
 	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 242, :width 250}
 	- Assembly is pretty foundational, not going to change
@@ -41,6 +40,7 @@
 	- But what if humans can't understand how to run the code?
 	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png)
 	-
+	-
 	- What can we look to for guidance?
 	- Unix Design philosophy
 	- Write programs that do one thing and do it well.
@@ -51,7 +51,12 @@
 - I needed to stop following what people were recommending what I should or should not do with code and focus on the things I have learned as a programmer.
 - Learn a mental model, not a language
 	- Computers have changed a lot over the years
-	- We have con
+	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg)
+	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 221, :width 393}
+	- We have some ideas of what computers look like in the future
+	- !['Quantum Computers.png](../assets/'Quantum_Computers_1698757788218_0.png){:height 274, :width 370}
+	- ![merlin superJumbo.jpg](../assets/merlin_superJumbo_1698757816518_0.jpg){:height 341, :width 399}
+	- What does the code look like?
 	- TODO rob pike unix
 	- Languages can be a rabbit hole
 	- Your skilled programmer friend tells you that everything is going to be written in Rust. You should just learn it now right?
@@ -128,7 +133,8 @@
 	- Connect and share with other people
 	- Demo?
 - Parting words of wisdom
-  collapsed:: true
+	- I miss the Living Computer Museum
+	- Go, go, go to the Connections Museum
 	- Plumbers get paid a lot because pipes dont fit together easily https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/
 	- If you want to keep getting paid a lot to be a data plumber, perpetuate the system.
 	- The best coders have made things fit together so many times that they make a framework to not have to keep making things go together themselves, the code makes it happen.

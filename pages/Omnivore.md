@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [Recursive Drawing](https://omnivore.app/me/recursive-drawing-18b857eb600)
+	  collapsed:: true
+	  site:: [recursivedrawing.com](http://recursivedrawing.com)
+	  labels:: [[programming]][[art]]
+	  date-saved:: [[Oct 31st, 2023]]
+	- [Konnakkol](https://omnivore.app/me/konnakkol-18b857a9761)
+	  collapsed:: true
+	  site:: [arthurcarabott.com](https://www.arthurcarabott.com/konnakkol)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 31st, 2023]]
+	- [Seymour: Live Programming for the Classroom](https://omnivore.app/me/seymour-live-programming-for-the-classroom-18b857863c8)
+	  collapsed:: true
+	  site:: [harc.github.io](https://harc.github.io/seymour-live2017)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 31st, 2023]]
+	- [Eve](https://omnivore.app/me/eve-18b84605676)
+	  collapsed:: true
+	  site:: [witheve.com](http://witheve.com)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 30th, 2023]]
 	- [Replacing WebRTC - Media over QUIC](https://omnivore.app/me/replacing-web-rtc-media-over-quic-18b830df738)
 	  collapsed:: true
 	  site:: [quic.video](https://quic.video/blog/replacing-webrtc)

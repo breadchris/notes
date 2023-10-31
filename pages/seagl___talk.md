@@ -65,7 +65,9 @@
 	- Write programs that do one thing and do it well.
 	- Write programs to work together.
 	- Write programs to handle text streams, because that is a universal interface.
-- I needed to stop following what people were recommending what I should or should not do with code and focus on the things I have learned as a programmer.
+	- ![IMAG0251.webp](../assets/IMAG0251_1698760199153_0.webp){:height 341, :width 388}
+	-
+	-
 - Learn a mental model, not a language
 	- TODO rob pike unix
 	- Languages can be a rabbit hole

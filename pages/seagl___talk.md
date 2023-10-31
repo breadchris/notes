@@ -119,7 +119,6 @@
 	- There is a whole field of mathmatical study called Category Theory, which Haskell is heavily influenced by
 	- Have more questions than answers for this atm, would love to hear some ideas!
 - Protoflow
-  collapsed:: true
 	- I tried to build this once
 	- Refinery
 	- Wrong abstraction, AWS, ew
@@ -138,7 +137,9 @@
 		- Trace data in production, replay it locally
 		- Free metrics
 	- Connect and share with other people
-	- Demo?
+	- I want to give a demo, but I wouldn't be showing you "LEGOs for code", I haven't built it
+	- I have been working on my formula for what I think it should feel and look like, but it currently looks like this
+	-
 - Parting words of wisdom
 	- I miss the Living Computer Museum
 	- Go, go, go to the Connections Museum

@@ -48,32 +48,10 @@
 	- Write programs to handle text streams, because that is a universal interface.
 	- And, it has been around for a while
 	- ![History of Unix and Linux: From PDP-7 to Modern Operating Systems | by  Shreyas Matade | Medium](https://miro.medium.com/v2/resize:fit:1358/1*rJXvgqCWN2Hp-hNqbAA58w.png){:height 286, :width 371}
-- Cooking
-  collapsed:: true
-	- I don't play with LEGOs anymore, but I like to cook
-	- I like to think of recipes as really just the composition of different recipes together to make something even more complicated
-	- Peanut butter and jelly
-		- Peanuts + blender = peanut butter
-		- Stawberries + pectin = jelly
-		- flour + water + yeast + salt = bread
-		- bread + peanut butter + jelly = pb&j
-	- We don't really write recipes like this though
-	- Except for literally [Cooking for Engineers](https://www.cookingforengineers.com)
-	- If I want to make cool things in the kitchen, I have to follow normie language for expressing recipes
-	- But I can't unsee the building blocks, I _have_ to have something that speaks to this
-	- What does it look like?
-	- A language? I am not an expert, also I want to be able to send this to my mom
-	- I want to make a recipe site that feels effortless to follow, regardless of experience in the kitchen, or with the last brain cell I have.
-	- There are hard problems in software development, and building good looking websites is certainly one of them
-	- Trying to rapidly prototype features in the site as I came across them in the real world was really fun, but also insanely frustrating
-	- As a side project, there was no months of planning by an engineering team to discuss and agree upon the best way to build this. Changes came sporadically and were layered on top of my desperate attempts to try to get React to do the thing that I wanted it to.
-	- After 7 attempts at trying to build it with countless different technologies, I arrived at an app that I still not happy with.
-	- As a solo dev who isn't constrained by a deadline, this process was incredibly enlightening.
-	- I had learned that "modern" recommendations on how to build a web application are insanely confusing and I frankly have no idea how any developer working on a site does their job. Seriously, mad respect
-	- Any one of the 7 attempts I could have doubled down on to ship so that people could use it. But none of them felt right!
 - I needed to stop following what people were recommending what I should or should not do with code and focus on the things I have learned as a programmer.
 - Learn a mental model, not a language
-  collapsed:: true
+	- Computers have changed a lot over the years
+	- We have con
 	- TODO rob pike unix
 	- Languages can be a rabbit hole
 	- Your skilled programmer friend tells you that everything is going to be written in Rust. You should just learn it now right?
@@ -171,6 +149,29 @@
 	- https://github.com/lunabrain-ai/lunabrain
 	- Talk about coding some writing
 	- https://www.youtube.com/@breadchris/streams
+- Cooking
+  collapsed:: true
+	- I don't play with LEGOs anymore, but I like to cook
+	- I like to think of recipes as really just the composition of different recipes together to make something even more complicated
+	- Peanut butter and jelly
+		- Peanuts + blender = peanut butter
+		- Stawberries + pectin = jelly
+		- flour + water + yeast + salt = bread
+		- bread + peanut butter + jelly = pb&j
+	- We don't really write recipes like this though
+	- Except for literally [Cooking for Engineers](https://www.cookingforengineers.com)
+	- If I want to make cool things in the kitchen, I have to follow normie language for expressing recipes
+	- But I can't unsee the building blocks, I _have_ to have something that speaks to this
+	- What does it look like?
+	- A language? I am not an expert, also I want to be able to send this to my mom
+	- I want to make a recipe site that feels effortless to follow, regardless of experience in the kitchen, or with the last brain cell I have.
+	- There are hard problems in software development, and building good looking websites is certainly one of them
+	- Trying to rapidly prototype features in the site as I came across them in the real world was really fun, but also insanely frustrating
+	- As a side project, there was no months of planning by an engineering team to discuss and agree upon the best way to build this. Changes came sporadically and were layered on top of my desperate attempts to try to get React to do the thing that I wanted it to.
+	- After 7 attempts at trying to build it with countless different technologies, I arrived at an app that I still not happy with.
+	- As a solo dev who isn't constrained by a deadline, this process was incredibly enlightening.
+	- I had learned that "modern" recommendations on how to build a web application are insanely confusing and I frankly have no idea how any developer working on a site does their job. Seriously, mad respect
+	- Any one of the 7 attempts I could have doubled down on to ship so that people could use it. But none of them felt right!
 - Some real world examples
   collapsed:: true
 	- Minecraft

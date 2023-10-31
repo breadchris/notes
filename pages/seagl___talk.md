@@ -50,21 +50,21 @@
 	- Different tools for different jobs
 	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 263, :width 346}
 	- Can't we just have one language?
-	-
+	- Maybe brainwashing will work
+	- ![Screenshot 2023-10-31 at 6.42.50 AM.png](../assets/Screenshot_2023-10-31_at_6.42.50 AM_1698759773503_0.png){:height 328, :width 346}
 	- ![Rust poster.png](../assets/Rust_poster_1698759520735_0.png){:height 389, :width 212}
-	- Virtual Machines make sure your code can run in the future on any hardware
-	- ![Java Virtual Machine | Various Components of Java Virtual Machine](https://cdn.educba.com/academy/wp-content/uploads/2019/11/Java-Virtual-Machine.png){:height 316, :width 475}
-	- But what if humans can't understand how to run the code?
+	- What if we make a mistake with the syntax?
 	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png){:height 407, :width 446}
 	-
-	-
-	- What can we look to for guidance?
+	- What if the language changed over time?
+	- ![Screenshot 2023-10-31 at 6.44.34 AM.png](../assets/Screenshot_2023-10-31_at_6.44.34 AM_1698759877890_0.png){:height 411, :width 458}
+	- Where can we look to for guidance?
+	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg)
+	- ![History of Unix and Linux: From PDP-7 to Modern Operating Systems | by  Shreyas Matade | Medium](https://miro.medium.com/v2/resize:fit:1358/1*rJXvgqCWN2Hp-hNqbAA58w.png){:height 286, :width 371}
 	- Unix Design philosophy
 	- Write programs that do one thing and do it well.
 	- Write programs to work together.
 	- Write programs to handle text streams, because that is a universal interface.
-	- And, it has been around for a while
-	- ![History of Unix and Linux: From PDP-7 to Modern Operating Systems | by  Shreyas Matade | Medium](https://miro.medium.com/v2/resize:fit:1358/1*rJXvgqCWN2Hp-hNqbAA58w.png){:height 286, :width 371}
 - I needed to stop following what people were recommending what I should or should not do with code and focus on the things I have learned as a programmer.
 - Learn a mental model, not a language
 	- TODO rob pike unix

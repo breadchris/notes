@@ -66,12 +66,9 @@
 	- Write programs to work together.
 	- Write programs to handle text streams, because that is a universal interface.
 	- ![IMAG0251.webp](../assets/IMAG0251_1698760199153_0.webp){:height 341, :width 388}
-	-
-	-
+	- ![Golang Ken Thompson.png](../assets/Golang_Ken_Thompson_1698760453099_0.png){:height 161, :width 341}
+	- ![Screenshot 2023-10-31 at 6.53.07 AM.png](../assets/Screenshot_2023-10-31_at_6.53.07 AM_1698760392876_0.png){:height 359, :width 485}
 - Learn a mental model, not a language
-	- TODO rob pike unix
-	- Languages can be a rabbit hole
-	- Your skilled programmer friend tells you that everything is going to be written in Rust. You should just learn it now right?
 	- Languages shape the way that we approach problems fundamentally. If there is a language feature or library that we can use, there is always the option to use it.
 	- We try to slap ourselves on the wrists to avoid known pitfalls with linter rules and compiler checks.
 	- What if a language was so simple that there are not that many pitfalls to begin with?
@@ -80,7 +77,6 @@
 	- You can _always_ see the underlying code because all modules are just git repos
 	- Go blog posts teach you way more than syntax, they teach you a mental framework
 	- There are a lot of tools for "anticipated needs" you might have as a developer that Go meets
-	  collapsed:: true
 		- go run
 		- go test
 		- go mod
@@ -94,7 +90,6 @@
 	- Consider the language/s you use daily, weekly, monthly, do they feel fun to play with?
 	- When are they frustrating?
 - Types are the foundation
-  collapsed:: true
 	- Types are a way to communicate intent
 	- A programmer defines their intent to the computer, the compiler/runtime holds them to that
 	- Types instruct others who want to play with the code, how to go about it
@@ -195,3 +190,6 @@
 	- Minecraft
 	- Roblox
 	- Heroku had with the [twelve-factor app](https://12factor.net/) they were on to something
+- References
+	- https://slideplayer.com/slide/17621474/
+	- {{video https://www.youtube.com/watch?v=NVuTBL09Dn4}}

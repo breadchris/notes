@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Oddball X86 Instructions | Hackaday](https://omnivore.app/me/oddball-x-86-instructions-hackaday-18b85f3a6b9)
+	  collapsed:: true
+	  site:: [Hackaday](https://hackaday.com/2021/02/25/oddball-x86-instructions)
+	  date-saved:: [[Oct 31st, 2023]]
+	  date-published:: [[Feb 25th, 2021]]
 	- [Part 1 - Introduction and Setting up the REPL | Let’s Build a Simple Database](https://omnivore.app/me/part-1-introduction-and-setting-up-the-repl-let-s-build-a-simple-18b85bddb59)
 	  collapsed:: true
 	  site:: [Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/parts/part1.html)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Ensō: write now, edit later | Hacker News](https://omnivore.app/me/enso-write-now-edit-later-hacker-news-18b76cec178)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=38025073)
+	  labels:: [[mah boi]]
+	  date-saved:: [[Oct 31st, 2023]]
 	- [Oddball X86 Instructions | Hackaday](https://omnivore.app/me/oddball-x-86-instructions-hackaday-18b85f3a6b9)
 	  collapsed:: true
 	  site:: [Hackaday](https://hackaday.com/2021/02/25/oddball-x86-instructions)

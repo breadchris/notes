@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Part 1 - Introduction and Setting up the REPL | Let’s Build a Simple Database](https://omnivore.app/me/part-1-introduction-and-setting-up-the-repl-let-s-build-a-simple-18b85bddb59)
+	  collapsed:: true
+	  site:: [Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/parts/part1.html)
+	  labels:: [[programming]]
+	  date-saved:: [[Oct 31st, 2023]]
+	  date-published:: [[Aug 29th, 2017]]
+	- [Fine-Tuning OpenAI's GPT 3.5 Turbo | Pinecone](https://omnivore.app/me/fine-tuning-open-ai-s-gpt-3-5-turbo-pinecone-18b85aa051e)
+	  collapsed:: true
+	  site:: [pinecone.io](https://www.pinecone.io/learn/fine-tune-gpt-3.5)
+	  date-saved:: [[Oct 31st, 2023]]
 	- [Recursive Drawing](https://omnivore.app/me/recursive-drawing-18b857eb600)
 	  collapsed:: true
 	  site:: [recursivedrawing.com](http://recursivedrawing.com)

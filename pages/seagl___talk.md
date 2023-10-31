@@ -120,13 +120,10 @@
 	- Have more questions than answers for this atm, would love to hear some ideas!
 - Protoflow
 	- I tried to build this once
-	- Refinery
+	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
 	- Wrong abstraction, AWS, ew
-	- Knowing what I know now, this project is in my crosshairs
 	- Protobuf and Temporal were made by some of the best engineers in the world at a company who was pouring gasoline on their software development engine
 	- The benefits of this research and engineering will not be realized by smaller development teams until more open source tools and educational resources (such as this talk) are accessible
-	- I have started snapping together the bricks which I hope will be a foundational component for a lot of people to build upon
-	- What I think is especially cool is that you don't even need to know Go to get value from this project
 	- Protobuf is just a type system and you can compile the service stubs for any language you want to use
 		- TODO example
 	- What if you had a library/service that let you build strongly-typed services, connected to each other with a durable workflow manager?
@@ -139,6 +136,7 @@
 	- Connect and share with other people
 	- I want to give a demo, but I wouldn't be showing you "LEGOs for code", I haven't built it
 	- I have been working on my formula for what I think it should feel and look like, but it currently looks like this
+	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
 	-
 - Parting words of wisdom
 	- I miss the Living Computer Museum

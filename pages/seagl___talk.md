@@ -44,10 +44,14 @@
 	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png)
 	- Cool if you want raw performance
 	- ![Screenshot 2023-10-31 at 6.35.03 AM.png](../assets/Screenshot_2023-10-31_at_6.35.03 AM_1698759305389_0.png){:height 325, :width 553}
-	- Kind of annoying
-	-
-	- But have we figured out
+	- Not so simple
+	- ![Oddball X86 Instructions.webp](../assets/Oddball_X86_Instructions_1698759428248_0.webp){:height 336, :width 508}
+	- What about programming languages?
+	- Different tools for different jobs
 	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 263, :width 346}
+	- Can't we just have one language?
+	-
+	- ![Rust poster.png](../assets/Rust_poster_1698759520735_0.png){:height 389, :width 212}
 	- Virtual Machines make sure your code can run in the future on any hardware
 	- ![Java Virtual Machine | Various Components of Java Virtual Machine](https://cdn.educba.com/academy/wp-content/uploads/2019/11/Java-Virtual-Machine.png){:height 316, :width 475}
 	- But what if humans can't understand how to run the code?

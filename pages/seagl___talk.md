@@ -35,15 +35,17 @@
 	- and have changed over the years
 	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg)
 	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 221, :width 393}
-	- What are the build blocks of a computer?
+	- What are the LEGO bricks of a computer?
 	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 242, :width 250}
 	- Machine language is effectively the CPU
 	- ![cpu electron microscope.png](../assets/cpu_electron_microscope_1698759093211_0.png){:height 388, :width 269}
-	- I'm not gonna touch that
+	- uh, some people play with these?
 	- Assembly is pretty foundational, not going to change
 	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png)
+	- Cool if you want raw performance
+	- ![Screenshot 2023-10-31 at 6.35.03 AM.png](../assets/Screenshot_2023-10-31_at_6.35.03 AM_1698759305389_0.png){:height 325, :width 553}
+	- Kind of annoying
 	-
-	- Been there, done that, no thank you
 	- But have we figured out
 	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 263, :width 346}
 	- Virtual Machines make sure your code can run in the future on any hardware

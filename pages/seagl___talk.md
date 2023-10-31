@@ -122,22 +122,27 @@
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
 	- Wrong abstraction, AWS, ew
-	- Protobuf and Temporal were made by some of the best engineers in the world at a company who was pouring gasoline on their software development engine
-	- The benefits of this research and engineering will not be realized by smaller development teams until more open source tools and educational resources (such as this talk) are accessible
-	- Protobuf is just a type system and you can compile the service stubs for any language you want to use
-		- TODO example
-	- What if you had a library/service that let you build strongly-typed services, connected to each other with a durable workflow manager?
+	- But it started to feel like freakin LEGOs!
+	- You could
+	- Any code, any language
+	- Scale (Lambda)
+	- Share blocks of code for others to use
+	- pub/sub, database, storage
+	- Protoflow is
+	- I want to give a demo, but I wouldn't be showing you "LEGOs for code", I haven't built it
+	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
+	- Protobuf and Temporal solved big problems for big companies
+	- Smaller teams and projects need tools to scale
+	- I want to give everyone a senior developer's brain
 	- Simple service templates with batteries included
+	- What if you had a library/service that let you build strongly-typed services, connected to each other with a durable workflow manager?
 	- Auto-generated client code, with types!
 	- Control the flow of data through out the system
 		- Save data and replay it for testing
 		- Trace data in production, replay it locally
 		- Free metrics
-	- Connect and share with other people
-	- I want to give a demo, but I wouldn't be showing you "LEGOs for code", I haven't built it
-	- I have been working on my formula for what I think it should feel and look like, but it currently looks like this
-	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
-	-
+	- LLM feedback??!!
+	- Share your code with others
 - Parting words of wisdom
 	- I miss the Living Computer Museum
 	- Go, go, go to the Connections Museum

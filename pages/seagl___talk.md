@@ -131,6 +131,11 @@
 	- Protoflow is the continued effort
 	- It runs on your computer
 	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
+	- Every code block is strongly typed
+	- ![Screenshot 2023-10-31 at 7.18.21 AM.png](../assets/Screenshot_2023-10-31_at_7.18.21 AM_1698761904976_0.png)
+	- And it can run itself
+	- ![Screenshot 2023-10-31 at 7.19.31 AM.png](../assets/Screenshot_2023-10-31_at_7.19.31 AM_1698761974050_0.png){:height 448, :width 450}
+	- Chain things together to make cool things
 	-
 	- Soapbox
 	- Protobuf and Temporal solved big problems for big companies

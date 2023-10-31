@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Replacing WebRTC - Media over QUIC](https://omnivore.app/me/replacing-web-rtc-media-over-quic-18b830df738)
+	  collapsed:: true
+	  site:: [quic.video](https://quic.video/blog/replacing-webrtc)
+	  date-saved:: [[Oct 30th, 2023]]
 	- [Here's EXACTLY What to Do When the Next Megaquake Hits: Cascadia Subduction Zone](https://omnivore.app/me/https-youtu-be-n-zs-4-y-cyxy-fk-si-3-yb-q-m-vw-ev-wy-be-7-o-18b81268842)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/nZs4yCyxyFk?si=3ybQ-mVwEvWyBE7O)

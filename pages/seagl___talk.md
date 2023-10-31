@@ -1,1 +1,179 @@
 -
+- You want to code with LEGOs, not Mega Blocks
+- We tend to have pretty good judgement, even as kids, what toys are better than others
+- I want coding to feel more fun, like I am snapping LEGOs together.
+- Legos
+  collapsed:: true
+	- "Automatic Binding Bricks"
+	- The first LEGO set I ever had came from Mcdonalds
+	- ![1999 Lego McDonald's Toys.jpg](../assets/1999_Lego_McDonald's_Toys_1698723762328_0.jpg)
+	- With a little imagination, it could be anything you wanted.
+	- Few pieces became many possiblities
+	- ![1999 Happy Meal Lego.jpg](../assets/1999_Happy_Meal_Lego_1698724156324_0.jpg){:height 376, :width 371}
+	- Simple grew in complexity
+	- ![Micro Millennium Falcon - Instructions | Lego star wars mini, Micro lego,  Lego creative](https://i.pinimg.com/736x/bb/30/91/bb3091a0909734aa4557a39fa8bdcac6.jpg){:height 325, :width 286}
+	- ![Millennium Falcon™ 7965 - LEGO® Star Wars™ - Building Instructions -  Customer Service - LEGO.com US](https://www.lego.com/cdn/product-assets/product.img.pri/7965-0000-xx-14-1.jpg)
+	- Each phase built on itself, with the same directions and rules
+	- Pieces from sets were always accounted for
+	- They always fit together
+	- It was always fun
+	- ![Dropped my UCS Falcon today trying to put it on its display. : r/lego](https://i.redd.it/nox26agr0p871.jpg)
+	- I got confidence to venture from set instructions
+	- ![39848 Facebook.jpg](../assets/39848_Facebook_1698724914046_0.jpg)
+	- I loved LEGO
+	- I did not like Mega Blocks
+	- ![Mega Bloks Construction Set + 3 Extra Figures #9134 Vintage 1999 - NEW  65541091344 | eBay](https://i.ebayimg.com/images/g/h1oAAOSwjxZgbIqL/s-l1200.webp){:height 403, :width 245}
+	-
+	- LEGOs are high quality plastic, that costs $$$
+	- Competitors are the "cheap" option
+	- Kids can tell the difference
+	- > The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
+	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 266, :width 458}
+- What about code?
+  collapsed:: true
+	- Different levels of code
+	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 242, :width 250}
+	- Assembly is pretty foundational, not going to change
+	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png)
+	- What about high level languages?
+	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 263, :width 346}
+	- Virtual Machines make sure your code can run in the future on any hardware
+	- ![Java Virtual Machine | Various Components of Java Virtual Machine](https://cdn.educba.com/academy/wp-content/uploads/2019/11/Java-Virtual-Machine.png)
+	- But what if humans can't understand how to run the code?
+	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png)
+	-
+	- What can we look to for guidance?
+	- Unix Design philosophy
+	- Write programs that do one thing and do it well.
+	- Write programs to work together.
+	- Write programs to handle text streams, because that is a universal interface.
+	- And, it has been around for a while
+	- ![History of Unix and Linux: From PDP-7 to Modern Operating Systems | by  Shreyas Matade | Medium](https://miro.medium.com/v2/resize:fit:1358/1*rJXvgqCWN2Hp-hNqbAA58w.png){:height 286, :width 371}
+- Cooking
+  collapsed:: true
+	- I don't play with LEGOs anymore, but I like to cook
+	- I like to think of recipes as really just the composition of different recipes together to make something even more complicated
+	- Peanut butter and jelly
+		- Peanuts + blender = peanut butter
+		- Stawberries + pectin = jelly
+		- flour + water + yeast + salt = bread
+		- bread + peanut butter + jelly = pb&j
+	- We don't really write recipes like this though
+	- Except for literally [Cooking for Engineers](https://www.cookingforengineers.com)
+	- If I want to make cool things in the kitchen, I have to follow normie language for expressing recipes
+	- But I can't unsee the building blocks, I _have_ to have something that speaks to this
+	- What does it look like?
+	- A language? I am not an expert, also I want to be able to send this to my mom
+	- I want to make a recipe site that feels effortless to follow, regardless of experience in the kitchen, or with the last brain cell I have.
+	- There are hard problems in software development, and building good looking websites is certainly one of them
+	- Trying to rapidly prototype features in the site as I came across them in the real world was really fun, but also insanely frustrating
+	- As a side project, there was no months of planning by an engineering team to discuss and agree upon the best way to build this. Changes came sporadically and were layered on top of my desperate attempts to try to get React to do the thing that I wanted it to.
+	- After 7 attempts at trying to build it with countless different technologies, I arrived at an app that I still not happy with.
+	- As a solo dev who isn't constrained by a deadline, this process was incredibly enlightening.
+	- I had learned that "modern" recommendations on how to build a web application are insanely confusing and I frankly have no idea how any developer working on a site does their job. Seriously, mad respect
+	- Any one of the 7 attempts I could have doubled down on to ship so that people could use it. But none of them felt right!
+- I needed to stop following what people were recommending what I should or should not do with code and focus on the things I have learned as a programmer.
+- Learn a mental model, not a language
+  collapsed:: true
+	- TODO rob pike unix
+	- Languages can be a rabbit hole
+	- Your skilled programmer friend tells you that everything is going to be written in Rust. You should just learn it now right?
+	- Languages shape the way that we approach problems fundamentally. If there is a language feature or library that we can use, there is always the option to use it.
+	- We try to slap ourselves on the wrists to avoid known pitfalls with linter rules and compiler checks.
+	- What if a language was so simple that there are not that many pitfalls to begin with?
+	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems
+	- The language prioritized simplicity above all else which has led to a lot of interesting effects
+	- You can _always_ see the underlying code because all modules are just git repos
+	- Go blog posts teach you way more than syntax, they teach you a mental framework
+	- There are a lot of tools for "anticipated needs" you might have as a developer that Go meets
+	  collapsed:: true
+		- go run
+		- go test
+		- go mod
+		- go bench
+		- go fmt
+		- go build
+	- These are usually 3rd party libraries you need to "be in the know" about for your language
+	- The type system is so painfully, and meticulously simple, generics have only been introduced recently
+	- LEGOs have rigid plastic connectors, unless you melt them, you can't mold them into a sculpture, you have to play by LEGO's unfailable rules in order to compose them together to build a sculpture
+	- I am not trying to convince you to use Go
+	- Consider the language/s you use daily, weekly, monthly, do they feel fun to play with?
+	- When are they frustrating?
+- Types are the foundation
+  collapsed:: true
+	- Types are a way to communicate intent
+	- A programmer defines their intent to the computer, the compiler/runtime holds them to that
+	- Types instruct others who want to play with the code, how to go about it
+	- If types are too simple, they don't convey enough
+	- if they are too complicated, they become incomprehensible
+	- Protobuf is type system that has been refined over the past couple of decades at large tech companies.
+	- GRPC, an extension of Protobuf, defines methods and their IO
+		- Has a GraphQL like type introspection, which is killer
+	- You can build the frontend while I build the backend. I don't even need my code to be fully written. I could just serve back some mock data from the endpoint!
+	- At Uber, I saw the internal rollout of GRPC and how much easier it was to interact with the thousands of internal microservices. I could easily understand how to send or get data from any of these. Especially helpful for security.
+	- It is not enough to just see and understand the types, you also need to use them
+	- Protobuf has type compilers for most major languages
+	- Your Javascript can become a service
+- Transforming Types
+  collapsed:: true
+	- Workflows are the back bone behind any company.
+	- Workflows are typically only reserved for large enterprises to schlep around invoices or work status on plane engine parts.
+	- In reality, almost all of us are constantly building workflow management systems
+	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
+	- All that Cadence really did was harden Go's concurrency primitives to be able to scale effortlessly and reliably
+	- Temporal is a multi-billion dollar company now, but it is missing something big
+	- All of the expression of a workflow is done with code, but this is not how we communicate
+	- We whiteboard diagrams, draw physical arrows to show how data flows through the system
+	- How do we even express a workflow generically?
+	- A lot of enterprise software is built with BPMN, kind of a grind to learn and use
+	- Can there be something simpler?
+	- There is a whole field of mathmatical study called Category Theory, which Haskell is heavily influenced by
+	- Have more questions than answers for this atm, would love to hear some ideas!
+- Protoflow
+  collapsed:: true
+	- I tried to build this once
+	- Refinery
+	- Wrong abstraction, AWS, ew
+	- Knowing what I know now, this project is in my crosshairs
+	- Protobuf and Temporal were made by some of the best engineers in the world at a company who was pouring gasoline on their software development engine
+	- The benefits of this research and engineering will not be realized by smaller development teams until more open source tools and educational resources (such as this talk) are accessible
+	- I have started snapping together the bricks which I hope will be a foundational component for a lot of people to build upon
+	- What I think is especially cool is that you don't even need to know Go to get value from this project
+	- Protobuf is just a type system and you can compile the service stubs for any language you want to use
+		- TODO example
+	- What if you had a library/service that let you build strongly-typed services, connected to each other with a durable workflow manager?
+	- Simple service templates with batteries included
+	- Auto-generated client code, with types!
+	- Control the flow of data through out the system
+		- Save data and replay it for testing
+		- Trace data in production, replay it locally
+		- Free metrics
+	- Connect and share with other people
+	- Demo?
+- Parting words of wisdom
+  collapsed:: true
+	- Plumbers get paid a lot because pipes dont fit together easily https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/
+	- If you want to keep getting paid a lot to be a data plumber, perpetuate the system.
+	- The best coders have made things fit together so many times that they make a framework to not have to keep making things go together themselves, the code makes it happen.
+	- If you haven't played with LEGOs, buy a set of LEGOs. It is so nice to have things that fit together so nicely.
+	- Chase that feeling with the work that you do.
+	- Build the LEGOs that the next generation of developers will build with.
+- What am I going to do about it?
+  collapsed:: true
+	- Drink coffee at cafes
+	- Think about code
+	- Write some code
+	- https://github.com/protoflow-labs/protoflow
+	- Talk about code
+	- https://www.youtube.com/@breadchris/streams
+	- Write about code
+	- https://breadchris.com/
+	- Code some writing
+	- https://github.com/lunabrain-ai/lunabrain
+	- Talk about coding some writing
+	- https://www.youtube.com/@breadchris/streams
+- Some real world examples
+  collapsed:: true
+	- Minecraft
+	- Roblox
+	- Heroku had with the [twelve-factor app](https://12factor.net/) they were on to something

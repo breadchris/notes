@@ -128,9 +128,11 @@
 	- Scale (Lambda)
 	- Share blocks of code for others to use
 	- pub/sub, database, storage
-	- Protoflow is
-	- I want to give a demo, but I wouldn't be showing you "LEGOs for code", I haven't built it
+	- Protoflow is the continued effort
+	- It runs on your computer
 	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
+	-
+	- Soapbox
 	- Protobuf and Temporal solved big problems for big companies
 	- Smaller teams and projects need tools to scale
 	- I want to give everyone a senior developer's brain

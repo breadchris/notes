@@ -35,18 +35,18 @@
 	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 403, :width 713}
 - What about code?
 	- We don't drive cars made of LEGOs
-	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 346, :width 492}
+	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 402, :width 663}
 	- The world runs on computers
-	- Computers have limitations
-	- and have changed over the years
-	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg)
-	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 221, :width 393}
+	- and they have changed over the years
+	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg){:height 404, :width 713}
+	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 368, :width 682}
 	- What are the LEGO bricks of a computer?
-	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 242, :width 250}
+	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 397, :width 655}
 	- Machine language is effectively the CPU
-	- ![cpu electron microscope.png](../assets/cpu_electron_microscope_1698759093211_0.png){:height 388, :width 269}
-	- uh, some people play with these?
-	- Assembly is pretty foundational, not going to change
+	- ![cpu electron microscope.png](../assets/cpu_electron_microscope_1698759093211_0.png){:height 471, :width 614}
+	- Hardware is hard to play with (pun not intended)
+	- ![ben eater fig2.webp](../assets/ben_eater_fig2_1698810224274_0.webp)
+	- We need something we can rearrange more easily
 	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png)
 	- Cool if you want raw performance
 	- ![Screenshot 2023-10-31 at 6.35.03 AM.png](../assets/Screenshot_2023-10-31_at_6.35.03 AM_1698759305389_0.png){:height 325, :width 553}

@@ -127,11 +127,15 @@
 	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
 	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
 	- Temporal hardened Go's concurrency model to be able to scale effortlessly and reliably
+	- But the workflows are expressed in code
+	- ![Screenshot 2023-11-01 at 12.29.44 AM.png](../assets/Screenshot_2023-11-01_at_12.29.44 AM_1698823793498_0.png){:height 389, :width 651}
 	- We communicate with whiteboard diagrams
 	- Physical arrows to show how data flows through the system
-	-
+	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 537, :width 682}
 	- How do we model that with a computer?
-	- A lot of enterprise software is built with BPMN, kind of a grind to learn and use
+	- A lot of enterprise software is built with BPMN
+	-
+	- But it isn't that fun...because...enterprise
 	- Can there be something simpler, but still complete?
 	- Category Theory? (Haskell is influenced a lot by this)
 	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)

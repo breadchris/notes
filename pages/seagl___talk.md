@@ -71,11 +71,11 @@
 	- Write programs that do one thing and do it well.
 	- Write programs to work together.
 	- Write programs to handle text streams, because that is a universal interface.
-	- ![IMAG0251.webp](../assets/IMAG0251_1698760199153_0.webp){:height 341, :width 388}
-	- ![Golang Ken Thompson.png](../assets/Golang_Ken_Thompson_1698760453099_0.png){:height 161, :width 341}
-	- ![Screenshot 2023-10-31 at 6.53.07 AM.png](../assets/Screenshot_2023-10-31_at_6.53.07 AM_1698760392876_0.png){:height 359, :width 485}
+	- ![IMAG0251.webp](../assets/IMAG0251_1698760199153_0.webp){:height 460, :width 713}
+	- ![Golang Ken Thompson.png](../assets/Golang_Ken_Thompson_1698760453099_0.png){:height 327, :width 655}
 - Learn a mental model, not a language
 	- Languages shape the way that we approach problems fundamentally. If there is a language feature or library that we can use, there is always the option to use it.
+	- ![Screenshot 2023-10-31 at 9.04.05 PM.png](../assets/Screenshot_2023-10-31_at_9.04.05 PM_1698811454043_0.png)
 	- We try to slap ourselves on the wrists to avoid known pitfalls with linter rules and compiler checks.
 	- What if a language was so simple that there are not that many pitfalls to begin with?
 	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems

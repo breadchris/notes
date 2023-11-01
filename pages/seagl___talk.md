@@ -3,8 +3,8 @@
   breadchris
 - I want coding to feel more fun.
 - Like snapping LEGOs together.
-- You want to code with LEGOs, not Mega Blocks
--
+- Not like playing with Mega Blocks
+- ![Dependency Hell.jpg](../assets/Dependency_Hell_1698808500146_0.jpg){:height 174, :width 318}
 - Legos
 	- "Automatic Binding Bricks"
 	- The first LEGO set I ever had came from Mcdonalds

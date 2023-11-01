@@ -120,15 +120,14 @@
 	- Protobuf has type compilers for most major languages.
 - Transforming Types
 	- Workflows are the back bone behind any company.
-	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
-	-
+	- !['bpmn-js.gif' -> 'BPMN JS.gif](../assets/'bpmn-js.gif'_->_'BPMN_JS_1698812675836_0.gif)
 	- Workflows are typically only reserved for large enterprises to schlep around invoices or work status on plane engine parts.
+	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
 	- In reality, almost all of us are constantly building workflow management systems
 	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
-	- All that Cadence really did was harden Go's concurrency primitives to be able to scale effortlessly and reliably
-	- Temporal is a multi-billion dollar company now, but it is missing something big
-	- All of the expression of a workflow is done with code, but this is not how we communicate
-	- We whiteboard diagrams, draw physical arrows to show how data flows through the system
+	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
+	- Temporal hardened Go's concurrency primitives to be able to scale effortlessly and reliably
+	- We want to whiteboard workflows, draw physical arrows to show how data flows through the system
 	- How do we even express a workflow generically?
 	- A lot of enterprise software is built with BPMN, kind of a grind to learn and use
 	- Can there be something simpler?
@@ -177,6 +176,9 @@
 	- If you haven't played with LEGOs, buy a set of LEGOs. It is so nice to have things that fit together so nicely.
 	- Chase that feeling with the work that you do.
 	- Build the LEGOs that the next generation of developers will build with.
+- Thank you!
+- I have some more stuff after this, for the curious
+- ![QR Code.png](../assets/QR_Code_1698812901097_0.png)
 - What am I going to do about it?
   collapsed:: true
 	- Drink coffee at cafes

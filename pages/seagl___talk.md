@@ -81,11 +81,13 @@
 	- Linter rules and compiler checks guide us
 	- ![PEP8 ProgrammerHumor.webp](../assets/PEP8_ProgrammerHumor_1698811887069_0.webp)
 	- What if a language was so simple that there are not that many pitfalls to begin with?
-	-
-	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems
+	- ![Image 8-2.webp](../assets/Image_8-2_1698812064259_0.webp)
+	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems.
 	- The language prioritized simplicity above all else which has led to a lot of interesting effects
 	- You can _always_ see the underlying code because all modules are just git repos
+	- ![Screenshot 2023-10-31 at 9.15.40 PM.png](../assets/Screenshot_2023-10-31_at_9.15.40 PM_1698812155502_0.png)
 	- Go blog posts teach you way more than syntax, they teach you a mental framework
+	- ![Screenshot 2023-10-31 at 9.16.19 PM.png](../assets/Screenshot_2023-10-31_at_9.16.19 PM_1698812190688_0.png){:height 418, :width 702}
 	- There are a lot of tools for "anticipated needs" you might have as a developer that Go meets
 		- go run
 		- go test
@@ -94,8 +96,10 @@
 		- go fmt
 		- go build
 	- These are usually 3rd party libraries you need to "be in the know" about for your language
-	- The type system is so painfully, and meticulously simple, generics have only been introduced recently
-	- LEGOs have rigid plastic connectors, unless you melt them, you can't mold them into a sculpture, you have to play by LEGO's unfailable rules in order to compose them together to build a sculpture
+	- The type system is meticulously simple
+	- ![golang types.png](../assets/golang_types_1698812254410_0.png)
+	- LEGOs have simple, rigid plastic connectors
+	- you have to play by LEGO's infallible rules in order to compose them together to build something
 	- I am not trying to convince you to use Go
 	- Consider the language/s you use daily, weekly, monthly, do they feel fun to play with?
 	- When are they frustrating?
@@ -131,7 +135,8 @@
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
-	- Wrong abstraction, AWS, ew
+	- Wrong abstraction
+	- ![Google AWS.png](../assets/Google_AWS_1698812358104_0.png)
 	- But it started to feel like freakin LEGOs!
 	- You could
 	- Any code, any language

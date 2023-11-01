@@ -109,17 +109,19 @@
 	- Types instruct others who want to play with the code, how to go about it
 	- If types are too simple, they don't convey enough
 	- if they are too complicated, they become incomprehensible
+	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
 	- Protobuf is type system that has been refined over the past couple of decades at large tech companies.
 	- GRPC, an extension of Protobuf, defines methods and their IO
-		- Has a GraphQL like type introspection, which is killer
-	- You can build the frontend while I build the backend. I don't even need my code to be fully written. I could just serve back some mock data from the endpoint!
-	- At Uber, I saw the internal rollout of GRPC and how much easier it was to interact with the thousands of internal microservices. I could easily understand how to send or get data from any of these. Especially helpful for security.
+	- You can build the frontend while I build the backend.
+	- I don't even need my code to be fully written!
+	- GRPC is a life saver with thousands of microservices.
+	- ![unnamed 14.png](../assets/unnamed_14_1698812517626_0.png)
 	- It is not enough to just see and understand the types, you also need to use them
-	- Protobuf has type compilers for most major languages
-	- Your Javascript can become a service
+	- Protobuf has type compilers for most major languages.
 - Transforming Types
-  collapsed:: true
 	- Workflows are the back bone behind any company.
+	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
+	-
 	- Workflows are typically only reserved for large enterprises to schlep around invoices or work status on plane engine parts.
 	- In reality, almost all of us are constantly building workflow management systems
 	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
@@ -131,7 +133,6 @@
 	- A lot of enterprise software is built with BPMN, kind of a grind to learn and use
 	- Can there be something simpler?
 	- There is a whole field of mathmatical study called Category Theory, which Haskell is heavily influenced by
-	- Have more questions than answers for this atm, would love to hear some ideas!
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)

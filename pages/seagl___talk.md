@@ -45,11 +45,11 @@
 	- Machine language is effectively the CPU
 	- ![cpu electron microscope.png](../assets/cpu_electron_microscope_1698759093211_0.png){:height 471, :width 614}
 	- Hardware is hard to play with (pun not intended)
-	- ![ben eater fig2.webp](../assets/ben_eater_fig2_1698810224274_0.webp)
+	- ![ben eater fig2.webp](../assets/ben_eater_fig2_1698810224274_0.webp){:height 447, :width 671}
 	- We need something we can rearrange more easily
-	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png)
+	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png){:height 387, :width 524}
 	- Cool if you want raw performance
-	- ![Screenshot 2023-10-31 at 6.35.03 AM.png](../assets/Screenshot_2023-10-31_at_6.35.03 AM_1698759305389_0.png){:height 325, :width 553}
+	- ![Screenshot 2023-10-31 at 6.35.03 AM.png](../assets/Screenshot_2023-10-31_at_6.35.03 AM_1698759305389_0.png){:height 425, :width 657}
 	- Gets complicated pretty quickly
 	- ![Oddball X86 Instructions.webp](../assets/Oddball_X86_Instructions_1698759428248_0.webp){:height 336, :width 508}
 	- What about programming languages?
@@ -176,16 +176,17 @@
 	- LLM feedback??!!
 	- Share your code with others
 - Parting words of wisdom
-	- Plumbers get paid a lot because pipes don't fit together easily
-	- If you want to keep getting paid a lot to be a data plumber, continue connecting pipes
+	- Plumbers get paid a lot because pipes don't fit together easily.
+	- If you want to be a data plumber, continue connecting pipes.
 	- If you want to build LEGOs for code;
 	- Write a library
 	- Write a framework
 	- Write a language
 	- Build the LEGOs that the next generation of developers will build with.
-	- If you haven't played with LEGOs, buy a set of LEGOs. It is so nice to have things that fit together so nicely.
+	- If you haven't played with LEGOs, buy a set of LEGOs.
 	- Chase that feeling with the work that you do.
 	- We know good things when we see them.
+	- History is great at showing us what things that "feel good" look like
 	- I miss the Living Computer Museum
 	- ![LCM Interactive.jpg](../assets/LCM_Interactive_1698824093607_0.jpg)
 	- Go, go, go to the Connections Museum

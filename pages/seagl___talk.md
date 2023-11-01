@@ -27,10 +27,12 @@
 	- I did not like Mega Blocks
 	- ![Mega Bloks Construction Set + 3 Extra Figures #9134 Vintage 1999 - NEW  65541091344 | eBay](https://i.ebayimg.com/images/g/h1oAAOSwjxZgbIqL/s-l1200.webp){:height 540, :width 572}
 	- The "cheap" option
-	- LEGOs are high quality plastic, that costs $$$
+	- You can feel it when you hold them.
+	- When you play with them.
 	- Kids can tell the difference
-	- > The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
-	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 266, :width 458}
+	- The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
+	- ![Lego injection moulding.webp](../assets/Lego_injection_moulding_1698809946278_0.webp)
+	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 403, :width 713}
 - What about code?
 	- We don't drive cars made of LEGOs
 	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 346, :width 492}

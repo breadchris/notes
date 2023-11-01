@@ -123,24 +123,24 @@
 	- Protobuf has type compilers for most major languages.
 	- ![protocol-buffers.png](../assets/protocol-buffers_1698825494335_0.png)
 - Transforming Types
-	-
+	- After understanding what type of data is available, we need to "connect" it to other systems.
+	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)
 	- Workflows are the back bone behind any company.
 	- !['bpmn-js.gif' -> 'BPMN JS.gif](../assets/'bpmn-js.gif'_->_'BPMN_JS_1698812675836_0.gif)
-	- Workflows are typically only reserved for large enterprises to schlep around invoices or work status on plane engine parts.
+	- Typically, workflows are for schlepping around invoices or track status on plane engine parts.
 	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
-	- A lot of code ends up being a workflow management system
-	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
+	- A lot of code ends up being a workflow management system.
+	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world.
 	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
-	- Temporal hardened Go's concurrency model to be able to scale effortlessly and reliably
-	- But the workflows are expressed in code
+	- But the workflows are expressed in code.
 	- ![Screenshot 2023-11-01 at 12.29.44 AM.png](../assets/Screenshot_2023-11-01_at_12.29.44 AM_1698823793498_0.png){:height 389, :width 651}
-	- We communicate with whiteboard diagrams
-	- Physical arrows to show how data flows through the system
+	- We communicate with whiteboard diagrams.
+	- Physical arrows to show how data flows through the system.
 	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 537, :width 682}
 	- How do we model that with a computer?
-	- A lot of enterprise software is built with BPMN
+	- A lot of enterprise software is built with BPMN.
 	- ![Screenshot 2023-11-01 at 12.31.01 AM.png](../assets/Screenshot_2023-11-01_at_12.31.01 AM_1698823869272_0.png)
-	- But it isn't that fun...because...enterprise
+	- But it isn't that fun...because...enterprise.
 	- Can there be something simpler, but still complete?
 	- Category Theory? (Haskell is influenced a lot by this)
 	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
@@ -150,13 +150,13 @@
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
 	- Wrong abstraction
 	- ![Google AWS.png](../assets/Google_AWS_1698812358104_0.png)
-	- But it started to feel like freakin LEGOs!
+	- But it started to feel like freakin' LEGOs!
 	- You could:
 	- Write (almost) any code, any language
 	- Scale (Lambda)
 	- Share blocks of code for others to use
 	- pub/sub, database, storage
-	- Protoflow is the continued effort
+	- Protoflow is the continued effort.
 	- It runs on your computer
 	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
 	- Every code block is strongly typed

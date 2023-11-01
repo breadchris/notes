@@ -98,17 +98,20 @@
 	- These are usually 3rd party libraries you need to "be in the know" about for your language.
 	- The type system is meticulously simple.
 	- ![golang types.png](../assets/golang_types_1698812254410_0.png)
-	- LEGOs have simple, rigid plastic connectors
-	- you have to play by LEGO's infallible rules in order to compose them together to build something
-	- I am not trying to convince you to use Go
+	- I am not trying to convince you to use Go.
+	- Go has just taught me a lot about what good code should _feel_ like.
+	- LEGOs have simple, rigid plastic connectors.
+	- You have to play by LEGO's infallible rules in order to compose them together to build something
 	- Consider the language/s you use daily, weekly, monthly, do they feel fun to play with?
 	- When are they frustrating?
 - Types are the foundation
-	- Types are a way to communicate intent
-	- A programmer defines their intent to the computer, the compiler/runtime holds them to that
-	- Types instruct others who want to play with the code, how to go about it
-	- If types are too simple, they don't convey enough
-	- if they are too complicated, they become incomprehensible
+	- Types are a way to communicate intent.
+	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.
+	- Types help others who want to play with the code. (including your future self)
+	- If types are too simple, they don't convey enough.
+	-
+	- if they are too complicated, they become incomprehensible.
+	- ![Screenshot 2023-11-01 at 12.55.20 AM.png](../assets/Screenshot_2023-11-01_at_12.55.20 AM_1698825327670_0.png)
 	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
 	- Protobuf is type system that has been refined over the past couple of decades at large tech companies.
 	- GRPC, an extension of Protobuf, defines methods and their IO

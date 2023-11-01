@@ -63,10 +63,11 @@
 	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png){:height 407, :width 446}
 	- What if the language changed over time?
 	- ![Screenshot 2023-10-31 at 6.44.34 AM.png](../assets/Screenshot_2023-10-31_at_6.44.34 AM_1698759877890_0.png){:height 411, :width 458}
-	- At some point you have to commit to a schematic of a design for a *network effect*
+	- At some point you have to commit to a schematic of a design for a *network effect*.
 	- Where can we look to for guidance?
-	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg)
-	- ![History of Unix and Linux: From PDP-7 to Modern Operating Systems | by  Shreyas Matade | Medium](https://miro.medium.com/v2/resize:fit:1358/1*rJXvgqCWN2Hp-hNqbAA58w.png){:height 286, :width 371}
+	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg){:height 358, :width 562}
+	- ![Unix timeline.png](../assets/Unix_timeline_1698810818463_0.png)
+	-
 	- Unix Design philosophy
 	- Write programs that do one thing and do it well.
 	- Write programs to work together.

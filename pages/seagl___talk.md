@@ -66,8 +66,7 @@
 	- At some point you have to commit to a schematic of a design for a *network effect*.
 	- Where can we look to for guidance?
 	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg){:height 358, :width 562}
-	- ![Unix timeline.png](../assets/Unix_timeline_1698810818463_0.png)
-	-
+	- ![Unix timeline.png](../assets/Unix_timeline_1698811128829_0.png)
 	- Unix Design philosophy
 	- Write programs that do one thing and do it well.
 	- Write programs to work together.

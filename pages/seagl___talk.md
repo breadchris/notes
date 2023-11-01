@@ -109,19 +109,21 @@
 	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.
 	- Types help others who want to play with the code. (including your future self)
 	- If types are too simple, they don't convey enough.
-	-
+	- ![lisp parentheses hell xkcd.webp](../assets/lisp_parentheses_hell_xkcd_1698825427332_0.webp)
 	- if they are too complicated, they become incomprehensible.
 	- ![Screenshot 2023-11-01 at 12.55.20 AM.png](../assets/Screenshot_2023-11-01_at_12.55.20 AM_1698825327670_0.png)
 	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
 	- Protobuf is type system that has been refined over the past couple of decades at large tech companies.
-	- GRPC, an extension of Protobuf, defines methods and their IO
 	- You can build the frontend while I build the backend.
+	- ![Screenshot 2023-11-01 at 1.00.20 AM.png](../assets/Screenshot_2023-11-01_at_1.00.20 AM_1698825636295_0.png)
 	- I don't even need my code to be fully written!
 	- GRPC is a life saver with thousands of microservices.
 	- ![unnamed 14.png](../assets/unnamed_14_1698812517626_0.png)
-	- It is not enough to just see and understand the types, you also need to use them
+	- It is not enough to just see and understand the types, you also need to use them.
 	- Protobuf has type compilers for most major languages.
+	- ![protocol-buffers.png](../assets/protocol-buffers_1698825494335_0.png)
 - Transforming Types
+	-
 	- Workflows are the back bone behind any company.
 	- !['bpmn-js.gif' -> 'BPMN JS.gif](../assets/'bpmn-js.gif'_->_'BPMN_JS_1698812675836_0.gif)
 	- Workflows are typically only reserved for large enterprises to schlep around invoices or work status on plane engine parts.

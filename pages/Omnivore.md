@@ -3,6 +3,7 @@
 	  collapsed:: true
 	  site:: [antonz.org](https://antonz.org/sqlite-3-44)
 	  author:: Anton Zhiyanov
+	  labels:: [[programming]][[learning]]
 	  date-saved:: [[Nov 1st, 2023]]
 	- [Ensō: write now, edit later | Hacker News](https://omnivore.app/me/enso-write-now-edit-later-hacker-news-18b76cec178)
 	  collapsed:: true
@@ -28,7 +29,7 @@
 	  collapsed:: true
 	  site:: [recursivedrawing.com](http://recursivedrawing.com)
 	  labels:: [[programming]][[art]]
-	  date-saved:: [[Oct 31st, 2023]]
+	  date-saved:: [[Nov 1st, 2023]]
 	- [Konnakkol](https://omnivore.app/me/konnakkol-18b857a9761)
 	  collapsed:: true
 	  site:: [arthurcarabott.com](https://www.arthurcarabott.com/konnakkol)

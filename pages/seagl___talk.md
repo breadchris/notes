@@ -22,13 +22,12 @@
 	- It was always fun
 	- ![Dropped my UCS Falcon today trying to put it on its display. : r/lego](https://i.redd.it/nox26agr0p871.jpg)
 	- I got confidence to venture from set instructions
-	- ![39848 Facebook.jpg](../assets/39848_Facebook_1698724914046_0.jpg){:height 424, :width 658}
+	- ![39848 Facebook.jpg](../assets/39848_Facebook_1698724914046_0.jpg){:height 463, :width 689}
 	- I loved LEGO
 	- I did not like Mega Blocks
-	- ![Mega Bloks Construction Set + 3 Extra Figures #9134 Vintage 1999 - NEW  65541091344 | eBay](https://i.ebayimg.com/images/g/h1oAAOSwjxZgbIqL/s-l1200.webp){:height 403, :width 245}
-	-
+	- ![Mega Bloks Construction Set + 3 Extra Figures #9134 Vintage 1999 - NEW  65541091344 | eBay](https://i.ebayimg.com/images/g/h1oAAOSwjxZgbIqL/s-l1200.webp){:height 540, :width 572}
+	- The "cheap" option
 	- LEGOs are high quality plastic, that costs $$$
-	- Competitors are the "cheap" option
 	- Kids can tell the difference
 	- > The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
 	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 266, :width 458}

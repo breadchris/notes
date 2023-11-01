@@ -109,7 +109,7 @@
 	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.
 	- Types help others who want to play with the code. (including your future self)
 	- If types are too simple, they don't convey enough.
-	- ![lisp parentheses hell xkcd.webp](../assets/lisp_parentheses_hell_xkcd_1698825427332_0.webp)
+	-
 	- if they are too complicated, they become incomprehensible.
 	- ![Screenshot 2023-11-01 at 12.55.20 AM.png](../assets/Screenshot_2023-11-01_at_12.55.20 AM_1698825327670_0.png)
 	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)

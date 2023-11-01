@@ -176,16 +176,20 @@
 	- LLM feedback??!!
 	- Share your code with others
 - Parting words of wisdom
+	- Plumbers get paid a lot because pipes don't fit together easily
+	- If you want to keep getting paid a lot to be a data plumber, continue connecting pipes
+	- If you want to build LEGOs for code;
+	- Write a library
+	- Write a framework
+	- Write a language
+	- Build the LEGOs that the next generation of developers will build with.
+	- If you haven't played with LEGOs, buy a set of LEGOs. It is so nice to have things that fit together so nicely.
+	- Chase that feeling with the work that you do.
+	- We know good things when we see them.
 	- I miss the Living Computer Museum
 	- ![LCM Interactive.jpg](../assets/LCM_Interactive_1698824093607_0.jpg)
 	- Go, go, go to the Connections Museum
 	- ![The Connections Museum Seattle.jpg](../assets/The_Connections_Museum_Seattle_1698824128845_0.jpg){:height 505, :width 748}
-	- Plumbers get paid a lot because pipes don't fit together easily
-	- If you want to keep getting paid a lot to be a data plumber, perpetuate the system.
-	- The best coders have made things fit together so many times that they make a framework to not have to keep making things go together themselves, the code makes it happen.
-	- If you haven't played with LEGOs, buy a set of LEGOs. It is so nice to have things that fit together so nicely.
-	- Chase that feeling with the work that you do.
-	- Build the LEGOs that the next generation of developers will build with.
 - Thank you!
 - I have some more stuff after this, for the curious
 - ![QR Code.png](../assets/QR_Code_1698812901097_0.png)

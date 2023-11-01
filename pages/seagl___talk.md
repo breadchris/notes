@@ -127,11 +127,14 @@
 	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
 	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
 	- Temporal hardened Go's concurrency model to be able to scale effortlessly and reliably
-	- We want to whiteboard workflows, draw physical arrows to show how data flows through the system
-	- How do we even express a workflow generically?
+	- We communicate with whiteboard diagrams
+	- Physical arrows to show how data flows through the system
+	-
+	- How do we model that with a computer?
 	- A lot of enterprise software is built with BPMN, kind of a grind to learn and use
-	- Can there be something simpler?
-	- There is a whole field of mathmatical study called Category Theory, which Haskell is heavily influenced by
+	- Can there be something simpler, but still complete?
+	- Category Theory? (Haskell is influenced a lot by this)
+	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
 	-
 - Protoflow
 	- I tried to build this once

@@ -50,20 +50,20 @@
 	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png)
 	- Cool if you want raw performance
 	- ![Screenshot 2023-10-31 at 6.35.03 AM.png](../assets/Screenshot_2023-10-31_at_6.35.03 AM_1698759305389_0.png){:height 325, :width 553}
-	- Not so simple
+	- Gets complicated pretty quickly
 	- ![Oddball X86 Instructions.webp](../assets/Oddball_X86_Instructions_1698759428248_0.webp){:height 336, :width 508}
 	- What about programming languages?
-	- Different tools for different jobs
-	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 263, :width 346}
+	- "Different tools for different jobs"
+	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 326, :width 575}
 	- Can't we just have one language?
 	- Maybe brainwashing will work
-	- ![Screenshot 2023-10-31 at 6.42.50 AM.png](../assets/Screenshot_2023-10-31_at_6.42.50 AM_1698759773503_0.png){:height 328, :width 346}
-	- ![Rust poster.png](../assets/Rust_poster_1698759520735_0.png){:height 389, :width 212}
+	- ![Screenshot 2023-10-31 at 6.42.50 AM.png](../assets/Screenshot_2023-10-31_at_6.42.50 AM_1698759773503_0.png){:height 371, :width 682}
+	- ![Rust poster.png](../assets/Rust_poster_1698759520735_0.png){:height 416, :width 590}
 	- What if we make a mistake with the syntax?
 	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png){:height 407, :width 446}
-	-
 	- What if the language changed over time?
 	- ![Screenshot 2023-10-31 at 6.44.34 AM.png](../assets/Screenshot_2023-10-31_at_6.44.34 AM_1698759877890_0.png){:height 411, :width 458}
+	- At some point you have to commit to a schematic of a design for a *network effect*
 	- Where can we look to for guidance?
 	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg)
 	- ![History of Unix and Linux: From PDP-7 to Modern Operating Systems | by  Shreyas Matade | Medium](https://miro.medium.com/v2/resize:fit:1358/1*rJXvgqCWN2Hp-hNqbAA58w.png){:height 286, :width 371}

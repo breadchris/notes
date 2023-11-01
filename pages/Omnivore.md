@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [SQLite 3.44: Interactive release notes](https://omnivore.app/me/sq-lite-3-44-interactive-release-notes-18b89edaaf5)
+	  collapsed:: true
+	  site:: [antonz.org](https://antonz.org/sqlite-3-44)
+	  author:: Anton Zhiyanov
+	  date-saved:: [[Nov 1st, 2023]]
 	- [Ensō: write now, edit later | Hacker News](https://omnivore.app/me/enso-write-now-edit-later-hacker-news-18b76cec178)
 	  collapsed:: true
 	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=38025073)

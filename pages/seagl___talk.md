@@ -1,6 +1,10 @@
+- How do you build LEGOs for code?
+  
+  breadchris
+- I want coding to feel more fun.
+- Like snapping LEGOs together.
 - You want to code with LEGOs, not Mega Blocks
-- We tend to have pretty good judgement, even as kids, what toys are better than others
-- I want coding to feel more fun, like I am snapping LEGOs together.
+-
 - Legos
 	- "Automatic Binding Bricks"
 	- The first LEGO set I ever had came from Mcdonalds

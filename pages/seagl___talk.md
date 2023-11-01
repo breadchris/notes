@@ -159,25 +159,24 @@
 	- Protoflow is the continued effort.
 	- It runs on your computer
 	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
-	- Every code block is strongly typed
+	- Every code block is strongly typed.
 	- ![Screenshot 2023-10-31 at 7.18.21 AM.png](../assets/Screenshot_2023-10-31_at_7.18.21 AM_1698761904976_0.png)
-	- And it can run itself
+	- And it can run itself.
 	- ![Screenshot 2023-10-31 at 7.19.31 AM.png](../assets/Screenshot_2023-10-31_at_7.19.31 AM_1698761974050_0.png){:height 448, :width 450}
-	- Chain things together to make cool things
+	- Chain things together to make cool things.
 	- ![Screenshot 2023-10-31 at 7.21.38 AM.png](../assets/Screenshot_2023-10-31_at_7.21.38 AM_1698762124939_0.png){:height 585, :width 179}
 	- Maybe one day you could build entire web apps?
 	- ![Screenshot 2023-10-31 at 7.22.38 AM.png](../assets/Screenshot_2023-10-31_at_7.22.38 AM_1698762175345_0.png){:height 626, :width 243}
-	- Soapbox
-	- Protobuf and Temporal solved big problems for big companies
-	- Smaller teams and projects need tools to scale
-	- I want to give everyone a senior developer's brain
-	- Simple service templates with batteries included
+	- Protobuf and Temporal solved big problems for big companies.
+	- Smaller teams and projects need tools to scale.
+	- I want to give everyone a senior developer's brain.
+	- Simple service templates with batteries included.
 	- What if you had a library/service that let you build strongly-typed services, connected to each other with a durable workflow manager?
 	- Auto-generated client code, with types!
-	- Control the flow of data through out the system
-		- Save data and replay it for testing
-		- Trace data in production, replay it locally
-		- Free metrics
+	- Control the flow of data through out the system.
+		- Save data and replay it for testing.
+		- Trace data in production, replay it locally.
+		- Free metrics.
 	- LLM feedback??!!
 	- Share your code with others
 - Parting words of wisdom
@@ -188,16 +187,16 @@
 	- Write a framework
 	- Write a language
 	- Build the LEGOs that the next generation of developers will build with.
-	- If you haven't played with LEGOs, buy a set of LEGOs.
+	- Play with LEGOs.
 	- Chase that feeling with the work that you do.
 	- We know good things when we see them.
-	- History is great at showing us what things that "feel good" look like
+	- History is great at showing us what things that "feel good" look like.
 	- I miss the Living Computer Museum
 	- ![LCM Interactive.jpg](../assets/LCM_Interactive_1698824093607_0.jpg)
 	- Go, go, go to the Connections Museum
 	- ![The Connections Museum Seattle.jpg](../assets/The_Connections_Museum_Seattle_1698824128845_0.jpg){:height 505, :width 748}
 - Thank you!
-- I have some more stuff after this, for the curious
+- I have some more stuff after this, for the curious.
 - ![QR Code.png](../assets/QR_Code_1698812901097_0.png)
 - What am I going to do about it?
   collapsed:: true

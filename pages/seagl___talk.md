@@ -142,10 +142,10 @@
 	- ![Screenshot 2023-11-01 at 12.31.01 AM.png](../assets/Screenshot_2023-11-01_at_12.31.01 AM_1698823869272_0.png)
 	- But it isn't that fun...because...enterprise.
 	- Can there be something simpler, but still complete?
+	- Reactive programming is pretty cool
+	- ![Screenshot 2023-11-01 at 8.04.29 AM.png](../assets/Screenshot_2023-11-01_at_8.04.29 AM_1698851094602_0.png)
 	- Category Theory? (Haskell is influenced a lot by this)
 	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
-	- Functional programming has some cool ideas
-	-
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)

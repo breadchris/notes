@@ -123,15 +123,16 @@
 	- !['bpmn-js.gif' -> 'BPMN JS.gif](../assets/'bpmn-js.gif'_->_'BPMN_JS_1698812675836_0.gif)
 	- Workflows are typically only reserved for large enterprises to schlep around invoices or work status on plane engine parts.
 	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
-	- In reality, almost all of us are constantly building workflow management systems
+	- A lot of code ends up being a workflow management system
 	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world
 	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
-	- Temporal hardened Go's concurrency primitives to be able to scale effortlessly and reliably
+	- Temporal hardened Go's concurrency model to be able to scale effortlessly and reliably
 	- We want to whiteboard workflows, draw physical arrows to show how data flows through the system
 	- How do we even express a workflow generically?
 	- A lot of enterprise software is built with BPMN, kind of a grind to learn and use
 	- Can there be something simpler?
 	- There is a whole field of mathmatical study called Category Theory, which Haskell is heavily influenced by
+	-
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)

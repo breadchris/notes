@@ -134,7 +134,7 @@
 	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 537, :width 682}
 	- How do we model that with a computer?
 	- A lot of enterprise software is built with BPMN
-	-
+	- ![Screenshot 2023-11-01 at 12.31.01 AM.png](../assets/Screenshot_2023-11-01_at_12.31.01 AM_1698823869272_0.png)
 	- But it isn't that fun...because...enterprise
 	- Can there be something simpler, but still complete?
 	- Category Theory? (Haskell is influenced a lot by this)
@@ -146,8 +146,8 @@
 	- Wrong abstraction
 	- ![Google AWS.png](../assets/Google_AWS_1698812358104_0.png)
 	- But it started to feel like freakin LEGOs!
-	- You could
-	- Any code, any language
+	- You could:
+	- Write (almost) any code, any language
 	- Scale (Lambda)
 	- Share blocks of code for others to use
 	- pub/sub, database, storage
@@ -177,8 +177,10 @@
 	- Share your code with others
 - Parting words of wisdom
 	- I miss the Living Computer Museum
+	- ![LCM Interactive.jpg](../assets/LCM_Interactive_1698824093607_0.jpg)
 	- Go, go, go to the Connections Museum
-	- Plumbers get paid a lot because pipes dont fit together easily https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/
+	- ![The Connections Museum Seattle.jpg](../assets/The_Connections_Museum_Seattle_1698824128845_0.jpg){:height 505, :width 748}
+	- Plumbers get paid a lot because pipes don't fit together easily
 	- If you want to keep getting paid a lot to be a data plumber, perpetuate the system.
 	- The best coders have made things fit together so many times that they make a framework to not have to keep making things go together themselves, the code makes it happen.
 	- If you haven't played with LEGOs, buy a set of LEGOs. It is so nice to have things that fit together so nicely.
@@ -232,3 +234,4 @@
 - References
 	- https://slideplayer.com/slide/17621474/
 	- {{video https://www.youtube.com/watch?v=NVuTBL09Dn4}}
+	- https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/

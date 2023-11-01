@@ -144,6 +144,7 @@
 	- Can there be something simpler, but still complete?
 	- Category Theory? (Haskell is influenced a lot by this)
 	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
+	- Functional programming has some cool ideas
 	-
 - Protoflow
 	- I tried to build this once

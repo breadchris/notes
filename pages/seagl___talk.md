@@ -78,8 +78,10 @@
 	- Anticipate our needs.
 	- ![Screenshot 2023-10-31 at 9.06.35 PM.png](../assets/Screenshot_2023-10-31_at_9.06.35 PM_1698811599184_0.png)
 	- ![Screenshot 2023-10-31 at 9.04.05 PM.png](../assets/Screenshot_2023-10-31_at_9.04.05 PM_1698811454043_0.png)
-	- Linter rules and compiler checks
+	- Linter rules and compiler checks guide us
+	- ![PEP8 ProgrammerHumor.webp](../assets/PEP8_ProgrammerHumor_1698811887069_0.webp)
 	- What if a language was so simple that there are not that many pitfalls to begin with?
+	-
 	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems
 	- The language prioritized simplicity above all else which has led to a lot of interesting effects
 	- You can _always_ see the underlying code because all modules are just git repos

@@ -165,29 +165,29 @@
 	- TODO map, reduce, filter
 	- Category Theory? (Haskell is influenced a lot by this)
 	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
-	- It is math.
+	- It is math. Cool ideas to mine from this.
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
-	- Wrong abstraction
-	- ![Google AWS.png](../assets/Google_AWS_1698812358104_0.png)
+	- Wrong abstraction.
+	- ![Google AWS.png](../assets/Google_AWS_1698812358104_0.png){:height 320, :width 530}
 	- But it started to feel like freakin' LEGOs!
 	- You could:
 	- Write (almost) any code, any language
 	- Scale (Lambda)
-	- Share blocks of code for others to use
+	- Share blocks of code for others to use.
 	- pub/sub, database, storage
 	- Protoflow is the continued effort.
-	- It runs on your computer
-	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 460, :width 631}
+	- It runs on _your_ computer.
+	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 539, :width 759}
 	- Every code block is strongly typed.
 	- ![Screenshot 2023-10-31 at 7.18.21 AM.png](../assets/Screenshot_2023-10-31_at_7.18.21 AM_1698761904976_0.png)
 	- And it can run itself.
 	- ![Screenshot 2023-10-31 at 7.19.31 AM.png](../assets/Screenshot_2023-10-31_at_7.19.31 AM_1698761974050_0.png){:height 448, :width 450}
 	- Chain things together to make cool things.
-	- ![Screenshot 2023-10-31 at 7.21.38 AM.png](../assets/Screenshot_2023-10-31_at_7.21.38 AM_1698762124939_0.png){:height 585, :width 179}
+	- ![Screenshot 2023-10-31 at 7.21.38 AM.png](../assets/Screenshot_2023-10-31_at_7.21.38 AM_1698762124939_0.png){:height 449, :width 341}
 	- Maybe one day you could build entire web apps?
-	- ![Screenshot 2023-10-31 at 7.22.38 AM.png](../assets/Screenshot_2023-10-31_at_7.22.38 AM_1698762175345_0.png){:height 626, :width 243}
+	- ![Screenshot 2023-10-31 at 7.22.38 AM.png](../assets/Screenshot_2023-10-31_at_7.22.38 AM_1698762175345_0.png){:height 432, :width 353}
 	- Protobuf and Temporal solved big problems for big companies.
 	- Smaller teams and projects need tools to scale.
 	- I want to give everyone a senior developer's brain.

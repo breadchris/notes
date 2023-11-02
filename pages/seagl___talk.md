@@ -193,21 +193,16 @@
 	- Smaller teams and projects need tools to scale.
 	- I want to give everyone a senior developer's brain.
 	- Simple service templates with batteries included.
-	- What if you had a library/service that let you build strongly-typed services, connected to each other with a durable workflow manager?
-	- Auto-generated client code, with types!
-	- Control the flow of data through out the system.
-		- Save data and replay it for testing.
-		- Trace data in production, replay it locally.
-		- Free metrics.
-	- LLM feedback??!!
+	- LLM generator! feedback?
+	- TODO protobuf to code chatgpt
 	- Share your code with others
 - Parting words of wisdom
 	- Plumbers get paid a lot because pipes don't fit together easily.
 	- If you want to be a data plumber, continue connecting pipes.
 	- If you want to build LEGOs for code;
-	- Write a library
-	- Write a framework
-	- Write a language
+	- Write a library.
+	- Write a framework.
+	- Write a language.
 	- Build the LEGOs that the next generation of developers will build with.
 	- Play with LEGOs.
 	- Chase that feeling with the work that you do.

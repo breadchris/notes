@@ -112,11 +112,12 @@
 	  var noProbsHere *string
 	  thisIsTotallyOK := *noProbsHere
 	  ```
-	- Go has just taught me a lot about what matters code should _feel_ like.
+	- Being so simple, Go draws your attention to the bigger picture.
 	- LEGOs have simple, rigid plastic connectors.
-	- You have to play by LEGO's infallible rules in order to compose them together to build something
-	- Consider the language/s you use daily, weekly, monthly, do they feel fun to play with?
-	- When are they frustrating?
+	- You have to play by LEGO's infallible rules in order to compose them together to build something.
+	- Consider the language/s you use daily, weekly, monthly.
+	- When do you feel the satisfying "snap" of code coming together?
+	- What causes
 - Types are the foundation
 	- Types are a way to communicate intent.
 	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.

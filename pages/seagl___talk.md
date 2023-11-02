@@ -129,13 +129,17 @@
 	- If languages have different type systems, how can they talk to each other?
 	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
 	- Simple, but expressive.
-	- ![Screenshot 2023-11-01 at 1.00.20 AM.png](../assets/Screenshot_2023-11-01_at_1.00.20 AM_1698825636295_0.png)
 	- A life saver when you have thousands of programs talking to each other.
 	- ![unnamed 14.png](../assets/unnamed_14_1698812517626_0.png){:height 584, :width 687}
-	- It is not enough to just see and understand the types, you also need to use them.
+	- ![Screenshot 2023-11-01 at 1.00.20 AM.png](../assets/Screenshot_2023-11-01_at_1.00.20 AM_1698825636295_0.png)
 	- Protobuf has type compilers for most major languages.
 	- ![protocol-buffers.png](../assets/protocol-buffers_1698825494335_0.png)
 	- You can build the frontend while I build the backend.
+	- You don't even need my code to be fully written!
+	- There are other things that solve a similar problem
+	- JSON Schema, Swagger, OpenAPI
+	- They are Mega Blocks, unfortunately
+	-
 - Transforming Types
 	- After understanding what type of data is available, we need to "connect" it to other systems.
 	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)

@@ -117,15 +117,16 @@
 	- You have to play by LEGO's infallible rules in order to compose them together to build something.
 	- Consider the language/s you use daily, weekly, monthly.
 	- When do you feel the satisfying "snap" of code coming together?
-	- What causes
+	- How often do you want to sell your soul to Satan to fix a bug?
 - Types are the foundation
 	- Types are a way to communicate intent.
 	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.
-	- Types help others who want to play with the code. (including your future self)
+	- Types also help others who want to play with the code. (including your future self)
 	- If types are too simple, they don't convey enough.
 	-
 	- if they are too complicated, they become incomprehensible.
 	- ![Screenshot 2023-11-01 at 12.55.20 AM.png](../assets/Screenshot_2023-11-01_at_12.55.20 AM_1698825327670_0.png)
+	- How do different processes
 	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
 	- Protobuf is type system that has been refined over the past couple of decades at large tech companies.
 	- You can build the frontend while I build the backend.

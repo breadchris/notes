@@ -137,14 +137,15 @@
 	- You can build the frontend while I build the backend.
 	- You don't even need my code to be fully written!
 	- There are other things that solve a similar problem
-	- JSON Schema, Swagger, OpenAPI
-	- They are Mega Blocks, unfortunately
-	-
+	- JSON Schema, Swagger, OpenAPI, GraphQL codegen... XML
+	- They are Mega Blocks, unfortunately.
+	- TODO JSON Schema example
+	- TODO GraphQL example
 - Transforming Types
 	- After understanding what type of data is available, we need to "connect" it to other systems.
 	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)
 	- Workflows are the back bone behind any company.
-	- !['bpmn-js.gif' -> 'BPMN JS.gif](../assets/'bpmn-js.gif'_->_'BPMN_JS_1698812675836_0.gif)
+	- TODO whi
 	- Typically, workflows are for schlepping around invoices or track status on plane engine parts.
 	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
 	- A lot of code ends up being a workflow management system.

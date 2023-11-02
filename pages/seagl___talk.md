@@ -41,30 +41,30 @@
 	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 368, :width 682}
 	- What are the LEGO bricks of a computer?
 	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 397, :width 655}
-	- Machine language is effectively the CPU
+	- Machine language is effectively the CPU.
 	- ![cpu electron microscope.png](../assets/cpu_electron_microscope_1698759093211_0.png){:height 471, :width 614}
 	- Hardware is hard to play with (pun not intended)
 	- ![ben eater fig2.webp](../assets/ben_eater_fig2_1698810224274_0.webp){:height 447, :width 671}
-	- We need something we can rearrange more easily
+	- We needed something we can rearrange more easily.
 	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png){:height 387, :width 524}
-	- Cool if you want raw performance
+	- Cool if you want raw performance.
 	- ![Giphy (1)..gif](../assets/Giphy_(1)._1698824769076_0.gif)
-	- Gets complicated pretty quickly
-	- ![Oddball X86 Instructions.webp](../assets/Oddball_X86_Instructions_1698759428248_0.webp){:height 336, :width 508}
+	- Gets complicated pretty quickly.
+	- ![Oddball X86 Instructions.webp](../assets/Oddball_X86_Instructions_1698759428248_0.webp){:height 501, :width 718}
 	- What about programming languages?
 	- "Different tools for different jobs"
-	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 326, :width 575}
+	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 499, :width 718}
 	- Can't we just have one language?
-	- Maybe brainwashing will work
+	- Maybe brainwashing will work.
 	- ![Screenshot 2023-10-31 at 6.42.50 AM.png](../assets/Screenshot_2023-10-31_at_6.42.50 AM_1698759773503_0.png){:height 371, :width 682}
 	- ![Rust poster.png](../assets/Rust_poster_1698759520735_0.png){:height 661, :width 393}
-	- What if we make a mistake with the syntax?
+	- What if we make a mistake with the semantics?
 	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png){:height 436, :width 642}
 	- What if the language changed over time?
 	- ![Screenshot 2023-10-31 at 6.44.34 AM.png](../assets/Screenshot_2023-10-31_at_6.44.34 AM_1698759877890_0.png){:height 397, :width 605}
 	- At some point you have to commit to a blueprint of a design for a *network effect*.
 	- Where can we look to for guidance?
-	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg){:height 358, :width 562}
+	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg){:height 470, :width 718}
 	- ![Unix timeline.png](../assets/Unix_timeline_1698811128829_0.png)
 	- Unix Design philosophy
 	- Write programs that do one thing and do it well.
@@ -77,8 +77,6 @@
 	- Anticipate our needs.
 	- ![Screenshot 2023-10-31 at 9.06.35 PM.png](../assets/Screenshot_2023-10-31_at_9.06.35 PM_1698811599184_0.png)
 	- ![Screenshot 2023-10-31 at 9.04.05 PM.png](../assets/Screenshot_2023-10-31_at_9.04.05 PM_1698811454043_0.png)
-	- Linter rules and compiler checks guide us.
-	- ![PEP8 ProgrammerHumor.webp](../assets/PEP8_ProgrammerHumor_1698811887069_0.webp)
 	- What if a language was so simple that there are not that many pitfalls to begin with?
 	- ![Image 8-2.webp](../assets/Image_8-2_1698812064259_0.webp)
 	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems.

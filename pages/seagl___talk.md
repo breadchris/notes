@@ -126,17 +126,16 @@
 	-
 	- if they are too complicated, they become incomprehensible.
 	- ![Screenshot 2023-11-01 at 12.55.20 AM.png](../assets/Screenshot_2023-11-01_at_12.55.20 AM_1698825327670_0.png)
-	- How do different processes
+	- If languages have different type systems, how can they talk to each other?
 	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
-	- Protobuf is type system that has been refined over the past couple of decades at large tech companies.
-	- You can build the frontend while I build the backend.
+	- Simple, but expressive.
 	- ![Screenshot 2023-11-01 at 1.00.20 AM.png](../assets/Screenshot_2023-11-01_at_1.00.20 AM_1698825636295_0.png)
-	- I don't even need my code to be fully written!
-	- GRPC is a life saver with thousands of microservices.
-	- ![unnamed 14.png](../assets/unnamed_14_1698812517626_0.png)
+	- A life saver when you have thousands of programs talking to each other.
+	- ![unnamed 14.png](../assets/unnamed_14_1698812517626_0.png){:height 584, :width 687}
 	- It is not enough to just see and understand the types, you also need to use them.
 	- Protobuf has type compilers for most major languages.
 	- ![protocol-buffers.png](../assets/protocol-buffers_1698825494335_0.png)
+	- You can build the frontend while I build the backend.
 - Transforming Types
 	- After understanding what type of data is available, we need to "connect" it to other systems.
 	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)

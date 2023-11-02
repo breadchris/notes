@@ -81,7 +81,11 @@
 	- ![Image 8-2.webp](../assets/Image_8-2_1698812064259_0.webp)
 	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems.
 	- The language prioritized simplicity above all else which has led to a lot of interesting effects.
-	- You can _always_ see the underlying code because all modules are just git repos.
+	- Why do we need a package registry?
+	- npm
+	- pypi
+	- conan?
+	- What if modules were just the actual source code?
 	- ![Screenshot 2023-10-31 at 9.15.40 PM.png](../assets/Screenshot_2023-10-31_at_9.15.40 PM_1698812155502_0.png)
 	- Go blog posts teach you a mental framework.
 	- ![Screenshot 2023-10-31 at 9.16.19 PM.png](../assets/Screenshot_2023-10-31_at_9.16.19 PM_1698812190688_0.png){:height 418, :width 702}
@@ -94,7 +98,7 @@
 		- go build
 	- These are usually 3rd party libraries you need to "be in the know" about for your language.
 	- The type system is meticulously simple.
-	- ![golang types.png](../assets/golang_types_1698812254410_0.png)
+	- ![golang types.png](../assets/golang_types_1698812254410_0.png){:height 438, :width 759}
 	- I am not trying to convince you to use Go.
 	- Go has just taught me a lot about what good code should _feel_ like.
 	- LEGOs have simple, rigid plastic connectors.

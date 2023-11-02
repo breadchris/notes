@@ -163,9 +163,10 @@
 	- Reactive programming is pretty cool.
 	- ![Screenshot 2023-11-01 at 8.04.29 AM.png](../assets/Screenshot_2023-11-01_at_8.04.29 AM_1698851094602_0.png)
 	- TODO map, reduce, filter
-	- Category Theory? (Haskell is influenced a lot by this)
-	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
-	- It is math. Cool ideas to mine from this.
+	- You can build it yourself.
+	- A durable queue will get you pretty far: SQS
+	- Be careful when following the white rabbit.
+	- TODO workflow hell?
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
@@ -187,7 +188,7 @@
 	- Chain things together to make cool things.
 	- ![Screenshot 2023-10-31 at 7.21.38 AM.png](../assets/Screenshot_2023-10-31_at_7.21.38 AM_1698762124939_0.png){:height 449, :width 341}
 	- Maybe one day you could build entire web apps?
-	- ![Screenshot 2023-10-31 at 7.22.38 AM.png](../assets/Screenshot_2023-10-31_at_7.22.38 AM_1698762175345_0.png){:height 432, :width 353}
+	- ![Screenshot 2023-10-31 at 7.22.38 AM.png](../assets/Screenshot_2023-10-31_at_7.22.38 AM_1698762175345_0.png){:height 497, :width 426}
 	- Protobuf and Temporal solved big problems for big companies.
 	- Smaller teams and projects need tools to scale.
 	- I want to give everyone a senior developer's brain.

@@ -1,4 +1,4 @@
-- How do you build LEGOs for code?
+- How do you design LEGOs for code?
   
   breadchris
 - I want coding to feel more fun.
@@ -152,19 +152,20 @@
 	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
 	- But the workflows are expressed in code.
 	- ![Screenshot 2023-11-01 at 12.29.44 AM.png](../assets/Screenshot_2023-11-01_at_12.29.44 AM_1698823793498_0.png){:height 457, :width 759}
-	- We communicate with whiteboard diagrams.
+	- We draw workflows on whiteboards.
 	- Physical arrows to show how data flows through the system.
 	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 596, :width 759}
-		-
 	- How do we model that with a computer?
 	- A lot of enterprise software is built with BPMN.
 	- ![Screenshot 2023-11-01 at 12.31.01 AM.png](../assets/Screenshot_2023-11-01_at_12.31.01 AM_1698823869272_0.png)
 	- But it isn't that fun...because...enterprise.
 	- Can there be something simpler, but still complete?
-	- Reactive programming is pretty cool
+	- Reactive programming is pretty cool.
 	- ![Screenshot 2023-11-01 at 8.04.29 AM.png](../assets/Screenshot_2023-11-01_at_8.04.29 AM_1698851094602_0.png)
+	- TODO map, reduce, filter
 	- Category Theory? (Haskell is influenced a lot by this)
 	- ![Category Theory Sets.png](../assets/Category_Theory_Sets_1698823334278_0.png)
+	- It is math.
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)

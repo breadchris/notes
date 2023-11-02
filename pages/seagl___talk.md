@@ -100,7 +100,19 @@
 	- The type system is meticulously simple.
 	- ![golang types.png](../assets/golang_types_1698812254410_0.png){:height 438, :width 759}
 	- I am not trying to convince you to use Go.
-	- Go has just taught me a lot about what good code should _feel_ like.
+	- You might not like its error handling
+	- ```go
+	  err := doSomething()
+	  if err != nil {
+	    return err
+	  }
+	  ```
+	- Or pointers
+	- ```go
+	  var noProbsHere *string
+	  thisIsTotallyOK := *noProbsHere
+	  ```
+	- Go has just taught me a lot about what matters code should _feel_ like.
 	- LEGOs have simple, rigid plastic connectors.
 	- You have to play by LEGO's infallible rules in order to compose them together to build something
 	- Consider the language/s you use daily, weekly, monthly, do they feel fun to play with?

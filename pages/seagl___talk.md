@@ -14,30 +14,29 @@
 	- ![1999 Happy Meal Lego.jpg](../assets/1999_Happy_Meal_Lego_1698724156324_0.jpg){:height 467, :width 641}
 	- I wanted to create cool things.
 	- ![Micro Millennium Falcon - Instructions | Lego star wars mini, Micro lego,  Lego creative](https://i.pinimg.com/736x/bb/30/91/bb3091a0909734aa4557a39fa8bdcac6.jpg){:height 397, :width 650}
-	- I wanted them to be
+	- I wanted to bring my imagination to life.
 	- ![Millennium Falcon™ 7965 - LEGO® Star Wars™ - Building Instructions -  Customer Service - LEGO.com US](https://www.lego.com/cdn/product-assets/product.img.pri/7965-0000-xx-14-1.jpg){:height 437, :width 713}
-	- Each phase built on itself, with the same directions and rules.
 	- Pieces from sets were always accounted for.
 	- They always fit together.
 	- It was always fun.
 	- ![Dropped my UCS Falcon today trying to put it on its display. : r/lego](https://i.redd.it/nox26agr0p871.jpg)
-	- I got confidence to venture from set instructions
+	- I got confidence to venture from the instructions.
 	- ![39848 Facebook.jpg](../assets/39848_Facebook_1698724914046_0.jpg){:height 463, :width 689}
-	- I loved LEGO
-	- I did not like Mega Blocks
+	- I loved LEGO.
+	- I did not like Mega Blocks.
 	- ![Mega Bloks Construction Set + 3 Extra Figures #9134 Vintage 1999 - NEW  65541091344 | eBay](https://i.ebayimg.com/images/g/h1oAAOSwjxZgbIqL/s-l1200.webp){:height 540, :width 572}
-	- The "cheap" option
+	- The "cheap" option.
 	- You can feel it when you hold them.
 	- When you play with them.
-	- Kids can tell the difference
+	- Kids can tell the difference.
 	- The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
 	- ![Lego injection moulding.webp](../assets/Lego_injection_moulding_1698809946278_0.webp)
 	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 403, :width 713}
 - What about code?
-	- We don't drive cars made of LEGOs
+	- We don't drive cars made of LEGOs.
 	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 402, :width 663}
-	- The world runs on computers
-	- and they have changed over the years
+	- The world runs on computers,
+	- and they have changed over the years.
 	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg){:height 404, :width 713}
 	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 368, :width 682}
 	- What are the LEGO bricks of a computer?

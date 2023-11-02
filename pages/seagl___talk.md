@@ -7,7 +7,6 @@
 - Not like playing with Mega Blocks.
 - ![shout-out Mattel quality control MEGA.webp](../assets/shout-out_Mattel_quality_control_MEGA_1698808823781_0.webp)
 - I have been playing with LEGOs for a while...
-  collapsed:: true
 	- The first LEGO set I ever had came from Mcdonalds.
 	- ![1999 Lego McDonald's Toys.jpg](../assets/1999_Lego_McDonald's_Toys_1698723762328_0.jpg)
 	- With a little imagination, they could be anything I wanted.
@@ -34,7 +33,6 @@
 	- ![Lego injection moulding.webp](../assets/Lego_injection_moulding_1698809946278_0.webp)
 	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 403, :width 713}
 - What about code?
-  collapsed:: true
 	- We don't drive cars made of LEGOs.
 	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 402, :width 663}
 	- The world runs on computers,
@@ -75,7 +73,6 @@
 	- ![IMAG0251.webp](../assets/IMAG0251_1698760199153_0.webp){:height 460, :width 713}
 	- ![Golang Ken Thompson.png](../assets/Golang_Ken_Thompson_1698760453099_0.png){:height 327, :width 655}
 - Learn a mental model, not a language
-  collapsed:: true
 	- Languages shape the way that we approach problems fundamentally.
 	- Anticipate our needs.
 	- ![Screenshot 2023-10-31 at 9.06.35 PM.png](../assets/Screenshot_2023-10-31_at_9.06.35 PM_1698811599184_0.png)
@@ -122,7 +119,6 @@
 	- When do you feel the satisfying "snap" of code coming together?
 	- How often do you want to sell your soul to Satan to fix a bug?
 - Types are the foundation
-  collapsed:: true
 	- Types are a way to communicate intent.
 	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.
 	- Types also help others who want to play with the code. (including your future self)
@@ -146,7 +142,6 @@
 	- TODO JSON Schema example
 	- TODO GraphQL example
 - Transforming Types
-  collapsed:: true
 	- After understanding what type of data is available, we need to "connect" it to other systems.
 	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)
 	- Workflows are the backbone of most companies.

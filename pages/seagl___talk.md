@@ -144,18 +144,18 @@
 - Transforming Types
 	- After understanding what type of data is available, we need to "connect" it to other systems.
 	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)
-	- Workflows are the back bone behind any company.
-	- TODO whi
-	- Typically, workflows are for schlepping around invoices or track status on plane engine parts.
+	- Workflows are the backbone of most companies.
+	- Schlepping around invoices or track status on plane engine parts.
 	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
-	- A lot of code ends up being a workflow management system.
-	- I saw Cadence (now Temporal), the workflow manager, scale to the size of the world.
+	- A lot of code ends up looking like a "workflow".
+	- At Uber, I saw Cadence (now Temporal), the workflow manager, scale to the size of the world.
 	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
 	- But the workflows are expressed in code.
-	- ![Screenshot 2023-11-01 at 12.29.44 AM.png](../assets/Screenshot_2023-11-01_at_12.29.44 AM_1698823793498_0.png){:height 389, :width 651}
+	- ![Screenshot 2023-11-01 at 12.29.44 AM.png](../assets/Screenshot_2023-11-01_at_12.29.44 AM_1698823793498_0.png){:height 457, :width 759}
 	- We communicate with whiteboard diagrams.
 	- Physical arrows to show how data flows through the system.
-	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 537, :width 682}
+	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 596, :width 759}
+		-
 	- How do we model that with a computer?
 	- A lot of enterprise software is built with BPMN.
 	- ![Screenshot 2023-11-01 at 12.31.01 AM.png](../assets/Screenshot_2023-11-01_at_12.31.01 AM_1698823869272_0.png)

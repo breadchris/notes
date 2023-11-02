@@ -4,22 +4,22 @@
 - I want coding to feel more fun.
 - Like snapping LEGOs together.
 - !['Lego City.jpg](../assets/'Lego_City_1698809160561_0.jpg)
-- Not like playing with Mega Blocks
+- Not like playing with Mega Blocks.
 - ![shout-out Mattel quality control MEGA.webp](../assets/shout-out_Mattel_quality_control_MEGA_1698808823781_0.webp)
-- I am part LEGO
-	- "Automatic Binding Bricks"
-	- The first LEGO set I ever had came from Mcdonalds
+- I have been playing with LEGOs for a while...
+	- The first LEGO set I ever had came from Mcdonalds.
 	- ![1999 Lego McDonald's Toys.jpg](../assets/1999_Lego_McDonald's_Toys_1698723762328_0.jpg)
-	- With a little imagination, it could be anything you wanted.
-	- Few pieces became many possiblities
+	- With a little imagination, they could be anything I wanted.
+	- Few pieces became many possibilities.
 	- ![1999 Happy Meal Lego.jpg](../assets/1999_Happy_Meal_Lego_1698724156324_0.jpg){:height 467, :width 641}
-	- I wanted more
+	- I wanted to create cool things.
 	- ![Micro Millennium Falcon - Instructions | Lego star wars mini, Micro lego,  Lego creative](https://i.pinimg.com/736x/bb/30/91/bb3091a0909734aa4557a39fa8bdcac6.jpg){:height 397, :width 650}
+	- I wanted them to be
 	- ![Millennium Falcon™ 7965 - LEGO® Star Wars™ - Building Instructions -  Customer Service - LEGO.com US](https://www.lego.com/cdn/product-assets/product.img.pri/7965-0000-xx-14-1.jpg){:height 437, :width 713}
-	- Each phase built on itself, with the same directions and rules
-	- Pieces from sets were always accounted for
-	- They always fit together
-	- It was always fun
+	- Each phase built on itself, with the same directions and rules.
+	- Pieces from sets were always accounted for.
+	- They always fit together.
+	- It was always fun.
 	- ![Dropped my UCS Falcon today trying to put it on its display. : r/lego](https://i.redd.it/nox26agr0p871.jpg)
 	- I got confidence to venture from set instructions
 	- ![39848 Facebook.jpg](../assets/39848_Facebook_1698724914046_0.jpg){:height 463, :width 689}

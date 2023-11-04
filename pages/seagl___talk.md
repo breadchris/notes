@@ -162,9 +162,8 @@
 	- Reactive programming is pretty cool.
 	- !['Google Search Map Reduce Filter.png](../assets/'Google_Search_Map_Reduce_Filter_1699132637757_0.png)
 	- You can build it yourself.
-	- A durable queue will get you pretty far: SQS
-	- Be careful when following the white rabbit.
-	- TODO workflow hell?
+	- A durable queue will get you pretty far (ex. SQS)
+	- What if other's want to use your workflow system?
 - Protoflow
 	- I tried to build this once
 	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)

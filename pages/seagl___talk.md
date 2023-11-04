@@ -34,7 +34,7 @@
 	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 403, :width 713}
 - What about code?
 	- We don't drive cars made of LEGOs.
-	- ![Full-size Lego Bugatti Chiron (1)..webp](../assets/Full-size_Lego_Bugatti_Chiron_(1)._1698758206431_0.webp){:height 402, :width 663}
+	- !['Lego Bugatti Chiron.jpg](../assets/'Lego_Bugatti_Chiron_1699139892702_0.jpg){:height 388, :width 759}
 	- The world runs on computers,
 	- and they have changed over the years.
 	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg){:height 404, :width 713}

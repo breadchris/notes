@@ -139,8 +139,7 @@
 	- There are other things that solve a similar problem
 	- JSON Schema, Swagger, OpenAPI, GraphQL codegen... XML
 	- They are Mega Blocks, unfortunately.
-	- TODO JSON Schema example
-	- TODO GraphQL example
+	- ![Json Schema oneOf.webp](../assets/Json_Schema_oneOf_1699132573106_0.webp)
 - Transforming Types
 	- After understanding what type of data is available, we need to "connect" it to other systems.
 	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)
@@ -161,8 +160,7 @@
 	- But it isn't that fun...because...enterprise.
 	- Can there be something simpler, but still complete?
 	- Reactive programming is pretty cool.
-	- ![Screenshot 2023-11-01 at 8.04.29 AM.png](../assets/Screenshot_2023-11-01_at_8.04.29 AM_1698851094602_0.png)
-	- TODO map, reduce, filter
+	- !['Google Search Map Reduce Filter.png](../assets/'Google_Search_Map_Reduce_Filter_1699132637757_0.png)
 	- You can build it yourself.
 	- A durable queue will get you pretty far: SQS
 	- Be careful when following the white rabbit.
@@ -192,10 +190,6 @@
 	- Protobuf and Temporal solved big problems for big companies.
 	- Smaller teams and projects need tools to scale.
 	- I want to give everyone a senior developer's brain.
-	- Simple service templates with batteries included.
-	- LLM generator! feedback?
-	- TODO protobuf to code chatgpt
-	- Share your code with others
 - Parting words of wisdom
 	- Plumbers get paid a lot because pipes don't fit together easily.
 	- If you want to be a data plumber, continue connecting pipes.

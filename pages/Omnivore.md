@@ -1,4 +1,103 @@
 ## 🔖 Articles
+	- [Pissing Blood: The Ketamine Time Bomb | High Society](https://omnivore.app/me/https-youtu-be-99-xqy-7-elwhc-si-dg-h-1-l-6-f-dj-ecq-ly-e-18b9a51a2f6)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/99XQY7Elwhc?si=DgH1l6-fDjECQLyE)
+	  author:: VICE
+	  date-saved:: [[Nov 4th, 2023]]
+	- [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://omnivore.app/me/a-blog-post-is-a-very-long-and-complex-search-query-to-find-fasc-18b9a479b17)
+	  collapsed:: true
+	  site:: [Escaping Flatland](https://www.henrikkarlsson.xyz/p/search-query)
+	  author:: Henrik Karlsson
+	  labels:: [[communication]]
+	  date-saved:: [[Nov 4th, 2023]]
+	  date-published:: [[Oct 5th, 2022]]
+	- [Take a tour of HEY](https://omnivore.app/me/https-youtube-com-watch-si-g-oj-0-igs-8-lhqkux-v-u-ce-y-tys-ly-g-18b99510611)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/watch?si=GOj0igs-8lhqkux-&v=UCeYTysLyGI)
+	  author:: 37signals
+	  labels:: [[programming]][[lunabrain/ideas]][[information]]
+	  date-saved:: [[Nov 4th, 2023]]
+	- [David Heinemeier Hansson](https://omnivore.app/me/david-heinemeier-hansson-18b993438c8)
+	  collapsed:: true
+	  site:: [world.hey.com](https://world.hey.com/dhh)
+	  date-saved:: [[Nov 4th, 2023]]
+	  date-published:: [[Oct 30th, 2023]]
+	- [Remote: Office Not Required a book by David Heinemeier Hansson, Jason Fried, and David Heinemeier Hansson](https://omnivore.app/me/remote-office-not-required-a-book-by-david-heinemeier-hansson-ja-18b992fcc56)
+	  collapsed:: true
+	  site:: [Bookshop](https://bookshop.org/p/books/remote-office-not-required-jason-fried/10858245?ean=9780804137508)
+	  author:: David Heinemeier Hansson
+	  labels:: [[books]]
+	  date-saved:: [[Nov 4th, 2023]]
+	  date-published:: [[Oct 28th, 2013]]
+	- [Why We Sleep: Unlocking the Power of Sleep and Dreams a book by Matthew Walker](https://omnivore.app/me/why-we-sleep-unlocking-the-power-of-sleep-and-dreams-a-book-by-m-18b992f1f50)
+	  collapsed:: true
+	  site:: [Bookshop](https://bookshop.org/p/books/why-we-sleep-unlocking-the-power-of-sleep-and-dreams-matthew-walker/6692951?ean=9781501144325)
+	  author:: Matthew Walker
+	  date-saved:: [[Nov 4th, 2023]]
+	  date-published:: [[Jun 18th, 2018]]
+	- [Portugal. The Man Official Website](https://omnivore.app/me/portugal-the-man-official-website-18b9903d4ba)
+	  collapsed:: true
+	  site:: [Portugal The Man](https://www.portugaltheman.com/?frontpage=true)
+	  labels:: [[art]][[internet]]
+	  date-saved:: [[Nov 3rd, 2023]]
+	- [Go RSS Feed Parser](https://omnivore.app/me/https-chat-openai-com-share-a-33972-ff-f-3-cf-4-e-7-c-a-571-0-df-18b93934424)
+	  collapsed:: true
+	  site:: [ChatGPT](https://chat.openai.com/share/a33972ff-f3cf-4e7c-a571-0df2d04c62df)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Nov 2nd, 2023]]
+	  date-published:: [[Nov 2nd, 2023]]
+	- [Todo App | React-RxJS](https://omnivore.app/me/todo-app-react-rx-js-18b936f3404)
+	  collapsed:: true
+	  site:: [react-rxjs.org](https://react-rxjs.org/docs/tutorial/todos)
+	  labels:: [[js]]
+	  date-saved:: [[Nov 2nd, 2023]]
+	- [Github Issues Viewer | React-RxJS](https://omnivore.app/me/github-issues-viewer-react-rx-js-18b936f2dde)
+	  collapsed:: true
+	  site:: [react-rxjs.org](https://react-rxjs.org/docs/tutorial/github-issues)
+	  labels:: [[js]]
+	  date-saved:: [[Nov 2nd, 2023]]
+	- [rss-finder/lib/parser.js at master · ggkovacs/rss-finder](https://omnivore.app/me/rss-finder-lib-parser-js-at-master-ggkovacs-rss-finder-18b936c588e)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/ggkovacs/rss-finder/blob/master/lib/parser.js)
+	  labels:: [[js]][[lunabrain/ideas]]
+	  date-saved:: [[Nov 2nd, 2023]]
+	- [How to Knit: Easy for Beginners](https://omnivore.app/me/https-youtube-com-watch-si-tobv-w-x-8-ai-t-qv-25-g-v-p-r-1-u-ds--18b9342a684)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/watch?si=TobvW_X8AiTQv25G&v=p_R1UDsNOMk)
+	  author:: RJ Knits
+	  date-saved:: [[Nov 2nd, 2023]]
+	- [How To Knit for Beginners - Sheep and Stitch](https://omnivore.app/me/how-to-knit-for-beginners-sheep-and-stitch-18b9341fda7)
+	  collapsed:: true
+	  site:: [Sheep and Stitch](https://sheepandstitch.com/how-to-knit/)
+	  date-saved:: [[Nov 2nd, 2023]]
+	- [In 1886, the US Government Commissioned 7,500 Watercolor Paintings of Every Known Fruit in the World: Download Them in High Resolution | Open Culture](https://omnivore.app/me/in-1886-the-us-government-commissioned-7-500-watercolor-painting-18b9314dcaf)
+	  collapsed:: true
+	  site:: [Open Culture](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+	  author:: Josh Jones
+	  labels:: [[art]]
+	  date-saved:: [[Nov 2nd, 2023]]
+	  date-published:: [[Jun 25th, 2019]]
+	- [pike](https://omnivore.app/me/pike-18b8d9fcdea)
+	  collapsed:: true
+	  site:: [users.ece.utexas.edu](https://users.ece.utexas.edu/~adnan/pike.html)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 1st, 2023]]
+	- [Actually Portable Executable](https://omnivore.app/me/actually-portable-executable-18b8d8daa3f)
+	  collapsed:: true
+	  site:: [justine.lol](https://justine.lol/ape.html)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 1st, 2023]]
+	- [Why doctors in America earn so much](https://omnivore.app/me/why-doctors-in-america-earn-so-much-18b8d1e2b58)
+	  collapsed:: true
+	  site:: [The Economist](https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much)
+	  date-saved:: [[Nov 1st, 2023]]
+	  date-published:: [[Oct 30th, 2023]]
+	- [Auditory illusions with examples from Daft Punk · ugu.rs](https://omnivore.app/me/auditory-illusions-with-examples-from-daft-punk-ugu-rs-189ecdf82c0)
+	  collapsed:: true
+	  site:: [ugu.rs](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk)
+	  author:: Uğur Şahin
+	  date-saved:: [[Aug 12th, 2023]]
+	  date-published:: [[Aug 5th, 2023]]
 	- [The introduction to Reactive Programming you've been missing](https://omnivore.app/me/the-introduction-to-reactive-programming-you-ve-been-missing-18b8b65c1bc)
 	  collapsed:: true
 	  site:: [Gist](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -23,7 +122,7 @@
 	- [Part 1 - Introduction and Setting up the REPL | Let’s Build a Simple Database](https://omnivore.app/me/part-1-introduction-and-setting-up-the-repl-let-s-build-a-simple-18b85bddb59)
 	  collapsed:: true
 	  site:: [Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/parts/part1.html)
-	  labels:: [[programming]]
+	  labels:: [[programming]][[learning]]
 	  date-saved:: [[Oct 31st, 2023]]
 	  date-published:: [[Aug 29th, 2017]]
 	- [Fine-Tuning OpenAI's GPT 3.5 Turbo | Pinecone](https://omnivore.app/me/fine-tuning-open-ai-s-gpt-3-5-turbo-pinecone-18b85aa051e)
@@ -53,6 +152,7 @@
 	- [Replacing WebRTC - Media over QUIC](https://omnivore.app/me/replacing-web-rtc-media-over-quic-18b830df738)
 	  collapsed:: true
 	  site:: [quic.video](https://quic.video/blog/replacing-webrtc)
+	  labels:: [[programming]]
 	  date-saved:: [[Oct 30th, 2023]]
 	- [Here's EXACTLY What to Do When the Next Megaquake Hits: Cascadia Subduction Zone](https://omnivore.app/me/https-youtu-be-n-zs-4-y-cyxy-fk-si-3-yb-q-m-vw-ev-wy-be-7-o-18b81268842)
 	  collapsed:: true
@@ -504,7 +604,7 @@
 	- [LSP could have been better](https://omnivore.app/me/lsp-could-have-been-better-18b224e1795)
 	  collapsed:: true
 	  site:: [matklad.github.io](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
-	  labels:: [[programming]]
+	  labels:: [[programming]][[mah boi]]
 	  date-saved:: [[Oct 11th, 2023]]
 	  date-published:: [[Oct 11th, 2023]]
 	- [monster-labs/control_v1p_sd15_qrcode_monster · Hugging Face](https://omnivore.app/me/monster-labs-control-v-1-p-sd-15-qrcode-monster-hugging-face-18b201b4a35)
@@ -1533,6 +1633,7 @@
 	- [mariusschulz/programming-music: A collective list of music to listen to while programming](https://omnivore.app/me/mariusschulz-programming-music-a-collective-list-of-music-to-lis-18a2620fb38)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/mariusschulz/programming-music)
+	  labels:: [[music]]
 	  date-saved:: [[Aug 23rd, 2023]]
 	- [(1) Critical Periods For Language: Much More Than You Wanted To Know](https://omnivore.app/me/1-critical-periods-for-language-much-more-than-you-wanted-to-kno-18a242e104a)
 	  collapsed:: true
@@ -1578,6 +1679,7 @@
 	  collapsed:: true
 	  site:: [Vox](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
 	  author:: Oshan Jarow
+	  labels:: [[life]]
 	  date-saved:: [[Aug 22nd, 2023]]
 	  date-published:: [[Aug 22nd, 2023]]
 	- [Godly — Astronomically good web design inspiration](https://omnivore.app/me/godly-astronomically-good-web-design-inspiration-18a1f2d8a9e)

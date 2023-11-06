@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Building a high performance JSON parser](https://omnivore.app/me/building-a-high-performance-json-parser-18ba2619300)
+	  collapsed:: true
+	  site:: [dave.cheney.net](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+	  author:: Dave Cheney
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Nov 5th, 2023]]
+	  date-published:: [[Nov 1st, 2023]]
+	- [The World's First App Store](https://omnivore.app/me/the-world-s-first-app-store-18b9f7bd253)
+	  collapsed:: true
+	  site:: [One from Nippon](https://one-from-nippon.ghost.io/worlds-first-app-store/)
+	  author:: The One from Nippon team
+	  date-saved:: [[Nov 5th, 2023]]
+	  date-published:: [[Nov 4th, 2023]]
 	- [Pissing Blood: The Ketamine Time Bomb | High Society](https://omnivore.app/me/https-youtu-be-99-xqy-7-elwhc-si-dg-h-1-l-6-f-dj-ecq-ly-e-18b9a51a2f6)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/99XQY7Elwhc?si=DgH1l6-fDjECQLyE)

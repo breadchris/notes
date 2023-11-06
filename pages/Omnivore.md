@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [18.S097 Applied Category Theory: Textbook | Applied Category Theory | Mathematics | MIT OpenCourseWare](https://omnivore.app/me/18-s-097-applied-category-theory-textbook-applied-category-theor-18ba31f7338)
+	  collapsed:: true
+	  site:: [MIT OpenCourseWare](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)
+	  date-saved:: [[Nov 5th, 2023]]
+	- [Meet KITT](https://omnivore.app/me/meet-kitt-18ba302b614)
+	  collapsed:: true
+	  site:: [LiveKit](https://livekit.io/kitt)
+	  date-saved:: [[Nov 5th, 2023]]
+	- [Save the date! Saturday December 2nd. I am hosting a one day online sale. This piece along with many others will be available. The sale… | Instagram](https://omnivore.app/me/save-the-date-saturday-december-2-nd-i-am-hosting-a-one-day-onli-18ba2f30422)
+	  collapsed:: true
+	  site:: [Instagram](https://www.instagram.com/p/CzJcygeAZ70/?igshid=MWVwa2d6aTM5bjk2eg%253D%253D)
+	  date-saved:: [[Nov 5th, 2023]]
+	  date-published:: [[Nov 2nd, 2023]]
 	- [Building a high performance JSON parser](https://omnivore.app/me/building-a-high-performance-json-parser-18ba2619300)
 	  collapsed:: true
 	  site:: [dave.cheney.net](https://dave.cheney.net/paste/gophercon-sg-2023.html)

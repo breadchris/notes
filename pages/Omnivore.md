@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [GopherCon 2018: Bryan C. Mills - Rethinking Classical Concurrency Patterns](https://omnivore.app/me/https-youtube-com-watch-si-nh-tl-pdw-h-7-zl-gv-0-n-v-5-z-xa-hh-5-18ba6de8037)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/watch?si=NhTlPDW-H7zlGV0n&v=5zXAHh5tJqQ)
+	  author:: Gopher Academy
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Nov 6th, 2023]]
 	- [18.S097 Applied Category Theory: Textbook | Applied Category Theory | Mathematics | MIT OpenCourseWare](https://omnivore.app/me/18-s-097-applied-category-theory-textbook-applied-category-theor-18ba31f7338)
 	  collapsed:: true
 	  site:: [MIT OpenCourseWare](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook/)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [What Does and Doesn’t Matter about Apple Shooting their October Event on iPhone 15 Pro Max — Prolost](https://omnivore.app/me/what-does-and-doesn-t-matter-about-apple-shooting-their-october--18badac375e)
+	  collapsed:: true
+	  site:: [Prolost](https://prolost.com/blog/scarybts)
+	  author:: Stu Maschwitz
+	  date-saved:: [[Nov 7th, 2023]]
+	  date-published:: [[Nov 7th, 2023]]
 	- [GopherCon 2018: Bryan C. Mills - Rethinking Classical Concurrency Patterns](https://omnivore.app/me/https-youtube-com-watch-si-nh-tl-pdw-h-7-zl-gv-0-n-v-5-z-xa-hh-5-18ba6de8037)
 	  collapsed:: true
 	  site:: [YouTube](https://youtube.com/watch?si=NhTlPDW-H7zlGV0n&v=5zXAHh5tJqQ)

@@ -18,6 +18,7 @@
 	- [Meet KITT](https://omnivore.app/me/meet-kitt-18ba302b614)
 	  collapsed:: true
 	  site:: [LiveKit](https://livekit.io/kitt)
+	  labels:: [[golang/programming]]
 	  date-saved:: [[Nov 5th, 2023]]
 	- [Save the date! Saturday December 2nd. I am hosting a one day online sale. This piece along with many others will be available. The sale… | Instagram](https://omnivore.app/me/save-the-date-saturday-december-2-nd-i-am-hosting-a-one-day-onli-18ba2f30422)
 	  collapsed:: true

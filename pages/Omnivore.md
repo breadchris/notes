@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Omegle](https://omnivore.app/me/omegle-18bb21a16ba)
+	  collapsed:: true
+	  site:: [omegle.com](https://www.omegle.com)
+	  date-saved:: [[Nov 8th, 2023]]
+	- [Textcasting](https://omnivore.app/me/textcasting-18badf06f0e)
+	  collapsed:: true
+	  site:: [textcasting.org](http://textcasting.org)
+	  date-saved:: [[Nov 7th, 2023]]
+	  date-published:: [[Sep 18th, 2023]]
 	- [What Does and Doesn’t Matter about Apple Shooting their October Event on iPhone 15 Pro Max — Prolost](https://omnivore.app/me/what-does-and-doesn-t-matter-about-apple-shooting-their-october--18badac375e)
 	  collapsed:: true
 	  site:: [Prolost](https://prolost.com/blog/scarybts)
@@ -20,11 +29,6 @@
 	  site:: [LiveKit](https://livekit.io/kitt)
 	  labels:: [[golang/programming]]
 	  date-saved:: [[Nov 5th, 2023]]
-	- [Save the date! Saturday December 2nd. I am hosting a one day online sale. This piece along with many others will be available. The sale… | Instagram](https://omnivore.app/me/save-the-date-saturday-december-2-nd-i-am-hosting-a-one-day-onli-18ba2f30422)
-	  collapsed:: true
-	  site:: [Instagram](https://www.instagram.com/p/CzJcygeAZ70/?igshid=MWVwa2d6aTM5bjk2eg%253D%253D)
-	  date-saved:: [[Nov 5th, 2023]]
-	  date-published:: [[Nov 2nd, 2023]]
 	- [Building a high performance JSON parser](https://omnivore.app/me/building-a-high-performance-json-parser-18ba2619300)
 	  collapsed:: true
 	  site:: [dave.cheney.net](https://dave.cheney.net/paste/gophercon-sg-2023.html)

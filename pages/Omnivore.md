@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Understanding Git: The history and internals](https://omnivore.app/me/understanding-git-the-history-and-internals-18bbb90b7d5)
+	  collapsed:: true
+	  site:: [graphite.dev](https://graphite.dev/blog/understanding-git)
+	  author:: Written by
+	  date-saved:: [[Nov 10th, 2023]]
+	  date-published:: [[Nov 7th, 2023]]
 	- [Omegle](https://omnivore.app/me/omegle-18bb21a16ba)
 	  collapsed:: true
 	  site:: [omegle.com](https://www.omegle.com)

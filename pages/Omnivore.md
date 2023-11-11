@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Fourteen Years of Go - The Go Programming Language](https://omnivore.app/me/fourteen-years-of-go-the-go-programming-language-18bbf33ed23)
+	  collapsed:: true
+	  site:: [go.dev](https://go.dev/blog/14years)
+	  author:: Russ Cox, for the Go team 10 November 2023
+	  labels:: [[mah boi]]
+	  date-saved:: [[Nov 11th, 2023]]
 	- [Understanding Git: The history and internals](https://omnivore.app/me/understanding-git-the-history-and-internals-18bbb90b7d5)
 	  collapsed:: true
 	  site:: [graphite.dev](https://graphite.dev/blog/understanding-git)

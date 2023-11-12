@@ -1,4 +1,23 @@
 ## 🔖 Articles
+	- [How to draw ideas - Ralph Ammer](https://omnivore.app/me/how-to-draw-ideas-ralph-ammer-185b2158d2f)
+	  collapsed:: true
+	  site:: [Ralph Ammer](https://ralphammer.com/how-to-draw-ideas)
+	  author:: ralphammer
+	  labels:: [[mah boi]]
+	  date-saved:: [[Jan 14th, 2023]]
+	  date-published:: [[Nov 30th, 2022]]
+	- [Reducing Online Serving Latency from 1.11s to 123.6ms on a Distributed SQL Database | OSS Insight](https://omnivore.app/me/reducing-online-serving-latency-from-1-11-s-to-123-6-ms-on-a-dis-185add3168b)
+	  collapsed:: true
+	  site:: [ossinsight.io](https://ossinsight.io/blog/reduce-query-latency)
+	  author:: Mini256
+	  labels:: [[programming]]
+	  date-saved:: [[Jan 13th, 2023]]
+	  date-published:: [[Nov 16th, 2022]]
+	- [SQLite Wasm in the browser backed by the Origin Private File System - Chrome Developers](https://omnivore.app/me/sq-lite-wasm-in-the-browser-backed-by-the-origin-private-file-sy-185a6f43416)
+	  collapsed:: true
+	  site:: [Chrome Developers](https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system)
+	  author:: Thomas SteinerTom is a Developer Advocate
+	  date-saved:: [[Jan 12th, 2023]]
 	- [Fourteen Years of Go - The Go Programming Language](https://omnivore.app/me/fourteen-years-of-go-the-go-programming-language-18bbf33ed23)
 	  collapsed:: true
 	  site:: [go.dev](https://go.dev/blog/14years)

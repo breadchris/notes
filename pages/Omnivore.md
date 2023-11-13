@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [omnivore-app/go-domdistiller: Go-DomDistiller is a Go port of the DOM Distiller library which implements Reader mode in Chrome for Android and Desktop. It has no dependencies on Chromium and is meant to run as a command line program or on a server.](https://omnivore.app/me/omnivore-app-go-domdistiller-go-dom-distiller-is-a-go-port-of-th-18bc7d61306)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/omnivore-app/go-domdistiller)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Nov 13th, 2023]]
 	- [How to draw ideas - Ralph Ammer](https://omnivore.app/me/how-to-draw-ideas-ralph-ammer-185b2158d2f)
 	  collapsed:: true
 	  site:: [Ralph Ammer](https://ralphammer.com/how-to-draw-ideas)

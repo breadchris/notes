@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [Frank Chimero · The Web’s Grain](https://omnivore.app/me/frank-chimero-the-web-s-grain-18bca59b1aa)
+	  collapsed:: true
+	  site:: [frankchimero.com](https://frankchimero.com/blog/2015/the-webs-grain/)
+	  author:: Frank Chimero
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 13th, 2023]]
+	  date-published:: [[Feb 17th, 2015]]
 	- [omnivore-app/go-domdistiller: Go-DomDistiller is a Go port of the DOM Distiller library which implements Reader mode in Chrome for Android and Desktop. It has no dependencies on Chromium and is meant to run as a command line program or on a server.](https://omnivore.app/me/omnivore-app-go-domdistiller-go-dom-distiller-is-a-go-port-of-th-18bc7d61306)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/omnivore-app/go-domdistiller)

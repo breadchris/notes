@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [ChucK => A Strongly-Timed Music Programming Language](https://omnivore.app/me/chuc-k-a-strongly-timed-music-programming-language-18bcc9be9d9)
+	  collapsed:: true
+	  site:: [chuck.stanford.edu](https://chuck.stanford.edu)
+	  author:: ChucK Team
+	  labels:: [[programming]][[music]]
+	  date-saved:: [[Nov 13th, 2023]]
 	- [Frank Chimero · The Web’s Grain](https://omnivore.app/me/frank-chimero-the-web-s-grain-18bca59b1aa)
 	  collapsed:: true
 	  site:: [frankchimero.com](https://frankchimero.com/blog/2015/the-webs-grain/)

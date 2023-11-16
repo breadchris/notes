@@ -13,6 +13,7 @@
 	- high school CTFs -> TJ
 - NYU
 	- ran many years
+	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
 	- student volunteers
 	- competitors would become creators
 	- built cyber security programs at high schools
@@ -31,16 +32,21 @@
 	- funny
 	- open to interpretation
 	- Do Now
-		- examples
-		- ai mad lib
+		- Read
+			- past year stories
+		- Create
+			- ai mad lib
 - Challenges
-	-
+	- Do Now
+		- solve a challenge
+			- introduce the wiki
+		- create a challenge?
 - Grading
-	- Who got the most flags?
-- challenges
-	- create
-	- solve
-- grading
-	- just like canvas/blackboard
-	- who got the most flags?
-	- who got the right conclusion?
+	- you are the judge and jury
+	- Do Now
+		- Write
+			- document your evidence
+			- write your conclusion
+		- Read other submissions
+			- Who got the most flags?
+			- Who got the right conclusion?

@@ -1,0 +1,23 @@
+- cyber education
+	- it is hard to teach
+	- textbooks?
+	- cirriculum?
+	- games?
+- CTF
+	- pattern matching
+	- not inclusive
+	- miss out on many practical skills
+- NYU
+	- ran many years
+	- student volunteers
+	- competitors would become creators
+	- built cyber security programs at high schools
+- MCPS
+	- 7 years
+	- community college
+	- 200+ students every year
+	- builds brand
+	- student passion
+- xctf
+	- cirriculum
+	-

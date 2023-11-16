@@ -1,6 +1,5 @@
 - what if hacking was just like the movies?
 	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
--
 - cyber education
 	- it is hard to teach
 	- textbooks?
@@ -25,3 +24,23 @@
 	- student passion
 - xctf
 	- 365 cyber security education
+	- curriculum for teachers
+- The Story
+	- core concept of the competition
+	- cohesive
+	- funny
+	- open to interpretation
+	- Do Now
+		- examples
+		- ai mad lib
+- Challenges
+	-
+- Grading
+	- Who got the most flags?
+- challenges
+	- create
+	- solve
+- grading
+	- just like canvas/blackboard
+	- who got the most flags?
+	- who got the right conclusion?

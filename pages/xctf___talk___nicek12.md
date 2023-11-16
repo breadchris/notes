@@ -10,6 +10,8 @@
 	- pattern matching
 	- not inclusive
 	- miss out on many practical skills
+	- picoctf -> CMU
+	- high school CTFs -> TJ
 - NYU
 	- ran many years
 	- student volunteers
@@ -22,5 +24,4 @@
 	- builds brand
 	- student passion
 - xctf
-	- cirriculum
-- building
+	- 365 cyber security education

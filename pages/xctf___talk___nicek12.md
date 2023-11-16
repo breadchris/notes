@@ -1,3 +1,6 @@
+- what if hacking was just like the movies?
+	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
+-
 - cyber education
 	- it is hard to teach
 	- textbooks?
@@ -20,4 +23,4 @@
 	- student passion
 - xctf
 	- cirriculum
-	-
+- building

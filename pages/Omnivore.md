@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Signal >> Blog >> Privacy is Priceless, but Signal is Expensive](https://omnivore.app/me/signal-blog-privacy-is-priceless-but-signal-is-expensive-18bd916b0ad)
+	  collapsed:: true
+	  site:: [Signal Messenger](https://signal.org/blog/signal-is-expensive/)
+	  date-saved:: [[Nov 16th, 2023]]
 	- [ChucK => A Strongly-Timed Music Programming Language](https://omnivore.app/me/chuc-k-a-strongly-timed-music-programming-language-18bcc9be9d9)
 	  collapsed:: true
 	  site:: [chuck.stanford.edu](https://chuck.stanford.edu)

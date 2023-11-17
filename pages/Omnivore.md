@@ -7,6 +7,7 @@
 	  collapsed:: true
 	  site:: [The Startup](https://medium.com/swlh/manage-dynamic-multi-peer-connections-in-webrtc-3ff4e10f75b7)
 	  author:: André Marques
+	  labels:: [[programming]]
 	  date-saved:: [[Nov 16th, 2023]]
 	  date-published:: [[Oct 26th, 2020]]
 	- [マリウス . Updates 2022/Q1](https://omnivore.app/me/updates-2022-q-1-18bdae01d83)

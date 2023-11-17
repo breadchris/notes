@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Planning for unplanned work](https://omnivore.app/me/planning-for-unplanned-work-18bdc4e4592)
+	  collapsed:: true
+	  site:: [Linear](https://linear.app/blog/planning-for-unplanned-work)
+	  date-saved:: [[Nov 17th, 2023]]
+	  date-published:: [[Nov 16th, 2023]]
+	- [Pointer Pointer](https://omnivore.app/me/pointer-pointer-18bdc4da66d)
+	  collapsed:: true
+	  site:: [pointerpointer.com](https://pointerpointer.com)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[Nov 17th, 2023]]
+	- [How Video Editors Implement Timeline Filmstrips Using FFmpeg and JavaScript | by Aditya Krishnan | Better Programming](https://omnivore.app/me/how-video-editors-implement-timeline-filmstrips-using-f-fmpeg-an-18bdc1260c7)
+	  collapsed:: true
+	  site:: [Better Programming](https://betterprogramming.pub/how-video-editors-implement-timeline-filmstrips-using-ffmpeg-and-javascript-a4683ddaeb3c)
+	  author:: Aditya Krishnan
+	  date-saved:: [[Nov 16th, 2023]]
+	  date-published:: [[Apr 10th, 2023]]
 	- [quickjs-go/quickjs-go: golang binding quickjs](https://omnivore.app/me/quickjs-go-quickjs-go-golang-binding-quickjs-18bdb4be471)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/quickjs-go/quickjs-go)

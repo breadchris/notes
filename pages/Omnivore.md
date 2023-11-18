@@ -1,4 +1,37 @@
 ## 🔖 Articles
+	- [Classic Youtube Videos](https://omnivore.app/me/https-www-youtube-com-watch-index-26-list-plu-nig-hj-l-4-wl-gv-1-18be240ce28)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?index=26&list=PLUNigHjL4wlGV1CaxdCLPJCQiUXLfpG9y&v=tVj0ZTS4WF4)
+	  author:: PixelShark
+	  date-saved:: [[Nov 18th, 2023]]
+	- [Classic Youtube Videos](https://omnivore.app/me/https-www-youtube-com-watch-index-25-list-plu-nig-hj-l-4-wl-gv-1-18be23fbf4a)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?index=25&list=PLUNigHjL4wlGV1CaxdCLPJCQiUXLfpG9y&v=Kppx4bzfAaE)
+	  author:: PixelShark
+	  date-saved:: [[Nov 18th, 2023]]
+	- [Classic Youtube Videos](https://omnivore.app/me/https-www-youtube-com-watch-index-24-list-plu-nig-hj-l-4-wl-gv-1-18be23f49d9)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?index=24&list=PLUNigHjL4wlGV1CaxdCLPJCQiUXLfpG9y&v=ZZ5LpwO-An4)
+	  author:: PixelShark
+	  date-saved:: [[Nov 18th, 2023]]
+	- [Classic Youtube Videos](https://omnivore.app/me/https-www-youtube-com-watch-index-19-list-plu-nig-hj-l-4-wl-gv-1-18be23b2608)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?index=19&list=PLUNigHjL4wlGV1CaxdCLPJCQiUXLfpG9y&v=mKkLjJHwRec)
+	  author:: PixelShark
+	  date-saved:: [[Nov 18th, 2023]]
+	- [Japanese Donald Trump Commercialトランプ2016](https://omnivore.app/me/https-www-youtube-com-watch-v-zb-m-6-wb-uw-7-bs-18be225b359)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=ZbM6WbUw7Bs)
+	  author:: Mike Diva
+	  date-saved:: [[Nov 18th, 2023]]
+	- [Frame Set - Helping Filmmakers Find Inspiration](https://omnivore.app/me/frame-set-helping-filmmakers-find-inspiration-18be14265dc)
+	  collapsed:: true
+	  site:: [frameset.app](https://frameset.app/stills)
+	  date-saved:: [[Nov 17th, 2023]]
+	- [SHOTDECK :: Fully Searchable High-Res Movie Images](https://omnivore.app/me/shotdeck-fully-searchable-high-res-movie-images-18be1424b78)
+	  collapsed:: true
+	  site:: [shotdeck.com](https://shotdeck.com)
+	  date-saved:: [[Nov 17th, 2023]]
 	- [Tucker Prescott](https://omnivore.app/me/tucker-prescott-18be114b24d)
 	  collapsed:: true
 	  site:: [Tucker Prescott](http://www.tuckerprescott.com)

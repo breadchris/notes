@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Tucker Prescott](https://omnivore.app/me/tucker-prescott-18be114b24d)
+	  collapsed:: true
+	  site:: [Tucker Prescott](http://www.tuckerprescott.com)
+	  date-saved:: [[Nov 17th, 2023]]
 	- [Planning for unplanned work](https://omnivore.app/me/planning-for-unplanned-work-18bdc4e4592)
 	  collapsed:: true
 	  site:: [Linear](https://linear.app/blog/planning-for-unplanned-work)

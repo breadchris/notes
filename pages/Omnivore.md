@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Are Amanita Mushroom Gummies Safe? What to Know Before You Buy](https://omnivore.app/me/are-amanita-mushroom-gummies-safe-what-to-know-before-you-buy-18be6790ade)
+	  collapsed:: true
+	  site:: [MoonWlkr](https://moonwlkr.com/blogs/news/are-amanita-mushroom-gummies-safe/)
+	  author:: Kate
+	  date-saved:: [[Nov 18th, 2023]]
+	  date-published:: [[Aug 4th, 2023]]
+	- [Funklet](https://omnivore.app/me/funklet-18be66adf58)
+	  collapsed:: true
+	  site:: [goodhertz.com](https://goodhertz.com/funklet/)
+	  labels:: [[programming]][[music]]
+	  date-saved:: [[Nov 18th, 2023]]
 	- [NilAway: Practical Nil Panic Detection for Go | Uber Blog](https://omnivore.app/me/nil-away-practical-nil-panic-detection-for-go-uber-blog-18be59176b0)
 	  collapsed:: true
 	  site:: [Uber Blog](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go)

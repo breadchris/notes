@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [NilAway: Practical Nil Panic Detection for Go | Uber Blog](https://omnivore.app/me/nil-away-practical-nil-panic-detection-for-go-uber-blog-18be59176b0)
+	  collapsed:: true
+	  site:: [Uber Blog](https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go)
+	  author:: Sonal Mahajan, Yuxin Wang, Lazaro Clapp, Raj Barik
+	  date-saved:: [[Nov 18th, 2023]]
+	  date-published:: [[Nov 15th, 2023]]
+	- [Muslim Style Techno Dance](https://omnivore.app/me/https-www-youtube-com-watch-v-0-n-dy-6-rlijzo-18be52f13ac)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=0NDy6Rlijzo)
+	  author:: jobake
+	  date-saved:: [[Nov 18th, 2023]]
+	- [Classic 90s Acid House Remixed Set at a New York Basement Party | Jojo](https://omnivore.app/me/https-www-youtube-com-watch-v-a-688-ms-epue-18be523c7cd)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=A_688msEPUE)
+	  author:: Book Club Radio
+	  date-saved:: [[Nov 18th, 2023]]
 	- [Classic Youtube Videos](https://omnivore.app/me/https-www-youtube-com-watch-index-26-list-plu-nig-hj-l-4-wl-gv-1-18be240ce28)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?index=26&list=PLUNigHjL4wlGV1CaxdCLPJCQiUXLfpG9y&v=tVj0ZTS4WF4)

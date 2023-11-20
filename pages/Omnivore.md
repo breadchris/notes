@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [David Bowie on why you should never play to the gallery](https://omnivore.app/me/https-www-youtube-com-watch-v-c-nbnef-e-xbm-18beb38d27e)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=cNbnef_eXBM)
+	  author:: Stuart Semple
+	  date-saved:: [[Nov 19th, 2023]]
+	- [research!rsc: Go Proposals](https://omnivore.app/me/research-rsc-go-proposals-18beb36a4e5)
+	  collapsed:: true
+	  site:: [research.swtch.com](https://research.swtch.com/proposals)
+	  author:: Russ Cox
+	  date-saved:: [[Nov 19th, 2023]]
 	- [Ultorg: General-Purpose, User-Friendly Database Software](https://omnivore.app/me/ultorg-general-purpose-user-friendly-database-software-18bea173357)
 	  collapsed:: true
 	  site:: [Ultorg](https://www.ultorg.com)

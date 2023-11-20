@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Ultorg: General-Purpose, User-Friendly Database Software](https://omnivore.app/me/ultorg-general-purpose-user-friendly-database-software-18bea173357)
+	  collapsed:: true
+	  site:: [Ultorg](https://www.ultorg.com)
+	  date-saved:: [[Nov 19th, 2023]]
 	- [Are Amanita Mushroom Gummies Safe? What to Know Before You Buy](https://omnivore.app/me/are-amanita-mushroom-gummies-safe-what-to-know-before-you-buy-18be6790ade)
 	  collapsed:: true
 	  site:: [MoonWlkr](https://moonwlkr.com/blogs/news/are-amanita-mushroom-gummies-safe/)

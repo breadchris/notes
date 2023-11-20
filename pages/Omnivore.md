@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Hanspeter Mössenböck](https://omnivore.app/me/oberon-2-18bee7c2341)
+	  collapsed:: true
+	  site:: [ssw.jku.at](https://ssw.jku.at/Research/Books/Oberon2.pdf)
+	  author:: hm
+	  labels:: [[learning]][[programming]]
+	  date-saved:: [[Nov 20th, 2023]]
+	- [brandonspark.github.io](https://omnivore.app/me/-18bee78157b)
+	  collapsed:: true
+	  site:: [brandonspark.github.io](https://brandonspark.github.io/150/)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 20th, 2023]]
 	- [David Bowie on why you should never play to the gallery](https://omnivore.app/me/https-www-youtube-com-watch-v-c-nbnef-e-xbm-18beb38d27e)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=cNbnef_eXBM)

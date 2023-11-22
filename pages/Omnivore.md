@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [Pickcode | Make cool stuff with code](https://omnivore.app/me/pickcode-make-cool-stuff-with-code-18bf2fe7f08)
+	  collapsed:: true
+	  site:: [pickcode.io](https://pickcode.io)
+	  date-saved:: [[Nov 21st, 2023]]
+	- [Hacking ADHD - Strategies for the Modern Developer | Ledger](https://omnivore.app/me/https-www-ledger-com-blog-hacking-adhd-strategies-for-the-modern-18bd359fc1a)
+	  collapsed:: true
+	  site:: [Ledger](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
+	  author:: Ledger
+	  labels:: [[mah boi]]
+	  date-saved:: [[Nov 21st, 2023]]
+	- [IDP-Z3 tutorial](https://omnivore.app/me/idp-z-3-tutorial-18bf184404b)
+	  collapsed:: true
+	  site:: [idp-z3.be](https://www.idp-z3.be/tutorial.html)
+	  date-saved:: [[Nov 21st, 2023]]
 	- [Hanspeter Mössenböck](https://omnivore.app/me/oberon-2-18bee7c2341)
 	  collapsed:: true
 	  site:: [ssw.jku.at](https://ssw.jku.at/Research/Books/Oberon2.pdf)
@@ -6,10 +20,10 @@
 	  labels:: [[learning]][[programming]]
 	  date-saved:: [[Nov 20th, 2023]]
 	- [brandonspark.github.io](https://omnivore.app/me/-18bee78157b)
-	  collapsed:: true
 	  site:: [brandonspark.github.io](https://brandonspark.github.io/150/)
 	  labels:: [[programming]]
 	  date-saved:: [[Nov 20th, 2023]]
+	  collapsed:: true
 	- [David Bowie on why you should never play to the gallery](https://omnivore.app/me/https-www-youtube-com-watch-v-c-nbnef-e-xbm-18beb38d27e)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=cNbnef_eXBM)

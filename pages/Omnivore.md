@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Sonic Garbage](https://omnivore.app/me/sonic-garbage-18bfa964358)
+	  collapsed:: true
+	  site:: [sonicgarbage.greg.technology](https://sonicgarbage.greg.technology)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[Nov 22nd, 2023]]
+	- [An Interactive Guide to CSS Grid](https://omnivore.app/me/an-interactive-guide-to-css-grid-18bfa94261a)
+	  collapsed:: true
+	  site:: [joshwcomeau.com](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 22nd, 2023]]
+	  date-published:: [[Nov 21st, 2023]]
+	- [Hixie's Natural Log: Reflecting on 18 years at Google](https://omnivore.app/me/hixie-s-natural-log-reflecting-on-18-years-at-google-18bfa939e4a)
+	  collapsed:: true
+	  site:: [ln.hixie.ch](https://ln.hixie.ch/?count=1&start=1700627373)
+	  date-saved:: [[Nov 22nd, 2023]]
+	  date-published:: [[Nov 21st, 2023]]
 	- [Pickcode | Make cool stuff with code](https://omnivore.app/me/pickcode-make-cool-stuff-with-code-18bf2fe7f08)
 	  collapsed:: true
 	  site:: [pickcode.io](https://pickcode.io)

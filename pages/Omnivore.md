@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [Persistent Data Structures and Managed References](https://omnivore.app/me/persistent-data-structures-and-managed-references-18bff78c3dc)
+	  collapsed:: true
+	  site:: [InfoQ](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey/)
+	  author:: Rich Hickey
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 23rd, 2023]]
+	  date-published:: [[Sep 30th, 2009]]
 	- [Sonic Garbage](https://omnivore.app/me/sonic-garbage-18bfa964358)
 	  collapsed:: true
 	  site:: [sonicgarbage.greg.technology](https://sonicgarbage.greg.technology)

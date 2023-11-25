@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Perfect Pitch Puzzle](https://omnivore.app/me/perfect-pitch-puzzle-18c052d3e9c)
+	  collapsed:: true
+	  site:: [perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)
+	  labels:: [[music]][[internet/toys]]
+	  date-saved:: [[Nov 24th, 2023]]
+	- [Animotion — a visual CSS animation app](https://omnivore.app/me/animotion-a-visual-css-animation-app-18c052a4235)
+	  collapsed:: true
+	  site:: [cssanimotion.pages.dev](https://cssanimotion.pages.dev)
+	  author:: Zack
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 24th, 2023]]
 	- [Home - Rows n' Columns](https://omnivore.app/me/home-rows-n-columns-18c035ea059)
 	  collapsed:: true
 	  site:: [rowsncolumns.app](https://www.rowsncolumns.app)

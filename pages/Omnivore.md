@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Stop using JWT for sessions - joepie91's Ramblings](https://omnivore.app/me/stop-using-jwt-for-sessions-joepie-91-s-ramblings-18c07ab8e9a)
+	  collapsed:: true
+	  site:: [cryto.net](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 25th, 2023]]
+	  date-published:: [[Jun 12th, 2016]]
 	- [Beato Ear Training – beatoeartraining.com](https://omnivore.app/me/beato-ear-training-beatoeartraining-com-18c05670f76)
 	  collapsed:: true
 	  site:: [beatoeartraining.com](https://beatoeartraining.com)

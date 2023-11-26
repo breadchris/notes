@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [udlbook](https://omnivore.app/me/udlbook-18c0d9251e3)
+	  collapsed:: true
+	  site:: [udlbook.github.io](https://udlbook.github.io/udlbook/)
+	  labels:: [[ai]]
+	  date-saved:: [[Nov 26th, 2023]]
+	- [Raindrop.io — All-in-one bookmark manager](https://omnivore.app/me/raindrop-io-all-in-one-bookmark-manager-18c0d454446)
+	  collapsed:: true
+	  site:: [raindrop.io](https://raindrop.io)
+	  labels:: [[lunabrain/ideas]][[notetaking]]
+	  date-saved:: [[Nov 26th, 2023]]
+	- [Periodic Table of Tools](https://omnivore.app/me/periodic-table-of-tools-18c0d42bb61)
+	  collapsed:: true
+	  site:: [periodictableoftools.com](https://periodictableoftools.com/index.html)
+	  date-saved:: [[Nov 26th, 2023]]
 	- [Reddit API | XState Docs](https://omnivore.app/me/reddit-api-x-state-docs-18c098fc436)
 	  collapsed:: true
 	  site:: [xstate.js.org](https://xstate.js.org/docs/tutorials/reddit.html)

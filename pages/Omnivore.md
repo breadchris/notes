@@ -8,8 +8,8 @@
 	- [Beato Ear Training – beatoeartraining.com](https://omnivore.app/me/beato-ear-training-beatoeartraining-com-18c05670f76)
 	  collapsed:: true
 	  site:: [beatoeartraining.com](https://beatoeartraining.com)
-	  labels:: [[learning]][[music]]
-	  date-saved:: [[Nov 24th, 2023]]
+	  labels:: [[music]]
+	  date-saved:: [[Nov 25th, 2023]]
 	- [Perfect Pitch Puzzle](https://omnivore.app/me/perfect-pitch-puzzle-18c052d3e9c)
 	  collapsed:: true
 	  site:: [perfectpitchpuzzle.com](https://www.perfectpitchpuzzle.com)

@@ -23,11 +23,16 @@
 	- ![Cyber Security Certifications.jpg](../assets/Cyber_Security_Certifications_1701124943115_0.jpg){:height 304, :width 525}
 	- Colleges sparsely offer courses, and even less majors
 	- TODO
-	-
-- playing games
+	- Millions of jobs go unfilled each year
+	- TODO
+	- Technology continues to grow exponentially
+	- ![Capture-2023-11-27-144758.png](../assets/Capture-2023-11-27-144758_1701125287235_0.png){:height 291, :width 534}
+- What if instead of teaching, we played games?
+	- ![Ender's Game.jpg](../assets/Ender's_Game_1701125479858_0.jpg){:height 434, :width 308}
 	- Games teach in an imperfect way
-	- You accept you will not teach everything
-	- You aim to teach _how to learn_
+	- You accept you will not learn everything
+	- But you will learn _how_ to learn
+	- A goal
 - cyber game styles
 	- CTF
 	- pattern matching

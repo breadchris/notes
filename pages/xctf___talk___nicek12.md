@@ -1,9 +1,12 @@
 - How you can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
-- history
-	- security is very new
-	-
-- cyber education
+- Some history
+	- security is still very new
+	- ![catch-me.jpg](../assets/catch-me_1701124297453_0.jpg){:height 390, :width 262}
+	- "hacking" has only recently been accepted
+	- ![210139.webp](../assets/210139_1701124113889_0.webp){:height 581, :width 273}
+- How do you teach this stuff?
 	- inherently hard to teach
+	- ![Wargames Movie Poster.jpg](../assets/Wargames_Movie_Poster_1701124230393_0.jpg){:height 565, :width 357}
 	- You can teach standards and protocols
 	- ![Linux System Administration 1990.jpg](../assets/Linux_System_Administration_1990_1701123862218_0.jpg){:height 444, :width 307}
 	- But technology changes rapidly
@@ -15,7 +18,6 @@
 	- You aim to teach _how to learn_
 	-
 - cyber game styles
-	-
 	- CTF
 	- pattern matching
 	- not inclusive

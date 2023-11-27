@@ -48,23 +48,21 @@
 	- Notable CTFs for high schools:
 	- [picoctf](https://picoctf.org/) -> CMU
 	- [tjctf](https://tjctf.org/) -> Thomas Jefferson High School
-	-
-- what if hacking was just like the movies?
-	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
+	- Going from question to answer is like taking a test,
+	- What if these games were easy to run _and_ emulated the real world?
 - We did this at NYU
-	- ran many for years
+	- For many years
 	- ![CSAW Brooklyn Polytechnic.jpg](../assets/CSAW_Brooklyn_Polytechnic_1701124718490_0.jpg)
-	- high schoolers from around the US would get flown to NYC to hack
+	- high schoolers from around the US would solve a "murder mystery" based on
 	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
-	- student volunteers
+	- run by student volunteers
+	- finalists would get scholarship money
 	- competitors would become creators
 	- helped build cyber security programs at high schools
-	-
-- MCPS
+- And we replicated this at a community college
 	- 7 years
-	- community college
 	- 200+ students every year
-	- builds brand
+	- Everyone looked forward to it every year
 	- student passion
 - xctf
 	- 365 cyber security education

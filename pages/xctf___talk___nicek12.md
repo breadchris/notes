@@ -97,11 +97,13 @@
 			- introduce the wiki
 		- create a challenge?
 - Grading
-	- you are the judge and jury
+	- You are the judge
+	- Does the "forensics expert's" report hold up in court?
 	- Do Now
 		- Write
 			- document your evidence
 			- write your conclusion
 		- Read other submissions
+			- https://mcpshsf.com/pdfs/b1c_HSFReport.pdf
 			- Who got the most flags?
 			- Who got the right conclusion?

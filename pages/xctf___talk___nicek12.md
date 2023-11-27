@@ -1,10 +1,16 @@
-- xctf
+- How you can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
 - cyber education
-	- it is hard to teach
-	- textbooks?
-	- cirriculum?
-	- games?
-- CTF
+	- inherently hard to teach
+	- You can teach standards and protocols
+	-
+- playing games
+	- Games teach in an imperfect way
+	- You accept you will not teach everything
+	- You aim to teach _how to learn_
+	-
+- cyber game styles
+	-
+	- CTF
 	- pattern matching
 	- not inclusive
 	- miss out on many practical skills

@@ -19,13 +19,12 @@
 	- ![Capture-2023-11-27-142243.png](../assets/Capture-2023-11-27-142243_1701123776509_0.png){:height 396, :width 210}
 	- And what do you focus on?
 	- ![Security Mindmap.png](../assets/Security_Mindmap_1701123966048_0.png){:height 425, :width 562}
-	- > “The best defense is a good offense” - every football coach at some point
+	- Historically you get certifications
 	-
 - playing games
 	- Games teach in an imperfect way
 	- You accept you will not teach everything
 	- You aim to teach _how to learn_
-	-
 - cyber game styles
 	- CTF
 	- pattern matching
@@ -35,12 +34,15 @@
 	- high school CTFs -> TJ
 - what if hacking was just like the movies?
 	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
-- NYU
-	- ran many years
+- We did this at NYU
+	- ran many for years
+	- ![CSAW Brooklyn Polytechnic.jpg](../assets/CSAW_Brooklyn_Polytechnic_1701124718490_0.jpg)
+	- high schoolers from around the US would get flown to NYC to hack
 	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
 	- student volunteers
 	- competitors would become creators
-	- built cyber security programs at high schools
+	- helped build cyber security programs at high schools
+	-
 - MCPS
 	- 7 years
 	- community college

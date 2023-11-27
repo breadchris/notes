@@ -20,6 +20,9 @@
 	- And what do you focus on?
 	- ![Security Mindmap.png](../assets/Security_Mindmap_1701123966048_0.png){:height 425, :width 562}
 	- Historically you get certifications
+	- ![Cyber Security Certifications.jpg](../assets/Cyber_Security_Certifications_1701124943115_0.jpg){:height 304, :width 525}
+	- Colleges sparsely offer courses, and even less majors
+	- TODO
 	-
 - playing games
 	- Games teach in an imperfect way

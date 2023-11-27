@@ -1,5 +1,4 @@
-- what if hacking was just like the movies?
-	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
+- xctf
 - cyber education
 	- it is hard to teach
 	- textbooks?
@@ -11,6 +10,8 @@
 	- miss out on many practical skills
 	- picoctf -> CMU
 	- high school CTFs -> TJ
+- what if hacking was just like the movies?
+	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
 - NYU
 	- ran many years
 	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)

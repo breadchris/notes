@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Get in Zoomer, We're Saving React — Acko.net](https://omnivore.app/me/get-in-zoomer-we-re-saving-react-acko-net-18c11f1a595)
+	  collapsed:: true
+	  site:: [Acko.net](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)
+	  author:: Steven Wittens
+	  labels:: [[programming]][[js]]
+	  date-saved:: [[Nov 27th, 2023]]
+	  date-published:: [[Sep 22nd, 2022]]
+	- [Web Components Eliminate JavaScript Framework Lock-in | jakelazaroff.com](https://omnivore.app/me/web-components-eliminate-java-script-framework-lock-in-jakelazar-18c11ee15d5)
+	  collapsed:: true
+	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/)
+	  labels:: [[programming]][[js]]
+	  date-saved:: [[Nov 27th, 2023]]
+	  date-published:: [[Nov 26th, 2023]]
 	- [Rek Bell — making a font](https://omnivore.app/me/rek-bell-making-a-font-18c0f1aa607)
 	  collapsed:: true
 	  site:: [kokorobot.ca](https://kokorobot.ca/site/making_a_font.html)

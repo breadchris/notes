@@ -58,6 +58,7 @@
 	- solve a murder mystery, with real world evidence
 	- ![asdf.jpg](../assets/asdf_1701126784223_0.jpg){:height 366, :width 603}
 	- Competitors were Cyber Security experts for a trial and would submit their findings report to the judge
+	- ![Screenshot 2023-11-27 at 3.16.40 PM.png](../assets/Screenshot_2023-11-27_at_3.16.40 PM_1701127020812_0.png){:height 468, :width 528}
 	- Judged by real DHS and Secret Service agents
 	- finalists would get scholarship money
 	- ![Facebook Photo.jpg](../assets/Facebook_Photo_1701126886784_0.jpg){:height 380, :width 622}

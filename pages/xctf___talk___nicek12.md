@@ -53,15 +53,18 @@
 - We did this at NYU
 	- For many years
 	- ![CSAW Brooklyn Polytechnic.jpg](../assets/CSAW_Brooklyn_Polytechnic_1701124718490_0.jpg)
-	- high schoolers from around the US would solve a "murder mystery" with real world evidence
+	- high schools from around the US would get flown to NYC
 	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
-	- Competitors were Cyber Security experts for a trial and would submit a
+	- solve a murder mystery, with real world evidence
+	- ![asdf.jpg](../assets/asdf_1701126784223_0.jpg){:height 366, :width 603}
+	- Competitors were Cyber Security experts for a trial and would submit their findings report to the judge
 	- Judged by real DHS and Secret Service agents
-	- run by student volunteers
 	- finalists would get scholarship money
+	- ![Facebook Photo.jpg](../assets/Facebook_Photo_1701126886784_0.jpg){:height 380, :width 622}
 	- competitors would become creators
 	- helped build cyber security programs at high schools
-- And we ran this at a community college
+	- And all of this was done by student volunteers
+- We ran this at a community college
 	- 7 years
 	- 200+ students every year
 	- Everyone looked forward to it every year

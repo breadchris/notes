@@ -2,8 +2,14 @@
 - Some history
 	- security is still very new
 	- ![catch-me.jpg](../assets/catch-me_1701124297453_0.jpg){:height 390, :width 262}
-	- "hacking" has only recently been accepted
+	- "hacking" has still only recently been accepted
 	- ![210139.webp](../assets/210139_1701124113889_0.webp){:height 581, :width 273}
+	- and so very few people really get this stuff
+	- ![Coding da Vinci Kultur Hackathon.jpg](../assets/Coding_da_Vinci_Kultur_Hackathon_1701124502794_0.jpg)
+	- but it is growing
+	- ![Defcon Conference Las Vegas.webp](../assets/Defcon_Conference_Las_Vegas_1701124452224_0.webp){:height 347, :width 532}
+	- and games are at the center
+	- ![Capture the Flag Vis.jpg](../assets/Capture_the_Flag_Vis_1701124540584_0.jpg)
 - How do you teach this stuff?
 	- inherently hard to teach
 	- ![Wargames Movie Poster.jpg](../assets/Wargames_Movie_Poster_1701124230393_0.jpg){:height 565, :width 357}
@@ -11,7 +17,10 @@
 	- ![Linux System Administration 1990.jpg](../assets/Linux_System_Administration_1990_1701123862218_0.jpg){:height 444, :width 307}
 	- But technology changes rapidly
 	- ![Capture-2023-11-27-142243.png](../assets/Capture-2023-11-27-142243_1701123776509_0.png){:height 396, :width 210}
+	- And what do you focus on?
 	- ![Security Mindmap.png](../assets/Security_Mindmap_1701123966048_0.png){:height 425, :width 562}
+	- > “The best defense is a good offense” - every football coach at some point
+	-
 - playing games
 	- Games teach in an imperfect way
 	- You accept you will not teach everything

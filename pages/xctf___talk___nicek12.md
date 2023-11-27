@@ -34,17 +34,21 @@
 	- But you will learn _how_ to learn
 	- Winning is the carrot on the stick to complete the game
 - How do you play these games?
-	- Mainly in the form of "Jeapordy-style" CTF (Capture the Flag)
+	- Attack and Defense
+	- ![Attack defense ructf.png](../assets/Attack_defense_ructf_1701125998991_0.png)
+	- Most realistic to how hacking is done in the real world
+	- Difficult to setup and run
+	- Most popular format is: "Jeapordy-style" CTF (Capture the Flag)
 	- ![Capture the Flag Security.jpg](../assets/Capture_the_Flag_Security_1701125701575_0.jpg)
 	- Exposes competitors to many different technologies
 	- Requires "deep learning"
 	- But it isn't perfect...
 	- Can be overwhelming
 	- Encourages "pattern matching"
-	- Attack and Defense
-	- miss out on many practical skills
-	- picoctf -> CMU
-	- high school CTFs -> TJ
+	- Notable CTFs for high schools:
+	- [picoctf](https://picoctf.org/) -> CMU
+	- [tjctf](https://tjctf.org/) -> Thomas Jefferson High School
+	-
 - what if hacking was just like the movies?
 	- {{video https://www.youtube.com/watch?v=Vxq9yj2pVWk}}
 - We did this at NYU

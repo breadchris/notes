@@ -1,8 +1,14 @@
 - How you can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
+- history
+	- security is very new
+	-
 - cyber education
 	- inherently hard to teach
 	- You can teach standards and protocols
-	-
+	- ![Linux System Administration 1990.jpg](../assets/Linux_System_Administration_1990_1701123862218_0.jpg){:height 444, :width 307}
+	- But technology changes rapidly
+	- ![Capture-2023-11-27-142243.png](../assets/Capture-2023-11-27-142243_1701123776509_0.png){:height 396, :width 210}
+	- ![Security Mindmap.png](../assets/Security_Mindmap_1701123966048_0.png){:height 425, :width 562}
 - playing games
 	- Games teach in an imperfect way
 	- You accept you will not teach everything

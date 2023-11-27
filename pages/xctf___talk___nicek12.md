@@ -75,7 +75,9 @@
 	- All skill levels
 	- Curriculum for teachers
 - This competition matters a lot
-	- A creative outlet for some really
+	- A creative outlet for some really smart people
+	- Inclusive
+	- Opens career options
 - The Story
 	- core concept of the competition
 	- cohesive
@@ -87,7 +89,9 @@
 		- Create
 			- ai mad lib
 - Challenges
-	- Connected
+	- Connected graph of evidence a competitor must move through
+	- ![Middle School Teaser Evidence Graph.png](../assets/Middle_School_Teaser_Evidence_Graph_1701128172638_0.png)
+	- ![MCPHSF 2023 Evidence Graph.png](../assets/MCPHSF_2023_Evidence_Graph_1701127971030_0.png){:height 326, :width 561}
 	- Do Now
 		- solve a challenge
 			- introduce the wiki

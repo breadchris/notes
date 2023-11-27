@@ -53,24 +53,23 @@
 - We did this at NYU
 	- For many years
 	- ![CSAW Brooklyn Polytechnic.jpg](../assets/CSAW_Brooklyn_Polytechnic_1701124718490_0.jpg)
-	- high schoolers from around the US would solve a "murder mystery" based on
+	- high schoolers from around the US would solve a "murder mystery" with real world evidence
 	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
+	- Competitors were Cyber Security experts for a trial and would submit a
+	- Judged by real DHS and Secret Service agents
 	- run by student volunteers
 	- finalists would get scholarship money
 	- competitors would become creators
 	- helped build cyber security programs at high schools
-- And we replicated this at a community college
+- And we ran this at a community college
 	- 7 years
 	- 200+ students every year
 	- Everyone looked forward to it every year
-	- student passion
-- xctf
+- And now we are bringing it to the internet
+	- [xctf](http://xctf.io/)
 	- 365 cyber security education
-	- different skill levels
-	- beginner
-	- intermediate
-	- expert
-	- curriculum for teachers
+	- All skill levels
+	- Curriculum for teachers
 - The Story
 	- core concept of the competition
 	- cohesive

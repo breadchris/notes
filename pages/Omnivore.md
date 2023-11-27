@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Rek Bell — making a font](https://omnivore.app/me/rek-bell-making-a-font-18c0f1aa607)
+	  collapsed:: true
+	  site:: [kokorobot.ca](https://kokorobot.ca/site/making_a_font.html)
+	  date-saved:: [[Nov 26th, 2023]]
 	- [udlbook](https://omnivore.app/me/udlbook-18c0d9251e3)
 	  collapsed:: true
 	  site:: [udlbook.github.io](https://udlbook.github.io/udlbook/)

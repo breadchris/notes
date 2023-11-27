@@ -74,6 +74,8 @@
 	- 365 cyber security education
 	- All skill levels
 	- Curriculum for teachers
+- This competition matters a lot
+	- A creative outlet for some really
 - The Story
 	- core concept of the competition
 	- cohesive
@@ -85,6 +87,7 @@
 		- Create
 			- ai mad lib
 - Challenges
+	- Connected
 	- Do Now
 		- solve a challenge
 			- introduce the wiki

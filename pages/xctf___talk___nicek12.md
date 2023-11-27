@@ -32,11 +32,16 @@
 	- Games teach in an imperfect way
 	- You accept you will not learn everything
 	- But you will learn _how_ to learn
-	- A goal
-- cyber game styles
-	- CTF
-	- pattern matching
-	- not inclusive
+	- Winning is the carrot on the stick to complete the game
+- How do you play these games?
+	- Mainly in the form of "Jeapordy-style" CTF (Capture the Flag)
+	- ![Capture the Flag Security.jpg](../assets/Capture_the_Flag_Security_1701125701575_0.jpg)
+	- Exposes competitors to many different technologies
+	- Requires "deep learning"
+	- But it isn't perfect...
+	- Can be overwhelming
+	- Encourages "pattern matching"
+	- Attack and Defense
 	- miss out on many practical skills
 	- picoctf -> CMU
 	- high school CTFs -> TJ
@@ -59,6 +64,10 @@
 	- student passion
 - xctf
 	- 365 cyber security education
+	- different skill levels
+	- beginner
+	- intermediate
+	- expert
 	- curriculum for teachers
 - The Story
 	- core concept of the competition

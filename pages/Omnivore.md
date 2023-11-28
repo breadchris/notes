@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [A Type of Programming](https://omnivore.app/me/a-type-of-programming-18c140dcc63)
+	  collapsed:: true
+	  site:: [atypeofprogramming.com](https://atypeofprogramming.com)
+	  author:: Renzo Carbonara
+	  date-saved:: [[Nov 27th, 2023]]
 	- [Starting Your Computer Music Journey with Clojure and Overtone in Emacs | Hacker News](https://omnivore.app/me/starting-your-computer-music-journey-with-clojure-and-overtone-i-18c13a03619)
 	  collapsed:: true
 	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=30971282)

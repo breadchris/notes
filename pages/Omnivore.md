@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Starting Your Computer Music Journey with Clojure and Overtone in Emacs | Hacker News](https://omnivore.app/me/starting-your-computer-music-journey-with-clojure-and-overtone-i-18c13a03619)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=30971282)
+	  labels:: [[programming]][[music]]
+	  date-saved:: [[Nov 27th, 2023]]
+	- [QaJdHJAq8](https://omnivore.app/me/qa-jd-hj-aq-8-18c1394834f)
+	  collapsed:: true
+	  site:: [hydra.ojack.xyz](https://hydra.ojack.xyz/?sketch_id=khoparzi_1)
+	  labels:: [[music]]
+	  date-saved:: [[Nov 27th, 2023]]
 	- [Get in Zoomer, We're Saving React — Acko.net](https://omnivore.app/me/get-in-zoomer-we-re-saving-react-acko-net-18c11f1a595)
 	  collapsed:: true
 	  site:: [Acko.net](https://acko.net/blog/get-in-zoomer-we-re-saving-react/)

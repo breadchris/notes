@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Estuary](https://omnivore.app/me/estuary-18c1c505300)
+	  collapsed:: true
+	  site:: [estuary.mcmaster.ca](https://estuary.mcmaster.ca)
+	  labels:: [[coding/live]]
+	  date-saved:: [[Nov 29th, 2023]]
+	- [XXIIVV — orca](https://omnivore.app/me/xxiivv-orca-18c1c4a6306)
+	  collapsed:: true
+	  site:: [wiki.xxiivv.com](https://wiki.xxiivv.com/site/orca.html)
+	  labels:: [[coding/live]]
+	  date-saved:: [[Nov 29th, 2023]]
 	- [Dev tools: The ex-Googler guide](https://omnivore.app/me/dev-tools-the-ex-googler-guide-18c1a0e391f)
 	  collapsed:: true
 	  site:: [Sourcegraph](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)

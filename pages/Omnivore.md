@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Dev tools: The ex-Googler guide](https://omnivore.app/me/dev-tools-the-ex-googler-guide-18c1a0e391f)
+	  collapsed:: true
+	  site:: [Sourcegraph](https://sourcegraph.com/blog/ex-googler-guide-dev-tools)
+	  author:: About the author
+	  date-saved:: [[Nov 28th, 2023]]
+	  date-published:: [[Nov 24th, 2020]]
 	- [How I repainted Bootstrap without SASS 👨🏼‍🎨 | by Herman Starikov | Medium](https://omnivore.app/me/how-i-repainted-bootstrap-without-sass-by-herman-starikov-medium-18c194abdc6)
 	  collapsed:: true
 	  site:: [Medium](https://medium.com/@Hermanhasawish/how-i-repainted-bootstrap-without-sass-d789f41aa74b)

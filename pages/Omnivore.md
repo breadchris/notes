@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [ugh.book](https://omnivore.app/me/ugh-18c1d06b199)
+	  collapsed:: true
+	  site:: [web.mit.edu](https://web.mit.edu/~simsong/www/ugh.pdf)
+	  author:: simsong
+	  date-saved:: [[Nov 29th, 2023]]
 	- [Estuary](https://omnivore.app/me/estuary-18c1c505300)
 	  collapsed:: true
 	  site:: [estuary.mcmaster.ca](https://estuary.mcmaster.ca)

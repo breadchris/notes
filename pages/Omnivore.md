@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Mixing React and htmx - Christopher Prohm](https://omnivore.app/me/mixing-react-and-htmx-christopher-prohm-18c18d97bef)
+	  collapsed:: true
+	  site:: [cprohm.de](https://cprohm.de/blog/htmx-react/)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 28th, 2023]]
+	  date-published:: [[Oct 17th, 2022]]
 	- [A Type of Programming](https://omnivore.app/me/a-type-of-programming-18c140dcc63)
 	  collapsed:: true
 	  site:: [atypeofprogramming.com](https://atypeofprogramming.com)

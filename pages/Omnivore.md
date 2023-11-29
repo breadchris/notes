@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Manipulating samples - TidalCycles userbase](https://omnivore.app/me/manipulating-samples-tidal-cycles-userbase-18c18fb13eb)
+	  collapsed:: true
+	  site:: [userbase.tidalcycles.org](https://userbase.tidalcycles.org/Manipulating_samples.html)
+	  date-saved:: [[Nov 28th, 2023]]
 	- [Mixing React and htmx - Christopher Prohm](https://omnivore.app/me/mixing-react-and-htmx-christopher-prohm-18c18d97bef)
 	  collapsed:: true
 	  site:: [cprohm.de](https://cprohm.de/blog/htmx-react/)

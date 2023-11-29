@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [How I repainted Bootstrap without SASS 👨🏼‍🎨 | by Herman Starikov | Medium](https://omnivore.app/me/how-i-repainted-bootstrap-without-sass-by-herman-starikov-medium-18c194abdc6)
+	  collapsed:: true
+	  site:: [Medium](https://medium.com/@Hermanhasawish/how-i-repainted-bootstrap-without-sass-d789f41aa74b)
+	  author:: Herman Starikov
+	  date-saved:: [[Nov 28th, 2023]]
+	  date-published:: [[Dec 4th, 2018]]
 	- [Manipulating samples - TidalCycles userbase](https://omnivore.app/me/manipulating-samples-tidal-cycles-userbase-18c18fb13eb)
 	  collapsed:: true
 	  site:: [userbase.tidalcycles.org](https://userbase.tidalcycles.org/Manipulating_samples.html)

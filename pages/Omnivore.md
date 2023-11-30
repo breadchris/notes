@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Friendly reminder on leaking classified documents: [serious] - Game Discussion / General Discussion - War Thunder — official forum](https://omnivore.app/me/friendly-reminder-on-leaking-classified-documents-serious-game-d-18c1e0abfc5)
+	  collapsed:: true
+	  site:: [War Thunder — official forum](https://forum.warthunder.com/t/friendly-reminder-on-leaking-classified-documents-serious/26818)
+	  date-saved:: [[Nov 29th, 2023]]
+	  date-published:: [[Sep 13th, 2023]]
+	- [War Thunder Forums Leak Military Documents For The Third Time In A Month](https://omnivore.app/me/war-thunder-forums-leak-military-documents-for-the-third-time-in-18c1e0a4e48)
+	  collapsed:: true
+	  site:: [TheGamer](https://www.thegamer.com/war-thunder-forums-leak-military-documents-third-time/)
+	  author:: Joshua Robertson
+	  date-saved:: [[Nov 29th, 2023]]
+	  date-published:: [[Sep 28th, 2023]]
 	- [Building a Replica Hackers Pager](https://omnivore.app/me/building-a-replica-hackers-pager-18c1d721bdd)
 	  collapsed:: true
 	  site:: [famicoman.com](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)

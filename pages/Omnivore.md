@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Building a Replica Hackers Pager](https://omnivore.app/me/building-a-replica-hackers-pager-18c1d721bdd)
+	  collapsed:: true
+	  site:: [famicoman.com](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
+	  date-saved:: [[Nov 29th, 2023]]
+	  date-published:: [[Nov 5th, 2018]]
 	- [ugh.book](https://omnivore.app/me/ugh-18c1d06b199)
 	  collapsed:: true
 	  site:: [web.mit.edu](https://web.mit.edu/~simsong/www/ugh.pdf)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Edbrowse, a Command Line Editor Browser](https://omnivore.app/me/edbrowse-a-command-line-editor-browser-18c21af63fc)
+	  collapsed:: true
+	  site:: [edbrowse.org](https://edbrowse.org)
+	  labels:: [[programming]]
+	  date-saved:: [[Nov 30th, 2023]]
 	- [100R — cooking](https://omnivore.app/me/100-r-cooking-18c1f1f6353)
 	  collapsed:: true
 	  site:: [100r.co](https://100r.co/site/cooking.html)

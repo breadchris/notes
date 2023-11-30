@@ -1,3 +1,4 @@
+- #justforconger This is the textbook you should read
 - How you can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
 - Some history
 	- security is still very new

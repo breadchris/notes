@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [10 Weird HTML Hacks That Shaped The Internet](https://omnivore.app/me/10-weird-html-hacks-that-shaped-the-internet-18c26fa0c4d)
+	  collapsed:: true
+	  site:: [Tedium: The Dull Side of the Internet.](https://tedium.co/2023/11/24/weird-html-hacks-history/)
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 1st, 2023]]
+	  date-published:: [[Nov 23rd, 2023]]
+	- [Code is run more than read](https://omnivore.app/me/code-is-run-more-than-read-18c26e10af5)
+	  collapsed:: true
+	  site:: [olano.dev](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+	  author:: Facundo Olano
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 1st, 2023]]
+	  date-published:: [[Nov 29th, 2023]]
 	- [Edbrowse, a Command Line Editor Browser](https://omnivore.app/me/edbrowse-a-command-line-editor-browser-18c21af63fc)
 	  collapsed:: true
 	  site:: [edbrowse.org](https://edbrowse.org)

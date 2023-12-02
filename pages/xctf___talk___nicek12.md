@@ -21,11 +21,14 @@
 			- College Students -- built and scored through collaboration with professionals
 			- Problem: Scaling!
 			- Solution: xctf  - with the goal to double participation next year!
-- Solve your own...
-	- TODO URLs
+- Solve...
+	- https://nicek12.xctf.io
 - View High School SuperTeam writeup
-- Make your own!
 - Debrief
+- Make your own!
+- Code
+	- https://github.com/xctf-io/xctf
+- Another version of the presentation!
 - Some history
 	- security is still very new
 	- ![catch-me.jpg](../assets/catch-me_1701124297453_0.jpg){:height 390, :width 262}

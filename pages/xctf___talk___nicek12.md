@@ -26,6 +26,9 @@
 - View High School SuperTeam writeup
 - Debrief
 - Make your own!
+	- story
+		- ChatGPT
+	- building challenges
 - Code
 	- https://github.com/xctf-io/xctf
 - Another version of the presentation!

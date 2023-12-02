@@ -5,9 +5,13 @@
 - Mongtgomery County Public Schools - High School Forensics (MCPSHSF)
 	- https://mcpshsf.com
 		- 2023 Walkthrough (Evidence map and 2-3 challenges)
-		- flags and writeups
-		- not Jeopardy style
-		- https://picoctf.com (CMU)
+		- flags and writeup to "stand in court"
+		- analysis
+		- communication
+		- multiple choice _and_ free response
+		- not just multiple choice
+		- "Jeopardy" style
+		- https://picoctf.com - Carnegie Mellon University (CMU)
 	- History of MCPSHSF
 		- 10 years of competing in NYU-Poly CSAW High School Forensics
 			- 50 to 100 participants in online - only 1 team to finals
@@ -18,6 +22,7 @@
 			- Problem: Scaling!
 			- Solution: xctf  - with the goal to double participation next year!
 - Solve your own...
+	- TODO URLs
 - View High School SuperTeam writeup
 - Make your own!
 - Debrief

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [The Neglected Books Page - www.NeglectedBooks.com: Where forgotten books are remembered](https://omnivore.app/me/the-neglected-books-page-www-neglected-books-com-where-forgotten-18c287b72a2)
+	  collapsed:: true
+	  site:: [The Neglected Books Page](https://neglectedbooks.com)
+	  date-saved:: [[Dec 1st, 2023]]
+	  date-published:: [[Jun 7th, 2023]]
 	- [10 Weird HTML Hacks That Shaped The Internet](https://omnivore.app/me/10-weird-html-hacks-that-shaped-the-internet-18c26fa0c4d)
 	  collapsed:: true
 	  site:: [Tedium: The Dull Side of the Internet.](https://tedium.co/2023/11/24/weird-html-hacks-history/)

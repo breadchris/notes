@@ -1,12 +1,13 @@
-- #justforconger This is the textbook you should read
-- How you can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
-- Participants perspective on current competitions
-- How can games fit into and extend your curriculum
+- How **you** can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
+- What competitions do you know about?
+- Do your students participate in any?
+- How can games fit into and extend your curriculum?
 - Mongtgomery County Public Schools - High School Forensics (MCPSHSF)
 	- https://mcpshsf.com
-		- website
 		- 2023 Walkthrough (Evidence map and 2-3 challenges)
-		- flags and writeups (not Jeopardy style - pico.ctf)
+		- flags and writeups
+		- not Jeopardy style
+		- https://picoctf.com (CMU)
 	- History of MCPSHSF
 		- 10 years of competing in NYU-Poly CSAW High School Forensics
 			- 50 to 100 participants in online - only 1 team to finals

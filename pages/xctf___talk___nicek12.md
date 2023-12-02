@@ -97,7 +97,7 @@
 	- high schools from around the US would get flown to NYC
 	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
 	- solve a murder mystery, with real world evidence
-	- ![asdf.jpg](../assets/asdf_1701126784223_0.jpg){:height 366, :width 603}
+	- ![asdf.jpg](../assets/asdf_1701126784223_0.jpg){:height 197, :width 253}
 	- Competitors were Cyber Security experts for a trial and would submit their findings report to the judge
 	- ![Screenshot 2023-11-27 at 3.16.40 PM.png](../assets/Screenshot_2023-11-27_at_3.16.40 PM_1701127020812_0.png){:height 468, :width 528}
 	- Judged by real DHS and Secret Service agents

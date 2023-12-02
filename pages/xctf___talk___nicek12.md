@@ -50,7 +50,7 @@
 	- but it is growing
 	- ![Defcon Conference Las Vegas.webp](../assets/Defcon_Conference_Las_Vegas_1701124452224_0.webp){:height 347, :width 532}
 	- and games are at the center
-	- ![Capture the Flag Vis.jpg](../assets/Capture_the_Flag_Vis_1701124540584_0.jpg)
+	- ![Capture the Flag Vis.jpg](../assets/Capture_the_Flag_Vis_1701124540584_0.jpg){:height 187, :width 300}
 - How do you teach this stuff?
 	- inherently hard to teach
 	- ![Wargames Movie Poster.jpg](../assets/Wargames_Movie_Poster_1701124230393_0.jpg){:height 565, :width 357}

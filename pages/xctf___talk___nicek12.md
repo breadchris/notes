@@ -2,6 +2,8 @@
 - What competitions do you know about?
 - Do your students participate in any?
 - How can games fit into and extend your curriculum?
+	- a game does not _reliably_ teach concepts
+	- it incentivizes learning
 - Mongtgomery County Public Schools - High School Forensics (MCPSHSF)
 	- https://mcpshsf.com
 		- 2023 Walkthrough (Evidence map and 2-3 challenges)

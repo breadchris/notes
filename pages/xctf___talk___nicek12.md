@@ -3,24 +3,23 @@
 - Participants perspective on current competitions
 - How can games fit into and extend your curriculum
 - Mongtgomery County Public Schools - High School Forensics (MCPSHSF)
-  	- mcpshsf.com
-  	  	- website
-  	  	- 2023 Walkthrough (Evidence map and 2-3 challenges)
-	  	- flags and writeups (not Jeopardy style - pico.ctf)
-  	- History of MCPSHSF
-  	  	- 10 years of competing in NYU-Poly CSAW High School Forensics
-  	  		- 50 to 100 participants in online - only 1 team to finals
-  	  		- Montgomery College needed a competition
-  	  		- Chris / NYU  --- MC - MCPS
-  	  	 - High School Students started their Professional network then!
-  	  	 - College Students -- built and scored through collaboration with professionals
-  	  	 - Problem: Scaling!
-  	  	 - Solution: xctf  - with the goal to double participation next year!
+	- https://mcpshsf.com
+		- website
+		- 2023 Walkthrough (Evidence map and 2-3 challenges)
+		- flags and writeups (not Jeopardy style - pico.ctf)
+	- History of MCPSHSF
+		- 10 years of competing in NYU-Poly CSAW High School Forensics
+			- 50 to 100 participants in online - only 1 team to finals
+			- Montgomery College needed a competition
+			- Chris / NYU  --- MC - MCPS
+			- High School Students started their Professional network then!
+			- College Students -- built and scored through collaboration with professionals
+			- Problem: Scaling!
+			- Solution: xctf  - with the goal to double participation next year!
 - Solve your own...
 - View High School SuperTeam writeup
 - Make your own!
 - Debrief
-
 - Some history
 	- security is still very new
 	- ![catch-me.jpg](../assets/catch-me_1701124297453_0.jpg){:height 390, :width 262}

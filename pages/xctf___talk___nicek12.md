@@ -29,6 +29,10 @@
 	- https://nicek12.xctf.io
 - View High School SuperTeam writeup
 - Debrief
+	- creative outlet for some really smart people
+	- inclusive
+	- opens career options
+	- xctf will be 365 cyber education
 - Make your own!
 	- story
 		- ChatGPT

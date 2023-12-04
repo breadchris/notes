@@ -1,4 +1,46 @@
 ## 🔖 Articles
+	- [APL-hist](https://omnivore.app/me/apl-hist-18c31419880)
+	  collapsed:: true
+	  site:: [ed-thelen.org](https://ed-thelen.org/comp-hist/APL-hist.html)
+	  labels:: [[computers]][[history]]
+	  date-saved:: [[Dec 3rd, 2023]]
+	- [Websites Similar To simonwillison.net](https://omnivore.app/me/websites-similar-to-simonwillison-net-18c30bdf20c)
+	  collapsed:: true
+	  site:: [explore2.marginalia.nu](https://explore2.marginalia.nu/search?domain=simonwillison.net)
+	  labels:: [[programming]][[search]]
+	  date-saved:: [[Dec 3rd, 2023]]
+	- [LLM Visualization](https://omnivore.app/me/llm-visualization-18c30bc13fd)
+	  collapsed:: true
+	  site:: [bbycroft.net](https://bbycroft.net/llm)
+	  labels:: [[ai]]
+	  date-saved:: [[Dec 3rd, 2023]]
+	- [You don't need JavaScript for that - HTMHell](https://omnivore.app/me/you-don-t-need-java-script-for-that-htm-hell-18c2ccc66aa)
+	  collapsed:: true
+	  site:: [You don't need JavaScript for that - HTMHell](https://www.htmhell.dev/adventcalendar/2023/2/)
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 2nd, 2023]]
+	  date-published:: [[Dec 1st, 2023]]
+	- [POV Candle - mitxela.com](https://omnivore.app/me/pov-candle-mitxela-com-18c2ccadfab)
+	  collapsed:: true
+	  site:: [mitxela.com](https://mitxela.com/projects/candle)
+	  date-saved:: [[Dec 2nd, 2023]]
+	- [AmrDeveloper/GQL: Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions](https://omnivore.app/me/amr-developer-gql-git-query-language-is-a-sql-like-language-to-p-18c2c3298ab)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/AmrDeveloper/GQL)
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 2nd, 2023]]
+	- [Why Are Golang Heaps So Complicated | DoltHub Blog](https://omnivore.app/me/why-are-golang-heaps-so-complicated-dolt-hub-blog-18c2c31f166)
+	  collapsed:: true
+	  site:: [DoltHub](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/)
+	  author:: Max Hoffman
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 2nd, 2023]]
+	  date-published:: [[Nov 30th, 2023]]
+	- [Chocolate Making](https://omnivore.app/me/https-www-bynyk-com-courses-chocolate-making-18c2c06d997)
+	  collapsed:: true
+	  site:: [bynyk.com](https://www.bynyk.com/courses/chocolate-making)
+	  labels:: [[cooking]]
+	  date-saved:: [[Dec 2nd, 2023]]
 	- [The Neglected Books Page - www.NeglectedBooks.com: Where forgotten books are remembered](https://omnivore.app/me/the-neglected-books-page-www-neglected-books-com-where-forgotten-18c287b72a2)
 	  collapsed:: true
 	  site:: [The Neglected Books Page](https://neglectedbooks.com)

@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Freeing Ourselves From The Clutches Of Big Tech - NOEMA](https://omnivore.app/me/freeing-ourselves-from-the-clutches-of-big-tech-noema-18c3b00ff5e)
+	  collapsed:: true
+	  site:: [NOEMA](https://www.noemamag.com/freeing-ourselves-from-the-clutches-of-big-tech/)
+	  author:: Noema editors
+	  labels:: [[internet]]
+	  date-saved:: [[Dec 5th, 2023]]
+	- [Label Errors and Confident Learning · Introduction to Data-Centric AI](https://omnivore.app/me/label-errors-and-confident-learning-introduction-to-data-centric-18c3abc783f)
+	  collapsed:: true
+	  site:: [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/lectures/label-errors/)
+	  labels:: [[ai]][[ai/train]]
+	  date-saved:: [[Dec 5th, 2023]]
+	- [Fearless FFI: Memory Safety, Safer Dependencies, and Supply-Chain Attack Mitigation](https://omnivore.app/me/fearless-ffi-memory-safety-safer-dependencies-and-supply-chain-a-18c38710ac4)
+	  collapsed:: true
+	  site:: [verdagon.dev](https://verdagon.dev/blog/fearless-ffi)
+	  author:: Evan Ovadia
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 4th, 2023]]
+	  date-published:: [[Jun 20th, 2022]]
 	- [APL-hist](https://omnivore.app/me/apl-hist-18c31419880)
 	  collapsed:: true
 	  site:: [ed-thelen.org](https://ed-thelen.org/comp-hist/APL-hist.html)
@@ -67,27 +85,25 @@
 	- [100R — cooking](https://omnivore.app/me/100-r-cooking-18c1f1f6353)
 	  collapsed:: true
 	  site:: [100r.co](https://100r.co/site/cooking.html)
+	  labels:: [[cooking]]
 	  date-saved:: [[Nov 29th, 2023]]
 	- [Friendly reminder on leaking classified documents: [serious] - Game Discussion / General Discussion - War Thunder — official forum](https://omnivore.app/me/friendly-reminder-on-leaking-classified-documents-serious-game-d-18c1e0abfc5)
 	  collapsed:: true
 	  site:: [War Thunder — official forum](https://forum.warthunder.com/t/friendly-reminder-on-leaking-classified-documents-serious/26818)
+	  labels:: [[funny]]
 	  date-saved:: [[Nov 29th, 2023]]
 	  date-published:: [[Sep 13th, 2023]]
-	- [War Thunder Forums Leak Military Documents For The Third Time In A Month](https://omnivore.app/me/war-thunder-forums-leak-military-documents-for-the-third-time-in-18c1e0a4e48)
-	  collapsed:: true
-	  site:: [TheGamer](https://www.thegamer.com/war-thunder-forums-leak-military-documents-third-time/)
-	  author:: Joshua Robertson
-	  date-saved:: [[Nov 29th, 2023]]
-	  date-published:: [[Sep 28th, 2023]]
 	- [Building a Replica Hackers Pager](https://omnivore.app/me/building-a-replica-hackers-pager-18c1d721bdd)
 	  collapsed:: true
 	  site:: [famicoman.com](https://famicoman.com/2018/11/06/building-a-replica-hackers-pager/)
+	  labels:: [[cosplay]][[hacker]]
 	  date-saved:: [[Nov 29th, 2023]]
 	  date-published:: [[Nov 5th, 2018]]
 	- [ugh.book](https://omnivore.app/me/ugh-18c1d06b199)
 	  collapsed:: true
 	  site:: [web.mit.edu](https://web.mit.edu/~simsong/www/ugh.pdf)
 	  author:: simsong
+	  labels:: [[books]][[funny]][[linux]]
 	  date-saved:: [[Nov 29th, 2023]]
 	- [Estuary](https://omnivore.app/me/estuary-18c1c505300)
 	  collapsed:: true
@@ -118,6 +134,7 @@
 	- [Manipulating samples - TidalCycles userbase](https://omnivore.app/me/manipulating-samples-tidal-cycles-userbase-18c18fb13eb)
 	  collapsed:: true
 	  site:: [userbase.tidalcycles.org](https://userbase.tidalcycles.org/Manipulating_samples.html)
+	  labels:: [[programming]][[music]]
 	  date-saved:: [[Nov 28th, 2023]]
 	- [Mixing React and htmx - Christopher Prohm](https://omnivore.app/me/mixing-react-and-htmx-christopher-prohm-18c18d97bef)
 	  collapsed:: true

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Books - Modernist Cuisine](https://omnivore.app/me/books-modernist-cuisine-18c41163e37)
+	  collapsed:: true
+	  site:: [Modernist Cuisine](https://modernistcuisine.com/books/)
+	  date-saved:: [[Dec 6th, 2023]]
 	- [abracadabra: How does Shazam work? - Cameron MacLeod](https://omnivore.app/me/abracadabra-how-does-shazam-work-cameron-mac-leod-18c3dab1213)
 	  collapsed:: true
 	  site:: [cameronmacleod.com](https://www.cameronmacleod.com/blog/how-does-shazam-work)

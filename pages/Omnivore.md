@@ -1,4 +1,43 @@
 ## 🔖 Articles
+	- [abracadabra: How does Shazam work? - Cameron MacLeod](https://omnivore.app/me/abracadabra-how-does-shazam-work-cameron-mac-leod-18c3dab1213)
+	  collapsed:: true
+	  site:: [cameronmacleod.com](https://www.cameronmacleod.com/blog/how-does-shazam-work)
+	  author:: Cameron MacLeod
+	  labels:: [[programming]][[music]]
+	  date-saved:: [[Dec 5th, 2023]]
+	  date-published:: [[Feb 18th, 2022]]
+	- [Why I Don't Like Tailwind CSS | Aleksandr Hovhannisyan](https://omnivore.app/me/why-i-don-t-like-tailwind-css-aleksandr-hovhannisyan-18c3d0b25f5)
+	  collapsed:: true
+	  site:: [aleksandrhovhannisyan.com](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/)
+	  author:: Aleksandr Hovhannisyan
+	  date-saved:: [[Dec 5th, 2023]]
+	  date-published:: [[Jan 30th, 2021]]
+	- [CSS Utility Classes and "Separation of Concerns"](https://omnivore.app/me/css-utility-classes-and-separation-of-concerns-18c3d0ae8e5)
+	  collapsed:: true
+	  site:: [adamwathan.me](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+	  labels:: [[programming]][[css]]
+	  date-saved:: [[Dec 5th, 2023]]
+	  date-published:: [[Aug 6th, 2017]]
+	- [Tailwind, and the death of web craftsmanship • pdx.su](https://omnivore.app/me/tailwind-and-the-death-of-web-craftsmanship-pdx-su-18c3d08c692)
+	  collapsed:: true
+	  site:: [pdx.su](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
+	  author:: Jeff Sandberg
+	  labels:: [[programming]][[css]]
+	  date-saved:: [[Dec 5th, 2023]]
+	  date-published:: [[Jul 25th, 2023]]
+	- [What working with Tailwind CSS every day for 2 years looks like — Mosaad](https://omnivore.app/me/what-working-with-tailwind-css-every-day-for-2-years-looks-like--18c3d07c9dd)
+	  collapsed:: true
+	  site:: [Mosaad](https://www.themosaad.com/blog/two-years-of-tailwind-css)
+	  labels:: [[programming]][[css]]
+	  date-saved:: [[Dec 5th, 2023]]
+	  date-published:: [[Nov 27th, 2022]]
+	- [iMessage, explained - JJTech](https://omnivore.app/me/i-message-explained-jj-tech-18c3cdd8f49)
+	  collapsed:: true
+	  site:: [JJTech](https://jjtech.dev/reverse-engineering/imessage-explained/)
+	  author:: JJTech
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 5th, 2023]]
+	  date-published:: [[Aug 2nd, 2023]]
 	- [Freeing Ourselves From The Clutches Of Big Tech - NOEMA](https://omnivore.app/me/freeing-ourselves-from-the-clutches-of-big-tech-noema-18c3b00ff5e)
 	  collapsed:: true
 	  site:: [NOEMA](https://www.noemamag.com/freeing-ourselves-from-the-clutches-of-big-tech/)

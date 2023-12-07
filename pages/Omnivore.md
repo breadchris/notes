@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [SVG Tutorial](https://omnivore.app/me/svg-tutorial-18c4554b005)
+	  collapsed:: true
+	  site:: [SVG Tutorial](https://svg-tutorial.com)
+	  labels:: [[learning]][[programming]]
+	  date-saved:: [[Dec 7th, 2023]]
+	- [How Google takes the pain out of code reviews, with 97% dev satisfaction](https://omnivore.app/me/how-google-takes-the-pain-out-of-code-reviews-with-97-dev-satisf-18c45422396)
+	  collapsed:: true
+	  site:: [Engineer’s Codex](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
+	  author:: Engineer’s Codex
+	  date-saved:: [[Dec 7th, 2023]]
+	  date-published:: [[Dec 3rd, 2023]]
+	- [Messenger End-to-End Encryption Overview](https://omnivore.app/me/messenger-end-to-end-encryption-overview-12-6-2023-18c453d5b11)
+	  site:: [engineering.fb.com](https://engineering.fb.com/wp-content/uploads/2023/12/MessengerEnd-to-EndEncryptionOverview_12-6-2023.pdf)
+	  labels:: [[programming]][[crypto]]
+	  date-saved:: [[Dec 7th, 2023]]
+	  collapsed:: true
 	- [Browsing the Eastern Side of the Personal Web](https://omnivore.app/me/browsing-the-eastern-side-of-the-personal-web-18c43368288)
 	  collapsed:: true
 	  site:: [bikobatanari.art](https://www.bikobatanari.art/posts/2023/east-west-website-culture)

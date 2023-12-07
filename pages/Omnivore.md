@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Browsing the Eastern Side of the Personal Web](https://omnivore.app/me/browsing-the-eastern-side-of-the-personal-web-18c43368288)
+	  collapsed:: true
+	  site:: [bikobatanari.art](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
+	  date-saved:: [[Dec 6th, 2023]]
 	- [Books - Modernist Cuisine](https://omnivore.app/me/books-modernist-cuisine-18c41163e37)
 	  collapsed:: true
 	  site:: [Modernist Cuisine](https://modernistcuisine.com/books/)

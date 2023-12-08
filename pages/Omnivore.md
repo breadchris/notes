@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Functional CSS Tabs Revisited | CSS-Tricks - CSS-Tricks](https://omnivore.app/me/functional-css-tabs-revisited-css-tricks-css-tricks-18c4678dbec)
+	  collapsed:: true
+	  site:: [CSS-Tricks](https://css-tricks.com/functional-css-tabs-revisited/)
+	  author:: Chris Coyier
+	  labels:: [[css]]
+	  date-saved:: [[Dec 7th, 2023]]
+	  date-published:: [[Aug 23rd, 2011]]
+	- [Inclusive Components](https://omnivore.app/me/inclusive-components-18c467787bf)
+	  collapsed:: true
+	  site:: [Inclusive Components](https://inclusive-components.design)
+	  labels:: [[css]]
+	  date-saved:: [[Dec 7th, 2023]]
+	  date-published:: [[Mar 30th, 2017]]
 	- [SVG Tutorial](https://omnivore.app/me/svg-tutorial-18c4554b005)
 	  collapsed:: true
 	  site:: [SVG Tutorial](https://svg-tutorial.com)
@@ -8,6 +21,7 @@
 	  collapsed:: true
 	  site:: [Engineer’s Codex](https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of)
 	  author:: Engineer’s Codex
+	  labels:: [[team]][[programming]]
 	  date-saved:: [[Dec 7th, 2023]]
 	  date-published:: [[Dec 3rd, 2023]]
 	- [Messenger End-to-End Encryption Overview](https://omnivore.app/me/messenger-end-to-end-encryption-overview-12-6-2023-18c453d5b11)
@@ -18,10 +32,12 @@
 	- [Browsing the Eastern Side of the Personal Web](https://omnivore.app/me/browsing-the-eastern-side-of-the-personal-web-18c43368288)
 	  collapsed:: true
 	  site:: [bikobatanari.art](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
+	  labels:: [[internet]]
 	  date-saved:: [[Dec 6th, 2023]]
 	- [Books - Modernist Cuisine](https://omnivore.app/me/books-modernist-cuisine-18c41163e37)
 	  collapsed:: true
 	  site:: [Modernist Cuisine](https://modernistcuisine.com/books/)
+	  labels:: [[books]][[cooking]]
 	  date-saved:: [[Dec 6th, 2023]]
 	- [abracadabra: How does Shazam work? - Cameron MacLeod](https://omnivore.app/me/abracadabra-how-does-shazam-work-cameron-mac-leod-18c3dab1213)
 	  collapsed:: true
@@ -209,6 +225,7 @@
 	  collapsed:: true
 	  site:: [atypeofprogramming.com](https://atypeofprogramming.com)
 	  author:: Renzo Carbonara
+	  labels:: [[programming/functional]]
 	  date-saved:: [[Nov 27th, 2023]]
 	- [Starting Your Computer Music Journey with Clojure and Overtone in Emacs | Hacker News](https://omnivore.app/me/starting-your-computer-music-journey-with-clojure-and-overtone-i-18c13a03619)
 	  collapsed:: true

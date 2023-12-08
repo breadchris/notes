@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Practical Ways To Increase Product Velocity | Stay SaaSy](https://omnivore.app/me/practical-ways-to-increase-product-velocity-stay-saa-sy-18c4af14ebe)
+	  collapsed:: true
+	  site:: [Stay SaaSy](https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html)
+	  date-saved:: [[Dec 8th, 2023]]
+	  date-published:: [[Dec 6th, 2023]]
 	- [V8 Sandbox - Glossary](https://omnivore.app/me/v-8-sandbox-glossary-18c4a75def6)
 	  collapsed:: true
 	  site:: [docs.google.com](https://docs.google.com/document/u/0/d/10ZVrH2m_cbsjhZmjnWd4K5jpEHWCLourq2dulwN8elI/mobilebasic)

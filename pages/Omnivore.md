@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [V8 Sandbox - Glossary](https://omnivore.app/me/v-8-sandbox-glossary-18c4a75def6)
+	  collapsed:: true
+	  site:: [docs.google.com](https://docs.google.com/document/u/0/d/10ZVrH2m_cbsjhZmjnWd4K5jpEHWCLourq2dulwN8elI/mobilebasic)
+	  date-saved:: [[Dec 8th, 2023]]
 	- [How Much Land Does a Man Need? by Leo Tolstoy](https://omnivore.app/me/how-much-land-does-a-man-need-by-leo-tolstoy-18c4820a3fd)
 	  collapsed:: true
 	  site:: [online-literature.com](https://www.online-literature.com/tolstoy/2738/)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [How Much Land Does a Man Need? by Leo Tolstoy](https://omnivore.app/me/how-much-land-does-a-man-need-by-leo-tolstoy-18c4820a3fd)
+	  collapsed:: true
+	  site:: [online-literature.com](https://www.online-literature.com/tolstoy/2738/)
+	  date-saved:: [[Dec 7th, 2023]]
 	- [Functional CSS Tabs Revisited | CSS-Tricks - CSS-Tricks](https://omnivore.app/me/functional-css-tabs-revisited-css-tricks-css-tricks-18c4678dbec)
 	  collapsed:: true
 	  site:: [CSS-Tricks](https://css-tricks.com/functional-css-tabs-revisited/)

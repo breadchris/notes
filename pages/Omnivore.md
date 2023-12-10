@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Things I learned from teaching](https://omnivore.app/me/things-i-learned-from-teaching-18c54afafb6)
+	  collapsed:: true
+	  site:: [claytonwramsey.github.io](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
+	  author:: Clayton Ramsey
+	  labels:: [[learning]][[programming]][[teaching]]
+	  date-saved:: [[Dec 10th, 2023]]
+	- [Sneakers Computer Press Kit : Universal City Studios : Free Download, Borrow, and Streaming : Internet Archive](https://omnivore.app/me/sneakers-computer-press-kit-universal-city-studios-free-download-18c51d7a027)
+	  collapsed:: true
+	  site:: [Internet Archive](https://archive.org/details/Sneakers_Film_Promotional_Floppy)
+	  labels:: [[hacker]]
+	  date-saved:: [[Dec 9th, 2023]]
+	  date-published:: [[Dec 31st, 1991]]
+	- [Programming Bottom-Up](https://omnivore.app/me/programming-bottom-up-18c50a99638)
+	  collapsed:: true
+	  site:: [paulgraham.com](http://www.paulgraham.com/progbot.html)
+	  date-saved:: [[Dec 9th, 2023]]
 	- [Practical Ways To Increase Product Velocity | Stay SaaSy](https://omnivore.app/me/practical-ways-to-increase-product-velocity-stay-saa-sy-18c4af14ebe)
 	  collapsed:: true
 	  site:: [Stay SaaSy](https://staysaasy.com/management/2023/12/07/accelerating-product-velocity.html)

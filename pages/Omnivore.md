@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Learn to play Go](https://omnivore.app/me/learn-to-play-go-18c55d950cb)
+	  collapsed:: true
+	  site:: [online-go.com](https://online-go.com/learn-to-play-go/snapback/1)
+	  date-saved:: [[Dec 10th, 2023]]
+	- [blakewatson.com – omg.lol: an oasis on the internet](https://omnivore.app/me/blakewatson-com-omg-lol-an-oasis-on-the-internet-18c55a27322)
+	  collapsed:: true
+	  site:: [blakewatson.com](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
+	  date-saved:: [[Dec 10th, 2023]]
+	  date-published:: [[Dec 9th, 2023]]
 	- [Things I learned from teaching](https://omnivore.app/me/things-i-learned-from-teaching-18c54afafb6)
 	  collapsed:: true
 	  site:: [claytonwramsey.github.io](https://claytonwramsey.github.io/blog/learned-from-teaching.html)

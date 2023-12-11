@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Using Tailwind CSS with Codux - Codux Knowledge Base](https://omnivore.app/me/using-tailwind-css-with-codux-codux-knowledge-base-18c59a991f9)
+	  collapsed:: true
+	  site:: [help.codux.com](https://help.codux.com/kb/en/article/using-tailwind-css-with-codux)
+	  date-saved:: [[Dec 11th, 2023]]
 	- [Learn to play Go](https://omnivore.app/me/learn-to-play-go-18c55d950cb)
 	  collapsed:: true
 	  site:: [online-go.com](https://online-go.com/learn-to-play-go/snapback/1)

@@ -1,4 +1,31 @@
 ## 🔖 Articles
+	- [Fuzzing:  The Age of Vulnerability Discovery](https://omnivore.app/me/hushcon-23-18c5cb06b54)
+	  collapsed:: true
+	  site:: [fuzzing.io](https://fuzzing.io/hushcon23.pdf)
+	  author:: Richard Johnson
+	  date-saved:: [[Dec 11th, 2023]]
+	- [Terminal Trove - The $HOME of all things in the terminal.](https://omnivore.app/me/terminal-trove-the-home-of-all-things-in-the-terminal-18c5b40d4d4)
+	  collapsed:: true
+	  site:: [terminaltrove.com](https://terminaltrove.com)
+	  date-saved:: [[Dec 11th, 2023]]
+	- [Bringing open AI models to the frontier | Mistral AI | Open source models](https://omnivore.app/me/bringing-open-ai-models-to-the-frontier-mistral-ai-open-source-m-18c5b39b92f)
+	  collapsed:: true
+	  site:: [mistral.ai](https://mistral.ai/news/about-mistral-ai/)
+	  author:: Mistral AI
+	  date-saved:: [[Dec 11th, 2023]]
+	  date-published:: [[Sep 26th, 2023]]
+	- [The best WebAssembly runtime may be no runtime at all | Frank DENIS random thoughts.](https://omnivore.app/me/the-best-web-assembly-runtime-may-be-no-runtime-at-all-frank-den-18c5a6203d0)
+	  collapsed:: true
+	  site:: [00f.net](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 11th, 2023]]
+	  date-published:: [[Dec 10th, 2023]]
+	- [UML state machine - Wikipedia](https://omnivore.app/me/uml-state-machine-wikipedia-18c5a39f225)
+	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.wikipedia.org/wiki/UML_state_machine)
+	  author:: Contributors to Wikimedia projects
+	  date-saved:: [[Dec 11th, 2023]]
+	  date-published:: [[Aug 12th, 2009]]
 	- [Using Tailwind CSS with Codux - Codux Knowledge Base](https://omnivore.app/me/using-tailwind-css-with-codux-codux-knowledge-base-18c59a991f9)
 	  collapsed:: true
 	  site:: [help.codux.com](https://help.codux.com/kb/en/article/using-tailwind-css-with-codux)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Meet the Magnificent 7, the stocks powering a Wall Street rally : NPR](https://omnivore.app/me/meet-the-magnificent-7-the-stocks-powering-a-wall-street-rally-n-18c646aa0ac)
+	  collapsed:: true
+	  site:: [NPR](https://www.npr.org/2023/12/13/1216457187/wall-street-magnificent-seven-apple-amazon-nvidia-tesla-microsoft-meta-alphabet)
+	  author:: David Gura
+	  date-saved:: [[Dec 13th, 2023]]
+	  date-published:: [[Dec 13th, 2023]]
 	- [Fuzzing:  The Age of Vulnerability Discovery](https://omnivore.app/me/hushcon-23-18c5cb06b54)
 	  collapsed:: true
 	  site:: [fuzzing.io](https://fuzzing.io/hushcon23.pdf)

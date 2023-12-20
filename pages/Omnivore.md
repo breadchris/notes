@@ -1,4 +1,42 @@
 ## 🔖 Articles
+	- [Cory Doctorow: What Kind of Bubble is AI? – Locus Online](https://omnivore.app/me/cory-doctorow-what-kind-of-bubble-is-ai-locus-online-18c833d2bd0)
+	  collapsed:: true
+	  site:: [Locus Online](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)
+	  author:: locusmag
+	  labels:: [[ai]]
+	  date-saved:: [[Dec 19th, 2023]]
+	  date-published:: [[Dec 18th, 2023]]
+	- [Evaluating new software forges – notgull – The world's number one source of notgull](https://omnivore.app/me/evaluating-new-software-forges-notgull-the-world-s-number-one-so-18c7815a74c)
+	  collapsed:: true
+	  site:: [notgull](https://notgull.net/finding-a-forge/)
+	  author:: John Nunley
+	  date-saved:: [[Dec 17th, 2023]]
+	  date-published:: [[Dec 14th, 2023]]
+	- [Augmenting Long-term Memory](https://omnivore.app/me/augmenting-long-term-memory-18c75ed9cee)
+	  collapsed:: true
+	  site:: [augmentingcognition.com](https://augmentingcognition.com/ltm.html)
+	  date-saved:: [[Dec 16th, 2023]]
+	- [Database Fundamentals](https://omnivore.app/me/database-fundamentals-18c706b5328)
+	  collapsed:: true
+	  site:: [tontinton.com](https://tontinton.com/posts/database-fundementals/)
+	  date-saved:: [[Dec 15th, 2023]]
+	  date-published:: [[Dec 14th, 2023]]
+	- [Pipe Dreams: The life and times of Yahoo Pipes](https://omnivore.app/me/pipe-dreams-the-life-and-times-of-yahoo-pipes-18c6bc7d3a1)
+	  collapsed:: true
+	  site:: [retool.com](https://retool.com/pipes)
+	  date-saved:: [[Dec 14th, 2023]]
+	  date-published:: [[Apr 10th, 2007]]
+	- [Interviewing my mother, a mainframe COBOL programmer](https://omnivore.app/me/interviewing-my-mother-a-mainframe-cobol-programmer-18c69fbe7fa)
+	  collapsed:: true
+	  site:: [John’s Substack](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
+	  author:: Tom Jordell
+	  date-saved:: [[Dec 14th, 2023]]
+	  date-published:: [[Jul 13th, 2016]]
+	- [Hackers (1995) | Sci-fi interfaces](https://omnivore.app/me/hackers-1995-sci-fi-interfaces-18c6985b73d)
+	  collapsed:: true
+	  site:: [Sci-fi interfaces](https://scifiinterfaces.com/2023/12/11/hackers/)
+	  date-saved:: [[Dec 14th, 2023]]
+	  date-published:: [[Dec 11th, 2023]]
 	- [Meet the Magnificent 7, the stocks powering a Wall Street rally : NPR](https://omnivore.app/me/meet-the-magnificent-7-the-stocks-powering-a-wall-street-rally-n-18c646aa0ac)
 	  collapsed:: true
 	  site:: [NPR](https://www.npr.org/2023/12/13/1216457187/wall-street-magnificent-seven-apple-amazon-nvidia-tesla-microsoft-meta-alphabet)

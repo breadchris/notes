@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [RxMarbles: Interactive diagrams of Rx Observables](https://omnivore.app/me/rx-marbles-interactive-diagrams-of-rx-observables-18c892eabc9)
+	  collapsed:: true
+	  site:: [rxmarbles.com](https://rxmarbles.com)
+	  date-saved:: [[Dec 20th, 2023]]
 	- [Simulating Fluids, Fire, and Smoke in Real-Time](https://omnivore.app/me/simulating-fluids-fire-and-smoke-in-real-time-18c859b434d)
 	  collapsed:: true
 	  site:: [Distill](https://andrewkchan.dev/posts/fire.html)

@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Simulating Fluids, Fire, and Smoke in Real-Time](https://omnivore.app/me/simulating-fluids-fire-and-smoke-in-real-time-18c859b434d)
+	  collapsed:: true
+	  site:: [Distill](https://andrewkchan.dev/posts/fire.html)
+	  author:: Andrew Chan
+	  date-saved:: [[Dec 19th, 2023]]
+	- [Diode — Build, program, and simulate hardware](https://omnivore.app/me/diode-build-program-and-simulate-hardware-18c857f6ec1)
+	  collapsed:: true
+	  site:: [Diode](https://www.withdiode.com)
+	  date-saved:: [[Dec 19th, 2023]]
 	- [Cory Doctorow: What Kind of Bubble is AI? – Locus Online](https://omnivore.app/me/cory-doctorow-what-kind-of-bubble-is-ai-locus-online-18c833d2bd0)
 	  collapsed:: true
 	  site:: [Locus Online](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)

@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [All code is technical debt | TokyoDev](https://omnivore.app/me/all-code-is-technical-debt-tokyo-dev-18c8a4b5a00)
+	  collapsed:: true
+	  site:: [tokyodev.com](https://www.tokyodev.com/articles/all-code-is-technical-debt)
+	  author:: Paul McMahon
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 20th, 2023]]
+	- [100 Days To Offload](https://omnivore.app/me/100-days-to-offload-18c8a4256f3)
+	  collapsed:: true
+	  site:: [100 Days To Offload](https://100daystooffload.com)
+	  labels:: [[writing]]
+	  date-saved:: [[Dec 20th, 2023]]
 	- [RxMarbles: Interactive diagrams of Rx Observables](https://omnivore.app/me/rx-marbles-interactive-diagrams-of-rx-observables-18c892eabc9)
 	  collapsed:: true
 	  site:: [rxmarbles.com](https://rxmarbles.com)

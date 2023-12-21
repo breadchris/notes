@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Code Is Not Technical Debt | Gavin D. Howard](https://omnivore.app/me/code-is-not-technical-debt-gavin-d-howard-18c8d0a0f92)
+	  collapsed:: true
+	  site:: [gavinhoward.com](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 21st, 2023]]
+	  date-published:: [[Dec 20th, 2023]]
 	- [All code is technical debt | TokyoDev](https://omnivore.app/me/all-code-is-technical-debt-tokyo-dev-18c8a4b5a00)
 	  collapsed:: true
 	  site:: [tokyodev.com](https://www.tokyodev.com/articles/all-code-is-technical-debt)

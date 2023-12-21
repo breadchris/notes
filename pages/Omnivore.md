@@ -718,7 +718,7 @@
 	  collapsed:: true
 	  site:: [Escaping Flatland](https://www.henrikkarlsson.xyz/p/search-query)
 	  author:: Henrik Karlsson
-	  labels:: [[communication]]
+	  labels:: [[communication]][[writing]]
 	  date-saved:: [[Nov 4th, 2023]]
 	  date-published:: [[Oct 5th, 2022]]
 	- [Take a tour of HEY](https://omnivore.app/me/https-youtube-com-watch-si-g-oj-0-igs-8-lhqkux-v-u-ce-y-tys-ly-g-18b99510611)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Pi, your personal AI](https://omnivore.app/me/pi-your-personal-ai-18c8dcbe319)
+	  collapsed:: true
+	  site:: [pi.ai](https://pi.ai/talk)
+	  date-saved:: [[Dec 21st, 2023]]
 	- [Code Is Not Technical Debt | Gavin D. Howard](https://omnivore.app/me/code-is-not-technical-debt-gavin-d-howard-18c8d0a0f92)
 	  collapsed:: true
 	  site:: [gavinhoward.com](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)

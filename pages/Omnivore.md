@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [How to make LLMs go fast](https://omnivore.app/me/how-to-make-ll-ms-go-fast-18c937f33f2)
+	  collapsed:: true
+	  site:: [vgel.me](https://vgel.me/posts/faster-inference/)
+	  labels:: [[ai]]
+	  date-saved:: [[Dec 22nd, 2023]]
+	  date-published:: [[Dec 17th, 2023]]
+	- [Let's Visualize a Workflow | Temporal Technologies](https://omnivore.app/me/let-s-visualize-a-workflow-temporal-technologies-18c91fe1179)
+	  collapsed:: true
+	  site:: [temporal.io](https://temporal.io/blog/lets-visualize-a-workflow)
+	  date-saved:: [[Dec 22nd, 2023]]
+	  date-published:: [[Oct 9th, 2023]]
 	- [Pi, your personal AI](https://omnivore.app/me/pi-your-personal-ai-18c8dcbe319)
 	  collapsed:: true
 	  site:: [pi.ai](https://pi.ai/talk)

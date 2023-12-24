@@ -1,4 +1,29 @@
 ## 🔖 Articles
+	- [The Art of Electronics 3rd Edition | by Horowitz and Hill](https://omnivore.app/me/the-art-of-electronics-3-rd-edition-by-horowitz-and-hill-18c9a247e55)
+	  collapsed:: true
+	  site:: [The Art of Electronics 3rd Edition](https://artofelectronics.net)
+	  labels:: [[books]]
+	  date-saved:: [[Dec 23rd, 2023]]
+	- [Turn ANY Legume into High Protein Gluten Free PASTA](https://omnivore.app/me/https-youtu-be-ol-zi-ofpt-jy-q-si-f-1-a-0-ph-9-jt-hgm-rv-kn-18c9a11a193)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/OlZiOfptJyQ?si=F1A0Ph9JtHGMRvKn)
+	  author:: mensch chef
+	  date-saved:: [[Dec 23rd, 2023]]
+	- [SaaS Pegasus | The Django SaaS Boilerplate](https://omnivore.app/me/saa-s-pegasus-the-django-saa-s-boilerplate-18c99bfea5b)
+	  collapsed:: true
+	  site:: [SaaS Pegasus](https://www.saaspegasus.com)
+	  date-saved:: [[Dec 23rd, 2023]]
+	- [How Big is YouTube? - Ethan Zuckerman](https://omnivore.app/me/how-big-is-you-tube-ethan-zuckerman-18c94f592f7)
+	  collapsed:: true
+	  site:: [Ethan Zuckerman](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
+	  author:: Ethan
+	  date-saved:: [[Dec 22nd, 2023]]
+	  date-published:: [[Dec 22nd, 2023]]
+	- [AFCEA International](https://omnivore.app/me/afcea-international-18c94cbc300)
+	  collapsed:: true
+	  site:: [AFCEA International](https://www.afcea.org/membership/chapters/chapterdb/sg_detail.jsp?subgroup_id=100000379)
+	  date-saved:: [[Dec 22nd, 2023]]
+	  date-published:: [[Dec 26th, 2023]]
 	- [How to make LLMs go fast](https://omnivore.app/me/how-to-make-ll-ms-go-fast-18c937f33f2)
 	  collapsed:: true
 	  site:: [vgel.me](https://vgel.me/posts/faster-inference/)
@@ -6,10 +31,10 @@
 	  date-saved:: [[Dec 22nd, 2023]]
 	  date-published:: [[Dec 17th, 2023]]
 	- [Let's Visualize a Workflow | Temporal Technologies](https://omnivore.app/me/let-s-visualize-a-workflow-temporal-technologies-18c91fe1179)
-	  collapsed:: true
 	  site:: [temporal.io](https://temporal.io/blog/lets-visualize-a-workflow)
 	  date-saved:: [[Dec 22nd, 2023]]
 	  date-published:: [[Oct 9th, 2023]]
+	  collapsed:: true
 	- [Pi, your personal AI](https://omnivore.app/me/pi-your-personal-ai-18c8dcbe319)
 	  collapsed:: true
 	  site:: [pi.ai](https://pi.ai/talk)

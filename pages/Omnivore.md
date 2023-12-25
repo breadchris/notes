@@ -5,9 +5,9 @@
 	  author:: Modern MBA
 	  date-saved:: [[Dec 25th, 2023]]
 	- [baccumulation/reforming-unix.adoc at main · Ericson2314/baccumulation](https://omnivore.app/me/baccumulation-reforming-unix-adoc-at-main-ericson-2314-baccumula-18ca1658be3)
-	  collapsed:: true
 	  site:: [GitHub](https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc)
 	  date-saved:: [[Dec 25th, 2023]]
+	  collapsed:: true
 	- [Tools for Thought as Cultural Practices, not Computational Objects](https://omnivore.app/me/tools-for-thought-as-cultural-practices-not-computational-object-18c9eedfb29)
 	  collapsed:: true
 	  site:: [Maggie Appleton](https://maggieappleton.com/tools-for-thought)

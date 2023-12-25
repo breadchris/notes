@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [The Extinction of GoPro](https://omnivore.app/me/https-youtu-be-frrh-sjf-mc-si-vh-cz-6-o-9-c-hn-55-nr-f-1-18ca1c18b41)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/frrhSJF__Mc?si=VhCZ6O9CHn55nrF1)
+	  author:: Modern MBA
+	  date-saved:: [[Dec 25th, 2023]]
+	- [baccumulation/reforming-unix.adoc at main · Ericson2314/baccumulation](https://omnivore.app/me/baccumulation-reforming-unix-adoc-at-main-ericson-2314-baccumula-18ca1658be3)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc)
+	  date-saved:: [[Dec 25th, 2023]]
 	- [Tools for Thought as Cultural Practices, not Computational Objects](https://omnivore.app/me/tools-for-thought-as-cultural-practices-not-computational-object-18c9eedfb29)
 	  collapsed:: true
 	  site:: [Maggie Appleton](https://maggieappleton.com/tools-for-thought)

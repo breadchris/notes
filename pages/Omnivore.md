@@ -1,4 +1,35 @@
 ## 🔖 Articles
+	- [Tools for Thought as Cultural Practices, not Computational Objects](https://omnivore.app/me/tools-for-thought-as-cultural-practices-not-computational-object-18c9eedfb29)
+	  collapsed:: true
+	  site:: [Maggie Appleton](https://maggieappleton.com/tools-for-thought)
+	  author:: Alan Kay
+	  labels:: [[notetaking]]
+	  date-saved:: [[Dec 24th, 2023]]
+	  date-published:: [[Nov 24th, 2022]]
+	- [Language Model Sketchbook: Daemons](https://omnivore.app/me/https-youtu-be-o-du-v-acz-lq-tk-si-y-dg-sf-6-i-u-yk-7-zya-35-18c9eebcc73)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/oDuVAczLqTk?si=yDgSF6iUYk7Zya35)
+	  author:: Maggie Appleton
+	  labels:: [[ai]]
+	  date-saved:: [[Dec 24th, 2023]]
+	- [A Shelfish Starter Guide to Databases](https://omnivore.app/me/a-shelfish-starter-guide-to-databases-18c9ee6b290)
+	  collapsed:: true
+	  site:: [Maggie Appleton](https://maggieappleton.com/databases)
+	  author:: Tyler Clark
+	  date-saved:: [[Dec 24th, 2023]]
+	  date-published:: [[Jan 16th, 2023]]
+	- [Historical Trails](https://omnivore.app/me/historical-trails-18c9ee3ffad)
+	  collapsed:: true
+	  site:: [Maggie Appleton](https://maggieappleton.com/historical-trails)
+	  author:: Patryk Adaś
+	  labels:: [[lunabrain/ideas]]
+	  date-saved:: [[Dec 24th, 2023]]
+	- [What is a parser mismatch vulnerability? | Brain on Fire](https://omnivore.app/me/what-is-a-parser-mismatch-vulnerability-brain-on-fire-18c9e6963c1)
+	  collapsed:: true
+	  site:: [brainonfire.net](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
+	  labels:: [[security ]]
+	  date-saved:: [[Dec 24th, 2023]]
+	  date-published:: [[Apr 10th, 2022]]
 	- [The Art of Electronics 3rd Edition | by Horowitz and Hill](https://omnivore.app/me/the-art-of-electronics-3-rd-edition-by-horowitz-and-hill-18c9a247e55)
 	  collapsed:: true
 	  site:: [The Art of Electronics 3rd Edition](https://artofelectronics.net)

@@ -1,4 +1,39 @@
 ## 🔖 Articles
+	- [The Future of Browser History](https://omnivore.app/me/https-www-freecodecamp-org-news-browserhistory-2-abad-38022-b-1-18cacf01988)
+	  collapsed:: true
+	  site:: [freeCodeCamp.org](https://www.freecodecamp.org/news/browserhistory-2abad38022b1)
+	  author:: freeCodeCamp.org
+	  date-saved:: [[Dec 27th, 2023]]
+	  date-published:: [[Jul 7th, 2016]]
+	- [Lossless Web Navigation with Trails](https://omnivore.app/me/https-www-freecodecamp-org-news-lossless-web-navigation-with-tra-18cacefdc5f)
+	  collapsed:: true
+	  site:: [freeCodeCamp.org](https://www.freecodecamp.org/news/lossless-web-navigation-with-trails-9cd48c0abb56/)
+	  author:: freeCodeCamp.org
+	  date-saved:: [[Dec 27th, 2023]]
+	  date-published:: [[Jan 24th, 2017]]
+	- [Why Google+ Failed. Google Plus didn’t fail because… | by Talin | OneZero](https://omnivore.app/me/why-google-failed-google-plus-didn-t-fail-because-by-talin-one-z-18ca83b31d2)
+	  collapsed:: true
+	  site:: [OneZero](https://onezero.medium.com/why-google-failed-4b9db05b973b)
+	  author:: Talin
+	  date-saved:: [[Dec 26th, 2023]]
+	  date-published:: [[Apr 3rd, 2019]]
+	- [Text Buffer Reimplementation, a Visual Studio Code Story](https://omnivore.app/me/text-buffer-reimplementation-a-visual-studio-code-story-18ca8318553)
+	  collapsed:: true
+	  site:: [Microsoft](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
+	  author:: Microsoft
+	  labels:: [[programming]]
+	  date-saved:: [[Dec 26th, 2023]]
+	  date-published:: [[Nov 2nd, 2021]]
+	- [Game Boy / Color Architecture | A Practical Analysis](https://omnivore.app/me/game-boy-color-architecture-a-practical-analysis-18ca82ffb7d)
+	  collapsed:: true
+	  site:: [Rodrigo Copetti](https://www.copetti.org/writings/consoles/game-boy/)
+	  author:: Rodrigo Copetti
+	  date-saved:: [[Dec 26th, 2023]]
+	  date-published:: [[Feb 20th, 2019]]
+	- [hacker-news-undocumented/README.md at master · minimaxir/hacker-news-undocumented](https://omnivore.app/me/hacker-news-undocumented-readme-md-at-master-minimaxir-hacker-ne-18ca76fe75e)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+	  date-saved:: [[Dec 26th, 2023]]
 	- [gitgraph - react / 1 . Basic usage - default ⋅ Storybook](https://omnivore.app/me/gitgraph-react-1-basic-usage-default-storybook-18ca28a3895)
 	  collapsed:: true
 	  site:: [nicoespeon.com](https://www.nicoespeon.com/gitgraph.js/stories/?path=%2Fstory%2Fgitgraph-react-1-basic-usage--default)
@@ -34,12 +69,13 @@
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/oDuVAczLqTk?si=yDgSF6iUYk7Zya35)
 	  author:: Maggie Appleton
-	  labels:: [[ai]]
+	  labels:: [[ai]][[lunabrain/ideas]]
 	  date-saved:: [[Dec 24th, 2023]]
 	- [A Shelfish Starter Guide to Databases](https://omnivore.app/me/a-shelfish-starter-guide-to-databases-18c9ee6b290)
 	  collapsed:: true
 	  site:: [Maggie Appleton](https://maggieappleton.com/databases)
 	  author:: Tyler Clark
+	  labels:: [[programming]]
 	  date-saved:: [[Dec 24th, 2023]]
 	  date-published:: [[Jan 16th, 2023]]
 	- [Historical Trails](https://omnivore.app/me/historical-trails-18c9ee3ffad)

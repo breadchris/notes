@@ -1,8 +1,26 @@
 ## 🔖 Articles
+	- [The IDEs we had 30 years ago... and we lost](https://omnivore.app/me/the-id-es-we-had-30-years-ago-and-we-lost-18cb2dbed0b)
+	  collapsed:: true
+	  site:: [Blog System/5](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+	  author:: Julio Merino
+	  labels:: [[programming]][[history]]
+	  date-saved:: [[Dec 28th, 2023]]
+	  date-published:: [[Dec 25th, 2023]]
+	- [Hexcodle | The Daily Hexcode Guessing Game!](https://omnivore.app/me/hexcodle-the-daily-hexcode-guessing-game-18cb2da9e4f)
+	  collapsed:: true
+	  site:: [hexcodle.com](https://hexcodle.com)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[Dec 28th, 2023]]
+	- [Protocol overview](https://omnivore.app/me/protocol-overview-18cb1dabf7b)
+	  collapsed:: true
+	  site:: [tech.anytype.io](https://tech.anytype.io/any-sync/overview)
+	  labels:: [[lunabrain/ideas]][[notetaking]]
+	  date-saved:: [[Dec 28th, 2023]]
 	- [The Future of Browser History](https://omnivore.app/me/https-www-freecodecamp-org-news-browserhistory-2-abad-38022-b-1-18cacf01988)
 	  collapsed:: true
 	  site:: [freeCodeCamp.org](https://www.freecodecamp.org/news/browserhistory-2abad38022b1)
 	  author:: freeCodeCamp.org
+	  labels:: [[programming]][[internet]]
 	  date-saved:: [[Dec 27th, 2023]]
 	  date-published:: [[Jul 7th, 2016]]
 	- [Lossless Web Navigation with Trails](https://omnivore.app/me/https-www-freecodecamp-org-news-lossless-web-navigation-with-tra-18cacefdc5f)
@@ -28,6 +46,7 @@
 	  collapsed:: true
 	  site:: [Rodrigo Copetti](https://www.copetti.org/writings/consoles/game-boy/)
 	  author:: Rodrigo Copetti
+	  labels:: [[videogames]]
 	  date-saved:: [[Dec 26th, 2023]]
 	  date-published:: [[Feb 20th, 2019]]
 	- [hacker-news-undocumented/README.md at master · minimaxir/hacker-news-undocumented](https://omnivore.app/me/hacker-news-undocumented-readme-md-at-master-minimaxir-hacker-ne-18ca76fe75e)
@@ -47,6 +66,7 @@
 	- [Git: An Interactive Development History | jpalmer.dev](https://omnivore.app/me/git-an-interactive-development-history-jpalmer-dev-18ca283d6a3)
 	  collapsed:: true
 	  site:: [jpalmer.dev](https://jpalmer.dev/2021/05/interactive-git-history/)
+	  labels:: [[programming]]
 	  date-saved:: [[Dec 25th, 2023]]
 	  date-published:: [[May 24th, 2021]]
 	- [The Extinction of GoPro](https://omnivore.app/me/https-youtu-be-frrh-sjf-mc-si-vh-cz-6-o-9-c-hn-55-nr-f-1-18ca1c18b41)

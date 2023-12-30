@@ -1,4 +1,45 @@
 ## 🔖 Articles
+	- [NearlyFreeSpeech.NET Web Hosting](https://omnivore.app/me/nearly-free-speech-net-web-hosting-18cbc2c18ad)
+	  collapsed:: true
+	  site:: [nearlyfreespeech.net](https://www.nearlyfreespeech.net)
+	  date-saved:: [[Dec 30th, 2023]]
+	- [PostgreSQL 14 Internals : Postgres Professional](https://omnivore.app/me/postgre-sql-14-internals-postgres-professional-18cbc0ae444)
+	  collapsed:: true
+	  site:: [postgrespro.com](https://postgrespro.com/community/books/internals)
+	  labels:: [[programming]][[books]]
+	  date-saved:: [[Dec 30th, 2023]]
+	- [RFC 9518: Centralization, Decentralization, and Internet Standards](https://omnivore.app/me/rfc-9518-centralization-decentralization-and-internet-standards-18cbbe7e346)
+	  collapsed:: true
+	  site:: [rfc-editor.org](https://www.rfc-editor.org/rfc/rfc9518.html)
+	  author:: Mark Nottingham
+	  labels:: [[internet]]
+	  date-saved:: [[Dec 30th, 2023]]
+	  date-published:: [[Sep 7th, 2022]]
+	- [PostgreSQL Internals: 3 Things to Know About UPDATE Statements | Patrick's Engineering Blog](https://omnivore.app/me/postgre-sql-internals-3-things-to-know-about-update-statements-p-18cbb267435)
+	  collapsed:: true
+	  site:: [patrick.engineering](https://patrick.engineering/posts/postgres-internals/)
+	  labels:: [[programming]][[database]]
+	  date-saved:: [[Dec 30th, 2023]]
+	  date-published:: [[Dec 27th, 2023]]
+	- [Most favorited Hacker News posts of all time / Tom Larkworthy | Observable](https://omnivore.app/me/most-favorited-hacker-news-posts-of-all-time-tom-larkworthy-obse-18cb8e63481)
+	  collapsed:: true
+	  site:: [Observable](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
+	  date-saved:: [[Dec 29th, 2023]]
+	  date-published:: [[Oct 27th, 2021]]
+	- [Why Google+ Failed | Hacker News](https://omnivore.app/me/why-google-failed-hacker-news-18cb8a8ac45)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=20230345)
+	  date-saved:: [[Dec 29th, 2023]]
+	- [Ask HN: What are good books/blogs to read for a first time CTO? | Hacker News](https://omnivore.app/me/ask-hn-what-are-good-books-blogs-to-read-for-a-first-time-cto-ha-18cb6a9747b)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=38803092)
+	  date-saved:: [[Dec 29th, 2023]]
+	- [Team Topologies](https://omnivore.app/me/https-teamtopologies-com-18cb3f83f49)
+	  collapsed:: true
+	  site:: [Team Topologies](https://teamtopologies.com)
+	  labels:: [[books]]
+	  date-saved:: [[Dec 28th, 2023]]
+	  date-published:: [[Mar 21st, 2022]]
 	- [The IDEs we had 30 years ago... and we lost](https://omnivore.app/me/the-id-es-we-had-30-years-ago-and-we-lost-18cb2dbed0b)
 	  collapsed:: true
 	  site:: [Blog System/5](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
@@ -196,10 +237,12 @@
 	- [Augmenting Long-term Memory](https://omnivore.app/me/augmenting-long-term-memory-18c75ed9cee)
 	  collapsed:: true
 	  site:: [augmentingcognition.com](https://augmentingcognition.com/ltm.html)
+	  labels:: [[learning]]
 	  date-saved:: [[Dec 16th, 2023]]
 	- [Database Fundamentals](https://omnivore.app/me/database-fundamentals-18c706b5328)
 	  collapsed:: true
 	  site:: [tontinton.com](https://tontinton.com/posts/database-fundementals/)
+	  labels:: [[programming]][[database]]
 	  date-saved:: [[Dec 15th, 2023]]
 	  date-published:: [[Dec 14th, 2023]]
 	- [Pipe Dreams: The life and times of Yahoo Pipes](https://omnivore.app/me/pipe-dreams-the-life-and-times-of-yahoo-pipes-18c6bc7d3a1)
@@ -216,6 +259,7 @@
 	- [Hackers (1995) | Sci-fi interfaces](https://omnivore.app/me/hackers-1995-sci-fi-interfaces-18c6985b73d)
 	  collapsed:: true
 	  site:: [Sci-fi interfaces](https://scifiinterfaces.com/2023/12/11/hackers/)
+	  labels:: [[hacker]][[movies]]
 	  date-saved:: [[Dec 14th, 2023]]
 	  date-published:: [[Dec 11th, 2023]]
 	- [Meet the Magnificent 7, the stocks powering a Wall Street rally : NPR](https://omnivore.app/me/meet-the-magnificent-7-the-stocks-powering-a-wall-street-rally-n-18c646aa0ac)
@@ -251,10 +295,6 @@
 	  author:: Contributors to Wikimedia projects
 	  date-saved:: [[Dec 11th, 2023]]
 	  date-published:: [[Aug 12th, 2009]]
-	- [Using Tailwind CSS with Codux - Codux Knowledge Base](https://omnivore.app/me/using-tailwind-css-with-codux-codux-knowledge-base-18c59a991f9)
-	  collapsed:: true
-	  site:: [help.codux.com](https://help.codux.com/kb/en/article/using-tailwind-css-with-codux)
-	  date-saved:: [[Dec 11th, 2023]]
 	- [Learn to play Go](https://omnivore.app/me/learn-to-play-go-18c55d950cb)
 	  collapsed:: true
 	  site:: [online-go.com](https://online-go.com/learn-to-play-go/snapback/1)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://omnivore.app/me/how-bad-are-search-results-let-s-compare-google-bing-marginalia--18cbdfb5c9b)
+	  collapsed:: true
+	  site:: [danluu.com](https://danluu.com/seo-spam/)
+	  date-saved:: [[Dec 30th, 2023]]
 	- [NearlyFreeSpeech.NET Web Hosting](https://omnivore.app/me/nearly-free-speech-net-web-hosting-18cbc2c18ad)
 	  collapsed:: true
 	  site:: [nearlyfreespeech.net](https://www.nearlyfreespeech.net)

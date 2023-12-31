@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Sequencer Party • Home](https://omnivore.app/me/sequencer-party-home-18cc0c3c84d)
+	  collapsed:: true
+	  site:: [Sequencer.party](https://sequencer.party)
+	  date-saved:: [[Dec 31st, 2023]]
 	- [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://omnivore.app/me/how-bad-are-search-results-let-s-compare-google-bing-marginalia--18cbdfb5c9b)
 	  collapsed:: true
 	  site:: [danluu.com](https://danluu.com/seo-spam/)

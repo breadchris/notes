@@ -1,0 +1,1 @@
+- https://www.beehiiv.com/ used by ai mailing list

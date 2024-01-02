@@ -1,10 +1,18 @@
 public:: true
 
+---
+title: This is for Nolan
+tags: 
+categories: 
+date: 2023-06-16
+lastMod: 2023-06-16
+---
 ## SOLID principles
 
 The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
 
 In Go, the SOLID principles can be applied as follows:
+
 ### Single Responsibility Principle (SRP)
 
 Example:
@@ -24,6 +32,7 @@ return us.userRepository.GetById(id)
 ```
 
 In this example, the `UserService` has a single responsibility - to manage user-related operations. It does not have any knowledge of the underlying storage mechanism for the user data - this is delegated to the `UserRepository` interface.
+
 ### Open/Closed Principle
 
 Example:
@@ -48,6 +57,7 @@ return math.Pi * c.Radius * c.Radius
 ```
 
 In this example, we define a `Shape` interface that defines an `Area()` method. The `Rectangle` and `Circle` structs both implement this interface, and provide their own implementation of the `Area()` method. Now, if we want to add a new shape, we can simply create a new struct that implements the `Shape` interface without having to modify the existing code.
+
 ### Liskov Substitution Principle
 
 Example:
@@ -72,6 +82,7 @@ return "Meow!"
 ```
 
 In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.
+
 ### Interface Segregation Principle
 
 Example:
@@ -112,6 +123,7 @@ ValidatePassword(hash, password string) error
 }
 ```
 In this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.
+
 ### Dependency Inversion Principle
 
 Example:
@@ -136,6 +148,7 @@ return "Meow!"
 ```
 
 In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.
+
 ### Interface Segregation Principle (ISP):
 
 Example:
@@ -151,6 +164,7 @@ ValidatePassword(hash, password string) error
 }
 ```
 In this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.
+
 ### Full Example
 
 Here is an example of a Go program that applies the SOLID principles:
@@ -182,6 +196,26 @@ func (s *UserService) GetUserByID(id int) User {
         }
     }
     return User{}
+  ID        int
+  FirstName string
+  LastName  string
+}
+- // UserService struct defines a service for managing users.
+type UserService struct {
+  users []User
+}
+// AddUser adds a new user to the service.
+func (s *UserService) AddUser(u User) {
+  s.users = append(s.users, u)
+}
+// GetUserByID returns the user with the given ID.
+func (s *UserService) GetUserByID(id int) User {
+  for _, u := range s.users {
+      if u.ID == id {
+          return u
+      }
+  }
+  return User{}
 }
 // Open/Closed Principle:
 // The UserService is open for extension, but closed for modification.
@@ -191,6 +225,8 @@ func (s *UserService) GetUserByID(id int) User {
 type UserRepository interface {
     SaveUser(u User) error
     FindUserByID(id int) (User, error)
+  SaveUser(u User) error
+  FindUserByID(id int) (User, error)
 }
 - // UserRepositoryImpl is a concrete implementation of the UserRepository interface.
 // It uses the UserService to store and retrieve users.
@@ -205,6 +241,16 @@ func (r *UserRepositoryImpl) SaveUser(u User) error {
 // FindUserByID finds a user with the given ID in the repository.
 func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {
     return r.userService.GetUserByID(id), nil
+  userService *UserService
+}
+// SaveUser saves a user to the repository.
+func (r *UserRepositoryImpl) SaveUser(u User) error {
+  r.userService.AddUser(u)
+  return nil
+}
+// FindUserByID finds a user with the given ID in the repository.
+func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {
+  return r.userService.GetUserByID(id), nil
 }
 // Liskov Substitution Principle:
 // The UserRepositoryImpl should be substitutable for the UserRepository interface.
@@ -240,6 +286,33 @@ func main() {
     controller.CreateUser(user)
     retrievedUser, _ := controller.GetUserByID(1)
     fmt.Println(retrievedUser)
+  repository UserRepository
+}
+- // NewUserController creates a new UserController.
+func NewUserController(r UserRepository) *UserController {
+  return &UserController{repository: r}
+}
+// CreateUser creates a new user.
+func (c *UserController) CreateUser(u User) error {
+  return c.repository.SaveUser(u)
+}
+// GetUserByID gets the user with the given ID.
+func (c *UserController) GetUserByID(id int) (User, error) {
+  return c.repository.FindUserByID(id)
+}
+func main() {
+  // Dependency Inversion Principle:
+  // The UserController depends on the UserRepository interface,
+  // rather than on the concrete UserRepositoryImpl.
+  // This allows us to use any implementation of the UserRepository interface with the UserController.
+  
+  userService := &UserService{}
+  repository := &UserRepositoryImpl{userService: userService}
+  controller := NewUserController(repository)
+  user := User{ID: 1, FirstName: "John", LastName: "Doe"}
+  controller.CreateUser(user)
+  retrievedUser, _ := controller.GetUserByID(1)
+  fmt.Println(retrievedUser)
 }
 ```
 
@@ -254,6 +327,7 @@ To summarize, the SOLID principles are a set of design principles for object-ori
 Personally, following these principles have helped me to maintain a well tested, 50k+ line solo project.
 
 Hope this was a useful read!
+
 ## Questions
 
 > Does this still fulfill SOLID, if `UserService` is removed (by moving the `UserService` logic to `UserRepository`)?
@@ -289,6 +363,9 @@ for _, u := range s.users {
     if u.ID == id {
         return u, nil
     }
+  if u.ID == id {
+      return u, nil
+  }
 }
 - return User{}, ErrUserNotFound
 }
@@ -305,6 +382,9 @@ for _, user := range s.users {
     if u.ID == user.ID {
         return ErrUserWithIDExists
     }
+  if u.ID == user.ID {
+      return ErrUserWithIDExists
+  }
 }
 - s.users = append(s.users, u)
 return nil
@@ -333,6 +413,15 @@ if badWords.Contains(u.Username) {
 - if u.Username == user.Username {
         return ErrUsernameExists
     }
+  return ErrUsernameInvalid
+}
+- for _, user := range s.users {
+  if u.ID == user.ID {
+      return ErrUserWithIDExists
+  }
+- if u.Username == user.Username {
+      return ErrUsernameExists
+  }
 }
 - s.users = append(s.users, u)
 - return nil
@@ -355,6 +444,16 @@ for _, user := range users {
 - if u.Username == user.Username {
         return ErrUsernameExists
     }
+  return ErrUsernameInvalid
+}
+- users := r.db.Query("select * from users").ScanStructs(User{})
+for _, user := range users {
+  if u.ID == user.ID {
+      return ErrUserWithIDExists
+  }
+- if u.Username == user.Username {
+      return ErrUsernameExists
+  }
 }
 - return r.db.Exec("insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)", u.ID, u.FirstName, u.LastName, u.Username)
 }
@@ -375,6 +474,16 @@ for _, user := range users {
 - if u.Username == user.Username {
         return ErrUsernameExists
     }
+  return ErrUsernameInvalid
+}
+- users := r.repository.QueryAllUsers()
+for _, user := range users {
+  if u.ID == user.ID {
+      return ErrUserWithIDExists
+  }
+- if u.Username == user.Username {
+      return ErrUsernameExists
+  }
 }
 - return r.repository.SaveUser(u)
 }
@@ -387,9 +496,12 @@ func (r *UserRepositoryImpl) SaveUser(u User) error {
 err := r.repository.ValidateUser(u);
 if err != nil {
     return err
+  return err
 }
 - return r.repository.SaveUser(u)
 }
 ```
 
 Now it's even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.
+Now it's even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.
+

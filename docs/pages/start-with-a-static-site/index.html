@@ -21,8 +21,12 @@ Start with Markdown and hugo. Markdown is trivial to learn and making a website 
 <link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<meta name="generator" content="Hugo 0.110.0">
-<noscript>
+<<<<<meta name="generator" content="Hugo 0.110.0">
+>>>>>>>+HEAD
+===
+<met<meta name="generator" content="Hugo 0.119.0">
+>>>>>>>-master
+cript>
     <style>
         #theme-toggle,
         .top-link {
@@ -178,7 +182,7 @@ gtag('js', new Date());
             </span>
         </div>
         <ul id="menu">
-            <li>
+            <            <li>
                 <a href="https://breadchris.com/categories/" title="Categories">
                     <span>Categories</span>
                 </a>
@@ -198,7 +202,341 @@ gtag('js', new Date());
                     <span>Tags</span>
                 </a>
             </li>
-        </ul>
+>>>>>>>+HEAD
+     </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    
+    <h1 class="post-title">
+      Start with a Static Site
+    </h1>
+    <div class="post-meta"><span title='2023-04-26 00:00:00 +0000 UTC'>April 26, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;breadchris
+
+</div>
+  </header> 
+  <div class="post-content"><p>Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.</p>
+<p>Start with Markdown and hugo.  Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.</p>
+<p>If you want to have more control over how things are formatted and roughly look, html will be the next step of learning. By itself, it will be relatively limited, but you can get pretty far with including a simple CSS style sheet like this one.</p>
+<p>If you want to move things around on the page, make them bigger/smaller, red/blue. You are going to need to learn CSS. As you learn more about CSS, you should consider playing with css libraries like bootstrap or tailwindcss which will greatly scale up your abilities as you try to do more complicated and coordinated visual things.</p>
+<p>When you want things on the page to move around things, you are going to want to learn Javascript. There is a lot that you can do with javascript. Understanding that a webpage is a tree of nested objects with names and identifiers will be important to spend time on. The internet will try to convince you that you need to know React, Angular, Vue, but you just don’t need it right now. These are javascript frameworks that really let you do some crazy things, but stay simple as long as you can. Once you find yourself needing to model a bunch of data on a page, I would recommending learning the javascript framework Svelte. Of all the frameworks, it is, in my opinion, the closest framework to the knowledge you already know about html, css, javascript.</p>
+<p>If you have learned about html, css, and javascript, you are probably already building some cool things. You can still run the same hugo command and generate your website and not needing to think about much. But maybe you want to store data so it doesn’t go away when you refresh the page. If this is the case, you are going to want to build a backend. A backend is complimentary to your frontend as it runs as its own process and listens for requests your frontend sends to it. If you took my advice and learned Svelte, they have a super easy way to build a backend called SvelteKit. If you went with React, there is the great option of NextJS. If you haven’t learned either of these, you will probably want to learn about express and how to build REST api endpoints.</p>
+<p>If you are feeling pretty good about all of this, then you are well on your way for some serious application development. These are the things that every application developer does every day at their company and you have your own foothold into this whole market. You are super valuable as a result. Look at all the things you know! You must have spent a ton of time looking at the internet for help on building these things and someone will pay for that. Good luck out there!</p>
+
+
+  </div>
+     
+<aside>
+  <h4>No notes link to this note</h4>
+</aside>
+
+
+<aside class="related">
+  </aside>
+
+  <footer class="post-footer">
+  </footer><script src="https://giscus.app/client.js"
+    data-repo="breadchris/notes"
+    data-repo-id="R_kgDOHw5O7A"
+    data-category="Announcements"
+    data-category-id="DIC_kwDOHw5O7M4CUSPv"
+    data-mapping="title"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+  </script>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://breadchris.com">breadchris</a></span>
+    <br>
+    <span>
+        Powered by
+        
+        
+       <a href="https://github.com/sawhney17/logseq-schrodinger" rel="noopener" target="_blank">Logseq Schrödinger</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Start with a Static Site | breadchris</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.
+Start with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.">
+<meta name="author" content="breadchris">
+<link rel="canonical" href="https://breadchris.com/pages/start-with-a-static-site/" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.a99ea1eb57d4892931ee8cad89f397871f2363f69721fc66a7076cd4c983a627.css" integrity="sha256-qZ6h61fUiSkx7oytifOXhx8jY/aXIfxmpwds1MmDpic=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://breadchris.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://breadchris.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://breadchris.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<<<<<meta name="generator" content="Hugo 0.110.0">
+>>>>>>>+HEAD
+===
+<met<meta name="generator" content="Hugo 0.119.0">
+>>>>>>>-master
+cript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Start with a Static Site" />
+<meta property="og:description" content="Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.
+Start with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://breadchris.com/pages/start-with-a-static-site/" /><meta property="article:section" content="pages" />
+<meta property="article:published_time" content="2023-04-26T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2023-04-26T00:00:00&#43;00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Start with a Static Site"/>
+<meta name="twitter:description" content="Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.
+Start with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Pages",
+      "item": "https://breadchris.com/pages/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "Start with a Static Site",
+      "item": "https://breadchris.com/pages/start-with-a-static-site/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Start with a Static Site",
+  "name": "Start with a Static Site",
+  "description": "Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.\nStart with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.",
+  "keywords": [
+    
+  ],
+  "articleBody": "Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.\nStart with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.\nIf you want to have more control over how things are formatted and roughly look, html will be the next step of learning. By itself, it will be relatively limited, but you can get pretty far with including a simple CSS style sheet like this one.\nIf you want to move things around on the page, make them bigger/smaller, red/blue. You are going to need to learn CSS. As you learn more about CSS, you should consider playing with css libraries like bootstrap or tailwindcss which will greatly scale up your abilities as you try to do more complicated and coordinated visual things.\nWhen you want things on the page to move around things, you are going to want to learn Javascript. There is a lot that you can do with javascript. Understanding that a webpage is a tree of nested objects with names and identifiers will be important to spend time on. The internet will try to convince you that you need to know React, Angular, Vue, but you just don’t need it right now. These are javascript frameworks that really let you do some crazy things, but stay simple as long as you can. Once you find yourself needing to model a bunch of data on a page, I would recommending learning the javascript framework Svelte. Of all the frameworks, it is, in my opinion, the closest framework to the knowledge you already know about html, css, javascript.\nIf you have learned about html, css, and javascript, you are probably already building some cool things. You can still run the same hugo command and generate your website and not needing to think about much. But maybe you want to store data so it doesn’t go away when you refresh the page. If this is the case, you are going to want to build a backend. A backend is complimentary to your frontend as it runs as its own process and listens for requests your frontend sends to it. If you took my advice and learned Svelte, they have a super easy way to build a backend called SvelteKit. If you went with React, there is the great option of NextJS. If you haven’t learned either of these, you will probably want to learn about express and how to build REST api endpoints.\nIf you are feeling pretty good about all of this, then you are well on your way for some serious application development. These are the things that every application developer does every day at their company and you have your own foothold into this whole market. You are super valuable as a result. Look at all the things you know! You must have spent a ton of time looking at the internet for help on building these things and someone will pay for that. Good luck out there!\n",
+  "wordCount" : "547",
+  "inLanguage": "en",
+  "datePublished": "2023-04-26T00:00:00Z",
+  "dateModified": "2023-04-26T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "breadchris"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://breadchris.com/pages/start-with-a-static-site/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "breadchris",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://breadchris.com/favicon.ico"
+    }
+  }
+}
+</script>
+    
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-00000XXXXX"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+- gtag('config', 'G-00000XXXXX');
+</script>
+
+    
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://breadchris.com" accesskey="h" title="breadchris (Alt + H)">breadchris</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+<<<<<<< HEAD
+            <            <li>
+                <a href="https://breadchris.com/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/archives/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/search/" title="Search">
+                    <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+>>>>>>>+HEAD
+     </ul>
     </nav>
 </header>
 <main class="main">

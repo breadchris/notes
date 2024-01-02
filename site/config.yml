@@ -13,13 +13,11 @@ params:
       url: "https://github.com/breadchris"
     - name: "twitter"
       url: "https://twitter.com/breadchris"
-    - name: "twitch"
-      url: "https://www.twitch.tv/marvelousbreadchris"
-    - name: "rss"
-      url: "https://breadchris.com/index.xml"
+    - name: "youtube"
+      url: "https://www.youtube.com/@breadchris/streams"
   ShowReadingTime: true
   author: "breadchris"
-  contact: "contact@breadchris.com"
+  contact: "chris@breadchris.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
@@ -57,20 +55,4 @@ outputs:
     - JSON
 
 menu:
-  main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 20
-    - identifier: archive
-      name: Archive
-      url: /archives/
-      weight: 20
+  main: []

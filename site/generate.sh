@@ -1,2 +1,2 @@
 #!/bin/sh
-logseq-to-markdown -v -d -p -o content notes && hugo -d ../docs
+./node_modules/.bin/logseq-to-markdown -v -d -p -o content notes && hugo -d ../docs

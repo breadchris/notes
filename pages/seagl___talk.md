@@ -1,0 +1,256 @@
+- How do you design LEGOs for code?
+  ![QR Code.png](../assets/QR_Code_1698812901097_0.png){:height 348, :width 252}
+  breadchris
+- I want coding to feel more fun.
+- Like snapping LEGOs together.
+- !['Lego City.jpg](../assets/'Lego_City_1698809160561_0.jpg)
+- Not like playing with Mega Blocks.
+- ![shout-out Mattel quality control MEGA.webp](../assets/shout-out_Mattel_quality_control_MEGA_1698808823781_0.webp)
+- I have been playing with LEGOs for a while...
+	- The first LEGO set I ever had came from Mcdonalds.
+	- ![1999 Lego McDonald's Toys.jpg](../assets/1999_Lego_McDonald's_Toys_1698723762328_0.jpg)
+	- With a little imagination, they could be anything I wanted.
+	- Few pieces became many possibilities.
+	- ![1999 Happy Meal Lego.jpg](../assets/1999_Happy_Meal_Lego_1698724156324_0.jpg){:height 467, :width 641}
+	- I wanted to create cool things.
+	- ![Micro Millennium Falcon - Instructions | Lego star wars mini, Micro lego,  Lego creative](https://i.pinimg.com/736x/bb/30/91/bb3091a0909734aa4557a39fa8bdcac6.jpg){:height 397, :width 650}
+	- I wanted to bring my imagination to life.
+	- ![Millennium Falcon™ 7965 - LEGO® Star Wars™ - Building Instructions -  Customer Service - LEGO.com US](https://www.lego.com/cdn/product-assets/product.img.pri/7965-0000-xx-14-1.jpg){:height 437, :width 713}
+	- Pieces from sets were always accounted for.
+	- They always fit together.
+	- It was always fun.
+	- ![Dropped my UCS Falcon today trying to put it on its display. : r/lego](https://i.redd.it/nox26agr0p871.jpg)
+	- I got confidence to venture from the instructions.
+	- ![39848 Facebook.jpg](../assets/39848_Facebook_1698724914046_0.jpg){:height 463, :width 689}
+	- I loved LEGO.
+	- I did not like Mega Blocks.
+	- ![Mega Bloks Construction Set + 3 Extra Figures #9134 Vintage 1999 - NEW  65541091344 | eBay](https://i.ebayimg.com/images/g/h1oAAOSwjxZgbIqL/s-l1200.webp){:height 540, :width 572}
+	- The "cheap" option.
+	- You can feel it when you hold them.
+	- When you play with them.
+	- Kids can tell the difference.
+	- The LEGO System means that: all elements fit together, can be used in multiple ways, can be built together. This means that bricks bought years ago will **fit perfectly** with bricks bought in the future… - Axel Thomsen (LEGO Manager 1956)
+	- ![Lego injection moulding.webp](../assets/Lego_injection_moulding_1698809946278_0.webp)
+	- ![](https://miro.medium.com/v2/resize:fit:1400/1*kaCDMEZsLMXt8Ra2mIV00w.png){:height 403, :width 713}
+- What about code?
+	- We don't drive cars made of LEGOs.
+	- !['Lego Bugatti Chiron.jpg](../assets/'Lego_Bugatti_Chiron_1699139892702_0.jpg){:height 388, :width 759}
+	- The world runs on computers,
+	- and they have changed over the years.
+	- ![Room size computers.jpeg](../assets/Room_size_computers_1698757644529_0.jpeg){:height 404, :width 713}
+	- ![Doom Pregnancy Test.png](../assets/Doom_Pregnancy_Test_1698757696454_0.png){:height 368, :width 682}
+	- What are the LEGO bricks of a computer?
+	- ![How CPUs are Designed and Built | TechSpot](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-10.png){:height 397, :width 655}
+	- Machine language is effectively the CPU.
+	- ![cpu electron microscope.png](../assets/cpu_electron_microscope_1698759093211_0.png){:height 471, :width 614}
+	- Hardware is hard to play with (pun not intended)
+	- ![ben eater fig2.webp](../assets/ben_eater_fig2_1698810224274_0.webp){:height 447, :width 671}
+	- We needed something we can rearrange more easily.
+	- ![Welcome to Real Digital](https://www.realdigital.org/img/670b0a85b57b49dbc0e0ce403ddb1d9d.png){:height 387, :width 524}
+	- Cool if you want raw performance.
+	- ![Giphy (1)..gif](../assets/Giphy_(1)._1698824769076_0.gif)
+	- Gets complicated pretty quickly.
+	- ![Oddball X86 Instructions.webp](../assets/Oddball_X86_Instructions_1698759428248_0.webp){:height 501, :width 718}
+	- What about programming languages?
+	- "Different tools for different jobs"
+	- ![Top Best Programming Languages are mostly used in 2018](https://technologysolution.ca/wp-content/uploads/2018/01/72057d5a6005b5ccc1f8c0b342306401.jpg){:height 499, :width 718}
+	- Can't we just have one language?
+	- Maybe brainwashing will work.
+	- ![Screenshot 2023-10-31 at 6.42.50 AM.png](../assets/Screenshot_2023-10-31_at_6.42.50 AM_1698759773503_0.png){:height 371, :width 682}
+	- ![Rust poster.png](../assets/Rust_poster_1698759520735_0.png){:height 661, :width 393}
+	- What if we make a mistake with the semantics?
+	- ![Screenshot 2023-10-30 at 9.38.28 PM.png](../assets/Screenshot_2023-10-30_at_9.38.28 PM_1698727111371_0.png){:height 436, :width 642}
+	- What if the language changed over time?
+	- ![Screenshot 2023-10-31 at 6.44.34 AM.png](../assets/Screenshot_2023-10-31_at_6.44.34 AM_1698759877890_0.png){:height 397, :width 605}
+	- At some point you have to commit to a blueprint of a design for a *network effect*.
+	- Where can we look to for guidance?
+	- ![Ken Thompson and Dennis Ritchie 1973.jpg](../assets/Ken_Thompson_and_Dennis_Ritchie_1973_1698759979029_0.jpg){:height 470, :width 718}
+	- ![Unix timeline.png](../assets/Unix_timeline_1698811128829_0.png)
+	- Unix Design philosophy
+	- Write programs that do one thing and do it well.
+	- Write programs to work together.
+	- Write programs to handle text streams, because that is a universal interface.
+	- ![IMAG0251.webp](../assets/IMAG0251_1698760199153_0.webp){:height 460, :width 713}
+	- ![Golang Ken Thompson.png](../assets/Golang_Ken_Thompson_1698760453099_0.png){:height 327, :width 655}
+- Learn a mental model, not a language
+	- Languages shape the way that we approach problems fundamentally.
+	- Anticipate our needs.
+	- ![Screenshot 2023-10-31 at 9.06.35 PM.png](../assets/Screenshot_2023-10-31_at_9.06.35 PM_1698811599184_0.png)
+	- ![Screenshot 2023-10-31 at 9.04.05 PM.png](../assets/Screenshot_2023-10-31_at_9.04.05 PM_1698811454043_0.png)
+	- What if a language was so simple that there are not that many pitfalls to begin with?
+	- ![Image 8-2.webp](../assets/Image_8-2_1698812064259_0.webp)
+	- Go was developed by some smart people at Bell Labs, and later was refined at Google to solve its realtime, world-scale problems.
+	- The language prioritized simplicity above all else which has led to a lot of interesting effects.
+	- Why do we need a package registry?
+	- npm
+	- pypi
+	- conan?
+	- What if modules were just the actual source code?
+	- ![Screenshot 2023-10-31 at 9.15.40 PM.png](../assets/Screenshot_2023-10-31_at_9.15.40 PM_1698812155502_0.png)
+	- Go blog posts teach you a mental framework.
+	- ![Screenshot 2023-10-31 at 9.16.19 PM.png](../assets/Screenshot_2023-10-31_at_9.16.19 PM_1698812190688_0.png){:height 418, :width 702}
+	- There are a lot of tools for "anticipated needs".
+		- go run
+		- go test
+		- go mod
+		- go bench
+		- go fmt
+		- go build
+	- These are usually 3rd party libraries you need to "be in the know" about for your language.
+	- The type system is meticulously simple.
+	- ![golang types.png](../assets/golang_types_1698812254410_0.png){:height 438, :width 759}
+	- I am not trying to convince you to use Go.
+	- You might not like its error handling
+	- ```go
+	  err := doSomething()
+	  if err != nil {
+	    return err
+	  }
+	  ```
+	- Or pointers
+	- ```go
+	  var noProbsHere *string
+	  thisIsTotallyOK := *noProbsHere
+	  ```
+	- Being so simple, Go draws your attention to the bigger picture.
+	- LEGOs have simple, rigid plastic connectors.
+	- You have to play by LEGO's infallible rules in order to compose them together to build something.
+	- Consider the language/s you use daily, weekly, monthly.
+	- When do you feel the satisfying "snap" of code coming together?
+	- How often do you want to sell your soul to Satan to fix a bug?
+- Types are the foundation
+	- Types are a way to communicate intent.
+	- A programmer defines their intent to the computer, the compiler/runtime holds them to that.
+	- Types also help others who want to play with the code. (including your future self)
+	- If types are too simple, they don't convey enough.
+	-
+	- if they are too complicated, they become incomprehensible.
+	- ![Screenshot 2023-11-01 at 12.55.20 AM.png](../assets/Screenshot_2023-11-01_at_12.55.20 AM_1698825327670_0.png)
+	- If languages have different type systems, how can they talk to each other?
+	- !['Protobuf Python.png](../assets/'Protobuf_Python_1698812461840_0.png)
+	- Simple, but expressive.
+	- A life saver when you have thousands of programs talking to each other.
+	- ![unnamed 14.png](../assets/unnamed_14_1698812517626_0.png){:height 584, :width 687}
+	- ![Screenshot 2023-11-01 at 1.00.20 AM.png](../assets/Screenshot_2023-11-01_at_1.00.20 AM_1698825636295_0.png)
+	- Protobuf has type compilers for most major languages.
+	- ![protocol-buffers.png](../assets/protocol-buffers_1698825494335_0.png)
+	- You can build the frontend while I build the backend.
+	- You don't even need my code to be fully written!
+	- There are other things that solve a similar problem
+	- JSON Schema, Swagger, OpenAPI, GraphQL codegen... XML
+	- They are Mega Blocks, unfortunately.
+	- ![Json Schema oneOf.webp](../assets/Json_Schema_oneOf_1699132573106_0.webp)
+- Transforming Types
+	- After understanding what type of data is available, we need to "connect" it to other systems.
+	- ![etl process explained.png](../assets/etl_process_explained_1698825811885_0.png)
+	- Workflows are the backbone of most companies.
+	- Schlepping around invoices or track status on plane engine parts.
+	- ![Scratch Editor.png](../assets/Scratch_Editor_1698812656014_0.png)
+	- A lot of code ends up looking like a "workflow".
+	- At Uber, I saw Cadence (now Temporal), the workflow manager, scale to the size of the world.
+	- ![Temporal Workflow.png](../assets/Temporal_Workflow_1698812739948_0.png)
+	- But the workflows are expressed in code.
+	- ![Screenshot 2023-11-01 at 12.29.44 AM.png](../assets/Screenshot_2023-11-01_at_12.29.44 AM_1698823793498_0.png){:height 457, :width 759}
+	- We draw workflows on whiteboards.
+	- Physical arrows to show how data flows through the system.
+	- ![Screenshot 2023-11-01 at 12.27.48 AM.png](../assets/Screenshot_2023-11-01_at_12.27.48 AM_1698823678252_0.png){:height 596, :width 759}
+	- How do we model that with a computer?
+	- A lot of enterprise software is built with BPMN.
+	- ![Screenshot 2023-11-01 at 12.31.01 AM.png](../assets/Screenshot_2023-11-01_at_12.31.01 AM_1698823869272_0.png)
+	- But it isn't that fun...because...enterprise.
+	- Can there be something simpler, but still complete?
+	- Reactive programming is pretty cool.
+	- !['Google Search Map Reduce Filter.png](../assets/'Google_Search_Map_Reduce_Filter_1699132637757_0.png)
+	- You can build it yourself.
+	- A durable queue will get you pretty far (ex. SQS)
+	- What if other's want to use your workflow system?
+- Protoflow
+	- I tried to build this once
+	- ![Connecting Hello and World.webm](../assets/Connecting_Hello_and_World_1698761160778_0.webm)
+	- Wrong abstraction.
+	- ![Google AWS.png](../assets/Google_AWS_1698812358104_0.png){:height 320, :width 530}
+	- But it started to feel like freakin' LEGOs!
+	- You could:
+	- Write (almost) any code, any language
+	- Scale (Lambda)
+	- Share blocks of code for others to use.
+	- pub/sub, database, storage
+	- Protoflow is the continued effort.
+	- It runs on _your_ computer.
+	- ![Screenshot 2023-10-31 at 7.03.07 AM.png](../assets/Screenshot_2023-10-31_at_7.03.07 AM_1698760992728_0.png){:height 539, :width 759}
+	- Every code block is strongly typed.
+	- ![Screenshot 2023-10-31 at 7.18.21 AM.png](../assets/Screenshot_2023-10-31_at_7.18.21 AM_1698761904976_0.png)
+	- And it can run itself.
+	- ![Screenshot 2023-10-31 at 7.19.31 AM.png](../assets/Screenshot_2023-10-31_at_7.19.31 AM_1698761974050_0.png){:height 448, :width 450}
+	- Chain things together to make cool things.
+	- ![Screenshot 2023-10-31 at 7.21.38 AM.png](../assets/Screenshot_2023-10-31_at_7.21.38 AM_1698762124939_0.png){:height 449, :width 341}
+	- Maybe one day you could build entire web apps?
+	- ![Screenshot 2023-10-31 at 7.22.38 AM.png](../assets/Screenshot_2023-10-31_at_7.22.38 AM_1698762175345_0.png){:height 497, :width 426}
+	- Protobuf and Temporal solved big problems for big companies.
+	- Smaller teams and projects need tools to scale.
+	- I want to give everyone a senior developer's brain.
+- Parting words of wisdom
+	- Plumbers get paid a lot because pipes don't fit together easily.
+	- If you want to be a data plumber, continue connecting pipes.
+	- If you want to build LEGOs for code;
+	- Write a library.
+	- Write a framework.
+	- Write a language.
+	- Build the LEGOs that the next generation of developers will build with.
+	- Play with LEGOs.
+	- Chase that feeling with the work that you do.
+	- We know good things when we see them.
+	- History is great at showing us what things that "feel good" look like.
+	- I miss the Living Computer Museum.
+	- ![LCM Interactive.jpg](../assets/LCM_Interactive_1698824093607_0.jpg)
+	- Go, go, go to the Connections Museum.
+	- ![The Connections Museum Seattle.jpg](../assets/The_Connections_Museum_Seattle_1698824128845_0.jpg){:height 505, :width 748}
+- Thank you!
+- I have some more stuff after this, for the curious.
+- ![QR Code.png](../assets/QR_Code_1698812901097_0.png){:height 455, :width 510}
+- What I like to do
+	- Drink coffee at cafes
+	- Think about code
+	- Write some code
+	- https://github.com/protoflow-labs/protoflow
+	- Talk about code
+	- https://www.youtube.com/@breadchris/streams
+	- Write about code
+	- https://breadchris.com/
+	- Code some writing
+	- https://github.com/lunabrain-ai/lunabrain
+	- Talk about coding some writing
+	- https://www.youtube.com/@breadchris/streams
+- Cooking
+  collapsed:: true
+	- I don't play with LEGOs anymore, but I like to cook
+	- I like to think of recipes as really just the composition of different recipes together to make something even more complicated
+	- Peanut butter and jelly
+		- Peanuts + blender = peanut butter
+		- Stawberries + pectin = jelly
+		- flour + water + yeast + salt = bread
+		- bread + peanut butter + jelly = pb&j
+	- We don't really write recipes like this though
+	- Except for literally [Cooking for Engineers](https://www.cookingforengineers.com)
+	- If I want to make cool things in the kitchen, I have to follow normie language for expressing recipes
+	- But I can't unsee the building blocks, I _have_ to have something that speaks to this
+	- What does it look like?
+	- A language? I am not an expert, also I want to be able to send this to my mom
+	- I want to make a recipe site that feels effortless to follow, regardless of experience in the kitchen, or with the last brain cell I have.
+	- There are hard problems in software development, and building good looking websites is certainly one of them
+	- Trying to rapidly prototype features in the site as I came across them in the real world was really fun, but also insanely frustrating
+	- As a side project, there was no months of planning by an engineering team to discuss and agree upon the best way to build this. Changes came sporadically and were layered on top of my desperate attempts to try to get React to do the thing that I wanted it to.
+	- After 7 attempts at trying to build it with countless different technologies, I arrived at an app that I still not happy with.
+	- As a solo dev who isn't constrained by a deadline, this process was incredibly enlightening.
+	- I had learned that "modern" recommendations on how to build a web application are insanely confusing and I frankly have no idea how any developer working on a site does their job. Seriously, mad respect
+	- Any one of the 7 attempts I could have doubled down on to ship so that people could use it. But none of them felt right!
+- Some real world examples
+  collapsed:: true
+	- Minecraft
+	- Roblox
+	- Heroku had with the [twelve-factor app](https://12factor.net/) they were on to something
+- References
+  collapsed:: true
+	- https://slideplayer.com/slide/17621474/
+	- {{video https://www.youtube.com/watch?v=NVuTBL09Dn4}}
+	- https://naich.net/wordpress/index.php/ever-wondered-why-plumbers-are-paid-so-much/

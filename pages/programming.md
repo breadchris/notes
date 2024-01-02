@@ -1,0 +1,2 @@
+- #libraries are what you use when you want to do something quickly without becoming an expert.
+	- #golang/libraries

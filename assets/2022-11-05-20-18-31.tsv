@@ -1,0 +1,95 @@
+start	end	text
+0	10640	I guess we're gonna try to record this thought with a regular mic so I guess you
+10640	20840	could listen to this as kind of like a podcast all right I guess I guess this is
+20840	30720	the official high-pinkies podcast because effectively what I can do if this
+30720	38840	audio is embedded in my site is I can link this to hashtag high-pinkies and I could
+38840	46240	put that out there so isn't hasn't logsec effectively made the perfect
+46240	58120	podcasting platform because I could just record my thoughts and I could listen to
+58120	68760	them back someone else could listen to them back maybe I have the the GitHub
+68760	76960	like the script thing where I can turn speech into text but if I have that set
+76960	88400	up then I can I can go back and turn turn my the audio that I'm saying until
+88400	97080	like the perfect yeah the perfect podcasting platform I don't see why this
+97080	109640	wouldn't work and actually you know what I can do is I could just record a
+109640	117840	video so if I I wonder how well this would work if I just wanted to if I could
+117840	123160	sync my phone with my remarkable then I could just take out a sheet of
+123160	130440	paper right effectively that's what I'd be doing and writing down my notes and
+130440	136500	that could effectively screencast right because you can set up a VNC
+136500	142740	server on a remarkable you could screencast to your phone like I need to
+142740	150040	figure out if you can do video or if it's feasible to do video recording over
+150040	158880	VNC I guess you have to be connected the same local network which is fine I
+158880	167120	mean you're probably on your home Wi-Fi network or if you're walking around I
+167120	172600	think maybe you could do like a mobile hotspot
+172600	181920	to connect to and then maybe you're remarkable I guess I need to figure out if you
+181920	195960	have your iPhone connected or set up as a hotspot can your phone talk to can it
+195960	213000	talk to I'm trying a blank yeah right okay right if you have a mobile hotspot
+213000	219440	can your phone connect to another device that is shared on the mobile hotspot I
+219440	227000	guess is what I'm saying so like as I'm talking right I can talk I can have my
+227000	232680	words roughly translated into text right at least like the the words that are
+232680	239240	if they're nonsense you can click on that word and it will take you to that point
+239240	248440	in time in the audio and then I could also write if I wanted to just stream my
+248440	253680	notes taking right because I have the remarkable I can take out my remarkable I
+253680	260520	can have it be running a VNC server for that my phone connects to right because
+260520	263640	they're on the same local network and they should be able to find each other and
+263640	269480	then I just record that as a video and then I also insert that into lock set
+269480	277120	because it can just reference notes so in the repo there would like for this
+277120	286480	entry there would be the audio there would be the playback text which in lock
+286480	292000	set mobile you wouldn't be able to see but you could write a plug-in right on the
+292000	294000	desktop that
+311000	320560	damn why am I doing a blank plug-in on the desktop that would
+322560	327240	run as
+330840	345280	JS that would hopefully this doesn't sound completely okay here and because this is
+345280	350720	for sure this is like I guess that's the whole point of the high think he's
+350720	358720	broadcast is that it's literally going to sound ridiculous and that's what
+358720	368360	makes I think he's special you just record yourself thinking
+368360	382000	yeah anyway I hope I'm able to listen to this back and I guess no I don't need
+382000	385240	to listen to this back because I wanted to try to develop this because
+385240	391040	theoretically I think he's with even with massive gaps the text that you read
+391040	398480	would be different like you could just zoom around to the parts that interest you
+398480	403120	so if I start talking about cooking right I could rattle off like an
+403120	409640	ingredient recipe for example like like if I could speak naturally and I could
+409640	417200	say to make a pie crust right and so or I just like say the words like new
+417200	434840	recipe pie crust one part flour one part butter then a little bit of salt and if
+434840	446680	I'm still here still just thinking so I would say change and
+447200	470560	I would say change and then I would change the recipe step so for example I would
+470560	489280	change the recipe step two what you would call it oh I would change the first
+489280	506280	recipe step of pie crust to be combined flour salt sugar in bowl which would
+506280	512080	then like mark that as the step and then for the second one right I would say on
+512080	521840	this like podcast thing you like you tag it right so it's like I said the word I'm
+521840	524840	just going to say we're in a word right Harvard I don't know why I'm taking
+524840	532320	hard but I say Harvard and I pronounced it clearly enough that it added the tag
+532320	546000	Harvard you could then create a whole page that is like the Grap Results of a whole
+546000	555240	page in Logsack that is like the Grap Results of me saying Harvard right I search
+555240	563160	through all these like text documents right because that's what this audio would turn
+563160	569560	into right it would turn into a text document and it wouldn't be perfect but it's like good
+569560	575800	enough right the conversion be good enough that I could go back through everything that
+575800	587120	I've said right all my notes on something and recall them so for example let's just like
+587120	596880	what's the stupid example of this like I say the word balloon right I say the word right
+596880	604480	now and then maybe tomorrow right maybe tomorrow I go to a circus for whatever reason and
+604480	611600	at the circus they have balloons right so this would be the second entry into my note
+611600	622280	taking journal is balloons so now like through analysis of the text you can identify words
+622280	630040	or you put that into essentially your personal search engine which I'm going to see right
+630040	636260	so I have my notes up right now and I'm going to try to see if I can find this search engine
+636260	653560	that I saved because I saw it before but I don't quite know so basically if this thing I can
+653560	673080	definitely had it like somewhere search it was like index damn like so for example if so
+673080	688120	there's this tool that I have in mind if it was like really fast it was like really fast
+688120	695000	right so if I said like I'm reading hacker news right so I start my day and I just hit
+695000	711480	record right and I start talking and it's like talking about hacker news then then I would have
+711480	718560	this thought right of searching like I could then search for the tags like and maybe it works
+718560	738800	maybe maybe I can do that so search for say hacker news and it was thinking about search now see if
+738800	743760	when I saved that article as browsing the internet and I saved that article if it did text extraction
+743760	753360	because right this is what I want to do this is the whole point of 50 is I can make it trivial like in
+753360	773360	like a an API call a single API call I could turn a holy shit this could be huge like I could just
+773360	786080	fork log sec right could I just fork log sec
+786080	806240	I don't know is it like a hacker news and then search now index goddamn what was it maybe I can go
+806240	815120	online it's very usually so I can leave my note now oh my god this is so funny my face didn't
+815600	821840	cool type sensor that's a note now if I wanted to right I could tag it because it right it took
+821840	830480	me so long to put this in right because that way I can search things from oh it's not called
+830560	836960	hacker news it's called white combinator but I remember it in my head is hacker news right so and I'm
+836960	849200	going to take this note right now and I'm going to say hashtag we'll say hashtag what's what I want to
+849200	864560	say oh no I guess this is like I think he's going to link it to the page I think he is
+864560	885600	whoops I come on I think he's that page cool
+885600	898160	right so this thing and this is the right and if I had this this fucking the title of the page and I
+898160	909360	wouldn't have to copy it all this shit down so annoying oh my goodness
+909360	928080	it's not quite organized the way that I wanted to oh well be like close enough maybe
+939680	945920	I think it's working hopefully
+945920	962160	so I'm going on this train of thought I guess maybe I'll stop here see what happens

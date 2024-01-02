@@ -2,8 +2,8 @@
 title: Information About Gloving
 tags: 
 categories: 
-date: 2023-02-17
-lastMod: 2023-02-17
+date: 2023-04-26
+lastMod: 2023-04-26
 ---
 Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https://www.emazinglights.com/pages/learn-gloving) seems to be down. I have moved the information over here to keep it alive!
 
@@ -28,28 +28,29 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 ## Gloving Communities
 
 | Network | Name | # Of Members | Short Description | Location URL |
-|---|---|---|---|---|
-| Facebook | Glover's Lounge | 19764 | World's Largest Gloving Forum | [https://www.facebook.com/groups/GloversLounge/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/GloversLounge/) |
-| Facebook | Light Academy | 2655 | Forum geared toward Gloving Education for all skill levels | [https://www.facebook.com/groups/1038008026261606/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/1038008026261606/) |
-| Facebook | Northern Lights | 4254 | Group for all gloving communities within the Northeastern United States | [https://www.facebook.com/groups/NLights/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/NLights/) |
-| Facebook | Portland Lights All Night | 1773 | Group for the Gloving Community in Portland, Oregon (USA) | [https://www.facebook.com/groups/go2thePLAN/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/go2thePLAN/) |
-| Facebook | 808 Gloving Community | 712 | Group for the Gloving Community from the islands of Hawaii (USA) | [https://www.facebook.com/groups/108559492564096/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/108559492564096/) |
-| Facebook | The Glover's Pit | 5354 | Forum for all Online Gloving Competitions & Battles | [https://www.facebook.com/groups/GloversPit/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/GloversPit/) |
-| Reddit | Festival Sub-reddit | 5000 | Festival Guide & Forum | [http://www.reddit.com/r/festivals](https://web.archive.org/web/20220930065221/http://www.reddit.com/r/festivals) |
-| Facebook | Nor Cal Lights | 708 | Gloving Community for Northern California | [https://www.facebook.com/groups/679593552145775/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/679593552145775/) |
-| Facebook | Florida Gloving Community | 788 | Group for all Glovers from Florida, USA | [https://www.facebook.com/groups/246252528791368/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/246252528791368/) |
-| Facebook | Phoenix Gloving Community | 163 | Group for all Glovers from Phoenix, Arizona (USA) | [https://www.facebook.com/groups/340655572682212/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/340655572682212/?ref=br_rs) |
-| Facebook | Chroma Mode Swap | 5255 | Group for Sharing Color/Pattern Combos for the eLite Chroma | [https://www.facebook.com/groups/247403678759632/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/247403678759632/) |
-| Facebook | MWG - Mid West Gloving | 1703 | Midwest Gloving Community | [https://www.facebook.com/groups/320937464607897/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/320937464607897/?ref=br_rs) |
-| Reddit | Gloving Sub-reddit | 5000 | Reddit Gloving Forumn | [http://www.reddit.com/r/gloving](https://web.archive.org/web/20220930065221/http://www.reddit.com/r/gloving) |
-| Facebook | Gloving Skype / Google+ Trades | 1012 | An Place to Trade Lightshows Online | [https://www.facebook.com/groups/492530310874264/?notif_t=group_added_to_group](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/492530310874264/?notif_t=group_added_to_group) |
-| Facebook | The Sounds of Gloving | 1334 | A Place to Find Good Gloving Music | [https://www.facebook.com/groups/629810670438734/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/629810670438734/?ref=br_rs) |
+	|---|---|---|---|---|
+	| Facebook | Glover's Lounge | 19764 | World's Largest Gloving Forum | [https://www.facebook.com/groups/GloversLounge/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/GloversLounge/) |
+	| Facebook | Light Academy | 2655 | Forum geared toward Gloving Education for all skill levels | [https://www.facebook.com/groups/1038008026261606/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/1038008026261606/) |
+	| Facebook | Northern Lights | 4254 | Group for all gloving communities within the Northeastern United States | [https://www.facebook.com/groups/NLights/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/NLights/) |
+	| Facebook | Portland Lights All Night | 1773 | Group for the Gloving Community in Portland, Oregon (USA) | [https://www.facebook.com/groups/go2thePLAN/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/go2thePLAN/) |
+	| Facebook | 808 Gloving Community | 712 | Group for the Gloving Community from the islands of Hawaii (USA) | [https://www.facebook.com/groups/108559492564096/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/108559492564096/) |
+	| Facebook | The Glover's Pit | 5354 | Forum for all Online Gloving Competitions & Battles | [https://www.facebook.com/groups/GloversPit/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/GloversPit/) |
+	| Reddit | Festival Sub-reddit | 5000 | Festival Guide & Forum | [http://www.reddit.com/r/festivals](https://web.archive.org/web/20220930065221/http://www.reddit.com/r/festivals) |
+	| Facebook | Nor Cal Lights | 708 | Gloving Community for Northern California | [https://www.facebook.com/groups/679593552145775/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/679593552145775/) |
+	| Facebook | Florida Gloving Community | 788 | Group for all Glovers from Florida, USA | [https://www.facebook.com/groups/246252528791368/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/246252528791368/) |
+	| Facebook | Phoenix Gloving Community | 163 | Group for all Glovers from Phoenix, Arizona (USA) | [https://www.facebook.com/groups/340655572682212/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/340655572682212/?ref=br_rs) |
+	| Facebook | Chroma Mode Swap | 5255 | Group for Sharing Color/Pattern Combos for the eLite Chroma | [https://www.facebook.com/groups/247403678759632/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/247403678759632/) |
+	| Facebook | MWG - Mid West Gloving | 1703 | Midwest Gloving Community | [https://www.facebook.com/groups/320937464607897/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/320937464607897/?ref=br_rs) |
+	| Reddit | Gloving Sub-reddit | 5000 | Reddit Gloving Forumn | [http://www.reddit.com/r/gloving](https://web.archive.org/web/20220930065221/http://www.reddit.com/r/gloving) |
+	| Facebook | Gloving Skype / Google+ Trades | 1012 | An Place to Trade Lightshows Online | [https://www.facebook.com/groups/492530310874264/?notif_t=group_added_to_group](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/492530310874264/?notif_t=group_added_to_group) |
+	| Facebook | The Sounds of Gloving | 1334 | A Place to Find Good Gloving Music | [https://www.facebook.com/groups/629810670438734/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/629810670438734/?ref=br_rs) |
 
 ## Tutorials
 
 ### Beginner
 
 #### Finger Tutting
+	
 
 + Details
 
@@ -82,14 +83,17 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 	+ Creatures
 
 #### Stacking
+	
 
 + Details
+		
 
 	+ Stacking is placing one hand on top of the other over and over again in different variations so it gives your hands a look like they’re being “stacked.” Stacking is one of a small number of concepts that has no clear origins in any other dance style. It’s a popular entry level gloving move as it’s easy to learn and build off of while also teaching you hand coordination, rhythm and isolation.
 
 	+ It’s a basic and it’s not hard to learn. It’s a great and easy way to learn hand coordination and is a small move that you can flawlessly integrate into transitions in your shows.
 
 + Images
+		
 
 	+ ![stacking-240x240_medium.gif](/assets/stacking-240x240_medium_1676527457206_0.gif)
 
@@ -98,6 +102,7 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 	+ ![stacking-240x240-bones_medium.gif](/assets/stacking-240x240-bones_medium_1676527438732_0.gif)
 
 + Videos
+		
 
 	+ {{< youtube Pz-EuuG2wGk >}}
 
@@ -106,6 +111,7 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 	+ {{< youtube nW9cd5yCL1o >}}
 
 + Who Uses It
+		
 
 	+ Mimik
 
@@ -114,18 +120,22 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 	+ Boo
 
 + Variations
+		
 
 	+ Platforming
 
 #### Finger Roll
+	
 
 + Details
+		
 
 	+ The Finger Roll (technically known as the "Finger Wave") is the first gloving basic. It goes into every move and every style. The strength of your finger roll makes learning everything else easier as it also builds up finger strength.
 
 	+ The Finger Roll & Finger Wave are considered to be the most basic foundation of all Gloving techniques. The movement is used in lots of other concepts, and is essential to most Glovers
 
 + Image
+		
 
 	+ ![fingerroll-240x240-animatedj_medium.gif](/assets/fingerroll-240x240-animatedj_medium_1676527420911_0.gif)
 
@@ -134,12 +144,14 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 	+ ![fingerroll-240x240_medium.gif](/assets/fingerroll-240x240_medium_1676527409129_0.gif)
 
 + Videos
+		
 
 	+ {{< youtube kH0kuym8z20 >}}
 
 	+ {{< youtube W1mwrHpua4M >}}
 
 + Who Uses It
+		
 
 	+ Mimik
 
@@ -148,6 +160,7 @@ Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https:
 	+ Blitzen
 
 + Variations
+		
 
 	+ Overhand Finger Wave
 

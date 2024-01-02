@@ -1,13 +1,9 @@
 ---
 title: NYU Dropped the Ball
 tags: 
-- ctfg
-- cyber security
-- hacking
-- education
 categories: 
-date: 2023-02-17
-lastMod: 2023-02-17
+date: 2023-04-26
+lastMod: 2023-04-26
 ---
 ## How it went wrong
 

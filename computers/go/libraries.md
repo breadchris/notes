@@ -1,3 +1,3 @@
-
+- Use a library when you want to do something quickly without becoming an expert.
 - [parsing frontmatter](https://github.com/adrg/frontmatter)
 - [lodash like functions with generics](https://github.com/samber/lo)

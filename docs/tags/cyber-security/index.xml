@@ -6,24 +6,15 @@
     <description>Recent content in cyber security on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://breadchris.com/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://breadchris.com/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I hacked your site</title>
       <link>https://breadchris.com/pages/i-hacked-your-site/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://breadchris.com/pages/i-hacked-your-site/</guid>
       <description>It isn&amp;rsquo;t your fault, you were just doing your job. Even if you wanted to try to stop it, there isn&amp;rsquo;t much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy.
 const asdf = () =&amp;gt; {} Your company&amp;rsquo;s site uses javascript.</description>
-    </item>
-    
-    <item>
-      <title>NYU Dropped the Ball</title>
-      <link>https://breadchris.com/pages/nyu-dropped-the-ball/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://breadchris.com/pages/nyu-dropped-the-ball/</guid>
-      <description>How it went wrong I have a pretty bad taste in my mouth with NYU after what they have done with CSAW over time. The fact that HSF became a CTF, quality went downhill, and then now non-existent is something that really bothers me. It had felt to me that there was a complete disregard for the exceptional talent pipeline that Nasir/Poly had established for continuing to build out cyber security at NYU.</description>
     </item>
     
   </channel>

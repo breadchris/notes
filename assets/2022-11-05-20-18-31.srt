@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:10,640
+I guess we're gonna try to record this thought with a regular mic so I guess you
+
+2
+00:00:10,640 --> 00:00:20,840
+could listen to this as kind of like a podcast all right I guess I guess this is
+
+3
+00:00:20,840 --> 00:00:30,720
+the official high-pinkies podcast because effectively what I can do if this
+
+4
+00:00:30,720 --> 00:00:38,840
+audio is embedded in my site is I can link this to hashtag high-pinkies and I could
+
+5
+00:00:38,840 --> 00:00:46,240
+put that out there so isn't hasn't logsec effectively made the perfect
+
+6
+00:00:46,240 --> 00:00:58,120
+podcasting platform because I could just record my thoughts and I could listen to
+
+7
+00:00:58,120 --> 00:01:08,760
+them back someone else could listen to them back maybe I have the the GitHub
+
+8
+00:01:08,760 --> 00:01:16,960
+like the script thing where I can turn speech into text but if I have that set
+
+9
+00:01:16,960 --> 00:01:28,400
+up then I can I can go back and turn turn my the audio that I'm saying until
+
+10
+00:01:28,400 --> 00:01:37,080
+like the perfect yeah the perfect podcasting platform I don't see why this
+
+11
+00:01:37,080 --> 00:01:49,640
+wouldn't work and actually you know what I can do is I could just record a
+
+12
+00:01:49,640 --> 00:01:57,840
+video so if I I wonder how well this would work if I just wanted to if I could
+
+13
+00:01:57,840 --> 00:02:03,160
+sync my phone with my remarkable then I could just take out a sheet of
+
+14
+00:02:03,160 --> 00:02:10,440
+paper right effectively that's what I'd be doing and writing down my notes and
+
+15
+00:02:10,440 --> 00:02:16,500
+that could effectively screencast right because you can set up a VNC
+
+16
+00:02:16,500 --> 00:02:22,740
+server on a remarkable you could screencast to your phone like I need to
+
+17
+00:02:22,740 --> 00:02:30,040
+figure out if you can do video or if it's feasible to do video recording over
+
+18
+00:02:30,040 --> 00:02:38,880
+VNC I guess you have to be connected the same local network which is fine I
+
+19
+00:02:38,880 --> 00:02:47,120
+mean you're probably on your home Wi-Fi network or if you're walking around I
+
+20
+00:02:47,120 --> 00:02:52,600
+think maybe you could do like a mobile hotspot
+
+21
+00:02:52,600 --> 00:03:01,920
+to connect to and then maybe you're remarkable I guess I need to figure out if you
+
+22
+00:03:01,920 --> 00:03:15,960
+have your iPhone connected or set up as a hotspot can your phone talk to can it
+
+23
+00:03:15,960 --> 00:03:33,000
+talk to I'm trying a blank yeah right okay right if you have a mobile hotspot
+
+24
+00:03:33,000 --> 00:03:39,440
+can your phone connect to another device that is shared on the mobile hotspot I
+
+25
+00:03:39,440 --> 00:03:47,000
+guess is what I'm saying so like as I'm talking right I can talk I can have my
+
+26
+00:03:47,000 --> 00:03:52,680
+words roughly translated into text right at least like the the words that are
+
+27
+00:03:52,680 --> 00:03:59,240
+if they're nonsense you can click on that word and it will take you to that point
+
+28
+00:03:59,240 --> 00:04:08,440
+in time in the audio and then I could also write if I wanted to just stream my
+
+29
+00:04:08,440 --> 00:04:13,680
+notes taking right because I have the remarkable I can take out my remarkable I
+
+30
+00:04:13,680 --> 00:04:20,520
+can have it be running a VNC server for that my phone connects to right because
+
+31
+00:04:20,520 --> 00:04:23,640
+they're on the same local network and they should be able to find each other and
+
+32
+00:04:23,640 --> 00:04:29,480
+then I just record that as a video and then I also insert that into lock set
+
+33
+00:04:29,480 --> 00:04:37,120
+because it can just reference notes so in the repo there would like for this
+
+34
+00:04:37,120 --> 00:04:46,480
+entry there would be the audio there would be the playback text which in lock
+
+35
+00:04:46,480 --> 00:04:52,000
+set mobile you wouldn't be able to see but you could write a plug-in right on the
+
+36
+00:04:52,000 --> 00:04:54,000
+desktop that
+
+37
+00:05:11,000 --> 00:05:20,560
+damn why am I doing a blank plug-in on the desktop that would
+
+38
+00:05:22,560 --> 00:05:27,240
+run as
+
+39
+00:05:30,840 --> 00:05:45,280
+JS that would hopefully this doesn't sound completely okay here and because this is
+
+40
+00:05:45,280 --> 00:05:50,720
+for sure this is like I guess that's the whole point of the high think he's
+
+41
+00:05:50,720 --> 00:05:58,720
+broadcast is that it's literally going to sound ridiculous and that's what
+
+42
+00:05:58,720 --> 00:06:08,360
+makes I think he's special you just record yourself thinking
+
+43
+00:06:08,360 --> 00:06:22,000
+yeah anyway I hope I'm able to listen to this back and I guess no I don't need
+
+44
+00:06:22,000 --> 00:06:25,240
+to listen to this back because I wanted to try to develop this because
+
+45
+00:06:25,240 --> 00:06:31,040
+theoretically I think he's with even with massive gaps the text that you read
+
+46
+00:06:31,040 --> 00:06:38,480
+would be different like you could just zoom around to the parts that interest you
+
+47
+00:06:38,480 --> 00:06:43,120
+so if I start talking about cooking right I could rattle off like an
+
+48
+00:06:43,120 --> 00:06:49,640
+ingredient recipe for example like like if I could speak naturally and I could
+
+49
+00:06:49,640 --> 00:06:57,200
+say to make a pie crust right and so or I just like say the words like new
+
+50
+00:06:57,200 --> 00:07:14,840
+recipe pie crust one part flour one part butter then a little bit of salt and if
+
+51
+00:07:14,840 --> 00:07:26,680
+I'm still here still just thinking so I would say change and
+
+52
+00:07:27,200 --> 00:07:50,560
+I would say change and then I would change the recipe step so for example I would
+
+53
+00:07:50,560 --> 00:08:09,280
+change the recipe step two what you would call it oh I would change the first
+
+54
+00:08:09,280 --> 00:08:26,280
+recipe step of pie crust to be combined flour salt sugar in bowl which would
+
+55
+00:08:26,280 --> 00:08:32,080
+then like mark that as the step and then for the second one right I would say on
+
+56
+00:08:32,080 --> 00:08:41,840
+this like podcast thing you like you tag it right so it's like I said the word I'm
+
+57
+00:08:41,840 --> 00:08:44,840
+just going to say we're in a word right Harvard I don't know why I'm taking
+
+58
+00:08:44,840 --> 00:08:52,320
+hard but I say Harvard and I pronounced it clearly enough that it added the tag
+
+59
+00:08:52,320 --> 00:09:06,000
+Harvard you could then create a whole page that is like the Grap Results of a whole
+
+60
+00:09:06,000 --> 00:09:15,240
+page in Logsack that is like the Grap Results of me saying Harvard right I search
+
+61
+00:09:15,240 --> 00:09:23,160
+through all these like text documents right because that's what this audio would turn
+
+62
+00:09:23,160 --> 00:09:29,560
+into right it would turn into a text document and it wouldn't be perfect but it's like good
+
+63
+00:09:29,560 --> 00:09:35,800
+enough right the conversion be good enough that I could go back through everything that
+
+64
+00:09:35,800 --> 00:09:47,120
+I've said right all my notes on something and recall them so for example let's just like
+
+65
+00:09:47,120 --> 00:09:56,880
+what's the stupid example of this like I say the word balloon right I say the word right
+
+66
+00:09:56,880 --> 00:10:04,480
+now and then maybe tomorrow right maybe tomorrow I go to a circus for whatever reason and
+
+67
+00:10:04,480 --> 00:10:11,600
+at the circus they have balloons right so this would be the second entry into my note
+
+68
+00:10:11,600 --> 00:10:22,280
+taking journal is balloons so now like through analysis of the text you can identify words
+
+69
+00:10:22,280 --> 00:10:30,040
+or you put that into essentially your personal search engine which I'm going to see right
+
+70
+00:10:30,040 --> 00:10:36,260
+so I have my notes up right now and I'm going to try to see if I can find this search engine
+
+71
+00:10:36,260 --> 00:10:53,560
+that I saved because I saw it before but I don't quite know so basically if this thing I can
+
+72
+00:10:53,560 --> 00:11:13,080
+definitely had it like somewhere search it was like index damn like so for example if so
+
+73
+00:11:13,080 --> 00:11:28,120
+there's this tool that I have in mind if it was like really fast it was like really fast
+
+74
+00:11:28,120 --> 00:11:35,000
+right so if I said like I'm reading hacker news right so I start my day and I just hit
+
+75
+00:11:35,000 --> 00:11:51,480
+record right and I start talking and it's like talking about hacker news then then I would have
+
+76
+00:11:51,480 --> 00:11:58,560
+this thought right of searching like I could then search for the tags like and maybe it works
+
+77
+00:11:58,560 --> 00:12:18,800
+maybe maybe I can do that so search for say hacker news and it was thinking about search now see if
+
+78
+00:12:18,800 --> 00:12:23,760
+when I saved that article as browsing the internet and I saved that article if it did text extraction
+
+79
+00:12:23,760 --> 00:12:33,360
+because right this is what I want to do this is the whole point of 50 is I can make it trivial like in
+
+80
+00:12:33,360 --> 00:12:53,360
+like a an API call a single API call I could turn a holy shit this could be huge like I could just
+
+81
+00:12:53,360 --> 00:13:06,080
+fork log sec right could I just fork log sec
+
+82
+00:13:06,080 --> 00:13:26,240
+I don't know is it like a hacker news and then search now index goddamn what was it maybe I can go
+
+83
+00:13:26,240 --> 00:13:35,120
+online it's very usually so I can leave my note now oh my god this is so funny my face didn't
+
+84
+00:13:35,600 --> 00:13:41,840
+cool type sensor that's a note now if I wanted to right I could tag it because it right it took
+
+85
+00:13:41,840 --> 00:13:50,480
+me so long to put this in right because that way I can search things from oh it's not called
+
+86
+00:13:50,560 --> 00:13:56,960
+hacker news it's called white combinator but I remember it in my head is hacker news right so and I'm
+
+87
+00:13:56,960 --> 00:14:09,200
+going to take this note right now and I'm going to say hashtag we'll say hashtag what's what I want to
+
+88
+00:14:09,200 --> 00:14:24,560
+say oh no I guess this is like I think he's going to link it to the page I think he is
+
+89
+00:14:24,560 --> 00:14:45,600
+whoops I come on I think he's that page cool
+
+90
+00:14:45,600 --> 00:14:58,160
+right so this thing and this is the right and if I had this this fucking the title of the page and I
+
+91
+00:14:58,160 --> 00:15:09,360
+wouldn't have to copy it all this shit down so annoying oh my goodness
+
+92
+00:15:09,360 --> 00:15:28,080
+it's not quite organized the way that I wanted to oh well be like close enough maybe
+
+93
+00:15:39,680 --> 00:15:45,920
+I think it's working hopefully
+
+94
+00:15:45,920 --> 00:16:02,160
+so I'm going on this train of thought I guess maybe I'll stop here see what happens
+

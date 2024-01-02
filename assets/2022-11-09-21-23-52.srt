@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:07,360
+Hello, this is the second episode of High Thinkies.
+
+2
+00:00:07,360 --> 00:00:13,200
+My thoughts coming at you as they're coming at me.
+
+3
+00:00:13,200 --> 00:00:28,640
+So Alex and I were talking about cybersecurity-related things and what the hell were we thinking
+
+4
+00:00:28,640 --> 00:00:29,640
+about?
+
+5
+00:00:29,640 --> 00:00:33,320
+I forget what it was.
+
+6
+00:00:33,320 --> 00:00:37,240
+But I said, okay, so I had this idea.
+
+7
+00:00:37,240 --> 00:00:45,880
+So I just got finished watching this incredible video that I guess I'll leave in the text
+
+8
+00:00:45,880 --> 00:00:46,880
+below.
+
+9
+00:00:46,880 --> 00:00:56,800
+But this video was talking about the history of VRChat and I did not know just how deep
+
+10
+00:00:56,800 --> 00:01:00,480
+VRChat went.
+
+11
+00:01:00,480 --> 00:01:01,960
+It's absolutely incredible.
+
+12
+00:01:01,960 --> 00:01:14,440
+People have programmed so much and the marketplace is so large.
+
+13
+00:01:14,440 --> 00:01:25,240
+I wonder if high schools have VR club and our kids are learning how to program and post
+
+14
+00:01:25,240 --> 00:01:34,360
+a fun VR and play the game in such a elaborate detail, but this video is so worth watching.
+
+15
+00:01:34,360 --> 00:01:36,280
+It's incredible.
+
+16
+00:01:36,280 --> 00:01:43,560
+And it had me think of building a VR world for CTF players or other types of hackers.
+
+17
+00:01:43,560 --> 00:01:51,600
+I don't know what it would look like, but because interacting in a virtual world isn't really
+
+18
+00:01:51,600 --> 00:01:52,920
+easy for programming.
+
+19
+00:01:52,920 --> 00:01:59,800
+But I don't know, maybe there's something clever, maybe you can make a matrix universe
+
+20
+00:01:59,800 --> 00:02:08,440
+and give people excited about it, excited about hacking.
+
+21
+00:02:08,440 --> 00:02:19,080
+But yeah, anyway, it's high-thinkings for today.
+

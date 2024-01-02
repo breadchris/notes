@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://omnivore.app/me/the-untold-story-of-sq-lite-with-richard-hipp-co-recursive-podca-18cc76a7580)
+	  collapsed:: true
+	  site:: [CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
+	  author:: Adam Gordon Bell
+	  date-saved:: [[Jan 1st, 2024]]
+	  date-published:: [[Jul 1st, 2021]]
+	- [Displaying content as a graph: An exploration | This is important](https://omnivore.app/me/displaying-content-as-a-graph-an-exploration-this-is-important-18cc76417da)
+	  collapsed:: true
+	  site:: [thisisimportant.net](https://thisisimportant.net/posts/content-as-a-graph/)
+	  date-saved:: [[Jan 1st, 2024]]
+	  date-published:: [[Dec 28th, 2023]]
+	- [Perfectionism and Procrastination: How They’re Connected and What to Do About It – Solving Procrastination](https://omnivore.app/me/perfectionism-and-procrastination-how-they-re-connected-and-what-18cc5bb0fe5)
+	  collapsed:: true
+	  site:: [solvingprocrastination.com](https://solvingprocrastination.com/perfectionism/)
+	  labels:: [[mah boi]][[learning]]
+	  date-saved:: [[Jan 1st, 2024]]
 	- [Sequencer Party • Home](https://omnivore.app/me/sequencer-party-home-18cc0c3c84d)
 	  collapsed:: true
 	  site:: [Sequencer.party](https://sequencer.party)

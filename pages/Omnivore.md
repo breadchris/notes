@@ -3919,6 +3919,11 @@
 	      labels:: [[ai]][[infra]]
 	      date_saved:: [[Apr 10th, 2023]]
 	- [HackerNews Ranking Algorithm: How would you have done it?](https://omnivore.app/me/hacker-news-ranking-algorithm-how-would-you-have-done-it-1876d490948)
+	        collapsed:: true
+	        site:: [Vigneshwarar’s Newsletter](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
+	        author:: Vigneshwarar
+	        labels:: [[search]]
+	        date_saved:: [[Apr 10th, 2023]]
 	  collapsed:: true
 	  site:: [Vigneshwarar’s Newsletter](https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how)
 	  author:: Vigneshwarar
@@ -4025,6 +4030,7 @@
 	  site:: [OpenSource Connections](https://opensourceconnections.com/blog/2023/02/27/hybrid-vigor-winning-at-hybrid-search)
 	  author:: Nate Day
 	  labels:: [[ai]][[search]]
+	  date-saved:: [[Apr 6th, 2023]]
 	  date-saved:: [[Aug 22nd, 2023]]
 	  date-published:: [[Feb 27th, 2023]]
 	- [Semantic Search: Measuring Meaning From Jaccard to Bert | Pinecone](https://omnivore.app/me/semantic-search-measuring-meaning-from-jaccard-to-bert-pinecone-18757efc4e1)
@@ -4644,6 +4650,7 @@
 			- > It used to be the case that you needed to train to become a scribe to write words for any reason. But just as pens were taken out of the hands of the scribe during the Reformation of Europe, we must take the code out of the hands of software engineers and share it with the masses. [⤴️](https://omnivore.app/me/communal-computing-networks-18688a92b21#585c3ac7-8809-4ad3-8bf1-80caa19fce46) 
 			  
 			  note:: #protoflow/ideas
+				- #protoflow/ideas
 				- #protoflow/ideas #seagl/ideas
 			- > Our web has turned into a relentless competition for our attention. [⤴️](https://omnivore.app/me/communal-computing-networks-18688a92b21#2a8f3a20-920f-4ab4-a101-0032f038d7d5)
 	- [Svelte for the Experienced React Dev | CSS-Tricks - CSS-Tricks](https://omnivore.app/me/svelte-for-the-experienced-react-dev-css-tricks-css-tricks-1867cba6a83)
@@ -4921,6 +4928,10 @@
 	      author:: admin
 	      date_saved:: [[Feb 15th, 2023]]
 	- [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://omnivore.app/me/what-is-chat-gpt-doing-and-why-does-it-work-stephen-wolfram-writ-186531c234e)
+	      collapsed:: true
+	      site:: [Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)
+	      author:: Stephen Wolfram
+	      date_saved:: [[Feb 14th, 2023]]
 	  collapsed:: true
 	  site:: [Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work)
 	  author:: Stephen Wolfram

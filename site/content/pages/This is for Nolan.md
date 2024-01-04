@@ -1,3 +1,5 @@
+public:: true
+
 ---
 title: This is for Nolan
 tags: 
@@ -174,6 +176,26 @@ import "fmt"
 // Each struct has only a single responsibility.
 // User struct represents a user in the system.
 type User struct {
+    ID        int
+    FirstName string
+    LastName  string
+}
+- // UserService struct defines a service for managing users.
+type UserService struct {
+    users []User
+}
+// AddUser adds a new user to the service.
+func (s *UserService) AddUser(u User) {
+    s.users = append(s.users, u)
+}
+// GetUserByID returns the user with the given ID.
+func (s *UserService) GetUserByID(id int) User {
+    for _, u := range s.users {
+        if u.ID == id {
+            return u
+        }
+    }
+    return User{}
   ID        int
   FirstName string
   LastName  string
@@ -201,12 +223,24 @@ func (s *UserService) GetUserByID(id int) User {
 // rather than modifying the existing UserService.
 // UserRepository defines the interface for a user repository.
 type UserRepository interface {
+    SaveUser(u User) error
+    FindUserByID(id int) (User, error)
   SaveUser(u User) error
   FindUserByID(id int) (User, error)
 }
 - // UserRepositoryImpl is a concrete implementation of the UserRepository interface.
 // It uses the UserService to store and retrieve users.
 type UserRepositoryImpl struct {
+    userService *UserService
+}
+// SaveUser saves a user to the repository.
+func (r *UserRepositoryImpl) SaveUser(u User) error {
+    r.userService.AddUser(u)
+    return nil
+}
+// FindUserByID finds a user with the given ID in the repository.
+func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {
+    return r.userService.GetUserByID(id), nil
   userService *UserService
 }
 // SaveUser saves a user to the repository.
@@ -225,6 +259,33 @@ func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {
 // UserController is a controller for managing users.
 // It uses a UserRepository to store and retrieve users.
 type UserController struct {
+    repository UserRepository
+}
+- // NewUserController creates a new UserController.
+func NewUserController(r UserRepository) *UserController {
+    return &UserController{repository: r}
+}
+// CreateUser creates a new user.
+func (c *UserController) CreateUser(u User) error {
+    return c.repository.SaveUser(u)
+}
+// GetUserByID gets the user with the given ID.
+func (c *UserController) GetUserByID(id int) (User, error) {
+    return c.repository.FindUserByID(id)
+}
+func main() {
+    // Dependency Inversion Principle:
+    // The UserController depends on the UserRepository interface,
+    // rather than on the concrete UserRepositoryImpl.
+    // This allows us to use any implementation of the UserRepository interface with the UserController.
+    
+    userService := &UserService{}
+    repository := &UserRepositoryImpl{userService: userService}
+    controller := NewUserController(repository)
+    user := User{ID: 1, FirstName: "John", LastName: "Doe"}
+    controller.CreateUser(user)
+    retrievedUser, _ := controller.GetUserByID(1)
+    fmt.Println(retrievedUser)
   repository UserRepository
 }
 - // NewUserController creates a new UserController.
@@ -299,6 +360,9 @@ return nil
 // FindUserByID finds a user with the given ID in the repository.
 func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {
 for _, u := range s.users {
+    if u.ID == id {
+        return u, nil
+    }
   if u.ID == id {
       return u, nil
   }
@@ -315,6 +379,9 @@ What if we want to check if a user exists before saving it? We can do so with th
 // SaveUser saves a user to the repository.
 func (r *UserRepositoryImpl) SaveUser(u User) error {
 for _, user := range s.users {
+    if u.ID == user.ID {
+        return ErrUserWithIDExists
+    }
   if u.ID == user.ID {
       return ErrUserWithIDExists
   }
@@ -337,6 +404,15 @@ Username string
 - // SaveUser saves a user to the repository.
 func (r *UserRepositoryImpl) SaveUser(u User) error {
 if badWords.Contains(u.Username) {
+    return ErrUsernameInvalid
+}
+- for _, user := range s.users {
+    if u.ID == user.ID {
+        return ErrUserWithIDExists
+    }
+- if u.Username == user.Username {
+        return ErrUsernameExists
+    }
   return ErrUsernameInvalid
 }
 - for _, user := range s.users {
@@ -358,6 +434,16 @@ Now if we wanted to rewrite SaveUser using an actual database:
 // SaveUser saves a user to the repository.
 func (r *UserRepositoryImpl) SaveUser(u User) error {
 if badWords.Contains(u.Username) {
+    return ErrUsernameInvalid
+}
+- users := r.db.Query("select * from users").ScanStructs(User{})
+for _, user := range users {
+    if u.ID == user.ID {
+        return ErrUserWithIDExists
+    }
+- if u.Username == user.Username {
+        return ErrUsernameExists
+    }
   return ErrUsernameInvalid
 }
 - users := r.db.Query("select * from users").ScanStructs(User{})
@@ -378,6 +464,16 @@ Still maintainable but it could look something like this which I personally find
 ```go
 func (r *UserRepositoryImpl) SaveUser(u User) error {
 if badWords.Contains(u.Username) {
+    return ErrUsernameInvalid
+}
+- users := r.repository.QueryAllUsers()
+for _, user := range users {
+    if u.ID == user.ID {
+        return ErrUserWithIDExists
+    }
+- if u.Username == user.Username {
+        return ErrUsernameExists
+    }
   return ErrUsernameInvalid
 }
 - users := r.repository.QueryAllUsers()
@@ -399,11 +495,13 @@ You could refactor even further:
 func (r *UserRepositoryImpl) SaveUser(u User) error {
 err := r.repository.ValidateUser(u);
 if err != nil {
+    return err
   return err
 }
 - return r.repository.SaveUser(u)
 }
 ```
 
+Now it's even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.
 Now it's even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.
 

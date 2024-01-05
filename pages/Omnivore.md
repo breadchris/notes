@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Steve Jobs by Isaacson, Walter](https://omnivore.app/me/steve-jobs-by-isaacson-walter-18cd7db5402)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537)
+	  author:: Walter IsaacsonWalter Isaacson + Follow More books from this author
+	  date-saved:: [[Jan 4th, 2024]]
 	- [bald and bankrupt - YouTube](https://omnivore.app/me/bald-and-bankrupt-you-tube-18cd78a185f)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/@baldandbankrupt/videos)

@@ -1,2 +1,0 @@
-
-- [getting started auditing contracts](https://blog.zellic.io/2022/02/11/auditor-grindset/)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [China's TikTok might as well be designed as a weapon against our teens](https://omnivore.app/me/china-s-tik-tok-might-as-well-be-designed-as-a-weapon-against-ou-18cd77fb140)
+	  collapsed:: true
+	  site:: [New York Post](https://nypost.com/2023/03/10/chinas-tiktok-might-as-well-be-designed-as-a-weapon-against-our-teens/amp/)
+	  author:: Carrie Sheffield
+	  date-saved:: [[Jan 4th, 2024]]
+	  date-published:: [[Mar 10th, 2023]]
 	- [You Need Less Caffeine Than You Think - Sparrow's Digital Garden](https://omnivore.app/me/you-need-less-caffeine-than-you-think-sparrow-s-digital-garden-18cd7006145)
 	  collapsed:: true
 	  site:: [garden.sparrow.zone](https://garden.sparrow.zone/You+Need+Less+Caffeine+Than+You+Think)

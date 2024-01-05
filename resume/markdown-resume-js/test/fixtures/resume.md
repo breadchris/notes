@@ -24,6 +24,8 @@
   
   * CSAW CTF Organizer - Interfaced with security researchers to create cyber security challenges for undergraduates
   * Hack Night Organizer - Introduce attendees to offensive security topics by engaging them in a hands-on curriculum
+- Projects
+	-
 - ### Volunteering
   
   > I am passionate about education and making concepts accessible for everyone.

@@ -1,2 +1,0 @@
-
-- arch install guide https://www.lunasec.io/docs/blog/arch-linux-installation-guide/

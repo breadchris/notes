@@ -1,4 +1,0 @@
-- [pragmatic engineer](https://blog.pragmaticengineer.com/) - pretty cool insight into how companies do things at scale
-- ((641bf38e-c91a-455e-be54-d5b1b1e8bdf1))
-- ((63eff724-43af-4239-8a52-a34ad3578efc))
--

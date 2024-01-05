@@ -25,7 +25,8 @@
   * CSAW CTF Organizer - Interfaced with security researchers to create cyber security challenges for undergraduates
   * Hack Night Organizer - Introduce attendees to offensive security topics by engaging them in a hands-on curriculum
 - Projects
-	-
+	- https://github.com/xctf-io/xctf
+	- https://github.com/lunabrain-ai/lunabrain
 - ### Volunteering
   
   > I am passionate about education and making concepts accessible for everyone.

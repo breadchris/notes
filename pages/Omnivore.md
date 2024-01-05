@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Ctrl-C - Kevin Lawler](https://omnivore.app/me/ctrl-c-kevin-lawler-18cdb9200fa)
+	  collapsed:: true
+	  site:: [web.archive.org](https://web.archive.org/web/20220806111005/https://kevinlawler.com/ctrl-c)
+	  date-saved:: [[Jan 5th, 2024]]
+	  date-published:: [[Aug 4th, 2022]]
+	- [Kanye West's Stem Player - An engineering disaster](https://omnivore.app/me/kanye-west-s-stem-player-an-engineering-disaster-18cdb907d8d)
+	  collapsed:: true
+	  site:: [krystalgamer.github.io](https://krystalgamer.github.io/stem-player-emulator/)
+	  date-saved:: [[Jan 5th, 2024]]
+	- [The Art of Unix Programming](https://omnivore.app/me/the-art-of-unix-programming-18cdb863238)
+	  collapsed:: true
+	  site:: [catb.org](http://www.catb.org/esr/writings/taoup/html/)
+	  author:: Eric Steven Raymond Thyrsus Enterprises <esr@thyrsus.com>
+	  date-saved:: [[Jan 5th, 2024]]
+	- [An app can be a home-cooked meal](https://omnivore.app/me/an-app-can-be-a-home-cooked-meal-18cdb851a4d)
+	  collapsed:: true
+	  site:: [Robin Sloan](https://www.robinsloan.com/notes/home-cooked-app/)
+	  date-saved:: [[Jan 5th, 2024]]
 	- [Mobile ALOHA](https://omnivore.app/me/mobile-aloha-18cd898c343)
 	  collapsed:: true
 	  site:: [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io)
@@ -5020,11 +5038,10 @@
 	        site:: [June Personal Web](https://clavinjune.dev/en/blogs/golang-dependency-injection-using-wire)
 	        author:: Clavin June
 	        date_saved:: [[Feb 5th, 2023]]
-	- [blog/semantic_future.md at main · GavinMendelGleason/blog](https://omnivore.app/me/blog-semantic-future-md-at-main-gavin-mendel-gleason-blog-18622b11eba)
-	      collapsed:: true
-	      site:: [GitHub](https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md)
-	      author:: GavinMendelGleason
-	      date_saved:: [[Feb 5th, 2023]]
+	- [blog/entries/semantic_future.md at main · GavinMendelGleason/blog](https://omnivore.app/me/blog-semantic-future-md-at-main-gavin-mendel-gleason-blog-18622b11eba)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md)
+	  date-saved:: [[Jan 5th, 2024]]
 		- ### Highlights
 			- > In short, the information age needs an information super-highway andnot just a big pipe for interactive documents. [⤴️](https://omnivore.app/me/blog-semantic-future-md-at-main-gavin-mendel-gleason-blog-18622b11eba#7b5749f8-cbc5-4830-96f1-d2acd82d506c)
 	- [React Is Holding Me Hostage](https://omnivore.app/me/react-is-holding-me-hostage-186c0c15cea)

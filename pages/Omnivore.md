@@ -1,13 +1,38 @@
 ## 🔖 Articles
+	- [You Need Less Caffeine Than You Think - Sparrow's Digital Garden](https://omnivore.app/me/you-need-less-caffeine-than-you-think-sparrow-s-digital-garden-18cd7006145)
+	  collapsed:: true
+	  site:: [garden.sparrow.zone](https://garden.sparrow.zone/You+Need+Less+Caffeine+Than+You+Think)
+	  date-saved:: [[Jan 4th, 2024]]
+	- [Go: What we got right, what we got wrong | Hacker News](https://omnivore.app/me/go-what-we-got-right-what-we-got-wrong-hacker-news-18cd6ce9dfb)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=38872362)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Jan 4th, 2024]]
+	- [command center: What We Got Right, What We Got Wrong](https://omnivore.app/me/command-center-what-we-got-right-what-we-got-wrong-18cd6906a0e)
+	  collapsed:: true
+	  site:: [commandcenter.blogspot.com](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html?m=1)
+	  labels:: [[golang/programming]]
+	  date-saved:: [[Jan 4th, 2024]]
+	  date-published:: [[Jan 3rd, 2024]]
+	- [Addy Osmani on Twitter: "First do it, then do it right, then do it better."
+	  
+	  Just start. The journey to success often beg...](https://omnivore.app/me/https-twitter-com-addyosmani-status-1739052802314539371-18ccc03ac36)
+	  collapsed:: true
+	  site:: [Twitter](https://twitter.com/addyosmani/status/1739052802314539371)
+	  author:: Addy Osmani
+	  date-saved:: [[Jan 2nd, 2024]]
+	  date-published:: [[Dec 24th, 2023]]
 	- [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://omnivore.app/me/the-untold-story-of-sq-lite-with-richard-hipp-co-recursive-podca-18cc76a7580)
 	  collapsed:: true
 	  site:: [CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
 	  author:: Adam Gordon Bell
+	  labels:: [[database]]
 	  date-saved:: [[Jan 1st, 2024]]
 	  date-published:: [[Jul 1st, 2021]]
 	- [Displaying content as a graph: An exploration | This is important](https://omnivore.app/me/displaying-content-as-a-graph-an-exploration-this-is-important-18cc76417da)
 	  collapsed:: true
 	  site:: [thisisimportant.net](https://thisisimportant.net/posts/content-as-a-graph/)
+	  labels:: [[ux]]
 	  date-saved:: [[Jan 1st, 2024]]
 	  date-published:: [[Dec 28th, 2023]]
 	- [Perfectionism and Procrastination: How They’re Connected and What to Do About It – Solving Procrastination](https://omnivore.app/me/perfectionism-and-procrastination-how-they-re-connected-and-what-18cc5bb0fe5)
@@ -22,6 +47,7 @@
 	- [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://omnivore.app/me/how-bad-are-search-results-let-s-compare-google-bing-marginalia--18cbdfb5c9b)
 	  collapsed:: true
 	  site:: [danluu.com](https://danluu.com/seo-spam/)
+	  labels:: [[programming]][[internet]]
 	  date-saved:: [[Dec 30th, 2023]]
 	- [NearlyFreeSpeech.NET Web Hosting](https://omnivore.app/me/nearly-free-speech-net-web-hosting-18cbc2c18ad)
 	  collapsed:: true
@@ -53,6 +79,7 @@
 	- [Why Google+ Failed | Hacker News](https://omnivore.app/me/why-google-failed-hacker-news-18cb8a8ac45)
 	  collapsed:: true
 	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=20230345)
+	  labels:: [[internet/social]]
 	  date-saved:: [[Dec 29th, 2023]]
 	- [Ask HN: What are good books/blogs to read for a first time CTO? | Hacker News](https://omnivore.app/me/ask-hn-what-are-good-books-blogs-to-read-for-a-first-time-cto-ha-18cb6a9747b)
 	  collapsed:: true
@@ -272,12 +299,14 @@
 	- [Pipe Dreams: The life and times of Yahoo Pipes](https://omnivore.app/me/pipe-dreams-the-life-and-times-of-yahoo-pipes-18c6bc7d3a1)
 	  collapsed:: true
 	  site:: [retool.com](https://retool.com/pipes)
+	  labels:: [[business ]][[internet]]
 	  date-saved:: [[Dec 14th, 2023]]
 	  date-published:: [[Apr 10th, 2007]]
 	- [Interviewing my mother, a mainframe COBOL programmer](https://omnivore.app/me/interviewing-my-mother-a-mainframe-cobol-programmer-18c69fbe7fa)
 	  collapsed:: true
 	  site:: [John’s Substack](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 	  author:: Tom Jordell
+	  labels:: [[programming]]
 	  date-saved:: [[Dec 14th, 2023]]
 	  date-published:: [[Jul 13th, 2016]]
 	- [Hackers (1995) | Sci-fi interfaces](https://omnivore.app/me/hackers-1995-sci-fi-interfaces-18c6985b73d)
@@ -305,6 +334,7 @@
 	  collapsed:: true
 	  site:: [mistral.ai](https://mistral.ai/news/about-mistral-ai/)
 	  author:: Mistral AI
+	  labels:: [[ai]]
 	  date-saved:: [[Dec 11th, 2023]]
 	  date-published:: [[Sep 26th, 2023]]
 	- [The best WebAssembly runtime may be no runtime at all | Frank DENIS random thoughts.](https://omnivore.app/me/the-best-web-assembly-runtime-may-be-no-runtime-at-all-frank-den-18c5a6203d0)
@@ -326,6 +356,7 @@
 	- [blakewatson.com – omg.lol: an oasis on the internet](https://omnivore.app/me/blakewatson-com-omg-lol-an-oasis-on-the-internet-18c55a27322)
 	  collapsed:: true
 	  site:: [blakewatson.com](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
+	  labels:: [[lunabrain/ideas]][[internet/social]]
 	  date-saved:: [[Dec 10th, 2023]]
 	  date-published:: [[Dec 9th, 2023]]
 	- [Things I learned from teaching](https://omnivore.app/me/things-i-learned-from-teaching-18c54afafb6)

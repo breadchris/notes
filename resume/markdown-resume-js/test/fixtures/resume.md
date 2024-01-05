@@ -1,49 +1,33 @@
-# Brian Hann
-## Senior Web Developer, Data Nerd
+# Christopher Thompson
 
-> <span class="no-print">[Download PDF](resume.pdf)</span>
-> [me@mysite.com](me@mysite.com)
-> (999) 888-7777
+> breadchris.com | [chris@breadchris.com](chris@breadchris.com) | (301) 535-2747
 
 ---
-
-### Profile
-
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
-
----
-
-### Skills
-
-* **Web Design**
-  Assertively exploit wireless initiatives rather than synergistic core competencies.
-
-* **Interface Design**
-  Credibly streamline mission-critical value with multifunctional functionalities.
-
-* **Project Direction**
-  Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
-
----
-
-### Technical
-
-1. XHTML
-1. CSS
-1. Javascript
-1. Jquery
-1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
-1. Linux
-
----
-
-### Experience
-
-**Microsoft** : *Principal and Creative Lead* __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
-
-**International Business Machines (IBM)** : *Lead Web Designer* __2001-2004__
-  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+- ### Experience
+  
+  ** LunaSec ** : Security Engineer __2020 - Current__
+  
+  Open-source security tooling for developers and security teams: **github.com/lunasec-io/lunasec**
+  
+  * Critical vulnerability coverage (Log4Shell, Spring4Shell, Protestware) for global security teams
+  * LunaTrace: "inbox-zero" for supply chain security
+  * LunaDefend: Zero trust input form protecting against OWASP top 10 vulnerabilities
+  
+  ** Uber ** : Security Engineer __2016 - 2020__
+  
+  * Automated event dispatching from Application Security scanning of discovered assets
+  * Triaging and remediation of detected vulnerabilities (Bug Bounty, scanning, auditing)
+  * Native Android and iOS framework for fraud signalling
+  * Security education curriculum for developers to proactively identify and remediate commonly seen vulnerabilities specific to Uber's infrastructure
+  
+  ** New York University ** : Cyber Security Lab __2014 - 2017__
+  
+  * CSAW CTF Organizer - Interfaced with security researchers to create cyber security challenges for undergraduates
+  * Hack Night Organizer - Introduce attendees to offensive security topics by engaging them in a hands-on curriculum
+- ### Volunteering
+  
+  > I am passionate about education and making concepts accessible for everyone.
+  
+  * Montgomery County Public School High School Forensics (mpcshsf.com) competition developed and ran from 2015 to present
+  * NYU Cyber Security Awareness Week (CSAW) organizer 2014 - 2017
+  * TEALS volunteer for 2018/19 and 2019/2020 school semesters for Chelan High School

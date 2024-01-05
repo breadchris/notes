@@ -1,1 +1,0 @@
-- Byzantine fault–tolerant

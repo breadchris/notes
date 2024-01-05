@@ -1,1 +1,0 @@
-- tutorials - https://www.emazinglights.com/pages/beginner-gloving-tutorials

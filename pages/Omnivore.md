@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [bald and bankrupt - YouTube](https://omnivore.app/me/bald-and-bankrupt-you-tube-18cd78a185f)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/@baldandbankrupt/videos)
+	  date-saved:: [[Jan 4th, 2024]]
 	- [China's TikTok might as well be designed as a weapon against our teens](https://omnivore.app/me/china-s-tik-tok-might-as-well-be-designed-as-a-weapon-against-ou-18cd77fb140)
 	  collapsed:: true
 	  site:: [New York Post](https://nypost.com/2023/03/10/chinas-tiktok-might-as-well-be-designed-as-a-weapon-against-our-teens/amp/)

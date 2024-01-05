@@ -11,16 +11,16 @@ title:: lunasec/mission
 - Compliance requirements detract from meaningful security work
 	- They often require a "thin blanket" approach to security (ie. buying a vendor tool to say that they meet X requirement).
 	- The focus falls more on story telling rather than data driven efforts.
-### Tools that AppSec teams typically buy or build themselves
+- ### Tools that AppSec teams typically buy or build themselves
 - Secret scanners
 - Package vulnerability scanners
 - Cloud policy management
-### Problems we want to solve
+- ### Problems we want to solve
 - Taking the tedious work of prioritizing findings off people's plates
 	- Very few vulnerabilities are immediately necessary to patch, using heuristics to guage what is important to address and when will give security teams laser focus to address problems
 - Stoping social capital burn by security teams
 	- Higher signal to noise ratios means more meaningful tasks being opened
-### How we can solve these problems
+- ### How we can solve these problems
 - Providing more context to findings means less guessing if you should care about a problem
 	- Where does a library get used in code?
 	- Why was the library included in the project?

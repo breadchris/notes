@@ -9,7 +9,7 @@
   
   Open-source security tooling for developers and security teams: **github.com/lunasec-io/lunasec**
   
-  * Critical vulnerability coverage (Log4Shell, Spring4Shell, Protestware) for global security teams
+  * Critical vulnerability [coverage](https://www.lunasec.io/docs/blog/log4j-zero-day/) (Log4Shell, Spring4Shell, Protestware) for global security teams
   * LunaTrace: "inbox-zero" for supply chain security
   * LunaDefend: Zero trust input form protecting against OWASP top 10 vulnerabilities
   

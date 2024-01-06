@@ -26,6 +26,9 @@ languages:
             tag: tags
         menu:
             main:
+                - name: Resume
+                  url: resume
+                  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10

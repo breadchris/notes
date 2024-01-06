@@ -6,7 +6,7 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resume</title>
@@ -14,8 +14,25 @@
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/resume/</guid>
       <description>I am a security engineer with a passion for building tools that make security easier for developers. My passion is making concepts accessible for everyone.
-chris@breadchris.com
+download | chris@breadchris.com
 LunaSec: Security Engineer 2020 - Current Open-source security tooling for developers and security teams Critical vulnerability coverage (Log4Shell, Spring4Shell, Protestware) for global security teams LunaTrace: &amp;ldquo;inbox-zero&amp;rdquo; for supply chain security LunaDefend: Zero trust input form protecting against OWASP top 10 vulnerabilities Uber: Security Engineer 2016 - 2020 Automated event dispatching from Application Security scanning of discovered assets Triaging and remediation of detected vulnerabilities (Bug Bounty, scanning, auditing) Native Android and iOS framework for fraud signaling Security education curriculum for developers to proactively identify and remediate commonly seen vulnerabilities specific to Uber&amp;rsquo;s infrastructure New York University: OSIRIS Cyber Security Lab 2014 - 2017 CSAW CTF Lead - International CTF cyber security competition Hack Night Lead - Introduce attendees to offensive security topics by engaging them in a hands-on curriculum BAE Systems: Vulnerability Research Intern 2015 - 2016 Audited, triaged, and exploited large C++ projects for vulnerabilities Northrop Grumman: Software Developer Intern 2012 - 2014 Visualization tool for malware ICOs from Bro logs Projects Development Stream: Capturing personal project progress and community engagement LunaBrain: AI-assisted writing tool for capturing and expanding on ideas A Study in Blue: Security review of iOS, Android, and Linux Bluetooth stacks Volunteering Montgomery County Public School High School Forensics competition developed and ran from 2015 to present NYU Cyber Security Awareness Week (CSAW) organizer 2014 - 2017 TEALS volunteer for 2018/19 and 2019/2020 school semesters for Chelan High School </description>
+    </item>
+    <item>
+      <title>talks</title>
+      <link>https://breadchris.com/talks/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/talks/</guid>
+      <description>101 Ways Dependencies Can Ruin Your Day slides
+Dependencies are really messy and can cause a lot of problems. There are systemic problems that hackers can take advantage of.
+How do you design LEGOs for code? slides
+I have played with LEGOs all my life and I have been writing code for a while now. I have been thinking about how to make code feel more like LEGOs.</description>
+    </item>
+    <item>
+      <title>We need LEGOs for Code</title>
+      <link>https://breadchris.com/posts/we-need-legos-for-code/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/we-need-legos-for-code/</guid>
+      <description>Playing with Legos Legos are fun, they are composable. Code is not composable, not at least in the way we learn to code Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem. Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego.</description>
     </item>
     <item>
       <title>AI Can&#39;t Fold 1000 Cranes</title>
@@ -65,13 +82,6 @@ LunaSec: Security Engineer 2020 - Current Open-source security tooling for devel
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/posts/start-with-a-static-site/</guid>
       <description>Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier. Start with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.</description>
-    </item>
-    <item>
-      <title>We need LEGOs for Code</title>
-      <link>https://breadchris.com/posts/we-need-legos-for-code/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/posts/we-need-legos-for-code/</guid>
-      <description>Playing with Legos Legos are fun, they are composable. Code is not composable, not at least in the way we learn to code Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem. Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego.</description>
     </item>
     <item>
       <title>What holds us back</title>

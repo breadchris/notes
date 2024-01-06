@@ -4,7 +4,7 @@ title: "Information About Gloving"
 date: "2024-01-01"
 description: ""
 summary: ""
-tags: []
+tags: [art]
 categories: []
 series: []
 ShowToc: false

@@ -57,8 +57,8 @@ params:
         imageTitle: ""
         buttons: []
     homeInfoParams:
-        Title: title
-        Content: content
+        Title: breadchris
+        Content: Hack the planet.
     socialIcons: []
     editPost:
         URL: ""

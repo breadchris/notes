@@ -4,7 +4,7 @@ title: "How I Got to Where I Am"
 date: "2024-01-01"
 description: ""
 summary: ""
-tags: []
+tags: [life]
 categories: []
 series: []
 ShowToc: false

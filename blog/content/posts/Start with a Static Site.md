@@ -4,7 +4,7 @@ title: "Start with a Static Site"
 date: "2024-01-01"
 description: ""
 summary: ""
-tags: []
+tags: [programming]
 categories: []
 series: []
 ShowToc: false

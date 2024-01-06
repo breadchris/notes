@@ -4,7 +4,7 @@ title: "NYU Dropped the Ball"
 date: "2024-01-01"
 description: ""
 summary: ""
-tags: []
+tags: [security, school]
 categories: []
 series: []
 ShowToc: false

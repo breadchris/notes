@@ -4,7 +4,7 @@ title: "I hacked my high school, and you should too."
 date: "2024-01-01"
 description: ""
 summary: ""
-tags: []
+tags: [security]
 categories: []
 series: []
 ShowToc: false

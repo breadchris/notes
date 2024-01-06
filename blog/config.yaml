@@ -29,6 +29,9 @@ languages:
                 - name: Resume
                   url: resume
                   weight: 10
+                - name: Talks
+                  url: talks
+                  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10

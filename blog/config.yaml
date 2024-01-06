@@ -1,6 +1,6 @@
-publishDir: '@breadchris'
-baseURL: http://localhost:8000/@breadchris
-title: Title
+publishDir: 'docs'
+baseURL: https://breadchris.com/
+title: breadchris
 paginate: 5
 theme:
     - papermod

@@ -59,7 +59,13 @@ params:
     homeInfoParams:
         Title: breadchris
         Content: Hack the planet.
-    socialIcons: []
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/breadchris"
+        - name: "twitter"
+          url: "https://twitter.com/breadchris"
+        - name: "youtube"
+          url: "https://www.youtube.com/@breadchris/streams"
     editPost:
         URL: ""
         Text: ""

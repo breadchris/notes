@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on breadchris</title>
+    <link>https://breadchris.com/tags/programming/</link>
+    <description>Recent content in programming on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We need LEGOs for Code</title>
+      <link>https://breadchris.com/posts/we-need-legos-for-code/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/we-need-legos-for-code/</guid>
+      <description>Playing with Legos Legos are fun, they are composable. Code is not composable, not at least in the way we learn to code Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem. Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego.</description>
+    </item>
+    <item>
+      <title>Start with a Static Site</title>
+      <link>https://breadchris.com/posts/start-with-a-static-site/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/start-with-a-static-site/</guid>
+      <description>Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier. Start with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.</description>
+    </item>
+    <item>
+      <title>Why soundbite should exist</title>
+      <link>https://breadchris.com/posts/why-soundbite-should-exist/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/why-soundbite-should-exist/</guid>
+      <description>TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers. Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed?</description>
+    </item>
+  </channel>
+</rss>

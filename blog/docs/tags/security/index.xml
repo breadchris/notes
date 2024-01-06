@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on breadchris</title>
+    <link>https://breadchris.com/tags/security/</link>
+    <description>Recent content in security on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I hacked my high school, and you should too.</title>
+      <link>https://breadchris.com/posts/i-hacked-my-high-school-and-you-should-too/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/i-hacked-my-high-school-and-you-should-too/</guid>
+      <description>I have worked for Northrup Grumman and Uber as a security engineer and I built security tools that have been used around the world. The coolest thing that I have done in my life is that I got to help develop code that ran on every device that had Uber installed on it. The purpose of this code was to help the 20% Uber was losing to fraudulent trips. The talent needed to work on a project like this was so rare that I was hired on as the first team member, as an intern and later hired on as a college dropout.</description>
+    </item>
+    <item>
+      <title>I hacked your site.</title>
+      <link>https://breadchris.com/posts/i-hacked-your-site/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/i-hacked-your-site/</guid>
+      <description>It isn&amp;rsquo;t your fault, you were just doing your job. Even if you wanted to try to stop it, there isn&amp;rsquo;t much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy. const asdf = () =&amp;gt; {} Your company&amp;rsquo;s site uses javascript.</description>
+    </item>
+    <item>
+      <title>NYU Dropped the Ball</title>
+      <link>https://breadchris.com/posts/nyu-dropped-the-ball/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/posts/nyu-dropped-the-ball/</guid>
+      <description>How it went wrong I have a pretty bad taste in my mouth with NYU after what they have done with CSAW over time. The fact that HSF became a CTF, quality went downhill, and then now non-existent is something that really bothers me. It had felt to me that there was a complete disregard for the exceptional talent pipeline that Nasir/Poly had established for continuing to build out cyber security at NYU.</description>
+    </item>
+  </channel>
+</rss>

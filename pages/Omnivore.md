@@ -1,26 +1,82 @@
 ## 🔖 Articles
+	- [The 37signals Manifesto (our original site from 1999)](https://omnivore.app/me/the-37-signals-manifesto-our-original-site-from-1999-18ce0d0b909)
+	  collapsed:: true
+	  site:: [1999.37signals.com](https://1999.37signals.com/manifesto)
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Laurence Tratt: Choosing What To Read](https://omnivore.app/me/laurence-tratt-choosing-what-to-read-18cdfad8283)
+	  collapsed:: true
+	  site:: [tratt.net](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
+	  labels:: [[reading]]
+	  date-saved:: [[Jan 6th, 2024]]
+	  date-published:: [[Jan 3rd, 2024]]
+	- [Laurence Tratt: Alternative Sources of Advice](https://omnivore.app/me/laurence-tratt-alternative-sources-of-advice-18cdfad6276)
+	  collapsed:: true
+	  site:: [tratt.net](https://tratt.net/laurie/blog/2020/alternative_sources_of_advice.html)
+	  date-saved:: [[Jan 6th, 2024]]
+	  date-published:: [[May 5th, 2020]]
+	- [Ask HN: Experience Starting a Blog | Hacker News](https://omnivore.app/me/ask-hn-experience-starting-a-blog-hacker-news-18cdfacab20)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=38892150)
+	  labels:: [[writing]]
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Home - Sacred-Texts ISTA - Internet Sacred Text Archive](https://omnivore.app/me/home-sacred-texts-ista-internet-sacred-text-archive-18cdfaab3c8)
+	  collapsed:: true
+	  site:: [Sacred-Texts](https://sacred-texts.com)
+	  labels:: [[books]]
+	  date-saved:: [[Jan 6th, 2024]]
+	- [In-browser code playgrounds](https://omnivore.app/me/in-browser-code-playgrounds-18cdfa994e2)
+	  collapsed:: true
+	  site:: [antonz.org](https://antonz.org/in-browser-code-playgrounds/)
+	  author:: Anton Zhiyanov
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Focus and Flow: trade-offs in programmer productivity | pseudorandom](https://omnivore.app/me/focus-and-flow-trade-offs-in-programmer-productivity-pseudorando-18cdd45c5e1)
+	  collapsed:: true
+	  site:: [aaronbuxbaum.com](https://www.aaronbuxbaum.com/focus-and-flow/)
+	  date-saved:: [[Jan 5th, 2024]]
+	  date-published:: [[Nov 2nd, 2021]]
+	- [time.fyi - all the time related tools in one place](https://omnivore.app/me/time-fyi-all-the-time-related-tools-in-one-place-18cdd44d55f)
+	  collapsed:: true
+	  site:: [time.fyi](https://time.fyi/timezones)
+	  date-saved:: [[Jan 5th, 2024]]
+	- [Teaching C – Embedded in Academia](https://omnivore.app/me/teaching-c-embedded-in-academia-18cdd44552f)
+	  collapsed:: true
+	  site:: [blog.regehr.org](https://blog.regehr.org/archives/1393)
+	  author:: regehr
+	  date-saved:: [[Jan 5th, 2024]]
+	  date-published:: [[May 9th, 2016]]
+	- [Fixing Macs Door to Door](https://omnivore.app/me/fixing-macs-door-to-door-18cdd43f4ec)
+	  collapsed:: true
+	  site:: [matduggan.com](https://matduggan.com/fixing-macs-door-to-door/)
+	  author:: Mathew Duggan
+	  date-saved:: [[Jan 5th, 2024]]
+	  date-published:: [[Jan 5th, 2024]]
 	- [Building a collaborative text editor in Go](https://omnivore.app/me/https-www-aadhav-me-posts-collaborative-editor-18cdbc1410b)
 	  collapsed:: true
 	  site:: [aadhav.me](https://www.aadhav.me/posts/collaborative-editor)
+	  labels:: [[golang/programming]]
 	  date-saved:: [[Jan 5th, 2024]]
 	  date-published:: [[Aug 11th, 2023]]
 	- [Ctrl-C - Kevin Lawler](https://omnivore.app/me/ctrl-c-kevin-lawler-18cdb9200fa)
 	  collapsed:: true
 	  site:: [web.archive.org](https://web.archive.org/web/20220806111005/https://kevinlawler.com/ctrl-c)
+	  labels:: [[computers]]
 	  date-saved:: [[Jan 5th, 2024]]
 	  date-published:: [[Aug 4th, 2022]]
 	- [Kanye West's Stem Player - An engineering disaster](https://omnivore.app/me/kanye-west-s-stem-player-an-engineering-disaster-18cdb907d8d)
 	  collapsed:: true
 	  site:: [krystalgamer.github.io](https://krystalgamer.github.io/stem-player-emulator/)
+	  labels:: [[internet/social]]
 	  date-saved:: [[Jan 5th, 2024]]
 	- [The Art of Unix Programming](https://omnivore.app/me/the-art-of-unix-programming-18cdb863238)
 	  collapsed:: true
 	  site:: [catb.org](http://www.catb.org/esr/writings/taoup/html/)
 	  author:: Eric Steven Raymond Thyrsus Enterprises <esr@thyrsus.com>
+	  labels:: [[programming]]
 	  date-saved:: [[Jan 5th, 2024]]
 	- [An app can be a home-cooked meal](https://omnivore.app/me/an-app-can-be-a-home-cooked-meal-18cdb851a4d)
 	  collapsed:: true
 	  site:: [Robin Sloan](https://www.robinsloan.com/notes/home-cooked-app/)
+	  labels:: [[programming]]
 	  date-saved:: [[Jan 5th, 2024]]
 	- [Mobile ALOHA](https://omnivore.app/me/mobile-aloha-18cd898c343)
 	  collapsed:: true
@@ -30,11 +86,13 @@
 	- [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://omnivore.app/me/30-years-of-decompilation-and-the-unsolved-structuring-problem-p-18cd8648688)
 	  collapsed:: true
 	  site:: [mahaloz.re](https://mahaloz.re/dec-history-pt1)
+	  labels:: [[security ]]
 	  date-saved:: [[Jan 4th, 2024]]
 	  date-published:: [[Jan 1st, 2024]]
 	- [Protobuf Is Almost Streamable // -dealloc](https://omnivore.app/me/protobuf-is-almost-streamable-dealloc-18cd860374a)
 	  collapsed:: true
 	  site:: [-dealloc](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
+	  labels:: [[programming]]
 	  date-saved:: [[Jan 4th, 2024]]
 	  date-published:: [[Dec 14th, 2023]]
 	- [Steve Jobs by Isaacson, Walter](https://omnivore.app/me/steve-jobs-by-isaacson-walter-18cd7db5402)

@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Weird things engineers believe about Web development - Brian Birtles’ Blog](https://omnivore.app/me/weird-things-engineers-believe-about-web-development-brian-birtl-18ce4ea5385)
+	  collapsed:: true
+	  site:: [Brian Birtles’ Blog](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
+	  date-saved:: [[Jan 7th, 2024]]
+	  date-published:: [[Jan 5th, 2024]]
+	- [PocketBase - Open Source backend in 1 file](https://omnivore.app/me/pocket-base-open-source-backend-in-1-file-18ce4e97855)
+	  collapsed:: true
+	  site:: [pocketbase.io](https://pocketbase.io)
+	  date-saved:: [[Jan 7th, 2024]]
+	  date-published:: [[Jul 31st, 2022]]
+	- [Useful utilities and toys over DNS](https://omnivore.app/me/useful-utilities-and-toys-over-dns-18ce4e41e86)
+	  collapsed:: true
+	  site:: [dns.toys](https://www.dns.toys)
+	  date-saved:: [[Jan 7th, 2024]]
+	- [Nino](https://omnivore.app/me/nino-18ce4e0d151)
+	  collapsed:: true
+	  site:: [nino.app](https://nino.app)
+	  date-saved:: [[Jan 7th, 2024]]
 	- [History of The Graphical User Interface (GUI): A Wonderful Curse](https://omnivore.app/me/https-m-youtube-com-watch-v-f-hmp-ghezj-0-s-18ce1a079a1)
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/watch?v=fHMPGhezj0s)

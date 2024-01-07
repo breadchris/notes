@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Hire Remote Go Developers | Reintech](https://omnivore.app/me/hire-remote-go-developers-reintech-18ce4f5531a)
+	  collapsed:: true
+	  site:: [Reintech](https://reintech.io/hire-go-developers)
+	  date-saved:: [[Jan 7th, 2024]]
 	- [Weird things engineers believe about Web development - Brian Birtles’ Blog](https://omnivore.app/me/weird-things-engineers-believe-about-web-development-brian-birtl-18ce4ea5385)
 	  collapsed:: true
 	  site:: [Brian Birtles’ Blog](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)

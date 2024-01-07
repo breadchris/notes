@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [rustgo: calling Rust from Go with near-zero overhead](https://omnivore.app/me/rustgo-calling-rust-from-go-with-near-zero-overhead-18ce157f83c)
+	  collapsed:: true
+	  site:: [Filippo Valsorda](https://words.filippo.io/rustgo/)
+	  author:: Filippo Valsorda
+	  date-saved:: [[Jan 6th, 2024]]
+	  date-published:: [[Aug 15th, 2017]]
 	- [Go Conferences](https://omnivore.app/me/go-conferences-18ce1242f4e)
 	  collapsed:: true
 	  site:: [golangconferences.com](https://golangconferences.com)

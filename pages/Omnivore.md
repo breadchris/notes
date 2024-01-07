@@ -1,4 +1,36 @@
 ## 🔖 Articles
+	- [History of The Graphical User Interface (GUI): A Wonderful Curse](https://omnivore.app/me/https-m-youtube-com-watch-v-f-hmp-ghezj-0-s-18ce1a079a1)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=fHMPGhezj0s)
+	  author:: Interface Chronicles
+	  date-saved:: [[Jan 6th, 2024]]
+	- [raunofreiberg (rauno)](https://omnivore.app/me/raunofreiberg-rauno-18ce1922205)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/raunofreiberg)
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Crafting the Next.js Website](https://omnivore.app/me/crafting-the-next-js-website-18ce190e9ea)
+	  collapsed:: true
+	  site:: [rauno.me](https://rauno.me/craft/nextjs)
+	  author:: Rauno Freiberg
+	  date-saved:: [[Jan 6th, 2024]]
+	- [(Basic) Bookmarks – A home for your internet discoveries.](https://omnivore.app/me/basic-bookmarks-a-home-for-your-internet-discoveries-18ce18fe10d)
+	  collapsed:: true
+	  site:: [bmrks.com](https://bmrks.com)
+	  author:: Rauno Freiberg
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Write to grow](https://omnivore.app/me/write-to-grow-18ce18f4251)
+	  collapsed:: true
+	  site:: [writetogrow.app](https://writetogrow.app)
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Retro on Viberary | ★❤✰ Vicki Boykis ★❤✰](https://omnivore.app/me/retro-on-viberary-vicki-boykis-18ce18af3c9)
+	  collapsed:: true
+	  site:: [★ Vicki Boykis ★](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+	  date-saved:: [[Jan 6th, 2024]]
+	  date-published:: [[Jan 4th, 2024]]
+	- [dchucks/agnes-hugo-theme: Agnes is a free Landing Page theme for Hugo websites.](https://omnivore.app/me/dchucks-agnes-hugo-theme-agnes-is-a-free-landing-page-theme-for--18ce17a7d0c)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/dchucks/agnes-hugo-theme/tree/main)
+	  date-saved:: [[Jan 6th, 2024]]
 	- [rustgo: calling Rust from Go with near-zero overhead](https://omnivore.app/me/rustgo-calling-rust-from-go-with-near-zero-overhead-18ce157f83c)
 	  collapsed:: true
 	  site:: [Filippo Valsorda](https://words.filippo.io/rustgo/)

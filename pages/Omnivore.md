@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Go Conferences](https://omnivore.app/me/go-conferences-18ce1242f4e)
+	  collapsed:: true
+	  site:: [golangconferences.com](https://golangconferences.com)
+	  date-saved:: [[Jan 6th, 2024]]
+	  date-published:: [[Jul 6th, 2024]]
+	- [PaperCall.io - GothamGo, June 7, 2024](https://omnivore.app/me/paper-call-io-gotham-go-june-7-2024-18ce1213253)
+	  collapsed:: true
+	  site:: [papercall.io](https://www.papercall.io/gothamgo2024)
+	  date-saved:: [[Jan 6th, 2024]]
+	- [Rust vs go better together | spf13](https://omnivore.app/me/rust-vs-go-better-together-spf-13-18ce11f79dc)
+	  collapsed:: true
+	  site:: [spf13.com](https://spf13.com/p/rust-vs-go-better-together/)
+	  date-saved:: [[Jan 6th, 2024]]
 	- [The 37signals Manifesto (our original site from 1999)](https://omnivore.app/me/the-37-signals-manifesto-our-original-site-from-1999-18ce0d0b909)
 	  collapsed:: true
 	  site:: [1999.37signals.com](https://1999.37signals.com/manifesto)

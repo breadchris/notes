@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Streaming requests with the fetch API  |  Capabilities  |  Chrome for Developers](https://omnivore.app/me/streaming-requests-with-the-fetch-api-capabilities-chrome-for-de-18ce6875364)
+	  collapsed:: true
+	  site:: [Chrome for Developers](https://developer.chrome.com/docs/capabilities/web-apis/fetch-streaming-requests)
+	  author:: Twitter Homepage
+	  date-saved:: [[Jan 7th, 2024]]
+	  date-published:: [[Jul 21st, 2020]]
 	- [web.archive.org](https://omnivore.app/me/-18ce55df9cd)
 	  collapsed:: true
 	  site:: [web.archive.org](https://web.archive.org/web/20210805165745/https://www.youtube.com/watch?v=j-IAKiuawYo)

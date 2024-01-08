@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [What PWA Can Do Today](https://omnivore.app/me/what-pwa-can-do-today-18cea06c5a7)
+	  collapsed:: true
+	  site:: [whatpwacando.today](https://whatpwacando.today)
+	  author:: Danny Moerkerke
+	  date-saved:: [[Jan 8th, 2024]]
 	- [Deck of Cards](https://omnivore.app/me/deck-of-cards-18ce7a198ac)
 	  collapsed:: true
 	  site:: [deck.of.cards](https://deck.of.cards)

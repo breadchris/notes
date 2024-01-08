@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Deck of Cards](https://omnivore.app/me/deck-of-cards-18ce7a198ac)
+	  collapsed:: true
+	  site:: [deck.of.cards](https://deck.of.cards)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[Jan 7th, 2024]]
 	- [rrweb.io | Open source web session replay library](https://omnivore.app/me/rrweb-io-open-source-web-session-replay-library-18ce7458bc5)
 	  collapsed:: true
 	  site:: [rrweb.io](https://www.rrweb.io)

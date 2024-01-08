@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Embeddables | The Visual Code Editor for Growth Teams](https://omnivore.app/me/embeddables-the-visual-code-editor-for-growth-teams-18ceb2e4716)
+	  collapsed:: true
+	  site:: [embeddables.com](https://www.embeddables.com)
+	  author:: Caroline SudduthGrowth PM
+	  date-saved:: [[Jan 8th, 2024]]
 	- [tailwind cards stack | Cards](https://omnivore.app/me/tailwind-cards-stack-cards-18ceaee146c)
 	  collapsed:: true
 	  site:: [TailwindComponents](https://tailwindcomponents.com/component/tailwind-cards-stack)

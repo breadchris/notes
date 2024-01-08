@@ -493,7 +493,304 @@
 	  It doesn't take an experienced hacker or really anyone with any security experience to do this. In fact, a regular developer would probably be more equipped that me to execute this attack because they probably know those weird forgotten about packages better than me.
 	- You know what, next time I hack your site, I am not going to wait around for some developer to accept my PR. I wonder how hard it would be to find a developer who is down on their luck and offer them a good amount of money, a hard earned wage, in exchange for them including my library in their project to help me "get my feet off the ground" as a fellow developer applying for jobs.
 	- We know this attack is happening, and us at LunaSec are building the future of protection from this type of attack. We aren't waiting around for some security researcher to raise the next alarm and deal with the fire drill of responding to these incidents. No, we are automatically _eradicating_ this problem by using our knowledge as security researchers _and_ developers to design an intelligent, automated system that silently protects you and your company's code.
-- [[We need Legos for Code]]
-- [[Information About Gloving]]
-- [[What holds us back]]
-- [[Why soundbite should exist]]
+- #blog/post We need Legos for Code
+  collapsed:: true
+	- ## Playing with Legos
+	- Legos are fun, they are [composable](https://en.wikipedia.org/wiki/Composability). Code is not composable, not at least in the way we learn to code
+	- Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem.
+	- Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego. They look wrong, they *feel* wrong, they are just simple not as fun to play with.
+	- When something is possible, someone is going to do it. If someone has done it, then someone might come along and decide to continue to do it in a similar way. All successful programming languages have a following of individuals who follow standards outlined by the language. Whether they are rigid semantic properties that will cause your code to fail to compile, or ideas around how to name variables, people replicate what they see in code.
+	- AI has shown us just how deeply rooted these lines of thinking are. The more patterns that emerge in code, the easier it is for an AI to replicate these patterns. The "clever" developer comes up with hack after hack and more often than not writes code which they are only capable of comprehending. Since these are "clever" solutions which demonstrate a deep understanding of the tool being used, an AI might have a harder time arriving at the same solution.
+	- But with Legos, it is quite difficult to bend the rules. *Insert meme of stepping on lego*. I mean, they are physically quite hard and not designed to bend. As a result, those who play with Legos are much more capable of seeing, reverse engineering, and repeating patterns they see when building sets or looking at other's builds. There are no secrets, there are rarely any surprises, just consistent creative thinking.
+	- ## [](https://github.com/breadchris/notes/blob/001dbbef6dc23ce5349baf7b39e98536da9270f1/pages/We%20need%20Legos%20for%20Code.md#legos-as-code) Legos as Code
+	- It makes sense why we don't have coding Legos, it is really hard to build. We are constantly pushing the boundary of what computers are capable of doing every day. AWS, GCP, Azure, and I haven't used it but AlibabaCloud, these are all **massive** collections of code that are at the point where you have to play Jeopardy with them to figure out how to do the simplest of things
+	- > 
+	  "Chris, it is your board" "I will take '4 nines' for 100, please"
+	  "'This service with a multi-character acronym made of a single letter is capable of holding a blob up to 5 TB in size and distributing it around the world."
+	- With a Lego, you can always physically touch and see what a block is capable of doing. Short of showing up to a datacenter, I am not sure how I can physically interact with my data or code. I have to rely one documentation of features, trial and error to see what works or doesn't. It seems far too often I have to become an expert in an entire cloud technology before I actually reap the amazing benefits of it. All the while, I am probably burning cash in order to understand how the system works...
+	- I teach high schoolers to code using [Scratch](https://scratch.mit.edu/). Scratch is a block based programming language where the blocks snap into each other. It is about as close to coding Legos as we can get, and my students love it. They come up with the most incredible programs, even those who would rather be still in bed at 8am in the morning. And where else do we see block based programming? Oh right, some of the largest video games in the world Minecraft and Roblox.
+	- The thing is, we have written enough applications to know exactly [what is needed](https://supabase.com/) to take most ideas and scale them up to be legitimate businesses. Hell, Roblox is making *bank* off of children [building programs](https://www.roblox.com/create) in their ecosystem.
+	- ## [](https://github.com/breadchris/notes/blob/001dbbef6dc23ce5349baf7b39e98536da9270f1/pages/We%20need%20Legos%20for%20Code.md#where-are-my-legos) Where are my Legos?
+	- So what I am wondering is "Where are my Legos?".
+	- You might be different than me, but it would be so cool if I could do the following and for it to "just work":
+	- Open up my web browser and go to a coding site.
+	- Write a single function that does something that I have done a thousand times (idk, some webscraper or something).
+	- If my function depends on some other function, file storage, database, library, be able to easily connect that to my code in a way that I can use it (types, please for the love of god, I need types)
+	- Send the function some data.
+	- Call the function with some input data, verify my assumptions.
+	- Click "deploy" and have the function be something that I can call remotely.
+	- Configure the function to run on a schedule, when an event happens, etc.
+	- If I like my code and I want to make it accessible for other people to start using, I want to formally define how to interact with my service by [defining a contract](https://grpc.io/).
+	- All of this, by the way, could be made incredibly efficient to run too. With the dawn of [firecracker](https://firecracker-microvm.github.io/) serverless workflows can be spun up incredibly fast.
+	- ## [](https://github.com/breadchris/notes/blob/001dbbef6dc23ce5349baf7b39e98536da9270f1/pages/We%20need%20Legos%20for%20Code.md#closing-remarks) Closing Remarks
+	- We are in an age where so many problems that can be solved by code. CRUD apps that scale to thousands of users are trivial to write. The problem is the talent pipeline. Lessons being taught at bootcamps are not teaching sustainable programming. They aren't teaching people how to "code Legos". Companies that dictate bootcamp curriculum have tech stacks that are heavily dependent on code that has been written many years ago. Something as simple as writing untyped code spells disaster for any hope of writing code that could eventually be composable.
+	- Anyways, I literally think about this every day and talk about it with friends in [my discord](https://discord.gg/QCVqvbpb) so if you are interested in learning more, please come and hang!
+- #blog/post Information About Gloving
+  collapsed:: true
+	- Since the [EmazingLights site](https://web.archive.org/web/20220922232820/https://www.emazinglights.com/pages/learn-gloving) seems to be down. I have moved the information over here to keep it alive!
+	- ## Start Gloving
+		- Welcome to the Learn Gloving Center, the most extensive online resource out there for learning everything you need to know about gloving. Constantly being updated and contributed to by the world’s most knowledgeable glovers, this is your first and best resource for learning what you need to jump into the world of gloving.
+		- **What Is Gloving?**
+		- LED light gloves are the creative medium for light show artists and flow artists all over the world. Glovers use glove lights to create mind-blowing dance performances to the tune of their favorite music and to battle head to head with other glovers in competitions across the country.
+		- At EmazingLights, we pioneer the art of gloving into a legitimate art form and competition. The gloving community is constantly growing and connecting in new ways every day.
+		- **What You’ll Find Here:**
+			- **[Selecting a Glove Set](https://web.archive.org/web/20220930063604/https://www.emazinglights.com/pages/selecting-a-glove-set):**Here’s everything you need to know about what goes into a glove set, what all the different accessories are and what best suits your personal needs for your first glove set.
+			- [**Learn Gloving:**](https://web.archive.org/web/20220930063604/https://www.emazinglights.com/pages/beginner-gloving-tutorials) Basic beginner tutorials, explanations of different moves, tips videos and tutoring resources can all be found here.
+			- **History & Culture***(coming soon)***:**This section has everything you might want to know about how gloving came to be and the basic foundations of gloving culture so you can learn everything about what it takes to be a glover.
+	- ## Gloving Communities
+	- | Network | Name | # Of Members | Short Description | Location URL |
+	  |---|---|---|---|---|
+	  | Facebook | Glover's Lounge | 19764 | World's Largest Gloving Forum | [https://www.facebook.com/groups/GloversLounge/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/GloversLounge/) |
+	  | Facebook | Light Academy | 2655 | Forum geared toward Gloving Education for all skill levels | [https://www.facebook.com/groups/1038008026261606/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/1038008026261606/) |
+	  | Facebook | Northern Lights | 4254 | Group for all gloving communities within the Northeastern United States | [https://www.facebook.com/groups/NLights/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/NLights/) |
+	  | Facebook | Portland Lights All Night | 1773 | Group for the Gloving Community in Portland, Oregon (USA) | [https://www.facebook.com/groups/go2thePLAN/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/go2thePLAN/) |
+	  | Facebook | 808 Gloving Community | 712 | Group for the Gloving Community from the islands of Hawaii (USA) | [https://www.facebook.com/groups/108559492564096/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/108559492564096/) |
+	  | Facebook | The Glover's Pit | 5354 | Forum for all Online Gloving Competitions & Battles | [https://www.facebook.com/groups/GloversPit/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/GloversPit/) |
+	  | Reddit | Festival Sub-reddit | 5000 | Festival Guide & Forum | [http://www.reddit.com/r/festivals](https://web.archive.org/web/20220930065221/http://www.reddit.com/r/festivals) |
+	  | Facebook | Nor Cal Lights | 708 | Gloving Community for Northern California | [https://www.facebook.com/groups/679593552145775/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/679593552145775/) |
+	  | Facebook | Florida Gloving Community | 788 | Group for all Glovers from Florida, USA | [https://www.facebook.com/groups/246252528791368/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/246252528791368/) |
+	  | Facebook | Phoenix Gloving Community | 163 | Group for all Glovers from Phoenix, Arizona (USA) | [https://www.facebook.com/groups/340655572682212/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/340655572682212/?ref=br_rs) |
+	  | Facebook | Chroma Mode Swap | 5255 | Group for Sharing Color/Pattern Combos for the eLite Chroma | [https://www.facebook.com/groups/247403678759632/](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/247403678759632/) |
+	  | Facebook | MWG - Mid West Gloving | 1703 | Midwest Gloving Community | [https://www.facebook.com/groups/320937464607897/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/320937464607897/?ref=br_rs) |
+	  | Reddit | Gloving Sub-reddit | 5000 | Reddit Gloving Forumn | [http://www.reddit.com/r/gloving](https://web.archive.org/web/20220930065221/http://www.reddit.com/r/gloving) |
+	  | Facebook | Gloving Skype / Google+ Trades | 1012 | An Place to Trade Lightshows Online | [https://www.facebook.com/groups/492530310874264/?notif_t=group_added_to_group](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/492530310874264/?notif_t=group_added_to_group) |
+	  | Facebook | The Sounds of Gloving | 1334 | A Place to Find Good Gloving Music | [https://www.facebook.com/groups/629810670438734/?ref=br_rs](https://web.archive.org/web/20220930065221/https://www.facebook.com/groups/629810670438734/?ref=br_rs) |
+	- ## Tutorials
+	- ### Beginner
+	- #### Finger Tutting
+	  collapsed:: true
+		- Details
+			- You may have seen this one around before. Finger Tutting is a popular dance style based around creating angles, shapes and boxes with your fingers practiced by many dance crews (Jabbawockeez, Les Twins, etc) and even some [celebrities](https://web.archive.org/web/20220922232829/https://www.youtube.com/watch?v=nfWlot6h_JM). For gloving, it’s an essential. Entire teams and styles are based around Tutting and every top glover integrates it into their show in at least a small way.
+			- Every glover integrates Finger Tutting into their style.
+		- Images
+			- ![fingertutting-240x240_medium.gif](../assets/fingertutting-240x240_medium_1676589650742_0.gif)
+			- ![fingertutting-240x240-themagicians_medium.gif](../assets/fingertutting-240x240-themagicians_medium_1676589659453_0.gif)
+			- ![fingertutting-240x240-pacman_medium.gif](../assets/fingertutting-240x240-pacman_medium_1676589669065_0.gif)
+		- Videos
+			- {{video https://www.youtube.com/watch?v=-9N1UhWxU8s}}
+			- {{video https://www.youtube.com/watch?v=u3TvoI-jGV4}}
+			- {{video https://www.youtube.com/watch?v=fP-ERh8RXFo}}
+		- Variations
+			- Wave Tutting
+			- Tutting
+			- Creatures
+	- #### Stacking
+	  collapsed:: true
+		- Details
+		  collapsed:: true
+			- Stacking is placing one hand on top of the other over and over again in different variations so it gives your hands a look like they’re being “stacked.” Stacking is one of a small number of concepts that has no clear origins in any other dance style. It’s a popular entry level gloving move as it’s easy to learn and build off of while also teaching you hand coordination, rhythm and isolation.
+			- It’s a basic and it’s not hard to learn. It’s a great and easy way to learn hand coordination and is a small move that you can flawlessly integrate into transitions in your shows.
+		- Images
+		  collapsed:: true
+			- ![stacking-240x240_medium.gif](../assets/stacking-240x240_medium_1676527457206_0.gif)
+			- ![stacking-240x240-boo_large.gif](../assets/stacking-240x240-boo_large_1676527453282_0.gif)
+			- ![stacking-240x240-bones_medium.gif](../assets/stacking-240x240-bones_medium_1676527438732_0.gif)
+		- Videos
+		  collapsed:: true
+			- {{video https://www.youtube.com/watch?v=Pz-EuuG2wGk}}
+			- {{video https://www.youtube.com/watch?v=yyItASXIQBc}}
+			- {{video https://www.youtube.com/watch?v=nW9cd5yCL1o}}
+		- Who Uses It
+		  collapsed:: true
+			- Mimik
+			- Cypher
+			- Boo
+		- Variations
+		  collapsed:: true
+			- Platforming
+	- #### Finger Roll
+	  collapsed:: true
+		- Details
+		  collapsed:: true
+			- The Finger Roll (technically known as the "Finger Wave") is the first gloving basic. It goes into every move and every style. The strength of your finger roll makes learning everything else easier as it also builds up finger strength.
+			- The Finger Roll & Finger Wave are considered to be the most basic foundation of all Gloving techniques. The movement is used in lots of other concepts, and is essential to most Glovers
+		- Image
+		  collapsed:: true
+			- ![fingerroll-240x240-animatedj_medium.gif](../assets/fingerroll-240x240-animatedj_medium_1676527420911_0.gif)
+			- ![fingerroll-240x240-doctorhorrible_medium.gif](../assets/fingerroll-240x240-doctorhorrible_medium_1676527399436_0.gif)
+			- ![fingerroll-240x240_medium.gif](../assets/fingerroll-240x240_medium_1676527409129_0.gif)
+		- Videos
+		  collapsed:: true
+			- {{video https://www.youtube.com/watch?v=kH0kuym8z20}}
+			- {{video https://www.youtube.com/watch?v=W1mwrHpua4M}}
+		- Who Uses It
+		  collapsed:: true
+			- Mimik
+			- Anti
+			- Blitzen
+		- Variations
+		  collapsed:: true
+			- Overhand Finger Wave
+			- Infinite Finger Roll
+			- Fingerstyles ‘Finger Roll’
+	- #### Figure 8
+		- Details
+			- The Figure 8 is the up and down movement of your hands in a Figure 8 motion using the rotation of your wrists. The Figure 8 is an old-school classic. Not many glovers use it anymore, but it’s a great move for teaching wrist flexibility and hand movement.
+			- It’s a great and simple way to teach your hands to follow one another and wrist motion.
+		- Images
+			- ![figure8-240x240-boo_medium.gif](../assets/figure8-240x240-boo_medium_1676527351988_0.gif)
+			- ![figure8-240x240-fry_medium.gif](../assets/figure8-240x240-fry_medium_1676527330291_0.gif)
+			- ![figure8-240x240_medium.gif](../assets/figure8-240x240_medium_1676527340373_0.gif)
+		- Videos
+			- {{video https://www.youtube.com/watch?v=tCICnGoLq7g}}
+			- {{video https://www.youtube.com/watch?v=-xrwp-GNAC8}}
+		- Who Uses It
+			- Trippz
+			- Boo
+			- Mimik
+		- Variations
+			- Liquid Figure 8
+			- Liquid 8
+			- Split 8
+	- #### Liquid
+		- Details
+			- Liquid is the following of one hand with another along a line so that your hand and body seem to move like flowing water. It’s the move that gives glovers “flow” and allows you to smoothly transition from one move to another. It’s an absolute gloving essential.
+			- It’s another essential. You need it to transition from one move to another properly and to give your shows a real light show feel.
+		- Images
+			- ![liquid-240x240_medium.gif](../assets/liquid-240x240_medium_1676527300932_0.gif)
+			- ![liquid-240x240-trippz_medium.gif](../assets/liquid-240x240-trippz_medium_1676527256114_0.gif)
+		- Videos
+			- {{video https://www.youtube.com/watch?v=kNsi3hlU8vs}}
+			- {{video https://www.youtube.com/watch?v=xmlI9BhYHjQ}}
+			- {{video https://www.youtube.com/watch?v=g3G08fY4bGw}}
+		- Who Uses It
+			- Stasis
+			- Blitzen
+			- Cypher
+			- Teddy
+			- Slayer
+		- Variations
+			- Advanced Liquid
+			- Liquid Dancing
+			- Liquid Tutting
+			- Liquid Box
+	- ### Intermediate
+	- #### Digits & Finger Connections
+		- Details
+			- Digiting and Finger Connection is used to add a complex element to your show. This intricate move will allow you isolate fingers and create an connecting shapes, sequences, and transitions that will take your show to the next level.
+			- Digits and Finger Connections are essential to developing your own flow, as well as providing you plenty of dexterity to work with when throwing a show.
+		- Videos
+			- {{video https://www.youtube.com/watch?v=o40BvUqzDn8}}
+			- {{video https://www.youtube.com/watch?v=c7kO4GUs0vc}}
+		- Who Uses It
+			- Mumbles
+			- Stvcks
+			- Mimik
+	- #### Whips & Tunnels
+		- Details
+			- Whips  & Tunnels helped define the light show movement in its earliest phases. Often considered a necessity in a performance, these moves are fast moving circles that are whipped out into your audiences point of view, leaving a spectacular trail that extends from yourself, to their melting face.
+			- Whips & Tunnels are some of the foundations of light shows themselves. To really master the craft of gloving, you *need *these in your set of moves to really show off your speed and skill.
+		- Images
+			- ![Blitzen-Marshmellow-Alone-1_large.gif](../assets/Blitzen-Marshmellow-Alone-1_large_1676588064786_0.gif)
+		- Videos
+			- {{video https://www.youtube.com/watch?v=IOvd50fnfEY}}
+			- {{video https://www.youtube.com/watch?v=oWaT2dHq0EM}}
+			- {{video https://www.youtube.com/watch?v=V89M25ERu9o}}
+		- Who Uses It
+			- Stunna
+			- Mimik
+			- Panda
+	- #### Dials
+		- Details
+			- Originally created by a glover named Rockstar, "Dialing" is the stacking and switching of individual fingers over one another, typically done in a symmetrical half-circle motion. The concept is almost always done with two fingers, but can get increasingly complex with implementation of all 10 fingers.
+			- Dialing increases finger independence and is an incredibly versatile concept that can be used in almost any situation. Increasing your skills with dials opens up the door for so many more combos and ideas in your shows.
+		- Images
+			- ![Alex.-Dialing.gif](../assets/Alex.-Dialing_1676584676679_0.gif)
+			- ![Outlaw--dials.gif](../assets/Outlaw--dials_1676590977971_0.gif)
+		- Videos
+			- {{video https://www.youtube.com/watch?v=USfnF6BYuGs}}
+		- Who Uses It
+			- Mumbles
+			- Flow
+			- Pinky
+	- #### Wave Tutting
+		- Details
+			- Wave tutting is all about helping connect your tech to your flow movements. They allow you to transition between concepts without breaking the motion, adding them to your performance is what will create a more seamless set of movements for your viewer.
+		- Videos
+			- {{video https://www.youtube.com/watch?v=j0DBa-lbLao}}
+			- {{video https://www.youtube.com/watch?v=r7hyyYKk_wU}}
+	- #### Intermediate Finger Rolls
+		- Details
+			- So you've got the basics of the Finger Roll down. Are you ready to take the next step? Follow along to learn some new tricks to add to your arsenal, Intermediate Finger Rolls are all about taking what you know and flipping it on its head to add even more variety into your shows.
+			- It's never enough to be satisfied with the basics. Learning more variations of the Finger Roll will allow you to separate yourself from the rest of the pack, and really give people something to look at when you're performing. It also helps teach you how to use both hands individually of each other, and allow you more strength & control over your move sets.
+		- Videos
+			- {{video https://www.youtube.com/watch?v=gX5ayBPJfpc}}
+		- Who Uses It
+			- Blitzen
+			- Mimik
+			- Anti
+	- #### King Tutting
+		- Details
+			- King Tutting is a popular style that has integrated aspects of hip hop into light shows. Glover's tend to incorporate this style into their shows because it utilizes your arms and shoulders to create large angles, shapes, and boxes. Blend this style into your light shows to make better use of the grid around you.
+		- Videos
+			- {{video https://www.youtube.com/watch?v=j4SpxzF80Fk}}
+			- {{video https://www.youtube.com/watch?v=pkpvM2AfvTc}}
+			- {{video https://www.youtube.com/watch?v=3LU0UMOJL2M}}
+		- Who Uses It
+			- JBake
+			- Panda
+			- JayFunk
+	- ### Advanced
+	- #### Flails
+		- Details
+			- Initially created by Glovers like [PM] Cire & [TNT] Fry, Flails are quick circles that "flail around" from the point of your wrist, to create the illusion of one continuous circle. WIth some proper speed control & strength, flails can add a mesmerizing effect to your shows, and give you that "wow factor" when performing.
+			- Flails are a common addition to most gloving light shows these days. They're simple to learn, and are a great piece to any performance. Learn this move to really show off your speed control and wow the viewer with circles for days!
+		- Videos
+			- {{video https://www.youtube.com/watch?v=0-BN7yahyKs}}
+			- {{video https://www.youtube.com/watch?v=fexWgfyq11c}}
+			- {{video https://www.youtube.com/watch?v=15xh4Jh9XLY}}
+		- Who Uses It
+			- Fry
+			- Materia
+			- Flow
+	- #### Conjuring
+		- Details
+			- Popularized in Gloving by famous light artists like [PM] Munch, Conjuring is a style in which the glover utilizes the on/off functions of the light to create the illusion that the light is disappearing, teleporting, or changing in some way. Typically only a few lights are left on at a time and then transferred from finger-to-finger by clicking one light off and the other one on. The effect this gives is one of pure magic, as the glover is able to make lights disappear and reappear in a flash
+			- Conjuring you gain knowledge of the viewers focal point, and they are also good practice for mode changes. One of the least practiced styles in gloving but one of the techniques that will amaze the casual audience.
+		- Images
+			- ![conjur-guy.gif](../assets/conjur-guy_1676584319040_0.gif)
+			- ![conjuring-guy.gif](../assets/conjuring-guy_1676584329243_0.gif)
+		- Videos
+			- {{video https://www.youtube.com/watch?v=8NDNEwLViRA}}
+		- Who Uses It
+			- Munch
+			- Warrior
+			- Mez
+	- #### Mode Switching
+		- Details
+			- Mode switching is the act of changing your mode to a different color and flashing pattern selection in the middle of a show by either clicking the buttons on the lights, or an accelerometer trigger. Mode changing is effective for accenting speed control, like when glovers switch to a blinky set during slow, more technical times, and switching to a much more trail inducing set during faster motions.
+			- Mode changing keeps your viewer on the edge of their seat. Knowing how the modes on your lights are laid out is crucial for this technique, as you must be able to anticipate what’s coming next. Simple things like changing colors or patterns really introduce a wow factor for your viewers, as it is often unexpected.
+		- Who Uses It
+			- Flow
+			- Materia
+			- Ice Kream Teddy
+	- #### The Grid
+		- Details
+			- A structured representation of the space in front of you. The Grid takes into account forward and backward, left and right, and up and down motions and sections them off equally into a 3D boxed pattern.
+			- An absolute necessity for any glover. Knowledge of the Grid helps build spatial awareness and is used for accurate and precise placement of almost any move.
+- #blog/post What holds us back
+  collapsed:: true
+	- I don’t know if I personally would say that my life has been “hard”. I hear people use this to describe their life; “I have fallen on hard times”. But I don’t know, it doesn’t seem to be a relatable feeling. I have had to solve “hard” problems. Whether it is a math problem with seemingly random symbols or trying to comprehend why my parents won’t get along with each other.
+	- I think I would say my life has been “challenging” and I try my best to work every day to make it less challenging in certain ways so I can make room for challenges that I actually want. If something happens with a friend where we aren’t communicating well, I try my best to resolve this problem. I do this because I know I won’t be able to focus on writing the code I want. I want to be challenged by code, I don’t want to be challenged by emotions.
+	- Fortunately for me, it seems that I  have a pretty good idea about how to tackle emotions. I like to think that I have been blessed by an innate ability to see and understand patterns, as well as having environments in my life that have made me feel safe and secure. In high school I was in an incredible school program for nerds, in college I was a part of a student run cyber security lab, I dropped out of school to work at Uber with Phds and other drop outs who all had incredible passion for the work they did. Ever since high school, I have been a part of at least one group who made me feel _seen_ for who I was.
+	- When I talk at length with my friends and peers about how they are doing, I grow more and more surprised? shocked? with every conversation. It is obviously purely qualitative, but goddamn, it seems like everyone experiences some degree of depression? Even my friends who permanently have a smile on their face, same thing, some type of perpetual sadness.
+	- I want to be very careful when addressing this because:
+		- 1) I don’t want to seem oblivious, yes I see how much pain there is in the world
+		- 2) Insensitive to people’s very real feelings of depression
+		- 3) Make those reading this to feel like I am saying “haha you have depression and I don’t”. I am very sensitive to other’s feelings around me, and it makes me sad that others so close to me experience this.
+	- The thing is I just simply don’t experience what people describe when they describe depression. It is sometimes hard to get out of bed in the morning, but it has never seemed “impossible” as people have described. Days haven’t passed where it feels like I have done “nothing important”. Reflecting on my life, I realize I have unintentionally been trying to solve these feelings for others my whole life. Most namely my parent’s. Playing counselor for their shouting matches has left me with two things: an intuitive ability to speak non-confrontationally, but also a deep complex I have around trying to solve other’s problems.
+	- These things have significantly affected my life and being able to address feelings in a productive way has been something you can’t even begin to put a price on. This deep vulnerability however, has been something I have struggled with, most notably in regards to close friendships and romantic ones. I have fought really hard with myself to over come this, but at the end of the day the true force that got me out of these situations is simply one thing; my support system.
+	- My friends, family, co-workers, even regular people I would see at boxing or the skate park. These are the people who showed me what love and respect should look like. Just before I went through a really tough breakup I was able to visit with a number of friends and what hit me, I’m talking a real “hitting me like a brick” scenario, was that how I feel around my good friends is how I should always be feeling. I feel safe and secure around these people, I can be myself, who made me feel _seen_. Well then why would I ever be around someone who wasn’t making me feel that way? The math just didn’t add up.
+	- There is an amazing book that I try to get people to read. It is incredibly terse so I understand if you don’t want to read it. Bowling Alone by Robert Putnam looks at how social life in the US has changed over time. The TL;DR is that groups and physical spaces where people would congregate are significantly declining as people find their social connections becoming more digital. Sitting in front of the radio listening to cowboy westerns, became watching them on TV, and now you watch a new western every month on your phone. This may seem like an obvious point, but an important one. Digital relationships are different. You can’t get hugged from across the Internet in a way that someone from a support group could do if you break down crying. Deeply human activities like exercising are limited. It becomes a lot easier to bully a faceless victim with words, which in turn forces victims into safe spaces which almost inevitably become echo chambers of emotion. I said “different” for a reason. Digital relationships are not inherently bad. I have built many relationships from various chat rooms (granted I have always made it a point to meet with them physically, eventually). The most compelling argument for how a digital presence is actually incredibly positive can be found in this documentary about VR chat.
+	- This pain I discover in so many people is what is holding us back. No, I am not trying be profound here, I am just stating a fact. How can we be collectively working towards “the perfect thing”, whatever that may be, when there is so much unaccounted pain day to day? Universally embracing mental health has become so painfully obvious to me as what we should be investing in understanding, and yet the research in the field of psychology is underwhelming. My girlfriend, who studied psychology, explained to me that there was this research who proved that the results of most psychology studies up until some point were not satisfactory. This single study essentially reversed decades of work. The study of psychedelics has been something that has interested me greatly. The ability to visualize these things that hold us back sounds so incredibly powerful to me and they are actually effective at curing depression! I’ll save my thoughts on this for another post, I think I should probably end this one 🤣
+	- There is only one thing I want you to walking away from this post thinking about. I want you to think about the ways that you feel seen and what you do to make others feel seen. This might seem incredibly confusing, but just think about it next time you are in a group of friends. What does someone do that makes you feel good? Do they smile at you? Remember something important about you? Do you like the inside jokes you have with each other? Perhaps you realize you actually don’t feel seen by your friends. Maybe a friend says something that makes your chest tighten. Perhaps you realize you can’t share something important about yourself with everyone because people would laugh. I really believe if we want to start healing from the “things that hold us back” we have to be conscious about these things about ourselves. Good luck out there! Life is freaking hard man 🤣
+- #blog/post Why soundbite should exist
+  collapsed:: true
+	- TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
+	- Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone. It is the first and last thing we look at every day.
+	- What do we spend our day doing on the phone? Catching up with some celebrity, social media influencer, some random hair salon that cuts hair with fire. "The algorithm" is really good at what it does, and what it is doing is keeping you on the platform by any means necessesary. If you spend a second longer than usual fixated on a some guy lifting a lot of weight your digital content butler is going to start serving you videos of weightlifters. The faster the algorithm can glean information about your engagement with the content, the more it is able to zero in on what they can fill your limited attention span with before you get ripped away and placed in front of someone else's visually, auditorially engaging world built more and more just for you.
+	- As a developer, I am enthralled with how effective this algorithm is. And what is even more interesting is just how simple it is to build. Every major social media platform has their own form of "short form content" available for you to use and the numbers speak for themselves. Or even better, don't look at the numbers, just start using it yourself and feel just how targeted you get by spending very little time on any platform (tiktok's is scary good).
+	- In essence, we have invented digital crack. A pure refinement on what "engagement" is. The doom sayers will tell you it is mind control, and I will generally agree. Actually, I completely agree, but I personally like to think that all mind control has its applications in humanity in a way that actually benefits us. I guess it is just the teacher in me that wants to connect with students in interesting ways and any good teacher is trying to do this every day already. Unfortunately, engagement that comes from "Answer this and get some candy" or "spend more time on the assignment and get extra credit" is not very effective or it really only will work a couple of times before the gig is up. Engaging content really comes from one's ability to observe the student, understand their world, and then know what it is that you can say or do that will coax them into walking into your world and seeing what you have to offer. Creators on Tiktok, and the like, really can do this quite easily once they figure out the forumla (which is "shared" by other creators who they follow), and often times it is really just acting out the all too potent and powerful primal desires we have. Girls showing off their boobs, men flexing, violence, romance, comedy, etc. Well, I should really say this type of content is what will go viral. There is so much content being uploaded to these platforms it is easy to miss the true home grown creativity that people, deep down, really do crave. The unapologetic, authentic content that comes from creators who care about their content and not the views it might have. When people get the creative freedom they crave, magic is made.
+	- I have made an observation of my surroundings that has become undeniable to me, and I walk into every conversation I have with this thought banging around in my head. No matter who I am talking to, I am finding myself realizing that there are nuggets of valuable information that are constantly being dropped. A good conversation is one that seems to effortlessly till someone's mind and surface a part of them that they might not have talked about in a while. With the right questions, you can guide someone through their own mind and remind them about concepts and ideas that make them, them. And someone being themselves is not an easy thing to do. There is a lot of life that is lived between then and now. All of that time in between might be filled with things that seem insignificant to the speaker, but to the listener, that might be exactly what they need to experience to alter their perception fo the world. 
+	  I think almost everyone has had this experience, but think back to a classroom experience you had with a "bad teacher". A "bad teacher", in my opinion is simply a teacher who just couldn't connect with you in the way that you needed to be connected with. Now, and hopefully you have had this experience, a "good teacher" is one who just always seems to say the things that make you consider what they are talking about for a moment longer. The information percolates throughout your mind and starts to alter your assumptions. Finding the right teacher for you can be incredibly difficult. Someone who can speak your language, not just English, Spanish, Chinese, etc. but the colloquial words you have come to speak so that you can feel seen for who you are, that can be difficult.
+	- The case for soundbite begins and ends with a simple idea; we need to feel seen before we can learn. There is so much stimulation around us digitally that the next wave of advancements in communication are going to feel like regressions in technology, but in reality they are focused on solving the much more complicated problems that we, as humans and not just consumers, face.

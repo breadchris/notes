@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [rrweb.io | Open source web session replay library](https://omnivore.app/me/rrweb-io-open-source-web-session-replay-library-18ce7458bc5)
+	  collapsed:: true
+	  site:: [rrweb.io](https://www.rrweb.io)
+	  date-saved:: [[Jan 7th, 2024]]
+	- [Building an antilibrary: the power of unread books - Ness Labs](https://omnivore.app/me/building-an-antilibrary-the-power-of-unread-books-ness-labs-18ce7415adb)
+	  collapsed:: true
+	  site:: [Ness Labs](https://nesslabs.com/antilibrary)
+	  author:: Anne-Laure Le Cunff
+	  date-saved:: [[Jan 7th, 2024]]
+	  date-published:: [[Oct 29th, 2020]]
 	- [Support fetch api request stream by oott123 · Pull Request #670 · connectrpc/connect-es](https://omnivore.app/me/support-fetch-api-request-stream-by-oott-123-pull-request-670-co-18ce6aefa03)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/connectrpc/connect-es/pull/670/files)

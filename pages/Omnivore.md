@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Support fetch api request stream by oott123 · Pull Request #670 · connectrpc/connect-es](https://omnivore.app/me/support-fetch-api-request-stream-by-oott-123-pull-request-670-co-18ce6aefa03)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/connectrpc/connect-es/pull/670/files)
+	  author:: oott123
+	  date-saved:: [[Jan 7th, 2024]]
+	  date-published:: [[Feb 28th, 2001]]
 	- [Streaming requests with the fetch API  |  Capabilities  |  Chrome for Developers](https://omnivore.app/me/streaming-requests-with-the-fetch-api-capabilities-chrome-for-de-18ce6875364)
 	  collapsed:: true
 	  site:: [Chrome for Developers](https://developer.chrome.com/docs/capabilities/web-apis/fetch-streaming-requests)

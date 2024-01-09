@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Trade-offs between Different CRDTs](https://omnivore.app/me/trade-offs-between-different-crd-ts-18cecdc31c0)
+	  collapsed:: true
+	  site:: [Interjected Future](https://interjectedfuture.com/trade-offs-between-different-crdts/)
+	  author:: Wil
+	  date-saved:: [[Jan 8th, 2024]]
+	  date-published:: [[Dec 7th, 2023]]
+	- [Ben Shneiderman](https://omnivore.app/me/ben-shneiderman-18cec8fb937)
+	  collapsed:: true
+	  site:: [cs.umd.edu](https://www.cs.umd.edu/~ben/goldenrules.html)
+	  date-saved:: [[Jan 8th, 2024]]
 	- [Embeddables | The Visual Code Editor for Growth Teams](https://omnivore.app/me/embeddables-the-visual-code-editor-for-growth-teams-18ceb2e4716)
 	  site:: [embeddables.com](https://www.embeddables.com)
 	  author:: Caroline SudduthGrowth PM

@@ -1,6 +1,5 @@
 ## 🔖 Articles
 	- [Embeddables | The Visual Code Editor for Growth Teams](https://omnivore.app/me/embeddables-the-visual-code-editor-for-growth-teams-18ceb2e4716)
-	  collapsed:: true
 	  site:: [embeddables.com](https://www.embeddables.com)
 	  author:: Caroline SudduthGrowth PM
 	  date-saved:: [[Jan 8th, 2024]]

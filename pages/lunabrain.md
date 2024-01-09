@@ -1,3 +1,8 @@
+- a test | a test of things
+  created-at:: [[Jan 9th, 2024]]
+  tags:: [[100daystooffload]], [[100daystooffload]]
+	- <ul><li><p>this is a test <a target="_blank" rel="noopener noreferrer nofollow" href="https://google.com">a link goes here</a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://google.com">https://google.com</a> </p></li></ul>
+
 - v0: a start | Building tools to help me think
   created-at:: [[Jan 8th, 2024]]
   tags:: [[100daystooffload]], [[100daystooffload]]

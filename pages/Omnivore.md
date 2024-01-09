@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Aim, fire, scan: the 80/20 of executing on big projects](https://omnivore.app/me/aim-fire-scan-the-80-20-of-executing-on-big-projects-18cf067cb9f)
+	  collapsed:: true
+	  site:: [Indie Hackers](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
+	  date-saved:: [[Jan 9th, 2024]]
 	- [Trade-offs between Different CRDTs](https://omnivore.app/me/trade-offs-between-different-crd-ts-18cecdc31c0)
 	  collapsed:: true
 	  site:: [Interjected Future](https://interjectedfuture.com/trade-offs-between-different-crdts/)

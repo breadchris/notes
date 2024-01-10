@@ -1,4 +1,27 @@
 ## 🔖 Articles
+	- [Never Run Out of Content Ideas With a Capture Habit](https://omnivore.app/me/never-run-out-of-content-ideas-with-a-capture-habit-18cf493b20b)
+	  collapsed:: true
+	  site:: [Ramses&#x27; Blog](https://ramses.blog/never-run-out-of-content-ideas-with-a-capture-habit/)
+	  author:: Ramses Oudt
+	  date-saved:: [[Jan 10th, 2024]]
+	  date-published:: [[Jan 9th, 2024]]
+	- [Ramses Oudt on X: "Never Run Out of Content Ideas With a Capture Habit A capture habit is when you record ideas as you get them. When you do anything creative, consuming ideas and capturing what they trigger in you is a core part of the process. Here's how to start a capture habit:… https://t.co/NU14o9sqlf" / X](https://omnivore.app/me/https-x-com-rroudt-status-1744722488205144298-s-20-18cf49375f9)
+	  collapsed:: true
+	  site:: [X (formerly Twitter)](https://x.com/rroudt/status/1744722488205144298?s=20)
+	  date-saved:: [[Jan 10th, 2024]]
+	- [The Valley of Code](https://omnivore.app/me/the-valley-of-code-18cf4906b4a)
+	  collapsed:: true
+	  site:: [thevalleyofcode.com](https://thevalleyofcode.com)
+	  date-saved:: [[Jan 10th, 2024]]
+	- [Jim Kurose Homepage](https://omnivore.app/me/jim-kurose-homepage-18cf45580f8)
+	  collapsed:: true
+	  site:: [gaia.cs.umass.edu](https://gaia.cs.umass.edu/kurose_ross/index.php)
+	  date-saved:: [[Jan 10th, 2024]]
+	- [Everything wrong with databases and why their complexity is now unnecessary – Blog](https://omnivore.app/me/everything-wrong-with-databases-and-why-their-complexity-is-now--18cf452b117)
+	  collapsed:: true
+	  site:: [Blog](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
+	  date-saved:: [[Jan 10th, 2024]]
+	  date-published:: [[Jan 9th, 2024]]
 	- [ambulancja/mariposa: A toy programming language with time travel](https://omnivore.app/me/ambulancja-mariposa-a-toy-programming-language-with-time-travel-18cf217a470)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/ambulancja/mariposa)

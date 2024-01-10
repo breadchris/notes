@@ -1,3 +1,8 @@
+-  | 
+  created-at:: [[Jan 9th, 2024]]
+  tags:: [[100daystooffload]]
+	- <ul><li><p>i have a thought, i am on my stream and I just had an idea! Here is the idea </p></li></ul>
+
 - Dogfooding | My app is OK, it could be better.
   created-at:: [[Jan 9th, 2024]]
   tags:: [[100daystooffload]]

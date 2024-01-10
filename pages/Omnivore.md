@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://omnivore.app/me/resources-performance-engineering-of-software-systems-electrical-18cf5089e73)
+	  collapsed:: true
+	  site:: [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
+	  date-saved:: [[Jan 10th, 2024]]
+	- [Flo Control](https://omnivore.app/me/flo-control-18cf5085881)
+	  collapsed:: true
+	  site:: [web.archive.org](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
+	  date-saved:: [[Jan 10th, 2024]]
+	- [Urbit](https://omnivore.app/me/urbit-18cf4ff4f1a)
+	  collapsed:: true
+	  site:: [urbit.org](https://urbit.org)
+	  author:: urbit.org
+	  labels:: [[internet]][[web3]]
+	  date-saved:: [[Jan 10th, 2024]]
+	  date-published:: [[Dec 4th, 2023]]
 	- [Never Run Out of Content Ideas With a Capture Habit](https://omnivore.app/me/never-run-out-of-content-ideas-with-a-capture-habit-18cf493b20b)
 	  collapsed:: true
 	  site:: [Ramses&#x27; Blog](https://ramses.blog/never-run-out-of-content-ideas-with-a-capture-habit/)

@@ -12,6 +12,7 @@ TocOpen: false
 ---
 
 - ## Playing with Legos
+- hello from the stream!
 - Legos are fun, they are [composable](https://en.wikipedia.org/wiki/Composability). Code is not composable, not at least in the way we learn to code
 - Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem.
 - Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego. They look wrong, they *feel* wrong, they are just simple not as fun to play with.

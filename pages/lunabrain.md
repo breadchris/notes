@@ -1,5 +1,10 @@
 -  | 
   created-at:: [[Jan 9th, 2024]]
+  tags:: [[100daystooffload]], [[stream]]
+	- <p>https://www.youtube.com/watch?v=hVWlgh8QP5s</p>
+
+-  | 
+  created-at:: [[Jan 9th, 2024]]
   tags:: [[100daystooffload]]
 	- <ul><li><p>i have a thought, i am on my stream and I just had an idea! Here is the idea </p></li></ul>
 

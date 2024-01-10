@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- ["Bit-Banging" Bluetooth Low Energy - Dmitry.GR](https://omnivore.app/me/bit-banging-bluetooth-low-energy-dmitry-gr-18cf111c4bf)
+	  collapsed:: true
+	  site:: [Dmitry.GR](https://dmitry.gr/?proj=11.+Bluetooth+LE+fakery&r=05.Projects)
+	  author:: Dmitry.GR
+	  date-saved:: [[Jan 9th, 2024]]
+	- [Error handling in Go web apps shouldn't be so awkward - Boldly Go](https://omnivore.app/me/error-handling-in-go-web-apps-shouldn-t-be-so-awkward-boldly-go-18cf110e902)
+	  collapsed:: true
+	  site:: [Boldly Go](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+	  date-saved:: [[Jan 9th, 2024]]
+	  date-published:: [[Jan 7th, 2024]]
 	- [Aim, fire, scan: the 80/20 of executing on big projects](https://omnivore.app/me/aim-fire-scan-the-80-20-of-executing-on-big-projects-18cf067cb9f)
 	  collapsed:: true
 	  site:: [Indie Hackers](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)

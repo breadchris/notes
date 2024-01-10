@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [ambulancja/mariposa: A toy programming language with time travel](https://omnivore.app/me/ambulancja-mariposa-a-toy-programming-language-with-time-travel-18cf217a470)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ambulancja/mariposa)
+	  date-saved:: [[Jan 9th, 2024]]
 	- ["Bit-Banging" Bluetooth Low Energy - Dmitry.GR](https://omnivore.app/me/bit-banging-bluetooth-low-energy-dmitry-gr-18cf111c4bf)
 	  collapsed:: true
 	  site:: [Dmitry.GR](https://dmitry.gr/?proj=11.+Bluetooth+LE+fakery&r=05.Projects)

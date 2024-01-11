@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [The Platform Where Pros Build Community | Circle](https://omnivore.app/me/the-platform-where-pros-build-community-circle-18cf5d406b6)
+	  collapsed:: true
+	  site:: [circle.so](https://circle.so)
+	  date-saved:: [[Jan 10th, 2024]]
+	- [Interstitial journaling: combining notes, to-do & time tracking - Ness Labs](https://omnivore.app/me/interstitial-journaling-combining-notes-to-do-time-tracking-ness-18cf5cfc4f4)
+	  collapsed:: true
+	  site:: [Ness Labs](https://nesslabs.com/interstitial-journaling)
+	  author:: Anne-Laure Le Cunff
+	  date-saved:: [[Jan 10th, 2024]]
+	  date-published:: [[Apr 15th, 2020]]
 	- [Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://omnivore.app/me/resources-performance-engineering-of-software-systems-electrical-18cf5089e73)
 	  collapsed:: true
 	  site:: [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)

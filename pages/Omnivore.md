@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Interlisp Timeline |](https://omnivore.app/me/interlisp-timeline-18cf7421b9a)
+	  collapsed:: true
+	  site:: [interlisp.org](https://interlisp.org/history/timeline/)
+	  date-saved:: [[Jan 10th, 2024]]
 	- [rrweb/guide.md at master · rrweb-io/rrweb](https://omnivore.app/me/rrweb-guide-md-at-master-rrweb-io-rrweb-18cf68ac8a3)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/rrweb-io/rrweb/blob/master/guide.md)

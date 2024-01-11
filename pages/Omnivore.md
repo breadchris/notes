@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Tidy First? | Henrik Warne's blog](https://omnivore.app/me/tidy-first-henrik-warne-s-blog-18cf5f8520a)
+	  collapsed:: true
+	  site:: [Henrik Warne's blog](https://henrikwarne.com/2024/01/10/tidy-first/)
+	  date-saved:: [[Jan 10th, 2024]]
+	  date-published:: [[Jan 10th, 2024]]
 	- [The Platform Where Pros Build Community | Circle](https://omnivore.app/me/the-platform-where-pros-build-community-circle-18cf5d406b6)
 	  collapsed:: true
 	  site:: [circle.so](https://circle.so)

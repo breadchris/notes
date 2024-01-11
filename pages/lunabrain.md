@@ -1,3 +1,8 @@
+- just a test | a test
+  created-at:: [[Jan 11th, 2024]]
+  tags:: [[100daystooffload]]
+	- <p>This is the post for today, lets see if i broke something.</p>
+
 - what i have learned about the problem i want to solve | 
   created-at:: [[Jan 10th, 2024]]
   tags:: [[100daystooffload]]

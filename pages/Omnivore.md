@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Feynman's Nobel Ambition](https://omnivore.app/me/feynman-s-nobel-ambition-18cfa604fa6)
+	  collapsed:: true
+	  site:: [asc.ohio-state.edu](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
+	  date-saved:: [[Jan 11th, 2024]]
 	- [Chrome Music Lab - Song Maker](https://omnivore.app/me/chrome-music-lab-song-maker-18cf9e6059d)
 	  collapsed:: true
 	  site:: [musiclab.chromeexperiments.com](https://musiclab.chromeexperiments.com/Song-Maker/song/4605028140318720)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Chrome Music Lab - Song Maker](https://omnivore.app/me/chrome-music-lab-song-maker-18cf9e6059d)
+	  collapsed:: true
+	  site:: [musiclab.chromeexperiments.com](https://musiclab.chromeexperiments.com/Song-Maker/song/4605028140318720)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[Jan 11th, 2024]]
 	- [Interlisp Timeline |](https://omnivore.app/me/interlisp-timeline-18cf7421b9a)
 	  collapsed:: true
 	  site:: [interlisp.org](https://interlisp.org/history/timeline/)

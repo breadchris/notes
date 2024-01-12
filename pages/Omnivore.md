@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Synchronizing with Effects – React](https://omnivore.app/me/synchronizing-with-effects-react-18cfc75fef7)
+	  collapsed:: true
+	  site:: [react.dev](https://react.dev/learn/synchronizing-with-effects)
+	  date-saved:: [[Jan 11th, 2024]]
 	- [Sounds of the Forest - Soundmap :: Timber Festival](https://omnivore.app/me/sounds-of-the-forest-soundmap-timber-festival-18cfb691eae)
 	  collapsed:: true
 	  site:: [Sounds of the Forest - Sound Map :: Timber Festival](https://timberfestival.org.uk/soundsoftheforest-soundmap/)

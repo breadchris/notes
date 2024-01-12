@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Did a 1997 merger ruin Boeing?](https://omnivore.app/me/did-a-1997-merger-ruin-boeing-18cfae977fb)
+	  collapsed:: true
+	  site:: [Finshots](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
+	  date-saved:: [[Jan 11th, 2024]]
+	  date-published:: [[Jan 9th, 2024]]
 	- [ITasks - Clean](https://omnivore.app/me/i-tasks-clean-18cfad5f864)
 	  collapsed:: true
 	  site:: [clean.cs.ru.nl](https://clean.cs.ru.nl/ITasks)

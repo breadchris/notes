@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Sounds of the Forest - Soundmap :: Timber Festival](https://omnivore.app/me/sounds-of-the-forest-soundmap-timber-festival-18cfb691eae)
+	  collapsed:: true
+	  site:: [Sounds of the Forest - Sound Map :: Timber Festival](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
+	  author:: Wild Rumpus
+	  date-saved:: [[Jan 11th, 2024]]
 	- [Did a 1997 merger ruin Boeing?](https://omnivore.app/me/did-a-1997-merger-ruin-boeing-18cfae977fb)
 	  collapsed:: true
 	  site:: [Finshots](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)

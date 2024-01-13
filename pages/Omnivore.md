@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [7 books that stood the test of time in 2023](https://omnivore.app/me/7-books-that-stood-the-test-of-time-in-2023-18d006c0cd6)
+	  collapsed:: true
+	  site:: [geoffreylitt.com](https://www.geoffreylitt.com/2023/12/17/seven-books-that-stuck-with-me-in-2023)
+	  labels:: [[books]]
+	  date-saved:: [[Jan 12th, 2024]]
+	  date-published:: [[Dec 16th, 2023]]
+	- [Buttondown](https://omnivore.app/me/buttondown-18d005b7229)
+	  collapsed:: true
+	  site:: [Buttondown](https://buttondown.email)
+	  date-saved:: [[Jan 12th, 2024]]
+	- [Ink & Switch](https://omnivore.app/me/ink-switch-18d0055dac0)
+	  collapsed:: true
+	  site:: [inkandswitch.com](https://www.inkandswitch.com)
+	  date-saved:: [[Jan 12th, 2024]]
 	- [Using llama-cpp-python grammars to generate JSON | Simon Willison’s TILs](https://omnivore.app/me/using-llama-cpp-python-grammars-to-generate-json-simon-willison--18d00536de1)
 	  collapsed:: true
 	  site:: [til.simonwillison.net](https://til.simonwillison.net/llms/llama-cpp-python-grammars)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Using llama-cpp-python grammars to generate JSON | Simon Willison’s TILs](https://omnivore.app/me/using-llama-cpp-python-grammars-to-generate-json-simon-willison--18d00536de1)
+	  collapsed:: true
+	  site:: [til.simonwillison.net](https://til.simonwillison.net/llms/llama-cpp-python-grammars)
+	  date-saved:: [[Jan 12th, 2024]]
 	- [HTML / a — DevDocs](https://omnivore.app/me/html-a-dev-docs-18cff4631c6)
 	  collapsed:: true
 	  site:: [devdocs.io](https://devdocs.io/html/element/a)

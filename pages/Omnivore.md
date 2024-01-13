@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [The Selfish Gene - Wikipedia](https://omnivore.app/me/the-selfish-gene-wikipedia-18d04b39d54)
+	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/The_Selfish_Gene)
+	  author:: Contributors to Wikimedia projects
+	  labels:: [[books]]
+	  date-saved:: [[Jan 13th, 2024]]
+	  date-published:: [[Mar 13th, 2002]]
+	- [George Orwell: Politics and the English Language](https://omnivore.app/me/george-orwell-politics-and-the-english-language-18d03f541cf)
+	  collapsed:: true
+	  site:: [orwell.ru](https://www.orwell.ru/library/essays/politics/english/e_polit)
+	  author:: O. Dag
+	  date-saved:: [[Jan 13th, 2024]]
+		- ### Highlights
+			- > sure sign that the writer is not interested in what he is saying. Some metaphors now current have been twisted out of their original meaning without those who use them even being aware of the fact. For example, toe the line is sometimes written as tow the line. Another example is the hammer and the anvil, now always [⤴️](https://omnivore.app/me/george-orwell-politics-and-the-english-language-18d03f541cf#d2da2521-6846-4071-a39d-3c5e744b828e)
 	- [plausible-tracker/src/lib/tracker.ts at master · plausible/plausible-tracker](https://omnivore.app/me/plausible-tracker-src-lib-tracker-ts-at-master-plausible-plausib-18d013f2212)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/plausible/plausible-tracker/blob/master/src/lib/tracker.ts)

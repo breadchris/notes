@@ -1,0 +1,131 @@
+- #justforconger This is the textbook you should read
+- How you can Build and Solve an NCIS-style, Cyber Forensics Murder Mystery
+- Participants perspective on current competitions
+- How can games fit into and extend your curriculum
+- Mongtgomery County Public Schools - High School Forensics (MCPSHSF)
+  	- mcpshsf.com
+  	  	- website
+  	  	- 2023 Walkthrough (Evidence map and 2-3 challenges)
+	  	- flags and writeups (not Jeopardy style - pico.ctf)
+  	- History of MCPSHSF
+  	  	- 10 years of competing in NYU-Poly CSAW High School Forensics
+  	  		- 50 to 100 participants in online - only 1 team to finals
+  	  		- Montgomery College needed a competition
+  	  		- Chris / NYU  --- MC - MCPS
+  	  	 - High School Students started their Professional network then!
+  	  	 - College Students -- built and scored through collaboration with professionals
+  	  	 - Problem: Scaling!
+  	  	 - Solution: xctf  - with the goal to double participation next year!
+- Solve your own...
+- View High School SuperTeam writeup
+- Make your own!
+- Debrief
+
+- Some history
+	- security is still very new
+	- ![catch-me.jpg](../assets/catch-me_1701124297453_0.jpg){:height 390, :width 262}
+	- "hacking" has still only recently been accepted
+	- ![210139.webp](../assets/210139_1701124113889_0.webp){:height 581, :width 273}
+	- and so very few people really get this stuff
+	- ![Coding da Vinci Kultur Hackathon.jpg](../assets/Coding_da_Vinci_Kultur_Hackathon_1701124502794_0.jpg)
+	- but it is growing
+	- ![Defcon Conference Las Vegas.webp](../assets/Defcon_Conference_Las_Vegas_1701124452224_0.webp){:height 347, :width 532}
+	- and games are at the center
+	- ![Capture the Flag Vis.jpg](../assets/Capture_the_Flag_Vis_1701124540584_0.jpg)
+- How do you teach this stuff?
+	- inherently hard to teach
+	- ![Wargames Movie Poster.jpg](../assets/Wargames_Movie_Poster_1701124230393_0.jpg){:height 565, :width 357}
+	- You can teach standards and protocols
+	- ![Linux System Administration 1990.jpg](../assets/Linux_System_Administration_1990_1701123862218_0.jpg){:height 444, :width 307}
+	- But technology changes rapidly
+	- ![Capture-2023-11-27-142243.png](../assets/Capture-2023-11-27-142243_1701123776509_0.png){:height 396, :width 210}
+	- And what do you focus on?
+	- ![Security Mindmap.png](../assets/Security_Mindmap_1701123966048_0.png){:height 425, :width 562}
+	- Historically you get certifications
+	- ![Cyber Security Certifications.jpg](../assets/Cyber_Security_Certifications_1701124943115_0.jpg){:height 304, :width 525}
+	- Colleges sparsely offer courses, and even less majors
+	- TODO
+	- Millions of jobs go unfilled each year
+	- TODO
+	- Technology continues to grow exponentially
+	- ![Capture-2023-11-27-144758.png](../assets/Capture-2023-11-27-144758_1701125287235_0.png){:height 291, :width 534}
+- What if instead of teaching, we played games?
+	- ![Ender's Game.jpg](../assets/Ender's_Game_1701125479858_0.jpg){:height 434, :width 308}
+	- Games teach in an imperfect way
+	- You accept you will not learn everything
+	- But you will learn _how_ to learn
+	- Winning is the carrot on the stick to complete the game
+- How do you play these games?
+	- Attack and Defense
+	- ![Attack defense ructf.png](../assets/Attack_defense_ructf_1701125998991_0.png)
+	- Most realistic to how hacking is done in the real world
+	- Difficult to setup and run
+	- Most popular format is: "Jeapordy-style" CTF (Capture the Flag)
+	- ![Capture the Flag Security.jpg](../assets/Capture_the_Flag_Security_1701125701575_0.jpg)
+	- Exposes competitors to many different technologies
+	- Requires "deep learning"
+	- But it isn't perfect...
+	- Can be overwhelming
+	- Encourages "pattern matching"
+	- Notable CTFs for high schools:
+	- [picoctf](https://picoctf.org/) -> CMU
+	- [tjctf](https://tjctf.org/) -> Thomas Jefferson High School
+	- Going from question to answer is like taking a test,
+	- What if these games were easy to run _and_ emulated the real world?
+- We did this at NYU
+	- For many years
+	- ![CSAW Brooklyn Polytechnic.jpg](../assets/CSAW_Brooklyn_Polytechnic_1701124718490_0.jpg)
+	- high schools from around the US would get flown to NYC
+	- ![World's Largest Student Security Contest Names Top Cyber Sleuths, Hackers,  and Researchers | NYU Tandon School of Engineering](https://engineering.nyu.edu/sites/default/files/styles/cinema_large_default_1x/public/migrated/2015-11/pressrelease/CSAW-2015.jpg?h=7e756c91&itok=PtHSWiDS)
+	- solve a murder mystery, with real world evidence
+	- ![asdf.jpg](../assets/asdf_1701126784223_0.jpg){:height 366, :width 603}
+	- Competitors were Cyber Security experts for a trial and would submit their findings report to the judge
+	- ![Screenshot 2023-11-27 at 3.16.40 PM.png](../assets/Screenshot_2023-11-27_at_3.16.40 PM_1701127020812_0.png){:height 468, :width 528}
+	- Judged by real DHS and Secret Service agents
+	- finalists would get scholarship money
+	- ![Facebook Photo.jpg](../assets/Facebook_Photo_1701126886784_0.jpg){:height 380, :width 622}
+	- competitors would become creators
+	- helped build cyber security programs at high schools
+	- And all of this was done by student volunteers
+- We ran this at a community college
+	- 7 years
+	- 200+ students every year
+	- Everyone looked forward to it every year
+- And now we are bringing it to the internet
+	- [xctf](http://xctf.io/)
+	- 365 cyber security education
+	- All skill levels
+	- Curriculum for teachers
+- This competition matters a lot
+	- A creative outlet for some really smart people
+	- Inclusive
+	- Opens career options
+- The Story
+	- core concept of the competition
+	- cohesive
+	- funny
+	- open to interpretation
+	- Do Now
+		- Read
+			- past year stories
+		- Create
+			- ai mad lib
+- Challenges
+	- Connected graph of evidence a competitor must move through
+	- ![Middle School Teaser Evidence Graph.png](../assets/Middle_School_Teaser_Evidence_Graph_1701128172638_0.png)
+	- ![MCPHSF 2023 Evidence Graph.png](../assets/MCPHSF_2023_Evidence_Graph_1701127971030_0.png){:height 326, :width 561}
+	- Do Now
+		- solve a challenge
+			- introduce the wiki
+		- create a challenge?
+- Grading
+	- You are the judge
+	- Does the "forensics expert's" report hold up in court?
+	- Do Now
+		- Write
+			- document your evidence
+			- write your conclusion
+		- Read other submissions
+			- https://mcpshsf.com/pdfs/b1c_HSFReport.pdf
+			- Who got the most flags?
+			- Who got the right conclusion?

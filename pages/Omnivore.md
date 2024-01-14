@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [A Tinder-like card game with Framer-Motion - DEV Community](https://omnivore.app/me/a-tinder-like-card-game-with-framer-motion-dev-community-18d05b5da36)
+	  collapsed:: true
+	  site:: [DEV Community](https://dev.to/lansolo99/a-tinder-like-card-game-with-framer-motion-35i5)
+	  author:: Stéphane CHANGARNIER
+	  date-saved:: [[Jan 13th, 2024]]
+	  date-published:: [[Sep 26th, 2023]]
+	- [Better text generation with science and engineering | Better without AI](https://omnivore.app/me/better-text-generation-with-science-and-engineering-better-witho-18d05a0f91f)
+	  collapsed:: true
+	  site:: [Better without AI](https://betterwithout.ai/better-text-generators)
+	  author:: 18
+	  date-saved:: [[Jan 13th, 2024]]
 	- [Prompts for Work & Play: Launching the Wolfram Prompt Repository—Stephen Wolfram Writings](https://omnivore.app/me/prompts-for-work-play-launching-the-wolfram-prompt-repository-st-18d054f87a0)
 	  collapsed:: true
 	  site:: [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)

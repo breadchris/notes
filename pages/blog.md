@@ -796,4 +796,7 @@
 	- The case for soundbite begins and ends with a simple idea; we need to feel seen before we can learn. There is so much stimulation around us digitally that the next wave of advancements in communication are going to feel like regressions in technology, but in reality they are focused on solving the much more complicated problems that we, as humans and not just consumers, face.
 - #blog/draft Quality is undeniable
 	- <list of things that people touch for the first time and understand what quality feels like like a sharp knife cutting through something>
+- #blog/draft Notetaking is building your own language
+	- <brief history of language and how it is used to index information so you can express it to others>
+	- When we take notes, we remember things in certain ways.
 	-

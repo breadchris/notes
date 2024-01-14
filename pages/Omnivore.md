@@ -946,6 +946,7 @@
 	  date-saved:: [[Nov 28th, 2023]]
 	  date-published:: [[Nov 24th, 2020]]
 		- ### Highlights
+		  collapsed:: true
 			- > Another tool worth looking into is [Reviewable](https://reviewable.io/) [⤴️](https://omnivore.app/me/dev-tools-the-ex-googler-guide-18c1a0e391f#0c7c7286-1878-4def-b5c8-8499342a60b0)
 			- > The closest thing to Critique you can get outside of Google is Gerrit. [⤴️](https://omnivore.app/me/dev-tools-the-ex-googler-guide-18c1a0e391f#15ff728d-0497-4300-9fcd-12630f93faf7)
 	- [How I repainted Bootstrap without SASS 👨🏼‍🎨 | by Herman Starikov | Medium](https://omnivore.app/me/how-i-repainted-bootstrap-without-sass-by-herman-starikov-medium-18c194abdc6)

@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [ChatGPT - Web App Hacker](https://omnivore.app/me/chat-gpt-web-app-hacker-18d05c8f499)
+	  collapsed:: true
+	  site:: [ChatGPT](https://chat.openai.com/g/g-VJ7tCeJOn-web-app-hacker)
+	  date-saved:: [[Jan 13th, 2024]]
+	- [Documentation | Framer for Developers](https://omnivore.app/me/documentation-framer-for-developers-18d05c7eaf3)
+	  collapsed:: true
+	  site:: [framer.com](https://www.framer.com/motion/)
+	  date-saved:: [[Jan 13th, 2024]]
 	- [A Tinder-like card game with Framer-Motion - DEV Community](https://omnivore.app/me/a-tinder-like-card-game-with-framer-motion-dev-community-18d05b5da36)
 	  collapsed:: true
 	  site:: [DEV Community](https://dev.to/lansolo99/a-tinder-like-card-game-with-framer-motion-35i5)

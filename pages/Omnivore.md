@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [What I learned selling my company](https://omnivore.app/me/what-i-learned-selling-my-company-18d0a129fb0)
+	  collapsed:: true
+	  site:: [Harry Glaser](https://www.harryglaser.com/what-i-learned-selling-my-company/)
+	  author:: Harry Glaser
+	  date-saved:: [[Jan 14th, 2024]]
+	  date-published:: [[Jan 11th, 2024]]
 	- [Introducing My Knowledge Lakehouse](https://omnivore.app/me/introducing-my-knowledge-lakehouse-18d09dc503e)
 	  collapsed:: true
 	  site:: [tabokie.github.io](https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html)

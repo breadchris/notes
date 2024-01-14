@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [Prompts for Work & Play: Launching the Wolfram Prompt Repository—Stephen Wolfram Writings](https://omnivore.app/me/prompts-for-work-play-launching-the-wolfram-prompt-repository-st-18d054f87a0)
+	  collapsed:: true
+	  site:: [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
+	  date-saved:: [[Jan 13th, 2024]]
+	  date-published:: [[Jun 6th, 2023]]
+	- [Hello from WLJS | WLJS](https://omnivore.app/me/hello-from-wljs-wljs-18d054e6fbf)
+	  collapsed:: true
+	  site:: [jerryi.github.io](https://jerryi.github.io/wljs-docs/)
+	  date-saved:: [[Jan 13th, 2024]]
+	- [Coming of Age at the Dawn of the Social Internet | The New Yorker](https://omnivore.app/me/coming-of-age-at-the-dawn-of-the-social-internet-the-new-yorker-18d054d411d)
+	  collapsed:: true
+	  site:: [The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
+	  author:: Kyle Chayka
+	  date-saved:: [[Jan 13th, 2024]]
+	  date-published:: [[Jan 13th, 2024]]
+	- [Bring Back Blogging – Chris Coyier](https://omnivore.app/me/bring-back-blogging-chris-coyier-18d054cfe05)
+	  collapsed:: true
+	  site:: [Chris Coyier](https://chriscoyier.net/2022/12/26/bring-back-blogging/)
+	  date-saved:: [[Jan 13th, 2024]]
+	  date-published:: [[Dec 26th, 2022]]
 	- [The Selfish Gene - Wikipedia](https://omnivore.app/me/the-selfish-gene-wikipedia-18d04b39d54)
 	  collapsed:: true
 	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/The_Selfish_Gene)
@@ -10,6 +30,7 @@
 	  collapsed:: true
 	  site:: [orwell.ru](https://www.orwell.ru/library/essays/politics/english/e_polit)
 	  author:: O. Dag
+	  labels:: [[learning]]
 	  date-saved:: [[Jan 13th, 2024]]
 		- ### Highlights
 			- > sure sign that the writer is not interested in what he is saying. Some metaphors now current have been twisted out of their original meaning without those who use them even being aware of the fact. For example, toe the line is sometimes written as tow the line. Another example is the hammer and the anvil, now always [⤴️](https://omnivore.app/me/george-orwell-politics-and-the-english-language-18d03f541cf#d2da2521-6846-4071-a39d-3c5e744b828e)

@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Metropolis (1927 film) - Wikipedia](https://omnivore.app/me/metropolis-1927-film-wikipedia-18d09377052)
+	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.wikipedia.org/wiki/Metropolis_(1927_film))
+	  author:: Contributors to Wikimedia projects
+	  date-saved:: [[Jan 14th, 2024]]
+	  date-published:: [[May 11th, 2001]]
+	- [The Nordics’ wage transparency experiment - ADP ReThink Quarterly](https://omnivore.app/me/the-nordics-wage-transparency-experiment-adp-re-think-quarterly-18d0936622c)
+	  collapsed:: true
+	  site:: [ADP ReThink Quarterly](https://rethinkq.adp.com/nordics-wage-transparency-experiment/)
+	  author:: Dorothée Enskog
+	  date-saved:: [[Jan 14th, 2024]]
+	  date-published:: [[Jan 19th, 2023]]
 	- [ChatGPT - Web App Hacker](https://omnivore.app/me/chat-gpt-web-app-hacker-18d05c8f499)
 	  collapsed:: true
 	  site:: [ChatGPT](https://chat.openai.com/g/g-VJ7tCeJOn-web-app-hacker)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Introducing My Knowledge Lakehouse](https://omnivore.app/me/introducing-my-knowledge-lakehouse-18d09dc503e)
+	  collapsed:: true
+	  site:: [tabokie.github.io](https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html)
+	  date-saved:: [[Jan 14th, 2024]]
+	  date-published:: [[Jan 12th, 2024]]
 	- [Metropolis (1927 film) - Wikipedia](https://omnivore.app/me/metropolis-1927-film-wikipedia-18d09377052)
 	  collapsed:: true
 	  site:: [Wikimedia Foundation, Inc.](https://en.wikipedia.org/wiki/Metropolis_(1927_film))

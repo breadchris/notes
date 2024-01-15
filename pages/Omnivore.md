@@ -1,10 +1,22 @@
 ## 🔖 Articles
-	- [Significantly reduce unexpected vertical jumping when moving the timeline by YoshiWalsh · Pull Request #1677 · visjs/vis-timeline](https://omnivore.app/me/significantly-reduce-unexpected-vertical-jumping-when-moving-the-18d0a7c40be)
+	- [A Periodic Table of Visualization Methods](https://omnivore.app/me/a-periodic-table-of-visualization-methods-18d0e8d77a3)
 	  collapsed:: true
+	  site:: [visual-literacy.org](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+	  date-saved:: [[Jan 15th, 2024]]
+	- [SQLite: Wal2 Mode Notes](https://omnivore.app/me/sq-lite-wal-2-mode-notes-18d0e8d3cac)
+	  collapsed:: true
+	  site:: [sqlite.org](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
+	  date-saved:: [[Jan 15th, 2024]]
+	- [Teach Yourself Programming in Ten Years](https://omnivore.app/me/teach-yourself-programming-in-ten-years-18d0e8ce396)
+	  collapsed:: true
+	  site:: [norvig.com](https://norvig.com/21-days.html)
+	  date-saved:: [[Jan 15th, 2024]]
+	- [Significantly reduce unexpected vertical jumping when moving the timeline by YoshiWalsh · Pull Request #1677 · visjs/vis-timeline](https://omnivore.app/me/significantly-reduce-unexpected-vertical-jumping-when-moving-the-18d0a7c40be)
 	  site:: [github.com](https://github.com/visjs/vis-timeline/pull/1677)
 	  author:: YoshiWalsh
 	  date-saved:: [[Jan 14th, 2024]]
 	  date-published:: [[Dec 31st, 2000]]
+	  collapsed:: true
 	- [What I learned selling my company](https://omnivore.app/me/what-i-learned-selling-my-company-18d0a129fb0)
 	  collapsed:: true
 	  site:: [Harry Glaser](https://www.harryglaser.com/what-i-learned-selling-my-company/)

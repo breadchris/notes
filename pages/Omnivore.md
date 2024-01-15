@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Significantly reduce unexpected vertical jumping when moving the timeline by YoshiWalsh · Pull Request #1677 · visjs/vis-timeline](https://omnivore.app/me/significantly-reduce-unexpected-vertical-jumping-when-moving-the-18d0a7c40be)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/visjs/vis-timeline/pull/1677)
+	  author:: YoshiWalsh
+	  date-saved:: [[Jan 14th, 2024]]
+	  date-published:: [[Dec 31st, 2000]]
 	- [What I learned selling my company](https://omnivore.app/me/what-i-learned-selling-my-company-18d0a129fb0)
 	  collapsed:: true
 	  site:: [Harry Glaser](https://www.harryglaser.com/what-i-learned-selling-my-company/)

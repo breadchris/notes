@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [J. Carlos Roldán / Passwordless: a different kind of hell?](https://omnivore.app/me/j-carlos-roldan-passwordless-a-different-kind-of-hell-18d13c6510b)
+	  collapsed:: true
+	  site:: [J. Carlos Roldán](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
+	  date-saved:: [[Jan 16th, 2024]]
+	  date-published:: [[Jan 16th, 2024]]
 	- [Immediate Mode GUI Programming](https://omnivore.app/me/immediate-mode-gui-programming-18d101e7fb8)
 	  collapsed:: true
 	  site:: [eliasnaur.com](https://eliasnaur.com/blog/immediate-mode-gui-programming)

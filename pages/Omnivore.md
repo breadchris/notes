@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Immediate Mode GUI Programming](https://omnivore.app/me/immediate-mode-gui-programming-18d101e7fb8)
+	  collapsed:: true
+	  site:: [eliasnaur.com](https://eliasnaur.com/blog/immediate-mode-gui-programming)
+	  date-saved:: [[Jan 15th, 2024]]
 	- [How to detect prompt injections - Jasper Schwenzow, deepset.ai](https://omnivore.app/me/https-www-youtube-com-watch-v-ny-6-hv-swpv-4-18d0f1c7130)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=Ny-6hvSwpv4)

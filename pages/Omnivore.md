@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [raphaelsty/gokapi: Okapi BM25 with Go](https://omnivore.app/me/raphaelsty-gokapi-okapi-bm-25-with-go-18d15c2a85d)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/raphaelsty/gokapi?tab=readme-ov-file)
+	  date-saved:: [[Jan 16th, 2024]]
 	- [Passing nothing is surprisingly difficult](https://omnivore.app/me/passing-nothing-is-surprisingly-difficult-18d151e83b9)
 	  collapsed:: true
 	  site:: [davidben.net](https://davidben.net/2024/01/15/empty-slices.html)

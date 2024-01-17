@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [trusting-visvesvaraya-5lqxyy - CodeSandbox](https://omnivore.app/me/trusting-visvesvaraya-5-lqxyy-code-sandbox-18d15f86fdc)
+	  collapsed:: true
+	  site:: [codesandbox.io](https://codesandbox.io/p/sandbox/trusting-visvesvaraya-5lqxyy?file=%252Fsrc%252FCardDeck.js)
+	  date-saved:: [[Jan 16th, 2024]]
 	- [raphaelsty/gokapi: Okapi BM25 with Go](https://omnivore.app/me/raphaelsty-gokapi-okapi-bm-25-with-go-18d15c2a85d)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/raphaelsty/gokapi?tab=readme-ov-file)

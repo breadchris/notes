@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Passing nothing is surprisingly difficult](https://omnivore.app/me/passing-nothing-is-surprisingly-difficult-18d151e83b9)
+	  collapsed:: true
+	  site:: [davidben.net](https://davidben.net/2024/01/15/empty-slices.html)
+	  author:: David Benjamin (2024-01-15)
+	  date-saved:: [[Jan 16th, 2024]]
+	  date-published:: [[Jan 14th, 2024]]
 	- [J. Carlos Roldán / Passwordless: a different kind of hell?](https://omnivore.app/me/j-carlos-roldan-passwordless-a-different-kind-of-hell-18d13c6510b)
 	  collapsed:: true
 	  site:: [J. Carlos Roldán](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)

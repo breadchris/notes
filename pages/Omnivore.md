@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Willow Specifications - Willow](https://omnivore.app/me/willow-specifications-willow-18d18a625b6)
+	  collapsed:: true
+	  site:: [willowprotocol.org](https://willowprotocol.org)
+	  date-saved:: [[Jan 17th, 2024]]
 	- [trusting-visvesvaraya-5lqxyy - CodeSandbox](https://omnivore.app/me/trusting-visvesvaraya-5-lqxyy-code-sandbox-18d15f86fdc)
 	  collapsed:: true
 	  site:: [codesandbox.io](https://codesandbox.io/p/sandbox/trusting-visvesvaraya-5lqxyy?file=%252Fsrc%252FCardDeck.js)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Gio architecture brain-dump](https://omnivore.app/me/gio-architecture-brain-dump-18d1bb43549)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/egonelbre/f458f857d95d8330cbc1fb05d638ef5c)
+	  date-saved:: [[Jan 18th, 2024]]
 	- [shadeup.dev](https://omnivore.app/me/-18d19455034)
 	  collapsed:: true
 	  site:: [shadeup.dev](https://shadeup.dev)

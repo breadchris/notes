@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [My Heroku values](https://omnivore.app/me/my-heroku-values-18d22beb9bd)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/adamwiggins/5687294)
+	  date-saved:: [[Jan 19th, 2024]]
+	- [Ask HN: Good Books on Philosophy of Engineering | Hacker News](https://omnivore.app/me/ask-hn-good-books-on-philosophy-of-engineering-hacker-news-18d22bcff9f)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=39057219)
+	  date-saved:: [[Jan 19th, 2024]]
 	- [Save, organize, revisit & connect ideas.](https://omnivore.app/me/save-organize-revisit-connect-ideas-18d206bf496)
 	  collapsed:: true
 	  site:: [Zlinky](https://zlinky.com)

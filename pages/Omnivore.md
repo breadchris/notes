@@ -1,4 +1,21 @@
 ## 🔖 Articles
+	- [Save, organize, revisit & connect ideas.](https://omnivore.app/me/save-organize-revisit-connect-ideas-18d206bf496)
+	  collapsed:: true
+	  site:: [Zlinky](https://zlinky.com)
+	  date-saved:: [[Jan 18th, 2024]]
+	- [A 2024 Plea for Lean Software (with running code) - Bert Hubert's writings](https://omnivore.app/me/a-2024-plea-for-lean-software-with-running-code-bert-hubert-s-wr-18d206b16ad)
+	  collapsed:: true
+	  site:: [Bert Hubert's writings](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
+	  date-saved:: [[Jan 18th, 2024]]
+	  date-published:: [[Jan 18th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/a-2024-plea-for-lean-software-with-running-code-bert-hubert-s-wr-18d206b16ad#600afa7f-dd70-4bba-865e-c812b4d44bda)
+	- [Writings of sussman@](https://omnivore.app/me/writings-of-sussman-18d2069a607)
+	  collapsed:: true
+	  site:: [social.clawhammer.net](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
+	  author:: Ben Collins-Sussman
+	  date-saved:: [[Jan 18th, 2024]]
+	  date-published:: [[Jan 18th, 2024]]
 	- [Home | ArtificialAnalysis.ai](https://omnivore.app/me/home-artificial-analysis-ai-18d1fc5afb2)
 	  collapsed:: true
 	  site:: [artificialanalysis.ai](https://artificialanalysis.ai)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [The bane of my existence: Supporting both async and sync code in Rust | NullDeref](https://omnivore.app/me/the-bane-of-my-existence-supporting-both-async-and-sync-code-in--18d245a39ac)
+	  collapsed:: true
+	  site:: [NullDeref](https://nullderef.com/blog/rust-async-sync/)
+	  author:: Mario Ortiz Manero
+	  date-saved:: [[Jan 19th, 2024]]
+	  date-published:: [[Jan 13th, 2024]]
+	- [Calculus on Computational Graphs: Backpropagation -- colah's blog](https://omnivore.app/me/calculus-on-computational-graphs-backpropagation-colah-s-blog-18d2459cb5d)
+	  collapsed:: true
+	  site:: [colah.github.io](https://colah.github.io/posts/2015-08-Backprop/)
+	  date-saved:: [[Jan 19th, 2024]]
 	- [My Heroku values](https://omnivore.app/me/my-heroku-values-18d22beb9bd)
 	  collapsed:: true
 	  site:: [Gist](https://gist.github.com/adamwiggins/5687294)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [VNote - A pleasant note-taking platform](https://omnivore.app/me/v-note-a-pleasant-note-taking-platform-18d26adec60)
+	  collapsed:: true
+	  site:: [app.vnote.fun](https://app.vnote.fun/en_us/)
+	  date-saved:: [[Jan 20th, 2024]]
 	- [The bane of my existence: Supporting both async and sync code in Rust | NullDeref](https://omnivore.app/me/the-bane-of-my-existence-supporting-both-async-and-sync-code-in--18d245a39ac)
 	  collapsed:: true
 	  site:: [NullDeref](https://nullderef.com/blog/rust-async-sync/)

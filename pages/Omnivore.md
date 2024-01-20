@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [French cheese under threat | CNRS News](https://omnivore.app/me/french-cheese-under-threat-cnrs-news-18d26b1ca2e)
+	  collapsed:: true
+	  site:: [CNRS News](https://news.cnrs.fr/articles/french-cheese-under-threat)
+	  date-saved:: [[Jan 20th, 2024]]
+	  date-published:: [[Jan 15th, 2024]]
+	- [Pipeline-oriented programming - Scott Wlaschin - NDC Porto 2023](https://omnivore.app/me/https-m-youtube-com-watch-v-ipce-tu-jlw-m-18d26afc0b1)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=ipceTuJlw-M)
+	  author:: NDC Conferences
+	  date-saved:: [[Jan 20th, 2024]]
 	- [VNote - A pleasant note-taking platform](https://omnivore.app/me/v-note-a-pleasant-note-taking-platform-18d26adec60)
 	  collapsed:: true
 	  site:: [app.vnote.fun](https://app.vnote.fun/en_us/)

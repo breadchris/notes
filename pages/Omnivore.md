@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Let's talk about joins | Crystal Lewis](https://omnivore.app/me/let-s-talk-about-joins-crystal-lewis-18d2892ee93)
+	  collapsed:: true
+	  site:: [Crystal Lewis](https://cghlewis.com/blog/joins/)
+	  date-saved:: [[Jan 20th, 2024]]
+	  date-published:: [[Jan 9th, 2024]]
 	- [French cheese under threat | CNRS News](https://omnivore.app/me/french-cheese-under-threat-cnrs-news-18d26b1ca2e)
 	  collapsed:: true
 	  site:: [CNRS News](https://news.cnrs.fr/articles/french-cheese-under-threat)

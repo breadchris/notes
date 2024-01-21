@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Steve Jobs brainstorms with the NeXT team 1985 | Jobs official](https://omnivore.app/me/https-youtu-be-udi-0-rk-3-j-zym-si-iue-mv-9-m-hp-6-tx-r-bp-18d2d172af8)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/Udi0rk3jZYM?si=IUEMv9mHP6TxRBp_)
+	  author:: Jobs official
+	  date-saved:: [[Jan 21st, 2024]]
+	- [Learn Datalog Today!](https://omnivore.app/me/learn-datalog-today-18d2d12c102)
+	  collapsed:: true
+	  site:: [learndatalogtoday.org](https://www.learndatalogtoday.org)
+	  date-saved:: [[Jan 21st, 2024]]
 	- [Neatroff Introduction](https://omnivore.app/me/neatroff-18d29e40375)
 	  collapsed:: true
 	  site:: [litcave.rudi.ir](http://litcave.rudi.ir/neatroff.pdf)

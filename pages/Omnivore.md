@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Neatroff Introduction](https://omnivore.app/me/neatroff-18d29e40375)
+	  collapsed:: true
+	  site:: [litcave.rudi.ir](http://litcave.rudi.ir/neatroff.pdf)
+	  author:: Ali Gholami Rudi
+	  date-saved:: [[Jan 20th, 2024]]
+	- [PHP: a fractal of bad design / fuzzy notepad](https://omnivore.app/me/php-a-fractal-of-bad-design-fuzzy-notepad-18d29e288e5)
+	  collapsed:: true
+	  site:: [eev.ee](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+	  author:: Eevee
+	  date-saved:: [[Jan 20th, 2024]]
+	  date-published:: [[Apr 8th, 2012]]
 	- [Donny Wals – iOS developer, Speaker and Author](https://omnivore.app/me/donny-wals-i-os-developer-speaker-and-author-18d296b61d4)
 	  collapsed:: true
 	  site:: [Donny Wals](https://www.donnywals.com)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Donny Wals – iOS developer, Speaker and Author](https://omnivore.app/me/donny-wals-i-os-developer-speaker-and-author-18d296b61d4)
+	  collapsed:: true
+	  site:: [Donny Wals](https://www.donnywals.com)
+	  date-saved:: [[Jan 20th, 2024]]
+	  date-published:: [[Jan 17th, 2024]]
 	- [Let's talk about joins | Crystal Lewis](https://omnivore.app/me/let-s-talk-about-joins-crystal-lewis-18d2892ee93)
 	  collapsed:: true
 	  site:: [Crystal Lewis](https://cghlewis.com/blog/joins/)

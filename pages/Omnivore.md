@@ -1,10 +1,35 @@
 ## 🔖 Articles
-	- [Ship / Show / Ask](https://omnivore.app/me/ship-show-ask-18d2d7cd0ce)
+	- [7509916](https://omnivore.app/me/7509916-18d2e6e3ba9)
 	  collapsed:: true
+	  site:: [cdn.me-qr.com](https://cdn.me-qr.com/pdf/7509916.pdf)
+	  date-saved:: [[Jan 21st, 2024]]
+	- [WillyJL ─ The controversy behind Apple BLE Spam](https://omnivore.app/me/willy-jl-the-controversy-behind-apple-ble-spam-18d2e539795)
+	  collapsed:: true
+	  site:: [WillyJL](https://willyjl.dev/blog/the-controversy-behind-apple-ble-spam)
+	  date-saved:: [[Jan 21st, 2024]]
+	  date-published:: [[Sep 13th, 2023]]
+	- [mash/BLE-Proximity: An iOS app and SDK to trace COVID-19 contacts using Bluetooth Low Energy](https://omnivore.app/me/mash-ble-proximity-an-i-os-app-and-sdk-to-trace-covid-19-contact-18d2e5006dc)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/mash/BLE-Proximity)
+	  date-saved:: [[Jan 21st, 2024]]
+	- [bluetooth drivers by MatejMagat305 · Pull Request #58 · fyne-io/fyne-x](https://omnivore.app/me/bluetooth-drivers-by-matej-magat-305-pull-request-58-fyne-io-fyn-18d2e4efbd5)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/fyne-io/fyne-x/pull/58)
+	  author:: MatejMagat305
+	  date-saved:: [[Jan 21st, 2024]]
+	  date-published:: [[May 16th, 2023]]
+	- [The math exams of my life | andreinc](https://omnivore.app/me/the-math-exams-of-my-life-andreinc-18d2e30ba41)
+	  collapsed:: true
+	  site:: [andreinc](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
+	  author:: Andrei Ciobanu
+	  date-saved:: [[Jan 21st, 2024]]
+	  date-published:: [[Jan 8th, 2024]]
+	- [Ship / Show / Ask](https://omnivore.app/me/ship-show-ask-18d2d7cd0ce)
 	  site:: [martinfowler.com](https://martinfowler.com/articles/ship-show-ask.html)
 	  author:: Rouan Wilsenach
 	  date-saved:: [[Jan 21st, 2024]]
 	  date-published:: [[Sep 7th, 2021]]
+	  collapsed:: true
 	- [Steve Jobs brainstorms with the NeXT team 1985 | Jobs official](https://omnivore.app/me/https-youtu-be-udi-0-rk-3-j-zym-si-iue-mv-9-m-hp-6-tx-r-bp-18d2d172af8)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/Udi0rk3jZYM?si=IUEMv9mHP6TxRBp_)

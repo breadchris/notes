@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [When America First Dropped Acid | The New Yorker](https://omnivore.app/me/when-america-first-dropped-acid-the-new-yorker-18d3229444f)
+	  collapsed:: true
+	  site:: [The New Yorker](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
+	  author:: Margaret Talbot
+	  date-saved:: [[Jan 22nd, 2024]]
+	  date-published:: [[Jan 22nd, 2024]]
 	- [Transitions DJ](https://omnivore.app/me/transitions-dj-18d2ef38847)
 	  collapsed:: true
 	  site:: [dj.app](https://dj.app)

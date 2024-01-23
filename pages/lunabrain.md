@@ -1,3 +1,8 @@
+- let's see if this works | 
+  created-at:: [[Jan 22th, 2024]]
+  tags:: [[100daystooffload]]
+	- <p>So if my calculations are right, I should be able to do the following:</p><ul><li><p>Save this post with the tag #100daystooffload</p></li><li><p>Click publish above</p></li><li><p>Reload the site at /@breadchris</p></li><li><p>I should be able to see this post</p></li></ul><p>This flow is a solid step in the direction of where I want to take this tool. With a little bit of tweaking, I now have a way to publish my ideas to the Internet the way that I want to. I want them to go to my own freaking website! But damn if that isn't too much to ask. Install wordpress? ghost? Yuck, why is this software so bloated? This has been a painstaking process in trying to make the most light weight experience for publishing your ideas, and the personal site is just the beginning. Very soon I will have this content being published to twitter. I want to take my youtube live streams, edit them here, and then share those edits. Man, this is going to be so cool.</p>
+
 - Connecting your body and your mind | 
   created-at:: [[Jan 22th, 2024]]
   tags:: [[100daystooffload]]

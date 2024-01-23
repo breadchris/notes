@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [stas00/ml-engineering: Machine Learning Engineering Open Book](https://omnivore.app/me/stas-00-ml-engineering-machine-learning-engineering-open-book-18d35580d77)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/stas00/ml-engineering)
+	  date-saved:: [[Jan 23rd, 2024]]
+	- [Backlog size is inversely proportional to how often you talk to customers](https://omnivore.app/me/backlog-size-is-inversely-proportional-to-how-often-you-talk-to--18d35559118)
+	  collapsed:: true
+	  site:: [Bit Byte Bit](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
+	  author:: Zarar Siddiqi
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Jan 21st, 2024]]
 	- [react-elm-components - npm](https://omnivore.app/me/react-elm-components-npm-18d33455704)
 	  collapsed:: true
 	  site:: [npm](https://www.npmjs.com/package/react-elm-components)

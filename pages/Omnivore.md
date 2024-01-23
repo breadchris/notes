@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [The Building Blocks of Offline Support](https://omnivore.app/me/the-building-blocks-of-offline-support-18d374c307e)
+	  collapsed:: true
+	  site:: [pketh.org](https://pketh.org/building-offline.html)
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Jan 18th, 2024]]
+	- [Why the fuck are we templating yaml? | lbr.](https://omnivore.app/me/why-the-fuck-are-we-templating-yaml-lbr-18d374ad3cb)
+	  collapsed:: true
+	  site:: [lbr.](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Feb 6th, 2019]]
 	- [stas00/ml-engineering: Machine Learning Engineering Open Book](https://omnivore.app/me/stas-00-ml-engineering-machine-learning-engineering-open-book-18d35580d77)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/stas00/ml-engineering)

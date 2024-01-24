@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [Safari: "Embracing Common Lisp in the Modern World"](https://omnivore.app/me/safari-embracing-common-lisp-in-the-modern-world-18d3cd09ecc)
+	  collapsed:: true
+	  site:: [juxt.pro](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
+	  date-saved:: [[Jan 24th, 2024]]
+	  date-published:: [[Dec 18th, 2023]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/safari-embracing-common-lisp-in-the-modern-world-18d3cd09ecc#263bd699-705b-4b49-92d9-bb2e9e2bc07a)
 	- [javascript - Access variables and functions defined in page context from an extension - Stack Overflow](https://omnivore.app/me/javascript-access-variables-and-functions-defined-in-page-contex-18d3a81fbd9)
 	  collapsed:: true
 	  site:: [Stack Overflow](https://stackoverflow.com/questions/9515704/access-variables-and-functions-defined-in-page-context-from-an-extension/9517879)

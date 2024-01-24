@@ -1,4 +1,28 @@
 ## 🔖 Articles
+	- [Hopper (Part 2): Universal Patcher | SketchyCarrot's Blog](https://omnivore.app/me/hopper-part-2-universal-patcher-sketchy-carrot-s-blog-18d3952ddfe)
+	  collapsed:: true
+	  site:: [SketchyCarrot's Blog](https://sketchycarrot.neocities.org/software%20patching/2019/06/13/hopper_part2/)
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Jun 12th, 2019]]
+	- [Snap Map](https://omnivore.app/me/snap-map-18d393c3836)
+	  collapsed:: true
+	  site:: [map.snapchat.com](https://map.snapchat.com/@41.335703,-95.590514,2.00z)
+	  date-saved:: [[Jan 23rd, 2024]]
+	- [#onemilliontweetmap](https://omnivore.app/me/onemilliontweetmap-18d393bb4ec)
+	  collapsed:: true
+	  site:: [onemilliontweetmap.com](https://onemilliontweetmap.com/?center=47.67307465133539%2C-122.3459815979004&cluster=1&hashtag1=&hashtag2=sad&hashtagBattle=0&heatmap=0&search=&sidebar=yes&sun=0&timeRange=0&timeRange=25&timeSelector=0&timeStep=0&zoom=13)
+	  date-saved:: [[Jan 23rd, 2024]]
+	- [How To Search Tweets By Location #TwitterTips](https://omnivore.app/me/how-to-search-tweets-by-location-twitter-tips-18d393b1157)
+	  collapsed:: true
+	  site:: [Advos](https://advos.io/social-media-marketing/how-to-search-tweets-by-location-twittertips/)
+	  author:: Mark Willaman
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Mar 24th, 2016]]
+	- [Sex, aggression, and humour: responses to unicycling - PMC](https://omnivore.app/me/sex-aggression-and-humour-responses-to-unicycling-pmc-18d3933a7dd)
+	  collapsed:: true
+	  site:: [PubMed Central (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
+	  author:: Sam Shuster, honorary consultant, emeritus professor of dermatology
+	  date-saved:: [[Jan 23rd, 2024]]
 	- [The Building Blocks of Offline Support](https://omnivore.app/me/the-building-blocks-of-offline-support-18d374c307e)
 	  collapsed:: true
 	  site:: [pketh.org](https://pketh.org/building-offline.html)

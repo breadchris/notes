@@ -1,4 +1,26 @@
 ## 🔖 Articles
+	- [Rob Pike interview: "Go has indeed become the language of cloud infrastructure" -- Evrone.com | PRLog](https://omnivore.app/me/rob-pike-interview-go-has-indeed-become-the-language-of-cloud-in-18d398558b5)
+	  collapsed:: true
+	  site:: [PRLog](https://www.prlog.org/12972971-rob-pike-interview-go-has-indeed-become-the-language-of-cloud-infrastructure.html)
+	  author:: Evrone.com
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Jul 8th, 2023]]
+	- [Uses This / Rob Pike](https://omnivore.app/me/uses-this-rob-pike-18d398504ae)
+	  collapsed:: true
+	  site:: [usesthis.com](https://usesthis.com/interviews/rob.pike/)
+	  author:: Daniel Bogan
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Oct 22nd, 2012]]
+	- [Rob Pike interview for Evrone: “Go has become the language of cloud infrastructure”](https://omnivore.app/me/rob-pike-interview-for-evrone-go-has-become-the-language-of-clou-18d3984cb63)
+	  collapsed:: true
+	  site:: [Evrone](https://evrone.com/blog/rob-pike-interview)
+	  author:: Evrone
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Apr 30th, 2020]]
+	- [Smut - There's An AI For That](https://omnivore.app/me/smut-there-s-an-ai-for-that-18d397372d3)
+	  collapsed:: true
+	  site:: [There's An AI For That](https://theresanaiforthat.com/s/smut/)
+	  date-saved:: [[Jan 23rd, 2024]]
 	- [Hopper (Part 2): Universal Patcher | SketchyCarrot's Blog](https://omnivore.app/me/hopper-part-2-universal-patcher-sketchy-carrot-s-blog-18d3952ddfe)
 	  collapsed:: true
 	  site:: [SketchyCarrot's Blog](https://sketchycarrot.neocities.org/software%20patching/2019/06/13/hopper_part2/)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Miroslav Dzhokanov on LinkedIn: A funny story about the first Amazon orders by Jeff Bezos :)](https://omnivore.app/me/miroslav-dzhokanov-on-linked-in-a-funny-story-about-the-first-am-18d3d42a536)
+	  collapsed:: true
+	  site:: [linkedin.com](https://www.linkedin.com/posts/mdzhokanov_a-funny-story-about-the-first-amazon-orders-activity-6763208264307011584-aUzE)
+	  author:: Miroslav Dzhokanov
+	  date-saved:: [[Jan 24th, 2024]]
+	  date-published:: [[Feb 4th, 2021]]
+	- [Joan Daemen Homepage](https://omnivore.app/me/joan-daemen-homepage-18d3d34a394)
+	  collapsed:: true
+	  site:: [cs.ru.nl](https://cs.ru.nl/~joan/index.html)
+	  date-saved:: [[Jan 24th, 2024]]
 	- [Reverse Engineering Stickies.app - Low Level Bits 🇺🇦](https://omnivore.app/me/reverse-engineering-stickies-app-low-level-bits-18d3d1f8043)
 	  collapsed:: true
 	  site:: [lowlevelbits.org](https://lowlevelbits.org/reverse-engineering-stickies.app/)

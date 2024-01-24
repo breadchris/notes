@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Reverse Engineering Stickies.app - Low Level Bits 🇺🇦](https://omnivore.app/me/reverse-engineering-stickies-app-low-level-bits-18d3d1f8043)
+	  collapsed:: true
+	  site:: [lowlevelbits.org](https://lowlevelbits.org/reverse-engineering-stickies.app/)
+	  date-saved:: [[Jan 24th, 2024]]
+	  date-published:: [[Feb 12th, 2017]]
 	- [Safari: "Embracing Common Lisp in the Modern World"](https://omnivore.app/me/safari-embracing-common-lisp-in-the-modern-world-18d3cd09ecc)
 	  collapsed:: true
 	  site:: [juxt.pro](https://www.juxt.pro/blog/common-lisp-in-modern-world/)

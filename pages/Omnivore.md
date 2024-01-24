@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [javascript - Access variables and functions defined in page context from an extension - Stack Overflow](https://omnivore.app/me/javascript-access-variables-and-functions-defined-in-page-contex-18d3a81fbd9)
+	  collapsed:: true
+	  site:: [Stack Overflow](https://stackoverflow.com/questions/9515704/access-variables-and-functions-defined-in-page-context-from-an-extension/9517879)
+	  author:: André Alves
+	  date-saved:: [[Jan 24th, 2024]]
+	- [Go Wiki: Go Modules - The Go Programming Language](https://omnivore.app/me/go-wiki-go-modules-the-go-programming-language-18d3a75065b)
+	  collapsed:: true
+	  site:: [go.dev](https://go.dev/wiki/Modules)
+	  author:: Strategies for Authors of Pre-Existing v2+ Packages
+	  date-saved:: [[Jan 23rd, 2024]]
 	- [The easiest way to deploy your App through SSH and Git](https://omnivore.app/me/the-easiest-way-to-deploy-your-app-through-ssh-and-git-18d3a30de4c)
 	  collapsed:: true
 	  site:: [deploybot.com](https://deploybot.com/blog/the-easiest-way-to-deploy-your-app-through-ssh-and-git)

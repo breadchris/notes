@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [The easiest way to deploy your App through SSH and Git](https://omnivore.app/me/the-easiest-way-to-deploy-your-app-through-ssh-and-git-18d3a30de4c)
+	  collapsed:: true
+	  site:: [deploybot.com](https://deploybot.com/blog/the-easiest-way-to-deploy-your-app-through-ssh-and-git)
+	  author:: Heike Jurzik
+	  date-saved:: [[Jan 23rd, 2024]]
+	  date-published:: [[Dec 5th, 2022]]
 	- [Rob Pike interview: "Go has indeed become the language of cloud infrastructure" -- Evrone.com | PRLog](https://omnivore.app/me/rob-pike-interview-go-has-indeed-become-the-language-of-cloud-in-18d398558b5)
 	  collapsed:: true
 	  site:: [PRLog](https://www.prlog.org/12972971-rob-pike-interview-go-has-indeed-become-the-language-of-cloud-infrastructure.html)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [tiptap/packages/extension-code-block/src/code-block.ts at 8c6751f0c638effb22110b62b40a1632ea6867c9 · ueberdosis/tiptap](https://omnivore.app/me/tiptap-packages-extension-code-block-src-code-block-ts-at-8-c-67-18d3f69db59)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ueberdosis/tiptap/blob/8c6751f0c638effb22110b62b40a1632ea6867c9/packages/extension-code-block/src/code-block.ts)
+	  date-saved:: [[Jan 24th, 2024]]
 	- [Miroslav Dzhokanov on LinkedIn: A funny story about the first Amazon orders by Jeff Bezos :)](https://omnivore.app/me/miroslav-dzhokanov-on-linked-in-a-funny-story-about-the-first-am-18d3d42a536)
 	  collapsed:: true
 	  site:: [linkedin.com](https://www.linkedin.com/posts/mdzhokanov_a-funny-story-about-the-first-amazon-orders-activity-6763208264307011584-aUzE)

@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [I used Elm in production and it cost me my job – Annaia Berry](https://omnivore.app/me/i-used-elm-in-production-and-it-cost-me-my-job-annaia-berry-18d3f7e49b4)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=RFrKffrKCeU)
+	  author:: Metosin
+	  date-saved:: [[Jan 24th, 2024]]
+	- [Elm and Web Components · bigardone.dev](https://omnivore.app/me/elm-and-web-components-bigardone-dev-18d3f787f09)
+	  collapsed:: true
+	  site:: [Ricardo Garcia Vega](https://bigardone.dev/blog/2018/09/09/elm-and-web-components)
+	  author:: Ricardo Garcia Vega
+	  date-saved:: [[Jan 24th, 2024]]
+	  date-published:: [[Sep 8th, 2018]]
+	- [elm-markup/design-decisions/WHY-ELM-MARKUP-V3.md at master · mdgriffith/elm-markup](https://omnivore.app/me/elm-markup-design-decisions-why-elm-markup-v-3-md-at-master-mdgr-18d3f717a86)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/mdgriffith/elm-markup/blob/master/design-decisions/WHY-ELM-MARKUP-V3.md)
+	  date-saved:: [[Jan 24th, 2024]]
+	- [Matthew Griffith - A Markup for the Statically Typed](https://omnivore.app/me/matthew-griffith-a-markup-for-the-statically-typed-18d3f6ed583)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=8Zd3ocr9Di8)
+	  author:: Oslo Elm Day
+	  date-saved:: [[Jan 24th, 2024]]
 	- [tiptap/packages/extension-code-block/src/code-block.ts at 8c6751f0c638effb22110b62b40a1632ea6867c9 · ueberdosis/tiptap](https://omnivore.app/me/tiptap-packages-extension-code-block-src-code-block-ts-at-8-c-67-18d3f69db59)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/ueberdosis/tiptap/blob/8c6751f0c638effb22110b62b40a1632ea6867c9/packages/extension-code-block/src/code-block.ts)

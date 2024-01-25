@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [On “owning” software - avdi.codes](https://omnivore.app/me/on-owning-software-avdi-codes-18d3fadf998)
+	  collapsed:: true
+	  site:: [avdi.codes - Avdi Grimm, Code Cleric](https://avdi.codes/on-owning-software/)
+	  author:: Avdi Grimm
+	  date-saved:: [[Jan 25th, 2024]]
+	  date-published:: [[Jan 24th, 2024]]
 	- [I used Elm in production and it cost me my job – Annaia Berry](https://omnivore.app/me/i-used-elm-in-production-and-it-cost-me-my-job-annaia-berry-18d3f7e49b4)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=RFrKffrKCeU)

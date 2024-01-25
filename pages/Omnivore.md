@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [The rise and fall of the standard user interface • The Register](https://omnivore.app/me/the-rise-and-fall-of-the-standard-user-interface-the-register-18d419fefa3)
+	  collapsed:: true
+	  site:: [The Register](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
+	  author:: Liam Proven
+	  date-saved:: [[Jan 25th, 2024]]
+	  date-published:: [[Jan 24th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/the-rise-and-fall-of-the-standard-user-interface-the-register-18d419fefa3#6293c0c9-9ca6-4605-9ab1-5d96b459591e)
 	- [On “owning” software - avdi.codes](https://omnivore.app/me/on-owning-software-avdi-codes-18d3fadf998)
 	  collapsed:: true
 	  site:: [avdi.codes - Avdi Grimm, Code Cleric](https://avdi.codes/on-owning-software/)

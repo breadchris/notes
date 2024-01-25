@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [You might not need a CRDT | Drifting in Space](https://omnivore.app/me/you-might-not-need-a-crdt-drifting-in-space-18d42dc4af8)
+	  collapsed:: true
+	  site:: [driftingin.space](https://driftingin.space/posts/you-might-not-need-a-crdt)
+	  date-saved:: [[Jan 25th, 2024]]
+	  date-published:: [[Dec 4th, 2022]]
+	- [CRDTs go brrr](https://omnivore.app/me/crd-ts-go-brrr-18d42dbe1ce)
+	  collapsed:: true
+	  site:: [josephg.com](https://josephg.com/blog/crdts-go-brrr/)
+	  date-saved:: [[Jan 25th, 2024]]
+	  date-published:: [[Jul 30th, 2021]]
 	- [The rise and fall of the standard user interface • The Register](https://omnivore.app/me/the-rise-and-fall-of-the-standard-user-interface-the-register-18d419fefa3)
 	  collapsed:: true
 	  site:: [The Register](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)

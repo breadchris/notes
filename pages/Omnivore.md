@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [CRDTs Turned Inside Out](https://omnivore.app/me/crd-ts-turned-inside-out-18d4318e641)
+	  collapsed:: true
+	  site:: [Interjected Future](https://interjectedfuture.com/crdts-turned-inside-out/)
+	  author:: Wil
+	  date-saved:: [[Jan 25th, 2024]]
+	  date-published:: [[Dec 15th, 2023]]
+	- [react-reader - npm](https://omnivore.app/me/react-reader-npm-18d42f07f16)
+	  collapsed:: true
+	  site:: [npm](https://www.npmjs.com/package/react-reader)
+	  labels:: [[lunabrain/ideas]]
+	  date-saved:: [[Jan 25th, 2024]]
+	  date-published:: [[Oct 26th, 2023]]
 	- [You might not need a CRDT | Drifting in Space](https://omnivore.app/me/you-might-not-need-a-crdt-drifting-in-space-18d42dc4af8)
 	  collapsed:: true
 	  site:: [driftingin.space](https://driftingin.space/posts/you-might-not-need-a-crdt)

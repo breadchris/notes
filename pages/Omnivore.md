@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Portable EPUBs](https://omnivore.app/me/portable-epu-bs-18d46d74f89)
+	  collapsed:: true
+	  site:: [willcrichton.net](https://willcrichton.net/notes/portable-epubs/)
+	  author:: Will Crichton
+	  date-saved:: [[Jan 26th, 2024]]
 	- [404 Not Found](https://omnivore.app/me/404-not-found-18d43e244f8)
 	  collapsed:: true
 	  site:: [students.cs.ubc.ca](https://www.students.cs.ubc.ca/~cs-311/current/_goals.php)

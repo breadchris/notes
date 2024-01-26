@@ -4,10 +4,6 @@
 	  site:: [willcrichton.net](https://willcrichton.net/notes/portable-epubs/)
 	  author:: Will Crichton
 	  date-saved:: [[Jan 26th, 2024]]
-	- [404 Not Found](https://omnivore.app/me/404-not-found-18d43e244f8)
-	  collapsed:: true
-	  site:: [students.cs.ubc.ca](https://www.students.cs.ubc.ca/~cs-311/current/_goals.php)
-	  date-saved:: [[Jan 25th, 2024]]
 	- [Deploying to production | Elm Land](https://omnivore.app/me/deploying-to-production-elm-land-18d43d706ec)
 	  collapsed:: true
 	  site:: [Elm Land](https://elm.land/guide/deploying.html)

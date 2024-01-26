@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talks on breadchris</title>
+    <link>https://breadchris.com/tags/talks/</link>
+    <description>Recent content in talks on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>talks</title>
+      <link>https://breadchris.com/talks/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/talks/</guid>
+      <description>### 101 Ways Dependencies Can Ruin Your Day
+slides
+Dependencies are really messy and can cause a lot of problems. There are systemic problems that hackers can take advantage of.
+### How do you design LEGOs for code?
+slides
+I have played with LEGOs all my life and I have been writing code for a while now. I have been thinking about how to make code feel more like LEGOs.</description>
+    </item>
+  </channel>
+</rss>

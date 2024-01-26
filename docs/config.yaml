@@ -1,0 +1,58 @@
+baseUrl: https://breadchris.com
+enableEmoji: true
+enableInlineShortcodes: true
+enableRobotsTxt: true
+languages:
+    en:
+        languageName: English
+        menu:
+            main:
+                - name: tags
+                  url: tags/
+                  weight: 10
+                - name: blog
+                  url: /blog
+                - name: resume
+                  url: /resume
+                - name: talks
+                  url: /talks
+                - name: blog
+                  url: /blog
+                - name: resume
+                  url: /resume
+                - name: talks
+                  url: /talks
+        taxonomies:
+            tag: tags
+            test: test
+mainSections:
+    - blog
+    - papermod
+minify:
+    disableXml: true
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+paginate: 5
+params:
+    author: breadchris
+    defaultTheme: auto
+    description: This is the production description.
+    env: production
+    homeInfoParams:
+        content: hack the planet
+        title: breadchris
+    showReadingTime: true
+    socialIcons:
+        - name: Github
+          url: https://github.com/breadchris
+        - name: Twitter
+          url: https://twitter.com/breadchris
+        - name: YouTube
+          url: https://youtube.com/@breadchris/streams
+pygmentsUseClasses: true
+theme:
+    - papermod
+title: breadchris

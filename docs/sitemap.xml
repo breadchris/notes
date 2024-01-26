@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://breadchris.com/tags/100daystooffload/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <loc>https://breadchris.com/blog/a-sustainable-thinker-always-wins/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/blog/this-is-for-nolan/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/100daystooffload/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/resume/</loc>
@@ -26,37 +32,42 @@
     <loc>https://breadchris.com/talks/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/workflow-engine-syntax-isnt-making-me-happy-halp/</loc>
+    <loc>https://breadchris.com/thinkies/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/connecting-your-body-and-your-mind/</loc>
+    <loc>https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/connecting-your-body-and-your-mind/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/lets-see-if-this-works/</loc>
+    <loc>https://breadchris.com/thinkies/lets-see-if-this-works/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/what-is-a-good-refactoring-task/</loc>
+    <loc>https://breadchris.com/thinkies/what-is-a-good-refactoring-task/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/today-wasnt-a-100-day/</loc>
+    <loc>https://breadchris.com/thinkies/today-wasnt-a-100-day/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/why-arent-there-more-personal-sites/</loc>
+    <loc>https://breadchris.com/thinkies/why-arent-there-more-personal-sites/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/hacking-culture/</loc>
+    <loc>https://breadchris.com/thinkies/hacking-culture/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/just-a-test/</loc>
+    <loc>https://breadchris.com/thinkies/just-a-test/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/what-i-have-learned-about-the-problem-i-want-to-solve/</loc>
+    <loc>https://breadchris.com/thinkies/what-i-have-learned-about-the-problem-i-want-to-solve/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/dogfooding/</loc>
+    <loc>https://breadchris.com/thinkies/dogfooding/</loc>
     <lastmod>2024-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/v0-a-start/</loc>
+    <loc>https://breadchris.com/thinkies/v0-a-start/</loc>
     <lastmod>2024-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/blog/post/</loc>
   </url>
 </urlset>

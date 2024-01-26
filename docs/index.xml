@@ -6,8 +6,34 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Sustainable Thinker Always Wins</title>
+      <link>https://breadchris.com/blog/a-sustainable-thinker-always-wins/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/a-sustainable-thinker-always-wins/</guid>
+      <description>- You can think about a lot of different things all the time. Think about too many things and this becomes a serious problem, especially for those who have ADD. If you have a problem focusing on which idea to pursue, it is easy to experience the feeling of being lost. Life is happening, ideas come and go, but there is nothing for you to bring to show and tell.</description>
+    </item>
+    <item>
+      <title>This is for Nolan</title>
+      <link>https://breadchris.com/blog/this-is-for-nolan/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/this-is-for-nolan/</guid>
+      <description>## SOLID principles
+The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
+In Go, the SOLID principles can be applied as follows:
+### Single Responsibility Principle (SRP)
+Example:
+```go
+type UserService struct {
+userRepository UserRepository
+}
+func (us *UserService) CreateUser(user *User) error {
+return us.userRepository.Create(user)
+}
+func (us *UserService) GetUserByID(id int) (*User, error) {</description>
+    </item>
     <item>
       <title>resume</title>
       <link>https://breadchris.com/resume/</link>
@@ -35,24 +61,24 @@ I have played with LEGOs all my life and I have been writing code for a while no
     </item>
     <item>
       <title>Workflow Engine syntax isn&#39;t making me happy, halp</title>
-      <link>https://breadchris.com/blog/workflow-engine-syntax-isnt-making-me-happy-halp/</link>
+      <link>https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/workflow-engine-syntax-isnt-making-me-happy-halp/</guid>
+      <guid>https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/</guid>
       <description>I have been building a workflow engine that can route strongly-typed data through durable functions (guaranteed to execute). These functions do not need to exist in the process, they could be remote APIs, grpc servers, a p2p connection with your friend&amp;rsquo;s computer. It supports streaming of data with observables, thanks to rxgo, meaning you can create rules to map, filter, reduce data without redeployment.
 This is the sketch I have in my head, and have been trying to implement it here.</description>
     </item>
     <item>
       <title>Connecting your body and your mind</title>
-      <link>https://breadchris.com/blog/connecting-your-body-and-your-mind/</link>
+      <link>https://breadchris.com/thinkies/connecting-your-body-and-your-mind/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/connecting-your-body-and-your-mind/</guid>
+      <guid>https://breadchris.com/thinkies/connecting-your-body-and-your-mind/</guid>
       <description>If someone were to talk to me about connecting my body to my mind a decade ago, I would have thought they were full of it. Regularly practicing meditation and now yoga has really made me realize how stupid you must be not to build this connection with yourself. Humans all have this incredible biological computer sitting inside their head and if you treat it as just that, a computer, it can do cool things.</description>
     </item>
     <item>
       <title>let&#39;s see if this works</title>
-      <link>https://breadchris.com/blog/lets-see-if-this-works/</link>
+      <link>https://breadchris.com/thinkies/lets-see-if-this-works/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/lets-see-if-this-works/</guid>
+      <guid>https://breadchris.com/thinkies/lets-see-if-this-works/</guid>
       <description>So if my calculations are right, I should be able to do the following:
 Save this post with the tag #100daystooffload
 Click publish above
@@ -62,58 +88,58 @@ This flow is a solid step in the direction of where I want to take this tool. Wi
     </item>
     <item>
       <title>What is a good refactoring task?</title>
-      <link>https://breadchris.com/blog/what-is-a-good-refactoring-task/</link>
+      <link>https://breadchris.com/thinkies/what-is-a-good-refactoring-task/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/what-is-a-good-refactoring-task/</guid>
+      <guid>https://breadchris.com/thinkies/what-is-a-good-refactoring-task/</guid>
       <description>There has been a part of this code that I have been wanting to refactor for a while. Patch on patch of this form has left this code in disarray. This code is actually quite important to this site as well. It is a general application form that leverages the power of Protobuf&amp;rsquo;s expressive type system to generate a form a user can interact with. I have some ideas for where I want to take this code, but they haven&amp;rsquo;t been a priority.</description>
     </item>
     <item>
       <title>Today wasn&#39;t a 100% day</title>
-      <link>https://breadchris.com/blog/today-wasnt-a-100-day/</link>
+      <link>https://breadchris.com/thinkies/today-wasnt-a-100-day/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/today-wasnt-a-100-day/</guid>
+      <guid>https://breadchris.com/thinkies/today-wasnt-a-100-day/</guid>
       <description>Idk what happened this morning but I went through my normal routine and then something just hit me which crippled my momentum. I have learned that listening to my body and trying to meet it where it is at in the moment vs trying to fight the feeling pays dividends over time. I try to map the feeling to a probability of what it is that I need. Often this feeling comes from not having enough water, so I drank some water and took a 20 minute nap.</description>
     </item>
     <item>
       <title>Why aren&#39;t there more personal sites?</title>
-      <link>https://breadchris.com/blog/why-arent-there-more-personal-sites/</link>
+      <link>https://breadchris.com/thinkies/why-arent-there-more-personal-sites/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/why-arent-there-more-personal-sites/</guid>
+      <guid>https://breadchris.com/thinkies/why-arent-there-more-personal-sites/</guid>
       <description>It bothers me that more people don&amp;rsquo;t have personal sites. In my opinion, we all do interesting things. In order to communicate the interesting things that we do, we need to provide others with an immersive experience of our world. Personal sites of designers and artists attempt to capture our imagination with an elegantly simple and refreshing display of their portfolios or wild 3d graphics. It makes sense why this isn&amp;rsquo;t the norm, these sites take time.</description>
     </item>
     <item>
       <title>Hacking Culture</title>
-      <link>https://breadchris.com/blog/hacking-culture/</link>
+      <link>https://breadchris.com/thinkies/hacking-culture/</link>
       <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/hacking-culture/</guid>
+      <guid>https://breadchris.com/thinkies/hacking-culture/</guid>
       <description>I had a call with a friend who was a hacker in the golden days of hacking. There were lots of exciting things happening in security as problems were unearthed, and solutions theorized. Over time, these problems that came up became solved. Buffers got compiler and runtime checks. SQL injection doesn&amp;rsquo;t exist when you use prepared statements. XSS doesn&amp;rsquo;t exist if you use React. The bread and butter of what hackers were poking at slowly shrunk as companies changed their development practices.</description>
     </item>
     <item>
       <title>just a test</title>
-      <link>https://breadchris.com/blog/just-a-test/</link>
+      <link>https://breadchris.com/thinkies/just-a-test/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/just-a-test/</guid>
+      <guid>https://breadchris.com/thinkies/just-a-test/</guid>
       <description>This is the post for today, lets see if i broke something.</description>
     </item>
     <item>
       <title>what i have learned about the problem i want to solve</title>
-      <link>https://breadchris.com/blog/what-i-have-learned-about-the-problem-i-want-to-solve/</link>
+      <link>https://breadchris.com/thinkies/what-i-have-learned-about-the-problem-i-want-to-solve/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/what-i-have-learned-about-the-problem-i-want-to-solve/</guid>
+      <guid>https://breadchris.com/thinkies/what-i-have-learned-about-the-problem-i-want-to-solve/</guid>
       <description>There are many things that I could be doing. I have spent a lot of time doing cyber security, I have spent a lot of time coding, maybe if I am lucky I could be a baker from all the time I have spent baking. But there is only so much time in the day. There are only so many things that you can get 10,000 hours of mastery over. And even if you have &amp;ldquo;mastered&amp;rdquo; it, have you felt good doing it?</description>
     </item>
     <item>
       <title>Dogfooding</title>
-      <link>https://breadchris.com/blog/dogfooding/</link>
+      <link>https://breadchris.com/thinkies/dogfooding/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/dogfooding/</guid>
+      <guid>https://breadchris.com/thinkies/dogfooding/</guid>
       <description>I think there are some really cool things that you get when you dogfood the thing you are building. For those who are unfamiliar with &amp;ldquo;dogfood&amp;rdquo;, as it relates to the tech world, it means to use it yourself. I have not had much focus on the projects that I have been working on, and now that I am directly dogfooding the app, which aims to help me increase the frequency and quality of how I write, I am held accountable.</description>
     </item>
     <item>
       <title>v0: a start</title>
-      <link>https://breadchris.com/blog/v0-a-start/</link>
+      <link>https://breadchris.com/thinkies/v0-a-start/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/v0-a-start/</guid>
+      <guid>https://breadchris.com/thinkies/v0-a-start/</guid>
       <description>This post was written by a tool that I have been building for a while, and I think this is the first feature that is remotely helpful. I am writing this post in the browser and it is then going to get saved to the database. When I click the Publish button at the top of this page, then the post will be written to a file in LogSeq where I will push it to Github and link people to it from there.</description>
     </item>
   </channel>

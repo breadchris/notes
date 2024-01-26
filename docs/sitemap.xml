@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://breadchris.com/tags/100daystooffload/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://breadchris.com/blog/a-sustainable-thinker-always-wins/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,6 +35,15 @@
     <loc>https://breadchris.com/blog/start-with-a-static-site/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://breadchris.com/tags/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/there-are-different-types-of-thoughts/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://breadchris.com/blog/this-is-for-nolan/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,25 +56,16 @@
     <loc>https://breadchris.com/blog/why-soundbite-should-exist/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/tags/100daystooffload/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://breadchris.com/tags/resume/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/resume/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/tags/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://breadchris.com/tags/talks/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/talks/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/thinkies/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/</loc>

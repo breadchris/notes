@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [404 Not Found](https://omnivore.app/me/404-not-found-18d43e244f8)
+	  collapsed:: true
+	  site:: [students.cs.ubc.ca](https://www.students.cs.ubc.ca/~cs-311/current/_goals.php)
+	  date-saved:: [[Jan 25th, 2024]]
+	- [Deploying to production | Elm Land](https://omnivore.app/me/deploying-to-production-elm-land-18d43d706ec)
+	  collapsed:: true
+	  site:: [Elm Land](https://elm.land/guide/deploying.html)
+	  date-saved:: [[Jan 25th, 2024]]
 	- [Elm Europe 2017 - Evan Czaplicki - The life of a file](https://omnivore.app/me/elm-europe-2017-evan-czaplicki-the-life-of-a-file-18d43c0c411)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=XpDsk374LDE)

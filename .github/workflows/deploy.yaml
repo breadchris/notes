@@ -1,0 +1,18 @@
+name: Upload Pages Artifact
+
+on: [push]  # Trigger on push events. Modify as needed.
+
+jobs:
+  upload-artifact:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Upload Pages Artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./docs
+        name: github-pages
+        retention-days: 1

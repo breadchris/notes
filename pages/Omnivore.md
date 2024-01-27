@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Plato](https://omnivore.app/me/plato-18d49bd2156)
+	  collapsed:: true
+	  site:: [platoedu.org](https://www.platoedu.org)
+	  date-saved:: [[Jan 26th, 2024]]
+	- [The_Lottery_with_questions_Shirley_Jackson](https://omnivore.app/me/the-lottery-with-questions-shirley-jackson-18d499908b0)
+	  collapsed:: true
+	  site:: [web1.nbed.nb.ca](http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/The_Lottery_with_questions_Shirley_Jackson.pdf)
+	  date-saved:: [[Jan 26th, 2024]]
 	- [oh sh!t who's going to admit to eating the laxatives - YouTube](https://omnivore.app/me/oh-sh-t-who-s-going-to-admit-to-eating-the-laxatives-you-tube-18d493fff5f)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/shorts/x37HFYu6gfE?app=desktop&si=N5CvVtWFdZANs5EC)

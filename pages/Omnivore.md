@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Rent Cloud GPUs from $0.2/hour](https://omnivore.app/me/rent-cloud-gp-us-from-0-2-hour-18d48265825)
+	  collapsed:: true
+	  site:: [runpod.io](https://www.runpod.io)
+	  labels:: [[ai/run]]
+	  date-saved:: [[Jan 26th, 2024]]
+	- [The crucial moments and decisions leading up to the launch of Notion AI](https://omnivore.app/me/the-crucial-moments-and-decisions-leading-up-to-the-launch-of-no-18d48037268)
+	  collapsed:: true
+	  site:: [Notion](https://www.notion.so/blog/behind-the-scenes-notion-ai)
+	  author:: Ivan Zhao
+	  date-saved:: [[Jan 26th, 2024]]
+	  date-published:: [[Nov 29th, 2023]]
 	- [Portable EPUBs](https://omnivore.app/me/portable-epu-bs-18d46d74f89)
 	  collapsed:: true
 	  site:: [willcrichton.net](https://willcrichton.net/notes/portable-epubs/)

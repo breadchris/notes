@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [oh sh!t who's going to admit to eating the laxatives - YouTube](https://omnivore.app/me/oh-sh-t-who-s-going-to-admit-to-eating-the-laxatives-you-tube-18d493fff5f)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/x37HFYu6gfE?app=desktop&si=N5CvVtWFdZANs5EC)
+	  date-saved:: [[Jan 26th, 2024]]
 	- [Rent Cloud GPUs from $0.2/hour](https://omnivore.app/me/rent-cloud-gp-us-from-0-2-hour-18d48265825)
 	  collapsed:: true
 	  site:: [runpod.io](https://www.runpod.io)

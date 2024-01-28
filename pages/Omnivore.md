@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [SpatiaLite: SpatiaLite](https://omnivore.app/me/spatia-lite-spatia-lite-18d5105f975)
+	  collapsed:: true
+	  site:: [gaia-gis.it](https://www.gaia-gis.it/fossil/libspatialite/index)
+	  date-saved:: [[Jan 28th, 2024]]
+	  date-published:: [[Aug 3rd, 2023]]
 	- [Andrej Karpathy on X: "Thinking about the ideal blogging platform: 1. Writing: - in markdown - with full WYSIWYG, not just split view (think: Typora) - super easy to copy paste and add images 2. Deploying: - renders into static pages (think: Jekyll) - super simple, super minimal html with no bloat -…" / X](https://omnivore.app/me/andrej-karpathy-on-x-thinking-about-the-ideal-blogging-platform--18d4e00acb4)
 	  collapsed:: true
 	  site:: [X (formerly Twitter)](https://twitter.com/karpathy/status/1751350002281300461)

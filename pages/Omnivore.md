@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Ruby's Exceptional Creatures](https://omnivore.app/me/ruby-s-exceptional-creatures-18d5328d20f)
+	  collapsed:: true
+	  site:: [Exceptional Creatures](https://www.exceptionalcreatures.com)
+	  date-saved:: [[Jan 28th, 2024]]
 	- [hackerllama - Blog](https://omnivore.app/me/hackerllama-blog-18d52ea75bb)
 	  collapsed:: true
 	  site:: [hackerllama](https://osanseviero.github.io/hackerllama/blog/)
@@ -20,11 +24,11 @@
 	  date-saved:: [[Jan 28th, 2024]]
 	  date-published:: [[Oct 15th, 2022]]
 	- [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' -- Visual Studio Magazine](https://omnivore.app/me/new-git-hub-copilot-research-finds-downward-pressure-on-code-qua-18d52e20f48)
-	  collapsed:: true
 	  site:: [Visual Studio Magazine](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 	  author:: David Ramel01/25/2024
 	  date-saved:: [[Jan 28th, 2024]]
 	  date-published:: [[Jan 24th, 2024]]
+	  collapsed:: true
 	- [SpatiaLite: SpatiaLite](https://omnivore.app/me/spatia-lite-spatia-lite-18d5105f975)
 	  collapsed:: true
 	  site:: [gaia-gis.it](https://www.gaia-gis.it/fossil/libspatialite/index)

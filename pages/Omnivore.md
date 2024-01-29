@@ -1,4 +1,30 @@
 ## 🔖 Articles
+	- [hackerllama - Blog](https://omnivore.app/me/hackerllama-blog-18d52ea75bb)
+	  collapsed:: true
+	  site:: [hackerllama](https://osanseviero.github.io/hackerllama/blog/)
+	  date-saved:: [[Jan 28th, 2024]]
+	  date-published:: [[Jan 19th, 2024]]
+	- [Brian Jordan on X: "@karpathy @LostInTangent @kepano GitHub's realtime editing Google Wave like thing seemed like an interesting direction. Filesystem as SPOT, participants can join w whatever editor they have" / X](https://omnivore.app/me/brian-jordan-on-x-karpathy-lost-in-tangent-kepano-git-hub-s-real-18d52e90382)
+	  collapsed:: true
+	  site:: [X (formerly Twitter)](https://twitter.com/bcjordan/status/1751391016714707120)
+	  date-saved:: [[Jan 28th, 2024]]
+	- [File over app — Steph Ango](https://omnivore.app/me/file-over-app-steph-ango-18d52e8918f)
+	  collapsed:: true
+	  site:: [Steph Ango](https://stephango.com/file-over-app)
+	  author:: Steph Ango
+	  date-saved:: [[Jan 28th, 2024]]
+	  date-published:: [[Jun 30th, 2023]]
+	- [Blogging Manifesto](https://omnivore.app/me/blogging-manifesto-18d52e8027a)
+	  collapsed:: true
+	  site:: [alexoliveira.cc](https://alexoliveira.cc/essay/blogging-manifesto)
+	  date-saved:: [[Jan 28th, 2024]]
+	  date-published:: [[Oct 15th, 2022]]
+	- [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' -- Visual Studio Magazine](https://omnivore.app/me/new-git-hub-copilot-research-finds-downward-pressure-on-code-qua-18d52e20f48)
+	  collapsed:: true
+	  site:: [Visual Studio Magazine](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
+	  author:: David Ramel01/25/2024
+	  date-saved:: [[Jan 28th, 2024]]
+	  date-published:: [[Jan 24th, 2024]]
 	- [SpatiaLite: SpatiaLite](https://omnivore.app/me/spatia-lite-spatia-lite-18d5105f975)
 	  collapsed:: true
 	  site:: [gaia-gis.it](https://www.gaia-gis.it/fossil/libspatialite/index)

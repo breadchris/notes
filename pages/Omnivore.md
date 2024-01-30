@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [codapi: Interactive code examples](https://omnivore.app/me/codapi-interactive-code-examples-18d5c7c0f1d)
+	  collapsed:: true
+	  site:: [codapi.org](https://codapi.org)
+	  author:: Anton Zhiyanov
+	  date-saved:: [[Jan 30th, 2024]]
 	- [Answer.AI - Lessons from history’s greatest R&D labs](https://omnivore.app/me/answer-ai-lessons-from-history-s-greatest-r-d-labs-18d57a91640)
 	  collapsed:: true
 	  site:: [Answer.AI](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)

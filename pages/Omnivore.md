@@ -280,6 +280,8 @@
 	  author:: Margaret Talbot
 	  date-saved:: [[Jan 22nd, 2024]]
 	  date-published:: [[Jan 22nd, 2024]]
+		- ### Highlights
+			- > After taking a tiny amount of LSD, Huxley recalled that “what came through the closed door was the realization—not the knowledge, for this wasn’t verbal or abstract—but the direct, total awareness from the inside, so to say, of Love as the primary and fundamental cosmic fact.” [⤴️](https://omnivore.app/me/when-america-first-dropped-acid-the-new-yorker-18d3229444f#0aecad5a-4c98-42b4-a658-72d22638fad2)
 	- [Transitions DJ](https://omnivore.app/me/transitions-dj-18d2ef38847)
 	  collapsed:: true
 	  site:: [dj.app](https://dj.app)

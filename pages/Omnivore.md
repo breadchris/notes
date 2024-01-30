@@ -96,10 +96,6 @@
 	  site:: [willcrichton.net](https://willcrichton.net/notes/portable-epubs/)
 	  author:: Will Crichton
 	  date-saved:: [[Jan 26th, 2024]]
-	- [Deploying to production | Elm Land](https://omnivore.app/me/deploying-to-production-elm-land-18d43d706ec)
-	  collapsed:: true
-	  site:: [Elm Land](https://elm.land/guide/deploying.html)
-	  date-saved:: [[Jan 25th, 2024]]
 	- [Elm Europe 2017 - Evan Czaplicki - The life of a file](https://omnivore.app/me/elm-europe-2017-evan-czaplicki-the-life-of-a-file-18d43c0c411)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=XpDsk374LDE)

@@ -1,4 +1,33 @@
 ## 🔖 Articles
+	- [Answer.AI - Lessons from history’s greatest R&D labs](https://omnivore.app/me/answer-ai-lessons-from-history-s-greatest-r-d-labs-18d57a91640)
+	  collapsed:: true
+	  site:: [Answer.AI](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
+	  author:: Eric Gilliam
+	  date-saved:: [[Jan 29th, 2024]]
+	  date-published:: [[Jan 25th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/answer-ai-lessons-from-history-s-greatest-r-d-labs-18d57a91640#78758403-f013-4529-9477-abc67e197cae)
+	- [Colin Woodbury - A Tour of the Lisps](https://omnivore.app/me/colin-woodbury-a-tour-of-the-lisps-18d572c4e97)
+	  collapsed:: true
+	  site:: [fosskers.ca](https://www.fosskers.ca/en/blog/rounds-of-lisp)
+	  date-saved:: [[Jan 29th, 2024]]
+	  date-published:: [[Jan 27th, 2024]]
+	- [Boardzilla](https://omnivore.app/me/boardzilla-18d572928de)
+	  collapsed:: true
+	  site:: [boardzilla.io](https://www.boardzilla.io)
+	  date-saved:: [[Jan 29th, 2024]]
+	- [Photoshop for text — Steph Ango](https://omnivore.app/me/photoshop-for-text-steph-ango-18d56584f9d)
+	  collapsed:: true
+	  site:: [Steph Ango](https://stephango.com/photoshop-for-text)
+	  author:: Steph Ango
+	  date-saved:: [[Jan 29th, 2024]]
+	  date-published:: [[Oct 17th, 2022]]
+	- [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://omnivore.app/me/what-i-talk-about-when-i-talk-about-query-optimizer-part-1-ir-de-18d56052b29)
+	  collapsed:: true
+	  site:: [xuanwo.io](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
+	  author:: Xuanwo
+	  labels:: [[programming]]
+	  date-saved:: [[Jan 29th, 2024]]
 	- [Ruby's Exceptional Creatures](https://omnivore.app/me/ruby-s-exceptional-creatures-18d5328d20f)
 	  collapsed:: true
 	  site:: [Exceptional Creatures](https://www.exceptionalcreatures.com)
@@ -16,6 +45,7 @@
 	  collapsed:: true
 	  site:: [Steph Ango](https://stephango.com/file-over-app)
 	  author:: Steph Ango
+	  labels:: [[lunabrain/ideas]]
 	  date-saved:: [[Jan 28th, 2024]]
 	  date-published:: [[Jun 30th, 2023]]
 	- [Blogging Manifesto](https://omnivore.app/me/blogging-manifesto-18d52e8027a)

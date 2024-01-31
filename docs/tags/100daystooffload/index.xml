@@ -17,8 +17,9 @@
 cr-sqlite
 mycelite
 sqlite-sync
-https://litesync.io/en/
-The appeal of an offline-first experience is pretty well summed up by cr-sqlite&amp;rsquo;s tag line: &amp;ldquo;It&amp;rsquo;s like Git, for your data.&amp;rdquo; We are constantly generating data, and in many different ways. We might be typing into an input box or we might be talking to a friend.</description>
+litesync (not open source)
+sqlsync
+The appeal of an offline-first experience is pretty well summed up by cr-sqlite&amp;rsquo;s tag line: &amp;ldquo;It&amp;rsquo;s like Git, for your data.&amp;rdquo; We are constantly generating data, and in many different ways.</description>
     </item>
     <item>
       <title>im showing free</title>

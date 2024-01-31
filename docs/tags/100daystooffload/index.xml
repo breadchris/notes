@@ -6,8 +6,20 @@
     <description>Recent content in 100daystooffload on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offline-First Editing</title>
+      <link>https://breadchris.com/thinkies/offline-first-editing/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/offline-first-editing/</guid>
+      <description>I like to check in, every so often, on the state of offline-first solutions. Most of what exists is focused around sqlite. Here are some of the projects that pop up frequently when I search:
+cr-sqlite
+mycelite
+sqlite-sync
+https://litesync.io/en/
+The appeal of an offline-first experience is pretty well summed up by cr-sqlite&amp;rsquo;s tag line: &amp;ldquo;It&amp;rsquo;s like Git, for your data.&amp;rdquo; We are constantly generating data, and in many different ways. We might be typing into an input box or we might be talking to a friend.</description>
+    </item>
     <item>
       <title>im showing free</title>
       <link>https://breadchris.com/thinkies/im-showing-free/</link>

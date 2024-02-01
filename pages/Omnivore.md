@@ -1,4 +1,30 @@
 ## 🔖 Articles
+	- [Making a PDF that’s larger than Germany – alexwlchan](https://omnivore.app/me/making-a-pdf-that-s-larger-than-germany-alexwlchan-18d62f76313)
+	  collapsed:: true
+	  site:: [alexwlchan.net](https://alexwlchan.net/2024/big-pdf/)
+	  author:: Terrible Maps @TerribleMaps
+	  date-saved:: [[Jan 31st, 2024]]
+	  date-published:: [[Jan 30th, 2024]]
+	- [DeepSeek Coder](https://omnivore.app/me/deep-seek-coder-18d62dff654)
+	  collapsed:: true
+	  site:: [deepseekcoder.github.io](https://deepseekcoder.github.io)
+	  author:: Developed by DeepSeek AI
+	  date-saved:: [[Jan 31st, 2024]]
+	- [ai engineering summit notion - Google Search](https://omnivore.app/me/ai-engineering-summit-notion-google-search-18d6281bd33)
+	  collapsed:: true
+	  site:: [google.com](https://www.google.com/search?client=safari&hl=en-us&ie=UTF-8&oe=UTF-8&q=ai+engineering+summit+notion)
+	  date-saved:: [[Jan 31st, 2024]]
+	  date-published:: [[Oct 12th, 2023]]
+	- [OpenRouter](https://omnivore.app/me/open-router-18d618751a6)
+	  collapsed:: true
+	  site:: [OpenRouter](https://openrouter.ai)
+	  date-saved:: [[Jan 31st, 2024]]
+	- [Holochain: Reinventing Applications | by Nicolas Luck | Holochain | Medium](https://omnivore.app/me/holochain-reinventing-applications-by-nicolas-luck-holochain-med-18d5d31fb2c)
+	  collapsed:: true
+	  site:: [Holochain](https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef)
+	  author:: Nicolas Luck
+	  date-saved:: [[Jan 30th, 2024]]
+	  date-published:: [[Mar 26th, 2018]]
 	- [codapi: Interactive code examples](https://omnivore.app/me/codapi-interactive-code-examples-18d5c7c0f1d)
 	  collapsed:: true
 	  site:: [codapi.org](https://codapi.org)
@@ -36,6 +62,7 @@
 	- [Ruby's Exceptional Creatures](https://omnivore.app/me/ruby-s-exceptional-creatures-18d5328d20f)
 	  collapsed:: true
 	  site:: [Exceptional Creatures](https://www.exceptionalcreatures.com)
+	  labels:: [[programming]][[programming/errors]]
 	  date-saved:: [[Jan 28th, 2024]]
 	- [hackerllama - Blog](https://omnivore.app/me/hackerllama-blog-18d52ea75bb)
 	  collapsed:: true

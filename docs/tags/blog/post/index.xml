@@ -109,8 +109,8 @@ func (us *UserService) GetUserByID(id int) (*User, error) {</description>
       <link>https://breadchris.com/blog/why-soundbite-should-exist/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/blog/why-soundbite-should-exist/</guid>
-      <description>- TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
-- Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed?</description>
+      <description>TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
+Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone.</description>
     </item>
   </channel>
 </rss>

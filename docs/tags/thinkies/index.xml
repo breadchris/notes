@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thinkies on breadchris</title>
+    <link>https://breadchris.com/tags/thinkies/</link>
+    <description>Recent content in thinkies on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SF Feels like another Planet</title>
+      <link>https://breadchris.com/thinkies/sf-feels-like-another-planet/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/sf-feels-like-another-planet/</guid>
+      <description>I am visiting SF right now, and almost every billboard in the city has &amp;ldquo;AI&amp;rdquo; on it. I need to build image upload so that I can show you what I am talking about. I get it, there is a lot of hype for companies to cash in on, so why wouldn&amp;rsquo;t you?
+AI (ML or machine learning for the pedantic) is super cool and can do a lot of things now.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Template Haskell - HaskellWiki](https://omnivore.app/me/template-haskell-haskell-wiki-18d6bafb781)
+	  collapsed:: true
+	  site:: [wiki.haskell.org](https://wiki.haskell.org/Template_Haskell)
+	  date-saved:: [[Feb 2nd, 2024]]
 	- [Notes on a smaller Rust](https://omnivore.app/me/notes-on-a-smaller-rust-18d68a0cfe0)
 	  collapsed:: true
 	  site:: [without.boats](https://without.boats/blog/notes-on-a-smaller-rust/)

@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Elm Radio Podcast](https://omnivore.app/me/elm-radio-podcast-18d68502a38)
+	  collapsed:: true
+	  site:: [Elm Radio Podcast](https://elm-radio.com)
+	  date-saved:: [[Feb 1st, 2024]]
+	  date-published:: [[Dec 3rd, 2023]]
+	- [noosphere/design/explainer.md at main · subconsciousnetwork/noosphere](https://omnivore.app/me/noosphere-design-explainer-md-at-main-subconsciousnetwork-noosph-18d68491c4a)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/subconsciousnetwork/noosphere/blob/main/design/explainer.md)
+	  date-saved:: [[Feb 1st, 2024]]
+	- [Improving Declarative APIs for Graphics with Types](https://omnivore.app/me/improving-declarative-ap-is-for-graphics-with-types-18d68478b55)
+	  collapsed:: true
+	  site:: [Irreactive](https://irreactive.com/declarative-apis)
+	  date-saved:: [[Feb 1st, 2024]]
+	  date-published:: [[Jul 27th, 2020]]
+	- [Thank You!](https://omnivore.app/me/thank-you-18d68435a18)
+	  collapsed:: true
+	  site:: [Incremental Elm](https://incrementalelm.com/courses/elm-ts-interop/intro)
+	  date-saved:: [[Feb 1st, 2024]]
 	- [wadler87](https://omnivore.app/me/u-a-28-bf-42-a-c-183-11-ee-8-dee-dbf-0-ebcc-8486-wadler-87-pdf-18d68140c9b)
 	  collapsed:: true
 	  site:: [cs.kent.ac.uk](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf)

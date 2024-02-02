@@ -6,8 +6,15 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What language am I looking for?</title>
+      <link>https://breadchris.com/thinkies/what-language-am-i-looking-for/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/what-language-am-i-looking-for/</guid>
+      <description>If you ask anyone who knows me what my thoughts are on javascript, you will get a unanimous &amp;ldquo;he hates it&amp;rdquo;. Typescript helps, but it doesn&amp;rsquo;t fix the problems. I don&amp;rsquo;t believe the problems I have with it are actually solvable without some radical changes in the ecosystem. Why do I care so much? Because I freaking want to build websites that stick around for a while goddamnit! Sites built with the &amp;ldquo;right decisions&amp;rdquo; today feel like they fall over from a strong breeze.</description>
+    </item>
     <item>
       <title>SF Feels like another Planet</title>
       <link>https://breadchris.com/thinkies/sf-feels-like-another-planet/</link>

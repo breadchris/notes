@@ -1,4 +1,23 @@
 ## 🔖 Articles
+	- [wadler87](https://omnivore.app/me/u-a-28-bf-42-a-c-183-11-ee-8-dee-dbf-0-ebcc-8486-wadler-87-pdf-18d68140c9b)
+	  collapsed:: true
+	  site:: [cs.kent.ac.uk](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf)
+	  date-saved:: [[Feb 1st, 2024]]
+	- [1604.08675](https://omnivore.app/me/u-692-a-8-a-60-c-161-11-ee-9-c-5-e-7-faebe-761-c-53-1604-08675-p-18d6733c217)
+	  collapsed:: true
+	  site:: [arxiv.org](https://arxiv.org/pdf/1604.08675.pdf)
+	  date-saved:: [[Feb 1st, 2024]]
+	- [Post-quantum Cryptography for the Go Ecosystem](https://omnivore.app/me/post-quantum-cryptography-for-the-go-ecosystem-18d667e5aed)
+	  collapsed:: true
+	  site:: [Filippo Valsorda](https://words.filippo.io/dispatches/mlkem768/)
+	  author:: Filippo Valsorda
+	  date-saved:: [[Feb 1st, 2024]]
+	  date-published:: [[Jan 30th, 2024]]
+	- [Joker](https://omnivore.app/me/joker-18d6661c0eb)
+	  collapsed:: true
+	  site:: [joker-lang.org](https://joker-lang.org)
+	  author:: Joker Team
+	  date-saved:: [[Feb 1st, 2024]]
 	- [Making a PDF that’s larger than Germany – alexwlchan](https://omnivore.app/me/making-a-pdf-that-s-larger-than-germany-alexwlchan-18d62f76313)
 	  collapsed:: true
 	  site:: [alexwlchan.net](https://alexwlchan.net/2024/big-pdf/)

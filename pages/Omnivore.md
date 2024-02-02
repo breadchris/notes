@@ -1,4 +1,21 @@
 ## 🔖 Articles
+	- [Notes on a smaller Rust](https://omnivore.app/me/notes-on-a-smaller-rust-18d68a0cfe0)
+	  collapsed:: true
+	  site:: [without.boats](https://without.boats/blog/notes-on-a-smaller-rust/)
+	  date-saved:: [[Feb 1st, 2024]]
+	  date-published:: [[Jul 16th, 2019]]
+	- [Docs | Lamdera](https://omnivore.app/me/docs-lamdera-18d689b1232)
+	  collapsed:: true
+	  site:: [dashboard.lamdera.app](https://dashboard.lamdera.app/docs)
+	  date-saved:: [[Feb 1st, 2024]]
+	- [source-map-visualization](https://omnivore.app/me/source-map-visualization-18d6899bc10)
+	  collapsed:: true
+	  site:: [sokra.github.io](https://sokra.github.io/source-map-visualization/)
+	  date-saved:: [[Feb 1st, 2024]]
+	- [mdgriffith.github.io](https://omnivore.app/me/-18d688de3b8)
+	  collapsed:: true
+	  site:: [mdgriffith.github.io](https://mdgriffith.github.io/elm-style-animation/3.0.0/FlowerMenu/)
+	  date-saved:: [[Feb 1st, 2024]]
 	- [Elm Radio Podcast](https://omnivore.app/me/elm-radio-podcast-18d68502a38)
 	  collapsed:: true
 	  site:: [Elm Radio Podcast](https://elm-radio.com)

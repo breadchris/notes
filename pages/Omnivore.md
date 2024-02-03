@@ -1,14 +1,24 @@
 ## 🔖 Articles
+	- [jj init — Sympolymathesy, by Chris Krycho](https://omnivore.app/me/jj-init-sympolymathesy-by-chris-krycho-18d6ca07b36)
+	  collapsed:: true
+	  site:: [v5.chriskrycho.com](https://v5.chriskrycho.com/essays/jj-init/)
+	  author:: Chris Krycho
+	  date-saved:: [[Feb 2nd, 2024]]
+	  date-published:: [[Feb 2nd, 2024]]
+	- [Origami Simulator](https://omnivore.app/me/origami-simulator-18d6c9f6dd7)
+	  collapsed:: true
+	  site:: [origamisimulator.org](https://origamisimulator.org)
+	  date-saved:: [[Feb 2nd, 2024]]
 	- [Live reloading server for Elm development | elm-live](https://omnivore.app/me/live-reloading-server-for-elm-development-elm-live-18d6c033a3e)
 	  collapsed:: true
 	  site:: [elm-live.com](https://www.elm-live.com)
 	  date-saved:: [[Feb 2nd, 2024]]
 	- [Why ContentEditable is Terrible. Or: How the Medium Editor Works | by Nick Santos | Medium Engineering](https://omnivore.app/me/why-content-editable-is-terrible-or-how-the-medium-editor-works--18d6bf519ac)
-	  collapsed:: true
 	  site:: [Medium Engineering](https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480)
 	  author:: Nick Santos
 	  date-saved:: [[Feb 2nd, 2024]]
 	  date-published:: [[May 14th, 2014]]
+	  collapsed:: true
 	- [Template Haskell - HaskellWiki](https://omnivore.app/me/template-haskell-haskell-wiki-18d6bafb781)
 	  collapsed:: true
 	  site:: [wiki.haskell.org](https://wiki.haskell.org/Template_Haskell)

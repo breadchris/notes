@@ -1,4 +1,11 @@
 ## 🔖 Articles
+	- [Introducing Pkl, a programming language for configuration :: Pkl Docs](https://omnivore.app/me/introducing-pkl-a-programming-language-for-configuration-pkl-doc-18d70181434)
+	  collapsed:: true
+	  site:: [pkl-lang.org](https://pkl-lang.org/blog/introducing-pkl.html)
+	  author:: the Pkl Team on February 1st, 2024
+	  date-saved:: [[Feb 3rd, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/introducing-pkl-a-programming-language-for-configuration-pkl-doc-18d70181434#1f026370-3432-4b9d-9f22-f5a4ce0325a3)
 	- [neurocult/agency: 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.](https://omnivore.app/me/neurocult-agency-library-designed-for-developers-eager-to-explor-18d6d389e43)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/neurocult/agency)

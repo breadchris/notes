@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [neurocult/agency: 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.](https://omnivore.app/me/neurocult-agency-library-designed-for-developers-eager-to-explor-18d6d389e43)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/neurocult/agency)
+	  date-saved:: [[Feb 2nd, 2024]]
 	- [seaweedfs/seaweedfs: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.](https://omnivore.app/me/seaweedfs-seaweedfs-seaweed-fs-is-a-fast-distributed-storage-sys-18d6cd63c0d)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/seaweedfs/seaweedfs)

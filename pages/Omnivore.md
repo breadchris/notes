@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [A Brief History of the U.S. Trying to Add Backdoors Into Encrypted Data - Atlas Obscura](https://omnivore.app/me/a-brief-history-of-the-u-s-trying-to-add-backdoors-into-encrypte-18d712fb70c)
+	  collapsed:: true
+	  site:: [Atlas Obscura](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
+	  author:: Jessie Guy-Ryan
+	  date-saved:: [[Feb 3rd, 2024]]
+	  date-published:: [[Feb 21st, 2016]]
 	- [Introducing Pkl, a programming language for configuration :: Pkl Docs](https://omnivore.app/me/introducing-pkl-a-programming-language-for-configuration-pkl-doc-18d70181434)
 	  collapsed:: true
 	  site:: [pkl-lang.org](https://pkl-lang.org/blog/introducing-pkl.html)

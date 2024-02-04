@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Premium Hugo Themes for Blazing Fast Website | Gethugothemes](https://omnivore.app/me/premium-hugo-themes-for-blazing-fast-website-gethugothemes-18d7261c241)
+	  collapsed:: true
+	  site:: [gethugothemes.com](https://gethugothemes.com)
+	  author:: Gethugothemes
+	  date-saved:: [[Feb 3rd, 2024]]
 	- [A Brief History of the U.S. Trying to Add Backdoors Into Encrypted Data - Atlas Obscura](https://omnivore.app/me/a-brief-history-of-the-u-s-trying-to-add-backdoors-into-encrypte-18d712fb70c)
 	  collapsed:: true
 	  site:: [Atlas Obscura](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)

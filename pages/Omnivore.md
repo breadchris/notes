@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [41 Years in UX: A Career Retrospective](https://omnivore.app/me/41-years-in-ux-a-career-retrospective-18d756a3cf1)
+	  collapsed:: true
+	  site:: [UX Tigers](https://www.uxtigers.com/post/41-years-in-ux)
+	  author:: Jakob Nielsen
+	  date-saved:: [[Feb 4th, 2024]]
+	  date-published:: [[Jan 17th, 2024]]
+	- [Ruud van Asseldonk](https://omnivore.app/me/ruud-van-asseldonk-18d75146488)
+	  collapsed:: true
+	  site:: [ruudvanasseldonk.com](https://ruudvanasseldonk.com)
+	  author:: Ruud van Asseldonk
+	  date-saved:: [[Feb 4th, 2024]]
+	- [Browser extensions are underrated: the promise of hackable software](https://omnivore.app/me/browser-extensions-are-underrated-the-promise-of-hackable-softwa-18d751364cb)
+	  collapsed:: true
+	  site:: [geoffreylitt.com](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
+	  date-saved:: [[Feb 4th, 2024]]
+	  date-published:: [[Jul 28th, 2019]]
 	- [Premium Hugo Themes for Blazing Fast Website | Gethugothemes](https://omnivore.app/me/premium-hugo-themes-for-blazing-fast-website-gethugothemes-18d7261c241)
 	  collapsed:: true
 	  site:: [gethugothemes.com](https://gethugothemes.com)

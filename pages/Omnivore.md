@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Magic ToDo - GoblinTools](https://omnivore.app/me/magic-to-do-goblin-tools-18d7624e1f7)
+	  collapsed:: true
+	  site:: [goblin.tools](https://goblin.tools)
+	  date-saved:: [[Feb 4th, 2024]]
+	- [What has always blown my mind is the lack of documentation/open source projects.... | Hacker News](https://omnivore.app/me/what-has-always-blown-my-mind-is-the-lack-of-documentation-open--18d75cdae03)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=39254061)
+	  date-saved:: [[Feb 4th, 2024]]
 	- [41 Years in UX: A Career Retrospective](https://omnivore.app/me/41-years-in-ux-a-career-retrospective-18d756a3cf1)
 	  collapsed:: true
 	  site:: [UX Tigers](https://www.uxtigers.com/post/41-years-in-ux)

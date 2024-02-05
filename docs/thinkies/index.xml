@@ -6,8 +6,15 @@
     <description>Recent content in Thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I wrote some elm today!</title>
+      <link>https://breadchris.com/thinkies/i-wrote-some-elm-today/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/i-wrote-some-elm-today/</guid>
+      <description>I had a friend take me on a journey through elm today while on stream today. The exercises they gave me were really well thought out and it was a lot of fun to feel how the code evolved between each task. Starting from a simple counter, it built up to where you were managing a list of list of counters. The cycle of building the thing that just works, and then refactoring it so it could take on more abstraction illustrated why elm&amp;rsquo;s architecture shines.</description>
+    </item>
     <item>
       <title>I am coming for you transcription editor</title>
       <link>https://breadchris.com/thinkies/i-am-coming-for-you-transcription-editor/</link>

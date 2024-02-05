@@ -1,8 +1,12 @@
 ## 🔖 Articles
-	- [elm-ui patterns](https://omnivore.app/me/elm-ui-patterns-18d7aff3368)
+	- [Introduction](https://omnivore.app/me/introduction-18d7b3f748a)
 	  collapsed:: true
+	  site:: [anaseto.codeberg.page](https://anaseto.codeberg.page/goal/chap-intro.html)
+	  date-saved:: [[Feb 5th, 2024]]
+	- [elm-ui patterns](https://omnivore.app/me/elm-ui-patterns-18d7aff3368)
 	  site:: [korban.net](https://korban.net/elm/elm-ui-patterns/radio-button-group)
 	  date-saved:: [[Feb 5th, 2024]]
+	  collapsed:: true
 	- [YDB — an open source Distributed SQL Database](https://omnivore.app/me/ydb-an-open-source-distributed-sql-database-18d7a4845f6)
 	  site:: [ydb.tech](https://ydb.tech)
 	  date-saved:: [[Feb 5th, 2024]]

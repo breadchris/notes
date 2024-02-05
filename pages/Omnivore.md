@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [nicoespeon/gitgraph.js: 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser](https://omnivore.app/me/nicoespeon-gitgraph-js-looking-for-maintainers-a-java-script-lib-18d7716952d)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/nicoespeon/gitgraph.js)
+	  date-saved:: [[Feb 4th, 2024]]
 	- [Magic ToDo - GoblinTools](https://omnivore.app/me/magic-to-do-goblin-tools-18d7624e1f7)
 	  collapsed:: true
 	  site:: [goblin.tools](https://goblin.tools)

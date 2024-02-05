@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [YDB — an open source Distributed SQL Database](https://omnivore.app/me/ydb-an-open-source-distributed-sql-database-18d7a4845f6)
+	  collapsed:: true
+	  site:: [ydb.tech](https://ydb.tech)
+	  date-saved:: [[Feb 5th, 2024]]
 	- [nicoespeon/gitgraph.js: 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser](https://omnivore.app/me/nicoespeon-gitgraph-js-looking-for-maintainers-a-java-script-lib-18d7716952d)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/nicoespeon/gitgraph.js)

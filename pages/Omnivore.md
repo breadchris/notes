@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [NPM registry users download 2.1B deprecated packages weekly, researchers say | SC Media](https://omnivore.app/me/npm-registry-users-download-2-1-b-deprecated-packages-weekly-res-18d805b74bf)
+	  collapsed:: true
+	  site:: [SC Media](https://www.scmagazine.com/news/npm-registry-users-download-2-1b-deprecated-packages-weekly-researchers-say)
+	  author:: Laura French
+	  date-saved:: [[Feb 6th, 2024]]
+	  date-published:: [[Jan 18th, 2024]]
 	- [dosarf/elm-tree-view: Tree view library.](https://omnivore.app/me/dosarf-elm-tree-view-tree-view-library-18d7cb246b0)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/dosarf/elm-tree-view/tree/master?tab=readme-ov-file)

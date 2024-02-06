@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [jlengrand/vscode-elm-signature: vscode-elm-signature provides hoogle like functionality to your Elm projects. You can use it to search your codebase to search by function name, or type signature.](https://omnivore.app/me/jlengrand-vscode-elm-signature-vscode-elm-signature-provides-hoo-18d7bbe463b)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/jlengrand/vscode-elm-signature)
+	  date-saved:: [[Feb 5th, 2024]]
+	- [Hoogle](https://omnivore.app/me/hoogle-18d7bbb44ee)
+	  collapsed:: true
+	  site:: [hoogle.haskell.org](https://hoogle.haskell.org)
+	  date-saved:: [[Feb 5th, 2024]]
 	- [Introduction](https://omnivore.app/me/introduction-18d7b3f748a)
 	  collapsed:: true
 	  site:: [anaseto.codeberg.page](https://anaseto.codeberg.page/goal/chap-intro.html)

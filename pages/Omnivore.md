@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Ben Borgers](https://omnivore.app/me/ben-borgers-18d820b2f94)
+	  collapsed:: true
+	  site:: [ben.page](https://ben.page)
+	  date-saved:: [[Feb 6th, 2024]]
+	  date-published:: [[Jan 8th, 2024]]
+	- [Twenty - The #1 Open-Source CRM](https://omnivore.app/me/twenty-the-1-open-source-crm-18d81fc36b3)
+	  collapsed:: true
+	  site:: [twenty.com](https://www.twenty.com)
+	  date-saved:: [[Feb 6th, 2024]]
+	  date-published:: [[Jul 23rd, 2025]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/twenty-the-1-open-source-crm-18d81fc36b3#80c0e342-0a59-4a58-b369-d394d2a1107f)
 	- [Go Programming (Golang): The Complete Developer's Guide | Udemy](https://omnivore.app/me/go-programming-golang-the-complete-developer-s-guide-udemy-18d816cc588)
 	  collapsed:: true
 	  site:: [Udemy](https://www.udemy.com/course/go-programming-golang-the-complete-developers-guide/)

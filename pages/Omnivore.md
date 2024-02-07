@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [How I Write Elm Applications](https://omnivore.app/me/how-i-write-elm-applications-18d82b76711)
+	  collapsed:: true
+	  site:: [Jezen Thomas](https://jezenthomas.com/2020/11/how-i-write-elm-applications/)
+	  author:: Jezen Thomas
+	  date-saved:: [[Feb 7th, 2024]]
+	- [gregziegan/elm-calendar: Reusable Calendar widget written in Elm](https://omnivore.app/me/gregziegan-elm-calendar-reusable-calendar-widget-written-in-elm-18d82b01518)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/gregziegan/elm-calendar)
+	  date-saved:: [[Feb 7th, 2024]]
 	- [agency/examples/rag_vector_database/docker-compose.yaml at main · neurocult/agency](https://omnivore.app/me/agency-examples-rag-vector-database-docker-compose-yaml-at-main--18d8224affe)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/neurocult/agency/blob/main/examples/rag_vector_database/docker-compose.yaml)

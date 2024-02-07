@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [GRIS Pause Menu](https://omnivore.app/me/gris-pause-menu-18d853e63e4)
+	  collapsed:: true
+	  site:: [shadertoy.com](https://www.shadertoy.com/view/3dl3RH)
+	  author:: Beautypi
+	  date-saved:: [[Feb 7th, 2024]]
+	  date-published:: [[Dec 19th, 2018]]
 	- [How I Write Elm Applications](https://omnivore.app/me/how-i-write-elm-applications-18d82b76711)
 	  collapsed:: true
 	  site:: [Jezen Thomas](https://jezenthomas.com/2020/11/how-i-write-elm-applications/)

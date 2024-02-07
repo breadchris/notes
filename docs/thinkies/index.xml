@@ -6,8 +6,15 @@
     <description>Recent content in Thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The feeling to perform</title>
+      <link>https://breadchris.com/thinkies/the-feeling-to-perform/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-feeling-to-perform/</guid>
+      <description>I had some interviews today. In the first one, I was asked a question to which I knew the answer, but the words weren&amp;rsquo;t quite there. I felt myself looping on, thinking of the answer, and then being frustrated. Time passed, and I couldn&amp;rsquo;t put my thoughts into words. Somewhere deep in my knowledge I knew how to respond, but in the moment I couldn&amp;rsquo;t answer. Overall, the interviews went fine.</description>
+    </item>
     <item>
       <title>I wrote some elm today!</title>
       <link>https://breadchris.com/thinkies/i-wrote-some-elm-today/</link>

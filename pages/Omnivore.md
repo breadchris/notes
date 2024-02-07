@@ -9,6 +9,7 @@
 	  collapsed:: true
 	  site:: [Jezen Thomas](https://jezenthomas.com/2020/11/how-i-write-elm-applications/)
 	  author:: Jezen Thomas
+	  labels:: [[code/elm]]
 	  date-saved:: [[Feb 7th, 2024]]
 	- [gregziegan/elm-calendar: Reusable Calendar widget written in Elm](https://omnivore.app/me/gregziegan-elm-calendar-reusable-calendar-widget-written-in-elm-18d82b01518)
 	  collapsed:: true

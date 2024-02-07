@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Go Programming (Golang): The Complete Developer's Guide | Udemy](https://omnivore.app/me/go-programming-golang-the-complete-developer-s-guide-udemy-18d816cc588)
+	  collapsed:: true
+	  site:: [Udemy](https://www.udemy.com/course/go-programming-golang-the-complete-developers-guide/)
+	  date-saved:: [[Feb 6th, 2024]]
 	- [NPM registry users download 2.1B deprecated packages weekly, researchers say | SC Media](https://omnivore.app/me/npm-registry-users-download-2-1-b-deprecated-packages-weekly-res-18d805b74bf)
 	  collapsed:: true
 	  site:: [SC Media](https://www.scmagazine.com/news/npm-registry-users-download-2-1b-deprecated-packages-weekly-researchers-say)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Human Side of Dev](https://omnivore.app/me/human-side-of-dev-18d86e3d934)
+	  collapsed:: true
+	  site:: [Lindsay Wardell](https://humansideof.dev)
+	  date-saved:: [[Feb 7th, 2024]]
+	  date-published:: [[Mar 14th, 2023]]
 	- [Ellie - Untitled](https://omnivore.app/me/ellie-untitled-18d867e477d)
 	  collapsed:: true
 	  site:: [ellie-app.com](https://ellie-app.com/7mbxTyMHXkqa1)

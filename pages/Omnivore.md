@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [goplay: Embed Go Playground on your Website](https://omnivore.app/me/goplay-embed-go-playground-on-your-website-18d8a657cde)
+	  collapsed:: true
+	  site:: [GGICCI](https://ggicci.me/goplay-embed-go-playground-on-your-website/)
+	  author:: Ggicci T'ang
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[May 10th, 2022]]
 	- [Masonry Layout with Tailwind CSS Columns](https://omnivore.app/me/masonry-layout-with-tailwind-css-columns-18d87c80e58)
 	  collapsed:: true
 	  site:: [Prototypr](https://prototypr.io/post/masonry-layout-css-tailwind)

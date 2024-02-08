@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Masonry Layout with Tailwind CSS Columns](https://omnivore.app/me/masonry-layout-with-tailwind-css-columns-18d87c80e58)
+	  collapsed:: true
+	  site:: [Prototypr](https://prototypr.io/post/masonry-layout-css-tailwind)
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[Jun 27th, 2022]]
 	- [How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024](https://omnivore.app/me/how-we-got-fine-tuning-mistral-7-b-to-not-suck-helix-project-rep-18d87ac8538)
 	  collapsed:: true
 	  site:: [HelixML](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)

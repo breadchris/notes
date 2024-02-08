@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Paul Ford: What Is Code? | Bloomberg](https://omnivore.app/me/paul-ford-what-is-code-bloomberg-18d8a8b330d)
+	  collapsed:: true
+	  site:: [Bloomberg.com](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+	  date-saved:: [[Feb 8th, 2024]]
 	- [goplay: Embed Go Playground on your Website](https://omnivore.app/me/goplay-embed-go-playground-on-your-website-18d8a657cde)
 	  collapsed:: true
 	  site:: [GGICCI](https://ggicci.me/goplay-embed-go-playground-on-your-website/)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Email service providers comparison](https://omnivore.app/me/email-service-providers-comparison-18d8ad934a5)
+	  collapsed:: true
+	  site:: [Buttondown](https://buttondown.email/comparison-guides/esps)
+	  date-saved:: [[Feb 8th, 2024]]
 	- [Paul Ford: What Is Code? | Bloomberg](https://omnivore.app/me/paul-ford-what-is-code-bloomberg-18d8a8b330d)
 	  collapsed:: true
 	  site:: [Bloomberg.com](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)

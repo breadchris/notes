@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Ellie - Untitled](https://omnivore.app/me/ellie-untitled-18d867e477d)
+	  collapsed:: true
+	  site:: [ellie-app.com](https://ellie-app.com/7mbxTyMHXkqa1)
+	  date-saved:: [[Feb 7th, 2024]]
 	- [GRIS Pause Menu](https://omnivore.app/me/gris-pause-menu-18d853e63e4)
 	  collapsed:: true
 	  site:: [shadertoy.com](https://www.shadertoy.com/view/3dl3RH)

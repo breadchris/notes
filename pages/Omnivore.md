@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [How we got fine-tuning Mistral-7B to not suck: Helix Project Report, Feb 2024](https://omnivore.app/me/how-we-got-fine-tuning-mistral-7-b-to-not-suck-helix-project-rep-18d87ac8538)
+	  collapsed:: true
+	  site:: [HelixML](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
+	  author:: Luke Marsden
+	  date-saved:: [[Feb 7th, 2024]]
+	  date-published:: [[Feb 5th, 2024]]
+	- [NearbyWiki](https://omnivore.app/me/nearby-wiki-18d87aac54e)
+	  collapsed:: true
+	  site:: [NearbyWiki](https://en.nearbywiki.org/map/)
+	  date-saved:: [[Feb 7th, 2024]]
+	- [thinking-forth-color](https://omnivore.app/me/https-www-forth-com-wp-content-uploads-2018-11-thinking-forth-co-18d87a75ed6)
+	  collapsed:: true
+	  site:: [forth.com](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
+	  date-saved:: [[Feb 7th, 2024]]
 	- [Human Side of Dev](https://omnivore.app/me/human-side-of-dev-18d86e3d934)
 	  collapsed:: true
 	  site:: [Lindsay Wardell](https://humansideof.dev)

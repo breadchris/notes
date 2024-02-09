@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [HackerNews blogs newsletter | Paul | Substack](https://omnivore.app/me/hacker-news-blogs-newsletter-paul-substack-18d8b4644d2)
+	  collapsed:: true
+	  site:: [HackerNews blogs newsletter](https://hnblogs.substack.com)
+	  author:: Paul
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[Feb 2nd, 2024]]
+	- [The great list of all the blog platforms – Manu](https://omnivore.app/me/the-great-list-of-all-the-blog-platforms-manu-18d8b4566dd)
+	  collapsed:: true
+	  site:: [manuelmoreale.com](https://manuelmoreale.com/blog-platforms)
+	  date-saved:: [[Feb 8th, 2024]]
+	- [How to build a Notion-like text editor in React and TipTap | by Vikram Thyagarajan | Medium](https://omnivore.app/me/how-to-build-a-notion-like-text-editor-in-react-and-tip-tap-by-v-18d8b32adaf)
+	  collapsed:: true
+	  site:: [Medium](https://vikramthyagarajan.medium.com/how-to-build-a-notion-like-text-editor-in-react-and-tiptap-7f394c36ed9d)
+	  author:: Vikram Thyagarajan
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[Aug 7th, 2023]]
 	- [Email service providers comparison](https://omnivore.app/me/email-service-providers-comparison-18d8ad934a5)
 	  collapsed:: true
 	  site:: [Buttondown](https://buttondown.email/comparison-guides/esps)

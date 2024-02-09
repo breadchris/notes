@@ -13,7 +13,7 @@
       <link>https://breadchris.com/thinkies/testing-code-highlighting/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/thinkies/testing-code-highlighting/</guid>
-      <description>package main import &amp;#34;fmt&amp;#34; // Function to calculate factorial func factorial(n int) int { // Base case: factorial of 0 and 1 is 1 if n == 0 || n == 1 { return 1 } // Recursive case: calculate factorial using recursion return n * factorial(n-1) } func main() { // Example usage num := 5 result := factorial(num) fmt.Printf(&amp;#34;Factorial of %d is %d\n&amp;#34;, num, result) } oh look it works</description>
+      <description>package main import &amp;#34;fmt&amp;#34; // Function to calculate factorial func factorial(n int) int { // Base case: factorial of 0 and 1 is 1 if n == 0 || n == 1 { return 1 } // Recursive case: calculate factorial using recursion return n * factorial(n-1) } func main() { // Example usage num := 5 result := factorial(num) fmt.Printf(&amp;#34;Factorial of %d is %d\n&amp;#34;, num, result) } oh look it works.</description>
     </item>
     <item>
       <title>Why I am moving on from Substack</title>

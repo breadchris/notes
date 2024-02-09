@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [Autoupdating  |  Apps  |  Chrome for Developers](https://omnivore.app/me/autoupdating-apps-chrome-for-developers-18d8bc0937f)
+	  collapsed:: true
+	  site:: [Chrome for Developers](https://developer.chrome.com/docs/apps/autoupdate)
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[Sep 16th, 2012]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/autoupdating-apps-chrome-for-developers-18d8bc0937f#1f67dab7-4425-45b4-ae01-4ed5b2cb847d)
+	- [Adding Sentry Error Tracking to a Chrome Extension](https://omnivore.app/me/adding-sentry-error-tracking-to-a-chrome-extension-18d8bbb55ae)
+	  collapsed:: true
+	  site:: [mikesallese.me](https://www.mikesallese.me/blog/installing-sentry-in-chrome-extension/)
+	  date-saved:: [[Feb 8th, 2024]]
 	- [HackerNews blogs newsletter | Paul | Substack](https://omnivore.app/me/hacker-news-blogs-newsletter-paul-substack-18d8b4644d2)
 	  collapsed:: true
 	  site:: [HackerNews blogs newsletter](https://hnblogs.substack.com)

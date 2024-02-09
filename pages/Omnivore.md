@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Context Control in Go](https://omnivore.app/me/context-control-in-go-18d8ed84b9b)
+	  collapsed:: true
+	  site:: [zenhorace.dev](https://zenhorace.dev/blog/context-control-go/)
+	  date-saved:: [[Feb 9th, 2024]]
+	  date-published:: [[Feb 2nd, 2024]]
 	- [TABLERONE ∙ All-in-one tab session manager for Chrome](https://omnivore.app/me/tablerone-all-in-one-tab-session-manager-for-chrome-18d8d200321)
 	  collapsed:: true
 	  site:: [tabler.one](https://tabler.one)

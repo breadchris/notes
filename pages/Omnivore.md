@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [The Go Time podcast](https://omnivore.app/me/the-go-time-podcast-18d904ba500)
+	  collapsed:: true
+	  site:: [Changelog](https://changelog.com/gotime)
+	  date-saved:: [[Feb 9th, 2024]]
+	  date-published:: [[Feb 6th, 2024]]
 	- [Context Control in Go](https://omnivore.app/me/context-control-in-go-18d8ed84b9b)
 	  collapsed:: true
 	  site:: [zenhorace.dev](https://zenhorace.dev/blog/context-control-go/)

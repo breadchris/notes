@@ -1,4 +1,26 @@
 ## 🔖 Articles
+	- [(27) Post | Feed | LinkedIn](https://omnivore.app/me/27-post-feed-linked-in-18d8c3cccb6)
+	  collapsed:: true
+	  site:: [linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:7097286961387708416/)
+	  author:: Author
+	  date-saved:: [[Feb 8th, 2024]]
+	- [Aaron Taylor - Building a Neural Network in Go](https://omnivore.app/me/aaron-taylor-building-a-neural-network-in-go-18d8c353d68)
+	  collapsed:: true
+	  site:: [ataylor.io](https://ataylor.io/blog/go-mlp/)
+	  author:: Aaron Taylor
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[Dec 12th, 2021]]
+	- [Aaron Taylor - Building a Go template playground with Wasm](https://omnivore.app/me/aaron-taylor-building-a-go-template-playground-with-wasm-18d8c34fa3a)
+	  collapsed:: true
+	  site:: [ataylor.io](https://ataylor.io/blog/go-templates/)
+	  author:: Aaron Taylor
+	  date-saved:: [[Feb 8th, 2024]]
+	  date-published:: [[Apr 30th, 2022]]
+	- [Aaron Taylor - Go Templates Playground](https://omnivore.app/me/aaron-taylor-go-templates-playground-18d8c3236a6)
+	  collapsed:: true
+	  site:: [ataylor.io](https://ataylor.io/exp/go-templates/)
+	  author:: Aaron Taylor
+	  date-saved:: [[Feb 8th, 2024]]
 	- [Autoupdating  |  Apps  |  Chrome for Developers](https://omnivore.app/me/autoupdating-apps-chrome-for-developers-18d8bc0937f)
 	  collapsed:: true
 	  site:: [Chrome for Developers](https://developer.chrome.com/docs/apps/autoupdate)

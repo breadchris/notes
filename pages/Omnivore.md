@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Becoming a Dungeon Master for an Interview | PropelAuth Blog](https://omnivore.app/me/becoming-a-dungeon-master-for-an-interview-propel-auth-blog-18d94e4dd66)
+	  collapsed:: true
+	  site:: [PropelAuth Blog](https://www.propelauth.com/post/interview-dungeon-master)
+	  author:: Andrew Israel
+	  date-saved:: [[Feb 10th, 2024]]
+	  date-published:: [[Jan 17th, 2024]]
+	- [How to: Food service kitchen planning to generate you time, energy and money | by Victor Manufacturing | Medium](https://omnivore.app/me/how-to-food-service-kitchen-planning-to-generate-you-time-energy-18d94ba2ac0)
+	  collapsed:: true
+	  site:: [Medium](https://medium.com/@Victormanltd/how-to-food-service-kitchen-planning-to-generate-you-time-energy-and-money-b2bd0a390f0)
+	  author:: Victor Manufacturing
+	  date-saved:: [[Feb 10th, 2024]]
+	  date-published:: [[Jul 27th, 2017]]
 	- [Home - CueCam Presenter](https://omnivore.app/me/home-cue-cam-presenter-18d94a55a2f)
 	  collapsed:: true
 	  site:: [cuecam-presenter.com](https://cuecam-presenter.com/?ct=hn)

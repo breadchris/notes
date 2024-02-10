@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://breadchris.com/tags/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fabled Fusion</title>
+      <link>https://breadchris.com/blog/fabled-fusion/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/fabled-fusion/</guid>
+      <description>We have created a fusion AI-powered trading card game where you can talk into a microphone, and it will transcribe what you say. Let&amp;rsquo;s discuss the features of this game. When you look at the camera, you will see stacks of uniquely generated cards. Each card is created by an AI based on a short prompt. We have various themes for these cards, and each theme has a corresponding image and a Chat GPT Element name.</description>
+    </item>
+    <item>
       <title>Fashion starts as a Sketch</title>
       <link>https://breadchris.com/blog/fashion-starts-as-a-sketch/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>

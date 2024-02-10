@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Project365 - A 365 Days UI/UX Design Challenge](https://omnivore.app/me/project-365-a-365-days-ui-ux-design-challenge-18d94f6167b)
+	  collapsed:: true
+	  site:: [Project365](https://project365.design)
+	  date-saved:: [[Feb 10th, 2024]]
+	  date-published:: [[Dec 20th, 2018]]
 	- [Becoming a Dungeon Master for an Interview | PropelAuth Blog](https://omnivore.app/me/becoming-a-dungeon-master-for-an-interview-propel-auth-blog-18d94e4dd66)
 	  collapsed:: true
 	  site:: [PropelAuth Blog](https://www.propelauth.com/post/interview-dungeon-master)

@@ -158,6 +158,30 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">This is for Nolan
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>## SOLID principles
+The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
+In Go, the SOLID principles can be applied as follows:
+### Single Responsibility Principle (SRP)
+Example:
+```go
+type UserService struct {
+userRepository UserRepository
+}
+func (us *UserService) CreateUser(user *User) error {
+return us.userRepository.Create(user)
+}
+func (us *UserService) GetUserByID(id int) (*User, error) {...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-01-26 00:00:00 +0000 UTC'>January 26, 2024</span>&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to This is for Nolan" href="https://breadchris.com/blog/this-is-for-nolan/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">We need LEGOs for Code
     </h2>
   </header>

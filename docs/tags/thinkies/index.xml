@@ -6,8 +6,15 @@
     <description>Recent content in thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why you aren&#39;t using gRPC</title>
+      <link>https://breadchris.com/thinkies/why-you-arent-using-grpc/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/why-you-arent-using-grpc/</guid>
+      <description>From the first moment I saw it, I thought that gRPC was going to change how people transferred data on the Internet. What are we using? Untyped JSON to REST endpoint? Obviously asking for problems. JSON schema? Better, but I don&amp;rsquo;t want to write that crap. Also tooling is annoying. GraphQL? Pretty nice. Better than gRPC when dealing with many related objects, but again tooling is eh. gRPC is built on Protobuf, a simple type system that has been battle-hardened by Google and other large companies over the past 20 years.</description>
+    </item>
     <item>
       <title>Testing Code Highlighting</title>
       <link>https://breadchris.com/thinkies/testing-code-highlighting/</link>

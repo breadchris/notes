@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [leontrolski - postgres as queue](https://omnivore.app/me/leontrolski-postgres-as-queue-18d923c0572)
+	  collapsed:: true
+	  site:: [leontrolski.github.io](https://leontrolski.github.io/postgres-as-queue.html)
+	  date-saved:: [[Feb 10th, 2024]]
+	- [AboutRSS/ALL-about-RSS: A list of RSS related stuff: tools, services, communities and tutorials, etc.](https://omnivore.app/me/about-rss-all-about-rss-a-list-of-rss-related-stuff-tools-servic-18d922341fb)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/AboutRSS/ALL-about-RSS)
+	  date-saved:: [[Feb 10th, 2024]]
 	- [A biography of the pixel, the elementary particle of pictures | Aeon Essays](https://omnivore.app/me/a-biography-of-the-pixel-the-elementary-particle-of-pictures-aeo-18d90924321)
 	  collapsed:: true
 	  site:: [Aeon Magazine](https://aeon.co/essays/a-biography-of-the-pixel-the-elementary-particle-of-pictures)

@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [How I write HTTP services in Go after 13 years | Grafana Labs](https://omnivore.app/me/how-i-write-http-services-in-go-after-13-years-grafana-labs-18d9051618f)
+	  collapsed:: true
+	  site:: [Grafana Labs](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+	  author:: Mat Ryer
+	  date-saved:: [[Feb 9th, 2024]]
+	  date-published:: [[Feb 8th, 2024]]
+	- [research!rsc: Thinking about the Go Proposal Process (Go Proposals, Part 1)](https://omnivore.app/me/research-rsc-thinking-about-the-go-proposal-process-go-proposals-18d904f56b4)
+	  collapsed:: true
+	  site:: [research.swtch.com](https://research.swtch.com/proposals-intro)
+	  date-saved:: [[Feb 9th, 2024]]
+	- [research!rsc: Running the “Reflections on Trusting Trust” Compiler](https://omnivore.app/me/research-rsc-running-the-reflections-on-trusting-trust-compiler-18d904d810d)
+	  collapsed:: true
+	  site:: [research.swtch.com](https://research.swtch.com/nih)
+	  date-saved:: [[Feb 9th, 2024]]
+	- [Short Essays on Engineering Culture](https://omnivore.app/me/https-fontoura-org-papers-barroso-pdf-18d904cf481)
+	  collapsed:: true
+	  site:: [fontoura.org](https://fontoura.org/papers/barroso.pdf)
+	  date-saved:: [[Feb 9th, 2024]]
 	- [The Go Time podcast](https://omnivore.app/me/the-go-time-podcast-18d904ba500)
 	  collapsed:: true
 	  site:: [Changelog](https://changelog.com/gotime)

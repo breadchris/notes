@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [46% of Americans didn't read a book in 2023 (This week in books) - Nathan Bransford | Writing, Book Editing, Publishing](https://omnivore.app/me/46-of-americans-didn-t-read-a-book-in-2023-this-week-in-books-na-18d93f90fd5)
+	  collapsed:: true
+	  site:: [Nathan Bransford | Writing, Book Editing, Publishing](https://nathanbransford.com/blog/2024/01/46-of-americans-didnt-read-a-book-in-2023-this-week-in-books)
+	  author:: Nathan Bransford
+	  date-saved:: [[Feb 10th, 2024]]
+	  date-published:: [[Jan 12th, 2024]]
 	- [leontrolski - postgres as queue](https://omnivore.app/me/leontrolski-postgres-as-queue-18d923c0572)
 	  collapsed:: true
 	  site:: [leontrolski.github.io](https://leontrolski.github.io/postgres-as-queue.html)

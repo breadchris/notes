@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [A biography of the pixel, the elementary particle of pictures | Aeon Essays](https://omnivore.app/me/a-biography-of-the-pixel-the-elementary-particle-of-pictures-aeo-18d90924321)
+	  collapsed:: true
+	  site:: [Aeon Magazine](https://aeon.co/essays/a-biography-of-the-pixel-the-elementary-particle-of-pictures)
+	  author:: Alvy Ray Smith
+	  date-saved:: [[Feb 9th, 2024]]
+	  date-published:: [[Aug 18th, 2021]]
 	- [How I write HTTP services in Go after 13 years | Grafana Labs](https://omnivore.app/me/how-i-write-http-services-in-go-after-13-years-grafana-labs-18d9051618f)
 	  collapsed:: true
 	  site:: [Grafana Labs](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)

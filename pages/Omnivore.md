@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Sup! - Standups, Holidays, and Surveys for Slack & Microsoft Teams | Sup! Standup Bot](https://omnivore.app/me/sup-standups-holidays-and-surveys-for-slack-microsoft-teams-sup--18d9580b7c0)
+	  collapsed:: true
+	  site:: [supbot.com](https://www.supbot.com)
+	  author:: @nirnejak
+	  date-saved:: [[Feb 10th, 2024]]
 	- [Project365 - A 365 Days UI/UX Design Challenge](https://omnivore.app/me/project-365-a-365-days-ui-ux-design-challenge-18d94f6167b)
 	  collapsed:: true
 	  site:: [Project365](https://project365.design)

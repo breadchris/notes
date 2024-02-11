@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Social networks are getting stingy with their data, leaving third-party developers in the lurch | TechCrunch](https://omnivore.app/me/social-networks-are-getting-stingy-with-their-data-leaving-third-18d9923b615)
+	  collapsed:: true
+	  site:: [TechCrunch](https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAANNc869EnYQmByeNcLLRMkzMAq1-PbwJc7bcaNKG3rkpvK5bBNmnEyjvUsCU2FaZYTMd1eCPhUlNo_q3TDjgxzJKD_RoQLNUHmQPzTupXefjtMFlNMVsiAlSd3FiVvZVNGVKESUKkGyRXYs1Ft2CFF2vTXngSAA_v6i7Xo5pMTl5)
+	  author:: Ivan Mehta
+	  date-saved:: [[Feb 11th, 2024]]
+	  date-published:: [[Feb 9th, 2024]]
 	- [How To Write Stuff No One Else Can – The Write to Roam](https://omnivore.app/me/how-to-write-stuff-no-one-else-can-the-write-to-roam-18d95aedc62)
 	  collapsed:: true
 	  site:: [thewritetoroam.com](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)

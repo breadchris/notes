@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [About Face: The Essentials of Interaction Design: Cooper, Alan, Reimann, Robert, Cronin, David, Noessel, Christopher: 9781118766576: Amazon.com: Books](https://omnivore.app/me/about-face-the-essentials-of-interaction-design-cooper-alan-reim-18d9e67f7c3)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/gp/aw/d/1118766571/ref=dp_ob_neva_mobile)
+	  author:: Alan Cooper and 2 more
+	  date-saved:: [[Feb 12th, 2024]]
+	  date-published:: [[Aug 19th, 2016]]
+	- [About Face 2.0: The Essentials of Interaction Design: Cooper, Alan, Reimann, Robert: 9780764526411: Amazon.com: Books](https://omnivore.app/me/about-face-2-0-the-essentials-of-interaction-design-cooper-alan--18d9e67abe3)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/dp/0764526413)
+	  author:: Alan Cooper and 1 more
+	  date-saved:: [[Feb 12th, 2024]]
+	  date-published:: [[Aug 13th, 2003]]
+	- [Go 1.22 | Hacker News](https://omnivore.app/me/go-1-22-hacker-news-18d9e5e2009)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=39282225)
+	  date-saved:: [[Feb 12th, 2024]]
 	- [chikl/Lightbeam: This is an add-on for visualizing HTTP requests between websites in real time. - Codeberg.org](https://omnivore.app/me/chikl-lightbeam-this-is-an-add-on-for-visualizing-http-requests--18d9bb6536f)
 	  collapsed:: true
 	  site:: [Codeberg.org](https://codeberg.org/chikl/Lightbeam)

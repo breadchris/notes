@@ -1,4 +1,34 @@
 ## 🔖 Articles
+	- [chikl/Lightbeam: This is an add-on for visualizing HTTP requests between websites in real time. - Codeberg.org](https://omnivore.app/me/chikl-lightbeam-this-is-an-add-on-for-visualizing-http-requests--18d9bb6536f)
+	  collapsed:: true
+	  site:: [Codeberg.org](https://codeberg.org/chikl/Lightbeam)
+	  author:: chikl
+	  date-saved:: [[Feb 11th, 2024]]
+	  date-published:: [[Feb 11th, 2024]]
+	- [Thunderbeam-Lightbeam for Chrome](https://omnivore.app/me/https-chromewebstore-google-com-detail-thunderbeam-lightbeam-for-18d9bb52630)
+	  collapsed:: true
+	  site:: [chromewebstore.google.com](https://chromewebstore.google.com/detail/thunderbeam-lightbeam-for/hjkajeglckopdkbggdiajobpilgccgnj?hl=en-GB)
+	  date-saved:: [[Feb 11th, 2024]]
+	- [STAGE Academy](https://omnivore.app/me/stage-academy-18d9ba7e3ed)
+	  collapsed:: true
+	  site:: [stageacademy.mykajabi.com](https://stageacademy.mykajabi.com)
+	  date-saved:: [[Feb 11th, 2024]]
+	- [How James Clear is Writing His Next Book](https://omnivore.app/me/how-james-clear-is-writing-his-next-book-18d9ba47152)
+	  collapsed:: true
+	  site:: [every.to](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
+	  author:: Dan Shipper and Kieran O‘Hare
+	  date-saved:: [[Feb 11th, 2024]]
+	  date-published:: [[Sep 8th, 2021]]
+	- [Microsoft Word - Lamott, Anne - Shitty First Drafts.doc](https://omnivore.app/me/https-wrd-as-uky-edu-sites-default-files-1-shitty-20-first-20-dr-18d9ba3caf4)
+	  collapsed:: true
+	  site:: [wrd.as.uky.edu](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
+	  author:: MAIN
+	  date-saved:: [[Feb 11th, 2024]]
+	- [Microsoft Word - Lamott, Anne - Shitty First Drafts.doc](https://omnivore.app/me/u-c-157-a-0-b-2-c-961-11-ee-8939-775-c-2-d-443-a-2-d-1-shitty-fi-18d9ba3c94b)
+	  collapsed:: true
+	  site:: [wrd.as.uky.edu](https://wrd.as.uky.edu/sites/default/files/1-Shitty%2520First%2520Drafts.pdf)
+	  author:: MAIN
+	  date-saved:: [[Feb 11th, 2024]]
 	- [Social networks are getting stingy with their data, leaving third-party developers in the lurch | TechCrunch](https://omnivore.app/me/social-networks-are-getting-stingy-with-their-data-leaving-third-18d9923b615)
 	  collapsed:: true
 	  site:: [TechCrunch](https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAANNc869EnYQmByeNcLLRMkzMAq1-PbwJc7bcaNKG3rkpvK5bBNmnEyjvUsCU2FaZYTMd1eCPhUlNo_q3TDjgxzJKD_RoQLNUHmQPzTupXefjtMFlNMVsiAlSd3FiVvZVNGVKESUKkGyRXYs1Ft2CFF2vTXngSAA_v6i7Xo5pMTl5)

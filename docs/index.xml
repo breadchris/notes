@@ -6,8 +6,16 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>zoning out during standup</title>
+      <link>https://breadchris.com/blog/zoning-out-during-standup/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/zoning-out-during-standup/</guid>
+      <description>Every morning, as the first light bled into the room, the software engineer&amp;rsquo;s alarm would chirp, marking another day&amp;rsquo;s beginning. The routine was as predictable as the sunrise. Wake, stretch, sip a coffee, and sit before the computer.
+The screen springs to life, revealing a grid of familiar faces. Standup meeting — the daily ritual. Each square held an expression; some were tired, some eager, but all were familiar. Pixels and bandwidth conveying nuances, the raise of an eyebrow, the half-hidden yawn.</description>
+    </item>
     <item>
       <title>Fabled Fusion</title>
       <link>https://breadchris.com/blog/fabled-fusion/</link>

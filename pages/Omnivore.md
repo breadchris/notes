@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [giautm/workspace-entgo at 1a8231e5841889dba35dc1c97cacc8ee1066853b](https://omnivore.app/me/giautm-workspace-entgo-at-1-a-8231-e-5841889-dba-35-dc-1-c-97-ca-18da0b3f6e3)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/giautm/workspace-entgo/tree/1a8231e5841889dba35dc1c97cacc8ee1066853b)
+	  date-saved:: [[Feb 12th, 2024]]
 	- [Andrej Karpathy on X: "The internet used to be ✨ fun✨ https://t.co/GIcfrLWylH I remember visiting my friend’s websites. They were ugly and quirky and it was awesome. You wondered who’d stop by yours. They were a labor of love and a medium of self-expression, not your LinkedIn. We can fight this." / X](https://omnivore.app/me/https-twitter-com-karpathy-status-1757075417775964290-18da0472e2e)
 	  collapsed:: true
 	  site:: [X (formerly Twitter)](https://twitter.com/karpathy/status/1757075417775964290)

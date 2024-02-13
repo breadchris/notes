@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Andrej Karpathy on X: "The internet used to be ✨ fun✨ https://t.co/GIcfrLWylH I remember visiting my friend’s websites. They were ugly and quirky and it was awesome. You wondered who’d stop by yours. They were a labor of love and a medium of self-expression, not your LinkedIn. We can fight this." / X](https://omnivore.app/me/https-twitter-com-karpathy-status-1757075417775964290-18da0472e2e)
+	  collapsed:: true
+	  site:: [X (formerly Twitter)](https://twitter.com/karpathy/status/1757075417775964290)
+	  date-saved:: [[Feb 12th, 2024]]
 	- [About Face: The Essentials of Interaction Design: Cooper, Alan, Reimann, Robert, Cronin, David, Noessel, Christopher: 9781118766576: Amazon.com: Books](https://omnivore.app/me/about-face-the-essentials-of-interaction-design-cooper-alan-reim-18d9e67f7c3)
 	  collapsed:: true
 	  site:: [amazon.com](https://www.amazon.com/gp/aw/d/1118766571/ref=dp_ob_neva_mobile)

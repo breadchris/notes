@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [The dating app paradox: Why dating apps may be worse than ever : Planet Money : NPR](https://omnivore.app/me/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever-pl-18da50c9c7b)
+	  collapsed:: true
+	  site:: [NPR](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
+	  author:: Greg Rosalsky
+	  date-saved:: [[Feb 13th, 2024]]
+	  date-published:: [[Feb 13th, 2024]]
+	- [Compiling History: A brief tour of C compilers](https://omnivore.app/me/compiling-history-a-brief-tour-of-c-compilers-18da50c56ea)
+	  collapsed:: true
+	  site:: [Deus In Machina](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
+	  author:: Diego Crespo
+	  date-saved:: [[Feb 13th, 2024]]
+	  date-published:: [[Jan 4th, 2024]]
+	- [Frontiers | Handwriting but not typewriting leads to widespread brain connectivity: a high-density EEG study with implications for the classroom](https://omnivore.app/me/frontiers-handwriting-but-not-typewriting-leads-to-widespread-br-18da50c0afa)
+	  collapsed:: true
+	  site:: [Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
+	  author:: Eva Ose Askvik, F. R. (Ruud) van der Weel and Audrey L. H. van der Meer
+	  date-saved:: [[Feb 13th, 2024]]
+	  date-published:: [[Jan 24th, 2024]]
 	- [Mastering Programming - by Kent Beck](https://omnivore.app/me/mastering-programming-by-kent-beck-18da36cd686)
 	  collapsed:: true
 	  site:: [Software Design: Tidy First?](https://tidyfirst.substack.com/p/mastering-programming)

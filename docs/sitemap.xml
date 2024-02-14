@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://breadchris.com/tags/blog/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/blog/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://breadchris.com/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/blog/kick-your-tabproblem/</loc>
+    <loc>https://breadchris.com/tags/code/</loc>
+    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/keywords-for-top-10-languages/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/thinkies/</loc>
+    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/</loc>
+    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/blog/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/blog/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/build-dope-shit-with-go/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
@@ -39,12 +48,6 @@
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/some-thoughts/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/thinkies/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/thinkies/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/why-you-arent-using-grpc/</loc>

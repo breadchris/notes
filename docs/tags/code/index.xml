@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on breadchris</title>
+    <link>https://breadchris.com/tags/code/</link>
+    <description>Recent content in code on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keywords for Top 10 Languages</title>
+      <link>https://breadchris.com/thinkies/keywords-for-top-10-languages/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/keywords-for-top-10-languages/</guid>
+      <description>Python: 35
+False, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield Java: 52
+abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do, double, else, enum, extends, final, finally, float, for, goto, if, implements, import, instanceof, int, interface, long, native, new, package, private, protected, public, return, short, static, strictfp, super, switch, synchronized, this, throw, throws, transient, try, void, volatile, while JavaScript: 50</description>
+    </item>
+  </channel>
+</rss>

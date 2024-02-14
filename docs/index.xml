@@ -6,8 +6,15 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build dope shit with go</title>
+      <link>https://breadchris.com/blog/build-dope-shit-with-go/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/build-dope-shit-with-go/</guid>
+      <description>The goal for this year is to: &amp;ldquo;write and publish something every day.&amp;rdquo; So far I have been doing a good job keeping up with this. In my pursuit to build larger compositions of thoughts, next year will be themed accordingly; I want to write a book. How does one go about choosing the topic to write a book about? It is probably something that you spend a lot of time thinking about.</description>
+    </item>
     <item>
       <title>zoning out during standup</title>
       <link>https://breadchris.com/blog/zoning-out-during-standup/</link>

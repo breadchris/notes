@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://breadchris.com/tags/100daystooffload/</loc>
+    <loc>https://breadchris.com/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/</loc>
+    <loc>https://breadchris.com/tags/code/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/keywords-for-top-10-languages/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/</loc>
+    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/thinkies/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/</loc>
@@ -47,9 +50,6 @@
     <loc>https://breadchris.com/blog/some-thoughts/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/tags/thinkies/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://breadchris.com/thinkies/why-you-arent-using-grpc/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -79,6 +79,9 @@
   </url><url>
     <loc>https://breadchris.com/thinkies/sf-feels-like-another-planet/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/100daystooffload/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/offline-first-editing/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>

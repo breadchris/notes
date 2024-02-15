@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Zenfetch Personal AI](https://omnivore.app/me/zenfetch-personal-ai-18dae20c773)
+	  collapsed:: true
+	  site:: [zenfetch.com](https://www.zenfetch.com)
+	  date-saved:: [[Feb 15th, 2024]]
+	- [Every Default macOS Wallpaper – in Glorious 6K Resolution – 512 Pixels](https://omnivore.app/me/every-default-mac-os-wallpaper-in-glorious-6-k-resolution-512-pi-18dae1eaf80)
+	  collapsed:: true
+	  site:: [512 Pixels](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+	  date-saved:: [[Feb 15th, 2024]]
+	  date-published:: [[Jul 9th, 2017]]
+	- [Weston's Portfolio](https://omnivore.app/me/weston-s-portfolio-18dadf0d808)
+	  collapsed:: true
+	  site:: [symbolflux.com](https://symbolflux.com)
+	  date-saved:: [[Feb 15th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/weston-s-portfolio-18dadf0d808#5e2d29c4-cf32-4b16-9901-6ef74b58500c)
 	- [Learn You a Haskell for Great Good!](https://omnivore.app/me/learn-you-a-haskell-for-great-good-18daba4087e)
 	  collapsed:: true
 	  site:: [learnyouahaskell.com](https://learnyouahaskell.com)

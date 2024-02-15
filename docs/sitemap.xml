@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://breadchris.com/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/thinkies/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/where-did-pnw-companies-come-from/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://breadchris.com/tags/blog/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/code/</loc>
@@ -36,15 +48,6 @@
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/recipes/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/thinkies/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/thinkies/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/build-dope-shit-with-go/</loc>

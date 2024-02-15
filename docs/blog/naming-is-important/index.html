@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Naming is Important | breadchris</title>
+<meta name="keywords" content="blog/post, justshare, thinkies">
+<meta name="description" content="Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.">
+<meta name="author" content="breadchris">
+<link rel="canonical" href="https://breadchris.com/blog/naming-is-important/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.e087fd1dc76e73a35ae6d7028ddc1ba41e0131e7f9b3a6e2d019a208e6d6c4b5.css" integrity="sha256-4If9Hcduc6Na5tcCjdwbpB4BMef5s6bi0BmiCObWxLU=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://breadchris.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://breadchris.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://breadchris.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><script defer data-domain="breadchris.com" src="https://plausible.io/js/script.js"></script><meta property="og:title" content="Naming is Important" />
+<meta property="og:description" content="Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://breadchris.com/blog/naming-is-important/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-02-14T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-02-14T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Naming is Important"/>
+<meta name="twitter:description" content="Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Blogs",
+      "item": "https://breadchris.com/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "Naming is Important",
+      "item": "https://breadchris.com/blog/naming-is-important/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Naming is Important",
+  "name": "Naming is Important",
+  "description": "Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.",
+  "keywords": [
+    "blog/post", "justshare", "thinkies"
+  ],
+  "articleBody": "Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing. When these ideas proliferate throughout a project, classes, variables, packages begin to adopt the naming convention. If little care was put into the original thought of what to call the “thing”, a very involved refactoring effort is sure to follow.\nHere is an example: I was thinking through a bit of what I think the nomenclature should be in regards to my project: justshare. Right now, I am using what feels like big enterprise lingo like \" content\" and \" providers\" to talk about things like a “blog post” or “cloudflare”. I am the only one developing this right now, so naming shouldn’t matter as much. When explaining justshare to people I would say “You share content with a provider, like your email or twitter”. It is very functional, I think it is obvious how the system works, but it isn’t very fun. I was obsessing over the name “just share” because that is exactly what I would think when I would see something online, an image, tweet, file, contact info, and give it to someone else. I wanted to “just share” it with them. So to continue on this line of thinking, I want to understand what would be terms that would make sense to use. This is what I have so far:\n# justshare share things with people ## Overview ### Find or make a thing. You want to share some*thing* with someone. It could be a file, a link, a note, or another thing. ### Share it with people. You want to share it with someone. You could share it with a friend, a group of friends, or the whole world. You want to put a *thing* in a *place*. heh. ### Control who gets to see it. You want to control who gets to see it. Just for you. Just for your friends. Just for your friends and their friends. Just for the whole world. ### Your thing is valuable. You want to know who sees it. You want to know who likes it. You want to know who shares it. You want to know who comments on it. You want to know who makes a copy of it. You want to know who makes a derivative of it. You want to know who makes a derivative of a derivative of it. You want to know who makes a derivative of a derivative of a derivative of it. You want to know who makes a derivative of a derivative of a derivative of a derivative of it. Have any thoughts? I would love to hear them.\n",
+  "wordCount" : "515",
+  "inLanguage": "en",
+  "datePublished": "2024-02-14T00:00:00Z",
+  "dateModified": "2024-02-14T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "breadchris"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://breadchris.com/blog/naming-is-important/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "breadchris",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://breadchris.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://breadchris.com" accesskey="h" title="breadchris (Alt + H)">breadchris</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://breadchris.com/blog" title="blog">
+                    <span>blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/resume" title="resume">
+                    <span>resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/tags/" title="tags">
+                    <span>tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/talks" title="talks">
+                    <span>talks</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/thinkies" title="thinkies">
+                    <span>thinkies</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Naming is Important
+    </h1>
+    <div class="post-meta"><span title='2024-02-14 00:00:00 +0000 UTC'>February 14, 2024</span>&nbsp;·&nbsp;breadchris
+
+</div>
+  </header> 
+  <div class="post-content"><p>Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing. When these ideas proliferate throughout a project, classes, variables, packages begin to adopt the naming convention. If little care was put into the original thought of what to call the &ldquo;thing&rdquo;, a very involved refactoring effort is sure to follow.</p>
+<p>Here is an example: I was thinking through a bit of what I think the nomenclature should be in regards to my project: <a href="https://github.com/justshare-io/justshare">justshare</a>. Right now, I am using what feels like big enterprise lingo like &quot; <a href="https://github.com/justshare-io/justshare/blob/main/proto/content/content.proto#L16">content</a>&quot; and &quot; <a href="https://github.com/justshare-io/justshare/tree/main/pkg/providers">providers</a>&quot; to talk about things like a &ldquo;blog post&rdquo; or &ldquo;cloudflare&rdquo;. I am the only one developing this right now, so naming shouldn&rsquo;t matter as much. When explaining justshare to people I would say &ldquo;You share content with a provider, like your email or twitter&rdquo;. It is very functional, I think it is obvious how the system works, but it isn&rsquo;t very fun. I was obsessing over the name &ldquo;just share&rdquo; because that is exactly what I would think when I would see something online, an image, tweet, file, contact info, and give it to someone else. I wanted to &ldquo;just share&rdquo; it with them. So to continue on this line of thinking, I want to understand what would be terms that would make sense to use. This is what I have so far:</p>
+<pre tabindex="0"><code># justshare
+
+share things with people
+
+## Overview
+
+### Find or make a thing.
+You want to share some*thing* with someone. It could be a file, a link, a note, or another thing.
+
+### Share it with people.
+You want to share it with someone. You could share it with a friend, a group of friends, or the whole world. You want to put a *thing* in a *place*. heh.
+
+### Control who gets to see it.
+You want to control who gets to see it. Just for you. Just for your friends. Just for your friends and their friends. Just for the whole world.
+
+### Your thing is valuable.
+You want to know who sees it. You want to know who likes it. You want to know who shares it. You want to know who comments on it. You want to know who makes a copy of it. You want to know who makes a derivative of it. You want to know who makes a derivative of a derivative of it. You want to know who makes a derivative of a derivative of a derivative of it. You want to know who makes a derivative of a derivative of a derivative of a derivative of it.
+</code></pre><p>Have any thoughts? I would love to hear them.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://breadchris.com/tags/blog/post/">blog/post</a></li>
+      <li><a href="https://breadchris.com/tags/justshare/">justshare</a></li>
+      <li><a href="https://breadchris.com/tags/thinkies/">thinkies</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="https://breadchris.com">breadchris</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

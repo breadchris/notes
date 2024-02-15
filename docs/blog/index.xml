@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naming is Important</title>
+      <link>https://breadchris.com/blog/naming-is-important/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/naming-is-important/</guid>
+      <description>Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.</description>
+    </item>
     <item>
       <title>Build dope shit with go</title>
       <link>https://breadchris.com/blog/build-dope-shit-with-go/</link>

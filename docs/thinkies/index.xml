@@ -19,6 +19,13 @@ False, None, True, and, as, assert, async, await, break, class, continue, def, d
 abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do, double, else, enum, extends, final, finally, float, for, goto, if, implements, import, instanceof, int, interface, long, native, new, package, private, protected, public, return, short, static, strictfp, super, switch, synchronized, this, throw, throws, transient, try, void, volatile, while JavaScript: 50</description>
     </item>
     <item>
+      <title>Naming is Important</title>
+      <link>https://breadchris.com/thinkies/naming-is-important/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/naming-is-important/</guid>
+      <description>Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and related to each other. A database schema or language specification are such important documents that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.</description>
+    </item>
+    <item>
       <title>Why you aren&#39;t using gRPC</title>
       <link>https://breadchris.com/thinkies/why-you-arent-using-grpc/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>

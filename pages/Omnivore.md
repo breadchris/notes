@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Learn You a Haskell for Great Good!](https://omnivore.app/me/learn-you-a-haskell-for-great-good-18daba4087e)
+	  collapsed:: true
+	  site:: [learnyouahaskell.com](https://learnyouahaskell.com)
+	  date-saved:: [[Feb 14th, 2024]]
+	- [About this Book :: Why's (Poignant) Guide to Ruby](https://omnivore.app/me/about-this-book-why-s-poignant-guide-to-ruby-18daba357b2)
+	  collapsed:: true
+	  site:: [poignant.guide](https://poignant.guide/book/chapter-1.html)
+	  author:: Why the Lucky Stiff
+	  date-saved:: [[Feb 14th, 2024]]
 	- [PartyKit - Turn everything into a realtime multiplayer app](https://omnivore.app/me/party-kit-turn-everything-into-a-realtime-multiplayer-app-18da6294b92)
 	  collapsed:: true
 	  site:: [partykit.io](https://www.partykit.io)

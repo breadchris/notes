@@ -1,10 +1,19 @@
 ## 🔖 Articles
-	- [For those who want to backup libgen "just in case" : r/libgen](https://omnivore.app/me/for-those-who-want-to-backup-libgen-just-in-case-r-libgen-18dafbbb0a1)
+	- [How to Install and Setup Matterbridge – MinecraftChest1's garage](https://omnivore.app/me/how-to-install-and-setup-matterbridge-minecraft-chest-1-s-garage-18daff8cbde)
 	  collapsed:: true
+	  site:: [MinecraftChest1's garage](https://minecraftchest1.wordpress.com/2021/06/05/how-to-install-and-setup-matterbridge/)
+	  date-saved:: [[Feb 15th, 2024]]
+	  date-published:: [[Jun 5th, 2021]]
+	- [CyberLeads | Find new clients for your agency](https://omnivore.app/me/cyber-leads-find-new-clients-for-your-agency-18daff2b8a2)
+	  collapsed:: true
+	  site:: [cyberleads.com](https://cyberleads.com)
+	  date-saved:: [[Feb 15th, 2024]]
+	- [For those who want to backup libgen "just in case" : r/libgen](https://omnivore.app/me/for-those-who-want-to-backup-libgen-just-in-case-r-libgen-18dafbbb0a1)
 	  site:: [reddit.com](https://www.reddit.com/r/libgen/comments/6rr71h/for_those_who_want_to_backup_libgen_just_in_case/)
 	  author:: Jalune
 	  date-saved:: [[Feb 15th, 2024]]
 	  date-published:: [[Aug 6th, 2017]]
+	  collapsed:: true
 	- [PWAs wont replace native iOS apps](https://omnivore.app/me/pw-as-wont-replace-native-i-os-apps-18dae5fb5af)
 	  collapsed:: true
 	  site:: [Campsite](https://app.campsite.co/campsite/p/notes/rengvq2txami)

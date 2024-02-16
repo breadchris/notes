@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Proposed end-to-end encryption protocol · Issue #29 · ircv3/ircv3-ideas](https://omnivore.app/me/proposed-end-to-end-encryption-protocol-issue-29-ircv-3-ircv-3-i-18db3711f1b)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ircv3/ircv3-ideas/issues/29)
+	  author:: vith
+	  date-saved:: [[Feb 16th, 2024]]
+	  date-published:: [[Jan 24th, 2019]]
 	- [My Sixth Year as a Bootstrapped Founder · mtlynch.io](https://omnivore.app/me/my-sixth-year-as-a-bootstrapped-founder-mtlynch-io-18db30deecb)
 	  collapsed:: true
 	  site:: [mtlynch.io](https://mtlynch.io/solo-developer-year-6/)

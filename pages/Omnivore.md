@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [For those who want to backup libgen "just in case" : r/libgen](https://omnivore.app/me/for-those-who-want-to-backup-libgen-just-in-case-r-libgen-18dafbbb0a1)
+	  collapsed:: true
+	  site:: [reddit.com](https://www.reddit.com/r/libgen/comments/6rr71h/for_those_who_want_to_backup_libgen_just_in_case/)
+	  author:: Jalune
+	  date-saved:: [[Feb 15th, 2024]]
+	  date-published:: [[Aug 6th, 2017]]
 	- [PWAs wont replace native iOS apps](https://omnivore.app/me/pw-as-wont-replace-native-i-os-apps-18dae5fb5af)
 	  collapsed:: true
 	  site:: [Campsite](https://app.campsite.co/campsite/p/notes/rengvq2txami)

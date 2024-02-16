@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [My Sixth Year as a Bootstrapped Founder · mtlynch.io](https://omnivore.app/me/my-sixth-year-as-a-bootstrapped-founder-mtlynch-io-18db30deecb)
+	  collapsed:: true
+	  site:: [mtlynch.io](https://mtlynch.io/solo-developer-year-6/)
+	  author:: Michael Lynch
+	  date-saved:: [[Feb 16th, 2024]]
+	  date-published:: [[Feb 15th, 2024]]
 	- [README](https://omnivore.app/me/readme-18db02ecb3a)
 	  collapsed:: true
 	  site:: [raw.githubusercontent.com](https://raw.githubusercontent.com/liveblocks/liveblocks/main/schema-lang/README.md)
@@ -12,12 +18,6 @@
 	  collapsed:: true
 	  site:: [cyberleads.com](https://cyberleads.com)
 	  date-saved:: [[Feb 15th, 2024]]
-	- [For those who want to backup libgen "just in case" : r/libgen](https://omnivore.app/me/for-those-who-want-to-backup-libgen-just-in-case-r-libgen-18dafbbb0a1)
-	  site:: [reddit.com](https://www.reddit.com/r/libgen/comments/6rr71h/for_those_who_want_to_backup_libgen_just_in_case/)
-	  author:: Jalune
-	  date-saved:: [[Feb 15th, 2024]]
-	  date-published:: [[Aug 6th, 2017]]
-	  collapsed:: true
 	- [PWAs wont replace native iOS apps](https://omnivore.app/me/pw-as-wont-replace-native-i-os-apps-18dae5fb5af)
 	  collapsed:: true
 	  site:: [Campsite](https://app.campsite.co/campsite/p/notes/rengvq2txami)
@@ -55,6 +55,7 @@
 	  collapsed:: true
 	  site:: [NPR](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 	  author:: Greg Rosalsky
+	  labels:: [[life]]
 	  date-saved:: [[Feb 13th, 2024]]
 	  date-published:: [[Feb 13th, 2024]]
 	- [Compiling History: A brief tour of C compilers](https://omnivore.app/me/compiling-history-a-brief-tour-of-c-compilers-18da50c56ea)

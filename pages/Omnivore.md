@@ -1,10 +1,14 @@
 ## 🔖 Articles
-	- [Proposed end-to-end encryption protocol · Issue #29 · ircv3/ircv3-ideas](https://omnivore.app/me/proposed-end-to-end-encryption-protocol-issue-29-ircv-3-ircv-3-i-18db3711f1b)
+	- [Industrial Society and its Future](https://omnivore.app/me/industrial-society-and-its-future-18db412ffef)
 	  collapsed:: true
+	  site:: [besser.tsoa.nyu.edu](https://besser.tsoa.nyu.edu/howard/Anarchism/Unabom/manifesto.html)
+	  date-saved:: [[Feb 16th, 2024]]
+	- [Proposed end-to-end encryption protocol · Issue #29 · ircv3/ircv3-ideas](https://omnivore.app/me/proposed-end-to-end-encryption-protocol-issue-29-ircv-3-ircv-3-i-18db3711f1b)
 	  site:: [GitHub](https://github.com/ircv3/ircv3-ideas/issues/29)
 	  author:: vith
 	  date-saved:: [[Feb 16th, 2024]]
 	  date-published:: [[Jan 24th, 2019]]
+	  collapsed:: true
 	- [My Sixth Year as a Bootstrapped Founder · mtlynch.io](https://omnivore.app/me/my-sixth-year-as-a-bootstrapped-founder-mtlynch-io-18db30deecb)
 	  collapsed:: true
 	  site:: [mtlynch.io](https://mtlynch.io/solo-developer-year-6/)

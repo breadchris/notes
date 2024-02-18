@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [When to Design for Emergence - by Kasey Klimes](https://omnivore.app/me/when-to-design-for-emergence-by-kasey-klimes-18dbdc36a49)
+	  collapsed:: true
+	  site:: [rhizome r&d](https://newsletter.rhizomerd.com/p/when-to-design-for-emergence?s=r)
+	  author:: Kasey Klimes
+	  date-saved:: [[Feb 18th, 2024]]
+	  date-published:: [[Jun 8th, 2022]]
 	- [Industrial Society and its Future](https://omnivore.app/me/industrial-society-and-its-future-18db412ffef)
 	  collapsed:: true
 	  site:: [besser.tsoa.nyu.edu](https://besser.tsoa.nyu.edu/howard/Anarchism/Unabom/manifesto.html)

@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Study Guide — LessWrong](https://omnivore.app/me/study-guide-less-wrong-18dbe24f944)
+	  collapsed:: true
+	  site:: [lesswrong.com](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)
+	  author:: johnswentworth
+	  date-saved:: [[Feb 18th, 2024]]
+	  date-published:: [[Nov 5th, 2021]]
+	- [Phallocentricity in GPT-J's bizarre stratified ontology — LessWrong](https://omnivore.app/me/phallocentricity-in-gpt-j-s-bizarre-stratified-ontology-less-wro-18dbe20033d)
+	  collapsed:: true
+	  site:: [lesswrong.com](https://www.lesswrong.com/posts/FTY9MtbubLDPjH6pW/phallocentricity-in-gpt-j-s-bizarre-stratified-ontology)
+	  author:: mwatkins
+	  date-saved:: [[Feb 18th, 2024]]
+	  date-published:: [[Feb 16th, 2024]]
 	- [When to Design for Emergence - by Kasey Klimes](https://omnivore.app/me/when-to-design-for-emergence-by-kasey-klimes-18dbdc36a49)
 	  collapsed:: true
 	  site:: [rhizome r&d](https://newsletter.rhizomerd.com/p/when-to-design-for-emergence?s=r)

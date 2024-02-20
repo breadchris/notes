@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Super Useful CSS Resources 🌈 - DEV Community](https://omnivore.app/me/super-useful-css-resources-dev-community-18dc856a38c)
+	  collapsed:: true
+	  site:: [DEV Community](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+	  date-saved:: [[Feb 20th, 2024]]
+	  date-published:: [[Feb 5th, 2024]]
 	- [Zola](https://omnivore.app/me/zola-18dc7b1200d)
 	  collapsed:: true
 	  site:: [getzola.org](https://www.getzola.org)

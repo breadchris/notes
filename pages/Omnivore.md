@@ -1,4 +1,30 @@
 ## 🔖 Articles
+	- [Zola](https://omnivore.app/me/zola-18dc7b1200d)
+	  collapsed:: true
+	  site:: [getzola.org](https://www.getzola.org)
+	  author:: Vincent Prouillet
+	  date-saved:: [[Feb 20th, 2024]]
+	- [research!rsc: Go & Versioning](https://omnivore.app/me/research-rsc-go-versioning-18dc7ae69e0)
+	  collapsed:: true
+	  site:: [research.swtch.com](https://research.swtch.com/vgo)
+	  author:: Russ Cox
+	  date-saved:: [[Feb 20th, 2024]]
+	- [1DIV](https://omnivore.app/me/1-div-18dc7a47604)
+	  collapsed:: true
+	  site:: [microsoftedge.github.io](https://microsoftedge.github.io/Demos/1DIV/dist/)
+	  date-saved:: [[Feb 20th, 2024]]
+	- [Progressive Web App demos - Microsoft Edge Developer documentation | Microsoft Learn](https://omnivore.app/me/progressive-web-app-demos-microsoft-edge-developer-documentation-18dc7a3b97b)
+	  collapsed:: true
+	  site:: [Docs](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/demo-pwas)
+	  author:: MSEdgeTeam
+	  date-saved:: [[Feb 20th, 2024]]
+	  date-published:: [[Apr 27th, 2023]]
+	- [Use Service Workers to manage network requests - Microsoft Edge Developer documentation | Microsoft Learn](https://omnivore.app/me/use-service-workers-to-manage-network-requests-microsoft-edge-de-18dc79f73ac)
+	  collapsed:: true
+	  site:: [Docs](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/service-workers)
+	  author:: MSEdgeTeam
+	  date-saved:: [[Feb 20th, 2024]]
+	  date-published:: [[Jun 18th, 2023]]
 	- [Study Guide — LessWrong](https://omnivore.app/me/study-guide-less-wrong-18dbe24f944)
 	  collapsed:: true
 	  site:: [lesswrong.com](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)

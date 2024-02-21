@@ -1,4 +1,21 @@
 ## 🔖 Articles
+	- [Live Demos | Typesense](https://omnivore.app/me/live-demos-typesense-18dc9f947ec)
+	  collapsed:: true
+	  site:: [typesense.org](https://typesense.org/docs/overview/demos.html)
+	  date-saved:: [[Feb 20th, 2024]]
+	  date-published:: [[Feb 12th, 2024]]
+	- [vezwork/3c: 3d drawing](https://omnivore.app/me/vezwork-3-c-3-d-drawing-18dc9d2584f)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/vezwork/3c/tree/master)
+	  date-saved:: [[Feb 20th, 2024]]
+	- [Web Monetization](https://omnivore.app/me/web-monetization-18dc9ca312c)
+	  collapsed:: true
+	  site:: [webmonetization.org](https://webmonetization.org)
+	  date-saved:: [[Feb 20th, 2024]]
+	- [Elliot.website](https://omnivore.app/me/elliot-website-18dc9c74fcd)
+	  site:: [elliot.website](https://elliot.website)
+	  date-saved:: [[Feb 20th, 2024]
+	  collapsed:: true
 	- [Research | Bowling Alone](https://omnivore.app/me/research-bowling-alone-18dc9bbe9d2)
 	  collapsed:: true
 	  site:: [bowlingalone.com](http://bowlingalone.com/?page_id=7)

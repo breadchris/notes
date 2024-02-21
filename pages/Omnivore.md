@@ -1,9 +1,13 @@
 ## 🔖 Articles
-	- [Bloom Filters](https://omnivore.app/me/bloom-filters-18dc86ded37)
+	- [Draggable drawer on bottom - Quasar](https://omnivore.app/me/draggable-drawer-on-bottom-quasar-18dc8e19385)
 	  collapsed:: true
+	  site:: [codepen.io](https://codepen.io/pdanpdan/pen/ExPqZbK)
+	  date-saved:: [[Feb 20th, 2024]]
+	- [Bloom Filters](https://omnivore.app/me/bloom-filters-18dc86ded37)
 	  site:: [samwho.dev](https://samwho.dev/bloom-filters/)
 	  date-saved:: [[Feb 20th, 2024]]
 	  date-published:: [[Feb 18th, 2024]]
+	  collapsed:: true
 	- [Super Useful CSS Resources 🌈 - DEV Community](https://omnivore.app/me/super-useful-css-resources-dev-community-18dc856a38c)
 	  site:: [DEV Community](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 	  date-saved:: [[Feb 20th, 2024]]

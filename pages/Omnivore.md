@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Jailbreaking the Simulation with George Hotz | SXSW 2019](https://omnivore.app/me/https-www-youtube-com-watch-v-esxoaj-rdcw-q-18dcde00605)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=ESXOAJRdcwQ)
+	  author:: SXSW
+	  date-saved:: [[Feb 21st, 2024]]
+	- [Fast Biology](https://omnivore.app/me/fast-biology-18dcdc57ee3)
+	  collapsed:: true
+	  site:: [press.asimov.com](https://press.asimov.com/resources/fast-biology)
+	  date-saved:: [[Feb 21st, 2024]]
 	- [washingtonpost.com: Unabomber Special Report](https://omnivore.app/me/washingtonpost-com-unabomber-special-report-18dcdb376a3)
 	  collapsed:: true
 	  site:: [washingtonpost.com](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)

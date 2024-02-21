@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Introduction | GrapesJS](https://omnivore.app/me/introduction-grapes-js-18dccb23a7c)
+	  collapsed:: true
+	  site:: [grapesjs.com](https://grapesjs.com/docs/)
+	  date-saved:: [[Feb 21st, 2024]]
+	  date-published:: [[Jun 15th, 2023]]
 	- [13 Steps to Launch an Email Newsletter People Actually Read](https://omnivore.app/me/13-steps-to-launch-an-email-newsletter-people-actually-read-18dca6bdd95)
 	  collapsed:: true
 	  site:: [CreativeLive Blog](https://www.creativelive.com/blog/launch-email-newsletter/)
@@ -58,7 +63,7 @@
 	- [Draggable drawer on bottom - Quasar](https://omnivore.app/me/draggable-drawer-on-bottom-quasar-18dc8e19385)
 	  collapsed:: true
 	  site:: [codepen.io](https://codepen.io/pdanpdan/pen/ExPqZbK)
-	  date-saved:: [[Feb 20th, 2024]]
+	  date-saved:: [[Feb 21st, 2024]]
 	- [Bloom Filters](https://omnivore.app/me/bloom-filters-18dc86ded37)
 	  site:: [samwho.dev](https://samwho.dev/bloom-filters/)
 	  date-saved:: [[Feb 20th, 2024]]

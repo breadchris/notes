@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Research | Bowling Alone](https://omnivore.app/me/research-bowling-alone-18dc9bbe9d2)
+	  collapsed:: true
+	  site:: [bowlingalone.com](http://bowlingalone.com/?page_id=7)
+	  date-saved:: [[Feb 20th, 2024]]
+	- [Put your knowledge to work | Perch](https://omnivore.app/me/put-your-knowledge-to-work-perch-18dc994cb36)
+	  collapsed:: true
+	  site:: [Perch](https://joinperch.com)
+	  date-saved:: [[Feb 20th, 2024]]
+	- [Spline - 3D Design tool in the browser with real-time collaboration](https://omnivore.app/me/spline-3-d-design-tool-in-the-browser-with-real-time-collaborati-18dc98ecfda)
+	  collapsed:: true
+	  site:: [spline.design](https://spline.design)
+	  author:: Product Designer at Muck Rack@thelitheryd
+	  date-saved:: [[Feb 20th, 2024]]
 	- [Hi, I'm Adam.](https://omnivore.app/me/hi-i-m-adam-18dc9890dab)
 	  collapsed:: true
 	  site:: [noff.me](https://noff.me)

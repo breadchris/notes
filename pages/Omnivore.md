@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [washingtonpost.com: Unabomber Special Report](https://omnivore.app/me/washingtonpost-com-unabomber-special-report-18dcdb376a3)
+	  collapsed:: true
+	  site:: [washingtonpost.com](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
+	  date-saved:: [[Feb 21st, 2024]]
+	- [partykit/examples/blocknote at main · partykit/partykit](https://omnivore.app/me/partykit-examples-blocknote-at-main-partykit-partykit-18dcd97df48)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/partykit/partykit/tree/main/examples/blocknote)
+	  date-saved:: [[Feb 21st, 2024]]
 	- [Keep Track - 3D Satellite Toolkit](https://omnivore.app/me/keep-track-3-d-satellite-toolkit-18dcccd4ea9)
 	  collapsed:: true
 	  site:: [Keep Track - 3D Satellite Toolkit](https://www.keeptrack.space/app/)

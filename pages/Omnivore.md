@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [13 Steps to Launch an Email Newsletter People Actually Read](https://omnivore.app/me/13-steps-to-launch-an-email-newsletter-people-actually-read-18dca6bdd95)
+	  collapsed:: true
+	  site:: [CreativeLive Blog](https://www.creativelive.com/blog/launch-email-newsletter/)
+	  author:: Randle Browning
+	  date-saved:: [[Feb 20th, 2024]]
+	  date-published:: [[Feb 10th, 2016]]
+	- [How to Create an Email Newsletter People Actually Read](https://omnivore.app/me/how-to-create-an-email-newsletter-people-actually-read-18dca6bae82)
+	  collapsed:: true
+	  site:: [HubSpot](https://blog.hubspot.com/marketing/guide-creating-email-newsletters-ht)
+	  author:: Ginny Mineo
+	  date-saved:: [[Feb 20th, 2024]]
+	  date-published:: [[May 25th, 2022]]
 	- [Live Demos | Typesense](https://omnivore.app/me/live-demos-typesense-18dc9f947ec)
 	  collapsed:: true
 	  site:: [typesense.org](https://typesense.org/docs/overview/demos.html)

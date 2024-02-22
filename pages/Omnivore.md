@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [javascript - How to run `tsx` files on a browser directly without compiling? - Stack Overflow](https://omnivore.app/me/javascript-how-to-run-tsx-files-on-a-browser-directly-without-co-18dcf51031a)
+	  collapsed:: true
+	  site:: [Stack Overflow](https://stackoverflow.com/questions/76285899/how-to-run-tsx-files-on-a-browser-directly-without-compiling)
+	  author:: Hao-Jung Hsieh
+	  date-saved:: [[Feb 21st, 2024]]
+	- [> I don't understand what the problem is here. Every installation of Node comes ... | Hacker News](https://omnivore.app/me/i-don-t-understand-what-the-problem-is-here-every-installation-o-18dcf41509a)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=39463500)
+	  date-saved:: [[Feb 21st, 2024]]
 	- [basarat/typescript-book: :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹](https://omnivore.app/me/basarat-typescript-book-books-the-definitive-guide-to-type-scrip-18dcf1d12c9)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/basarat/typescript-book)

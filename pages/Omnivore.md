@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Superstars or Black Holes: Are Tech Clusters Causing Stagnation? - American Affairs Journal](https://omnivore.app/me/superstars-or-black-holes-are-tech-clusters-causing-stagnation-a-18dd257b4e9)
+	  collapsed:: true
+	  site:: [American Affairs Journal](https://americanaffairsjournal.org/2024/02/superstars-or-black-holes-are-tech-clusters-causing-stagnation/)
+	  author:: Brian J. Asquith
+	  date-saved:: [[Feb 22nd, 2024]]
+	  date-published:: [[Feb 19th, 2024]]
 	- [Packages supported by TinyGo | TinyGo](https://omnivore.app/me/packages-supported-by-tiny-go-tiny-go-18dcf7ae084)
 	  collapsed:: true
 	  site:: [tinygo.org](https://tinygo.org/docs/reference/lang-support/stdlib/)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [basarat/typescript-book: :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹](https://omnivore.app/me/basarat-typescript-book-books-the-definitive-guide-to-type-scrip-18dcf1d12c9)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/basarat/typescript-book)
+	  date-saved:: [[Feb 21st, 2024]]
 	- [Lessons from building and growing an open source SaaS | Plausible Analytics](https://omnivore.app/me/lessons-from-building-and-growing-an-open-source-saa-s-plausible-18dcec2809b)
 	  collapsed:: true
 	  site:: [Plausible Analytics](https://plausible.io/blog/building-open-source)

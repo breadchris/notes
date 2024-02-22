@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Lessons from building and growing an open source SaaS | Plausible Analytics](https://omnivore.app/me/lessons-from-building-and-growing-an-open-source-saa-s-plausible-18dcec2809b)
+	  collapsed:: true
+	  site:: [Plausible Analytics](https://plausible.io/blog/building-open-source)
+	  author:: Marko Saric
+	  date-saved:: [[Feb 21st, 2024]]
+	  date-published:: [[Dec 17th, 2020]]
+	- [Indie Hackers: Work Together to Build Profitable Online Businesses](https://omnivore.app/me/indie-hackers-work-together-to-build-profitable-online-businesse-18dcebd1754)
+	  collapsed:: true
+	  site:: [Indie Hackers](https://www.indiehackers.com)
+	  date-saved:: [[Feb 21st, 2024]]
+	- [The small web is beautiful](https://omnivore.app/me/the-small-web-is-beautiful-18dcebb75dd)
+	  collapsed:: true
+	  site:: [benhoyt.com](https://benhoyt.com/writings/the-small-web-is-beautiful/)
+	  author:: Ben Hoyt
+	  date-saved:: [[Feb 21st, 2024]]
 	- [Jailbreaking the Simulation with George Hotz | SXSW 2019](https://omnivore.app/me/https-www-youtube-com-watch-v-esxoaj-rdcw-q-18dcde00605)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=ESXOAJRdcwQ)

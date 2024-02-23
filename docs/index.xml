@@ -10,6 +10,15 @@
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free&#39;s top books</title>
+      <link>https://breadchris.com/frees-top-books/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/frees-top-books/</guid>
+      <description>Free is a YC founder who is very smart and handsome. Here are some of his favorite books:
+Designing Data Driven Applications by Martin Kleppmann - amazon
+Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers.</description>
+    </item>
+    <item>
+      <title>Free&#39;s top books</title>
       <link>https://breadchris.com/thinkies/frees-top-books/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/thinkies/frees-top-books/</guid>

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [dotchain/dot: distributed data sync with operational transformation/transforms](https://omnivore.app/me/dotchain-dot-distributed-data-sync-with-operational-transformati-18dd366d5a9)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/dotchain/dot?tab=readme-ov-file)
+	  date-saved:: [[Feb 22nd, 2024]]
 	- [E-Commerce Search Usability: An Original UX Research Study – Baymard Institute](https://omnivore.app/me/e-commerce-search-usability-an-original-ux-research-study-baymar-18dd3497784)
 	  collapsed:: true
 	  site:: [Baymard Institute](https://baymard.com/research/ecommerce-search)

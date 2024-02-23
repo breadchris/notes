@@ -18,6 +18,14 @@ Designing Data Driven Applications by Martin Kleppmann - amazon
 Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers.</description>
     </item>
     <item>
+      <title>go test</title>
+      <link>https://breadchris.com/thinkies/go-test/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/go-test/</guid>
+      <description>Testing gets a bad rap. It is usually the last step of developing a feature, when you are sure that your code runs fine. Have to keep that code codecov up. But, testing is important! How else will you know if your jenga tower of dependencies
+If you search &amp;ldquo; testing&amp;rdquo; on Google, it is quite revelaling. Let&amp;rsquo;s take a look at popular languages and what their library a commonly use for testing:</description>
+    </item>
+    <item>
       <title>NSFW</title>
       <link>https://breadchris.com/thinkies/nsfw/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>

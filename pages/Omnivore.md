@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Hacker News folk wisdom on visual programming – drossbucket](https://omnivore.app/me/hacker-news-folk-wisdom-on-visual-programming-drossbucket-18dd730fdd5)
+	  collapsed:: true
+	  site:: [drossbucket](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
+	  date-saved:: [[Feb 23rd, 2024]]
+	  date-published:: [[Jun 30th, 2021]]
 	- [24:56 - Time to focus!](https://omnivore.app/me/24-56-time-to-focus-18dd4d1a55b)
 	  collapsed:: true
 	  site:: [pomofocus.io](https://pomofocus.io)

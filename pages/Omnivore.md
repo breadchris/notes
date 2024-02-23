@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [E-Commerce Search Usability: An Original UX Research Study – Baymard Institute](https://omnivore.app/me/e-commerce-search-usability-an-original-ux-research-study-baymar-18dd3497784)
+	  collapsed:: true
+	  site:: [Baymard Institute](https://baymard.com/research/ecommerce-search)
+	  date-saved:: [[Feb 22nd, 2024]]
+	  date-published:: [[Jul 9th, 2023]]
+	- [practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://omnivore.app/me/practical-tutorials-project-based-learning-curated-list-of-proje-18dd336dda7)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)
+	  date-saved:: [[Feb 22nd, 2024]]
+	- [Learn JavaScript](https://omnivore.app/me/learn-java-script-18dd33649c5)
+	  collapsed:: true
+	  site:: [Learn JavaScript](https://learnjavascript.online)
+	  date-saved:: [[Feb 22nd, 2024]]
 	- [Superstars or Black Holes: Are Tech Clusters Causing Stagnation? - American Affairs Journal](https://omnivore.app/me/superstars-or-black-holes-are-tech-clusters-causing-stagnation-a-18dd257b4e9)
 	  collapsed:: true
 	  site:: [American Affairs Journal](https://americanaffairsjournal.org/2024/02/superstars-or-black-holes-are-tech-clusters-causing-stagnation/)

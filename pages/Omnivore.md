@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Elm changed my mind about unpopular languages | by Alexander Campbell | Real Kinetic Blog](https://omnivore.app/me/elm-changed-my-mind-about-unpopular-languages-by-alexander-campb-18dd4392f8a)
+	  collapsed:: true
+	  site:: [Real Kinetic Blog](https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834)
+	  author:: Alexander Campbell
+	  date-saved:: [[Feb 22nd, 2024]]
+	  date-published:: [[Feb 19th, 2018]]
+	- [Why I'm leaving Elm - lukeplant.me.uk](https://omnivore.app/me/why-i-m-leaving-elm-lukeplant-me-uk-18dd43889f2)
+	  collapsed:: true
+	  site:: [Luke Plant's home page](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
+	  author:: Luke Plant
+	  date-saved:: [[Feb 22nd, 2024]]
+	  date-published:: [[Apr 4th, 2020]]
+	- [WebAuthn Basic Web Client/Server · Herbie's Blog](https://omnivore.app/me/web-authn-basic-web-client-server-herbie-s-blog-18dd4346b9a)
+	  collapsed:: true
+	  site:: [herbie.dev](https://www.herbie.dev/blog/webauthn-basic-web-client-server/)
+	  author:: Herbie Bolimovsky
+	  date-saved:: [[Feb 22nd, 2024]]
+	  date-published:: [[Apr 15th, 2019]]
 	- [Retool Forms | Form to database, instantly](https://omnivore.app/me/retool-forms-form-to-database-instantly-18dd3b7ff29)
 	  collapsed:: true
 	  site:: [formtodb.com](https://www.formtodb.com)
@@ -2577,7 +2595,7 @@
 	- [Signal >> Blog >> Privacy is Priceless, but Signal is Expensive](https://omnivore.app/me/signal-blog-privacy-is-priceless-but-signal-is-expensive-18bd916b0ad)
 	  collapsed:: true
 	  site:: [Signal Messenger](https://signal.org/blog/signal-is-expensive/)
-	  date-saved:: [[Nov 16th, 2023]]
+	  date-saved:: [[Feb 22nd, 2024]]
 	- [ChucK => A Strongly-Timed Music Programming Language](https://omnivore.app/me/chuc-k-a-strongly-timed-music-programming-language-18bcc9be9d9)
 	  collapsed:: true
 	  site:: [chuck.stanford.edu](https://chuck.stanford.edu)

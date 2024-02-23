@@ -13,8 +13,8 @@
       <link>https://breadchris.com/thinkies/go-test/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/thinkies/go-test/</guid>
-      <description>Testing gets a bad rap. It is usually the last step of developing a feature, when you are sure that your code runs fine. Have to keep that code codecov up. But, testing is important! How else will you know if your jenga tower of dependencies
-If you search &amp;ldquo; testing&amp;rdquo; on Google, it is quite revelaling. Let&amp;rsquo;s take a look at popular languages and what their library a commonly use for testing:</description>
+      <description>Testing in software development often finds itself at the tail end of the feature development cycle, sometimes viewed as a necessary evil to uphold code coverage metrics rather than an integral part of the development process. However, the significance of testing cannot be overstated—the safety net ensures our towering stack of dependencies doesn&amp;rsquo;t collapse at the slightest touch.
+A quick Google search on &amp;ldquo; testing&amp;rdquo; unveils a fascinating landscape of testing frameworks across various programming languages.</description>
     </item>
     <item>
       <title>go run</title>

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Archive - Console by CodeSee.io](https://omnivore.app/me/archive-console-by-code-see-io-18dd7bd5211)
+	  collapsed:: true
+	  site:: [console.substack.com](https://console.substack.com/archive)
+	  author:: Ana Mogul
+	  date-saved:: [[Feb 23rd, 2024]]
+	  date-published:: [[Sep 3rd, 2023]]
 	- [Hacker News folk wisdom on visual programming – drossbucket](https://omnivore.app/me/hacker-news-folk-wisdom-on-visual-programming-drossbucket-18dd730fdd5)
 	  collapsed:: true
 	  site:: [drossbucket](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)

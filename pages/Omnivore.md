@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Retool Forms | Form to database, instantly](https://omnivore.app/me/retool-forms-form-to-database-instantly-18dd3b7ff29)
+	  collapsed:: true
+	  site:: [formtodb.com](https://www.formtodb.com)
+	  date-saved:: [[Feb 22nd, 2024]]
 	- [dotchain/dot: distributed data sync with operational transformation/transforms](https://omnivore.app/me/dotchain-dot-distributed-data-sync-with-operational-transformati-18dd366d5a9)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/dotchain/dot?tab=readme-ov-file)

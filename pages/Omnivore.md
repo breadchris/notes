@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [After 14 years in the industry, I still find programming difficult | Piglei](https://omnivore.app/me/after-14-years-in-the-industry-i-still-find-programming-difficul-18dd8f35d14)
+	  collapsed:: true
+	  site:: [piglei.com](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
+	  author:: piglei,piglei2007@gmail.com
+	  date-saved:: [[Feb 23rd, 2024]]
+	  date-published:: [[Feb 22nd, 2024]]
 	- [Learn PWA  |  web.dev](https://omnivore.app/me/learn-pwa-web-dev-18dd868d3b5)
 	  collapsed:: true
 	  site:: [web.dev](https://web.dev/learn/pwa/)

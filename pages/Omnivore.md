@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Learn PWA  |  web.dev](https://omnivore.app/me/learn-pwa-web-dev-18dd868d3b5)
+	  collapsed:: true
+	  site:: [web.dev](https://web.dev/learn/pwa/)
+	  date-saved:: [[Feb 23rd, 2024]]
+	- [Principles | Scuttlebutt](https://omnivore.app/me/principles-scuttlebutt-18dd859bff3)
+	  collapsed:: true
+	  site:: [Scuttlebutt](https://scuttlebutt.nz/docs/principles/)
+	  date-saved:: [[Feb 23rd, 2024]]
 	- [Archive - Console by CodeSee.io](https://omnivore.app/me/archive-console-by-code-see-io-18dd7bd5211)
 	  collapsed:: true
 	  site:: [console.substack.com](https://console.substack.com/archive)

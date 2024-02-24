@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Robust generic functions on slices - The Go Programming Language](https://omnivore.app/me/robust-generic-functions-on-slices-the-go-programming-language-18dd9eb8b18)
+	  collapsed:: true
+	  site:: [go.dev](https://go.dev/blog/generic-slice-functions)
+	  author:: Valentin Deleplace 22 February 2024
+	  date-saved:: [[Feb 23rd, 2024]]
+	- [Quality is a hard sell in big tech](https://omnivore.app/me/quality-is-a-hard-sell-in-big-tech-18dd9eb1d51)
+	  collapsed:: true
+	  site:: [pcloadletter.dev](https://www.pcloadletter.dev/blog/big-tech-quality/)
+	  date-saved:: [[Feb 23rd, 2024]]
+	  date-published:: [[Feb 22nd, 2024]]
 	- [After 14 years in the industry, I still find programming difficult | Piglei](https://omnivore.app/me/after-14-years-in-the-industry-i-still-find-programming-difficul-18dd8f35d14)
 	  collapsed:: true
 	  site:: [piglei.com](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)

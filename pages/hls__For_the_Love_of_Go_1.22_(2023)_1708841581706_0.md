@@ -81,3 +81,8 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 56
   hl-color:: yellow
   id:: 65dadfda-487a-4e6e-be86-fd283c950ba7
+- A great way to approach this is to think about it from the point of view of users of our software. Even if this is only a fun project for recreation or learning, and we don’t anti‐ cipate having any real users other than ourselves, we can use it as a thinking tool, and imagine what users would want to do with the software and how they’d like to interact with it.
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: yellow
+  id:: 65dae01d-6fce-4878-ba4a-4b5498ae8581

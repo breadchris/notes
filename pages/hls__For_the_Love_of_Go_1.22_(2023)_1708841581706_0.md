@@ -66,3 +66,18 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 31
   hl-color:: yellow
   id:: 65dade8d-a420-4594-b4b9-c1031bda047d
+- These are called documentation comments, because when you pub‐ lish your project to a hosting site such as GitHub, your comments will be automatic‐ ally turned into browsable documentation on the pkg.go.dev site.
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 65dadfaf-3078-4633-98ea-ec583d5cda18
+- Anything with such a name is available outside the package where it’s defined (we say it’s exported). If you define a type (or a function, a variable, or anything else) whose name starts with a lowercase letter (customer, for example), it is unexported and so you won’t be able to refer to it in code that’s outside this package (in a test, for example).
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 65dadfce-cfe4-4295-8544-091f6de522b4
+- You could think of exported names, with the initial capital letter, as identifying things that the package intends to be public, while the unexported names, with a lowercase initial letter, are private things that the package is going to use internally, but no one else needs to know about.
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 65dadfda-487a-4e6e-be86-fd283c950ba7

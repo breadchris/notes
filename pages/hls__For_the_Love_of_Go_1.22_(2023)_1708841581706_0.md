@@ -104,3 +104,13 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 184
   hl-color:: yellow
   id:: 65dae5bd-f590-49b6-802b-e9fee8a47212
+- Go itself is humble and pragmatic: it doesn’t have all the high‐tech features and theoretical advantages of some other lan‐ guages. Indeed, it deliberately leaves out many features that are big selling points of other languages. Its designers were less interested in creating an impressive program‐ ming language, or in topping popularity polls, than in giving people a small and simple tool for getting useful work done in the most practical and direct way possible
+  ls-type:: annotation
+  hl-page:: 186
+  hl-color:: yellow
+  id:: 65dae675-52dd-4868-9d54-d77d3ed19b35
+- A problem‐solving mindset is good, but problem eliminating is even better.
+  ls-type:: annotation
+  hl-page:: 187
+  hl-color:: yellow
+  id:: 65dae6b5-9f25-4406-a622-9e6761b90b8a

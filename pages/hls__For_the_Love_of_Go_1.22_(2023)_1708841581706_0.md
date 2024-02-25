@@ -94,3 +94,8 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
 	- ```go
 	  func TestBuy(t *testing.T) { t.Parallel() b := bookstore.Book{ Title: "Spark Joy", Author: "Marie Kondo", Copies: 2,} want := 1 result := bookstore.Buy(b) got := result.Copies if want != got { t.Errorf("want %d, got %d", want, got)}}
 	  ```
+- s there any way, then, to write a function that can modify a variable we pass to it? For example, we’d like to write a version of Double that will actually have an effect on x when we call Double(x). Instead of just taking a copy of the value of x at the moment of the function call, we want to pass Double some kind of reference to x. That way, Double could modify the original x directly. #go/book/pointers
+  ls-type:: annotation
+  hl-page:: 116
+  hl-color:: yellow
+  id:: 65dae432-8f1a-45a7-b81b-4563a9e1d11d

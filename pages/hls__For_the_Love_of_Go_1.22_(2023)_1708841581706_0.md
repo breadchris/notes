@@ -86,3 +86,11 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 61
   hl-color:: yellow
   id:: 65dae01d-6fce-4878-ba4a-4b5498ae8581
+- You now know everything you need to write the test for the “buy a book” story. It will follow the same basic structure that we used for the calculator tests: set up your in‐ puts and expectations (your want), call a function, and check the results (your got).
+  ls-type:: annotation
+  hl-page:: 64
+  hl-color:: yellow
+  id:: 65dae1b1-1c1e-4ae7-b97d-553795d7737d
+	- ```go
+	  func TestBuy(t *testing.T) { t.Parallel() b := bookstore.Book{ Title: "Spark Joy", Author: "Marie Kondo", Copies: 2,} want := 1 result := bookstore.Buy(b) got := result.Copies if want != got { t.Errorf("want %d, got %d", want, got)}}
+	  ```

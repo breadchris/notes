@@ -99,3 +99,8 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 116
   hl-color:: yellow
   id:: 65dae432-8f1a-45a7-b81b-4563a9e1d11d
+- It means that we184 write code for human beings, not for computers. Those humans are fallible, impatient, inexperienced, inattentive, and in every other way imperfect. We can make their lives(and jobs) considerably easier by putting some thought into the design and detail of our Go code.
+  ls-type:: annotation
+  hl-page:: 184
+  hl-color:: yellow
+  id:: 65dae5bd-f590-49b6-802b-e9fee8a47212

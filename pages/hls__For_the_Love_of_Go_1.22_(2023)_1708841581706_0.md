@@ -35,3 +35,14 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 14
   hl-color:: yellow
   id:: 65dadc55-a1af-4e95-a874-7853f7be92d0
+- First, it must be in a file whose name ends in _test.go (there can be multiple tests in the same file). Go uses this filename pattern to recognise source code files that contain tests. Also, the name of a test function must begin with the word Test, or Go won’t recognise it as a test. It also has to accept a parameter whose type is *testing.T. Don’t worry about exactly what this is for the moment; think of it as the thing that allows us to con‐ trol the outcome of the test. #go/book/test
+  hl-page:: 22
+  ls-type:: annotation
+  id:: 65dadcce-c514-4ad8-af60-f2f5c7789534
+  hl-color:: yellow
+-
+- Takeaways• The go mod init command initialises a new Go project folder.• The go test command runs tests for a Go package.• The gofmt command will check Go code for standard formatting and fix it if ne‐ cessary.• A function declaration announces the name of a new function, and lists the para‐ meters it takes, along with any results it returns.• Whenever a Go test fails, it shows the exact file and line where the failure happened, as well as what failed.• The import keyword tells Go what other packages we want to use in this particu‐ lar Go file.• The testing package is part of Go’s standard library, and it provides everything we need to write and run tests.• The names of test functions begin with the word Test, and they take a *testing.T parameter which lets us control the test execution.• Use the want and got pattern to structure tests: express what result you want, and then compare it with what you got from calling the function under test.• We can call t.Errorf to cause the test to fail with a message, and if we don’t do that, the test will pass by default.25• An if statement is used to take some action (for example, fail the test) if some condition is true (for example, want doesn’t match got).
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: yellow
+  id:: 65dadd5f-66bc-492e-9db0-5ce154a6be7e

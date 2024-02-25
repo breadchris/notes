@@ -520,4 +520,4 @@
                           :page 64},
                :content {:text "You now know everything you need to write the test for the “buy a book” story. It will follow the same basic structure that we used for the calculator tests: set up your in‐ puts and expectations (your want), call a function, and check the results (your got)."},
                :properties {:color "yellow"}}],
- :extra {:page 79}}
+ :extra {:page 106}}

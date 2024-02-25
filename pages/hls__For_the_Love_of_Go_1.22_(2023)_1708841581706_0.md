@@ -46,3 +46,23 @@ file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
   hl-page:: 25
   hl-color:: yellow
   id:: 65dadd5f-66bc-492e-9db0-5ce154a6be7e
+- First, we need to change the name of the test, because Go doesn’t allow us to have two functions with the same name in the same package. We’ll change the name to TestMultiply.
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 65dadd8f-e936-4b1d-9f7e-8af199654709
+- These are sometimes called30 table tests, because they represent the test data as a table of inputs together with their expected results.
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: yellow
+  id:: 65dade69-960c-49f9-b5a4-64ab109d6f8b
+- If you already have some experience of Go, you may be familiar with the notion of a slice: it’s just Go’s name for a bunch of things. In some languages this is called an array, but it’s the same idea whatever we call it: a sequence of values of the same type.
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: yellow
+  id:: 65dade81-04c5-4698-b200-6d54ac99ea27
+- struct is Go’s name for a structured data type: that is, some‐ thing that contains multiple different bits of information, united into a single record.
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: yellow
+  id:: 65dade8d-a420-4594-b4b9-c1031bda047d

@@ -6,8 +6,16 @@
     <description>Recent content in thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>finding a balance while coding</title>
+      <link>https://breadchris.com/thinkies/finding-a-balance-while-coding/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/finding-a-balance-while-coding/</guid>
+      <description>When coding, have you ever stopped to ask the question: why am I doing this? Maybe it is a fleeting thought before you return to squeezing out a few more milliseconds on your page load.
+As creators of software and websites, we often get caught up in the never-ending pursuit of optimization. We constantly strive to make our code more efficient, our algorithms faster, and our page load times shorter. But in our relentless quest for optimization, we may lose sight of the bigger picture.</description>
+    </item>
     <item>
       <title>Free&#39;s top books</title>
       <link>https://breadchris.com/thinkies/frees-top-books/</link>

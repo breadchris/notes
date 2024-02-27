@@ -1,4 +1,23 @@
 ## 🔖 Articles
+	- [HN: the good parts](https://omnivore.app/me/hn-the-good-parts-18dea017cf1)
+	  collapsed:: true
+	  site:: [danluu.com](https://danluu.com/hn-comments/)
+	  date-saved:: [[Feb 27th, 2024]]
+	- [How (some) good corporate engineering blogs are written](https://omnivore.app/me/how-some-good-corporate-engineering-blogs-are-written-18de9fff5f6)
+	  collapsed:: true
+	  site:: [danluu.com](https://danluu.com/corp-eng-blogs/)
+	  date-saved:: [[Feb 27th, 2024]]
+	- [Against Copyright · Gwern.net](https://omnivore.app/me/against-copyright-gwern-net-18de9fd7c21)
+	  collapsed:: true
+	  site:: [gwern.net](https://gwern.net/copyright)
+	  author:: Gwern Branwen
+	  date-saved:: [[Feb 27th, 2024]]
+	  date-published:: [[Sep 25th, 2008]]
+	- [Go Class](https://omnivore.app/me/https-youtube-com-playlist-list-p-lo-i-lb-ko-9-r-g-3-sk-r-cj-37--18de9e18dfc)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6&si=aAlr_jGytFC9IHyQ)
+	  author:: Matt KØDVB
+	  date-saved:: [[Feb 27th, 2024]]
 	- [Unsafe string interning in Go · Matt Layher](https://omnivore.app/me/unsafe-string-interning-in-go-matt-layher-18de7658b03)
 	  collapsed:: true
 	  site:: [Matt Layher - mdlayher.com](https://mdlayher.com/blog/unsafe-string-interning-in-go/)

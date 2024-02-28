@@ -34,7 +34,7 @@
  ;; Disable Built-in Scheduled and deadline Query
  ;; :feature/disable-scheduled-and-deadline-query? true
 
- ;; Specify the date on which the week starts.
+ ;; Specify the date on w no hich the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
  :start-of-week 6
 
@@ -209,7 +209,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["business-ideas" "blog" "How to take dummy notes?"]
+ :favorites ["jan 9th, 2023" "business-ideas" "blog" "How to take dummy notes?"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -227,7 +227,7 @@
  :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 3}, :checkbox {:counts 0}, :parentheses {:counts 0}, :command {:counts 0}, :calendar {:counts 0}, :paint {:counts 0}, :list {:counts 0}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 6}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 0}, :rotate-clockwise {:counts 0}}
  :feature/enable-whiteboards? true
  :file/name-format :triple-lowbar
- :graph/settings {:builtin-pages? false, :journal? false}
+ :graph/settings {:builtin-pages? true, :journal? true}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

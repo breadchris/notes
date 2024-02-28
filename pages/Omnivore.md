@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Something you probably want to know about if you’re using SQLite in Golang - Turso Blog](https://omnivore.app/me/something-you-probably-want-to-know-about-if-you-re-using-sq-lit-18df00aca9e)
+	  collapsed:: true
+	  site:: [Turso Blog](https://blog.turso.tech/something-you-probably-want-to-know-about-if-youre-using-sqlite-in-golang-72547ad625f1)
+	  date-saved:: [[Feb 28th, 2024]]
+	  date-published:: [[Aug 2nd, 2023]]
 	- [steve yegge - you-should-write-blogs](https://omnivore.app/me/steve-yegge-you-should-write-blogs-18def893f00)
 	  collapsed:: true
 	  site:: [sites.google.com](https://sites.google.com/site/steveyegge2/you-should-write-blogs?pli=1)

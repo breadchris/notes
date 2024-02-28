@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Senior Security Engineer, Anti-Abuse, Product Security | Engineering | Snowflake Careers](https://omnivore.app/me/senior-security-engineer-anti-abuse-product-security-engineering-18def524d6d)
+	  collapsed:: true
+	  site:: [Snowflake Careers](https://careers.snowflake.com/us/en/job/6902289002/Senior-Security-Engineer-Anti-Abuse-Product-Security)
+	  date-saved:: [[Feb 28th, 2024]]
+	- [Senior Software Engineer, Fundamental Security Services, Product Security job in Bellevue, Washington, USA | Engineering jobs at Snowflake](https://omnivore.app/me/senior-software-engineer-fundamental-security-services-product-s-18def49af08)
+	  collapsed:: true
+	  site:: [Snowflake Careers](https://careers.snowflake.com/us/en/job/6920362002/Senior-Software-Engineer-Fundamental-Security-Services-Product-Security)
+	  date-saved:: [[Feb 28th, 2024]]
+	- [Senior Software Engineer, Secret Management: Product Security job in Bellevue, Washington, USA | Engineering jobs at Snowflake](https://omnivore.app/me/senior-software-engineer-secret-management-product-security-job--18def461969)
+	  collapsed:: true
+	  site:: [Snowflake Careers](https://careers.snowflake.com/us/en/job/6765265002/Senior-Software-Engineer-Secret-Management-Product-Security)
+	  date-saved:: [[Feb 28th, 2024]]
 	- [HN: the good parts](https://omnivore.app/me/hn-the-good-parts-18dea017cf1)
 	  collapsed:: true
 	  site:: [danluu.com](https://danluu.com/hn-comments/)

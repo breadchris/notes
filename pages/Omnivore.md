@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Making SQLite faster in Go by Sandro Turriate](https://omnivore.app/me/making-sq-lite-faster-in-go-by-sandro-turriate-18df04b0e62)
+	  collapsed:: true
+	  site:: [Sandro Turriate](https://turriate.com/articles/making-sqlite-faster-in-go)
+	  labels:: [[go]][[sqlite]]
+	  date-saved:: [[Feb 28th, 2024]]
+	  date-published:: [[Dec 30th, 2020]]
 	- [Something you probably want to know about if you’re using SQLite in Golang - Turso Blog](https://omnivore.app/me/something-you-probably-want-to-know-about-if-you-re-using-sq-lit-18df00aca9e)
 	  collapsed:: true
 	  site:: [Turso Blog](https://blog.turso.tech/something-you-probably-want-to-know-about-if-youre-using-sqlite-in-golang-72547ad625f1)

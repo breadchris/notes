@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [steve yegge - you-should-write-blogs](https://omnivore.app/me/steve-yegge-you-should-write-blogs-18def893f00)
+	  collapsed:: true
+	  site:: [sites.google.com](https://sites.google.com/site/steveyegge2/you-should-write-blogs?pli=1)
+	  date-saved:: [[Feb 28th, 2024]]
 	- [Senior Security Engineer, Anti-Abuse, Product Security | Engineering | Snowflake Careers](https://omnivore.app/me/senior-security-engineer-anti-abuse-product-security-engineering-18def524d6d)
 	  collapsed:: true
 	  site:: [Snowflake Careers](https://careers.snowflake.com/us/en/job/6902289002/Senior-Security-Engineer-Anti-Abuse-Product-Security)

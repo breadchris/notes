@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [A Case for Password Hashing With Delegation | Latacora](https://omnivore.app/me/a-case-for-password-hashing-with-delegation-latacora-18df5cac0af)
+	  collapsed:: true
+	  site:: [latacora.com](https://www.latacora.com/blog/2023/12/22/case-for-password-hashing/)
+	  date-saved:: [[Feb 29th, 2024]]
+	  date-published:: [[Dec 22nd, 2023]]
 	- [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](https://omnivore.app/me/stop-using-jwt-for-sessions-part-2-why-your-solution-doesn-t-wor-18df56701e9)
 	  collapsed:: true
 	  site:: [cryto.net](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)

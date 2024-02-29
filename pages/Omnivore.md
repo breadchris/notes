@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](https://omnivore.app/me/stop-using-jwt-for-sessions-part-2-why-your-solution-doesn-t-wor-18df56701e9)
+	  collapsed:: true
+	  site:: [cryto.net](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
+	  date-saved:: [[Feb 29th, 2024]]
+	  date-published:: [[Jun 18th, 2016]]
+	- [JWT should not be your default for sessions](https://omnivore.app/me/jwt-should-not-be-your-default-for-sessions-18df565f669)
+	  collapsed:: true
+	  site:: [evertpot.com](https://evertpot.com/jwt-is-a-bad-default/)
+	  date-saved:: [[Feb 29th, 2024]]
+	  date-published:: [[May 9th, 2021]]
+	- [Ten Years of “Go: The Good, the Bad, and the Meh” · The Ethically-Trained Programmer](https://omnivore.app/me/ten-years-of-go-the-good-the-bad-and-the-meh-the-ethically-train-18df565739f)
+	  collapsed:: true
+	  site:: [blog.carlana.net](https://blog.carlana.net/post/2023/ten-years-of-go-good-bad-meh/)
+	  date-saved:: [[Feb 29th, 2024]]
+	  date-published:: [[Jul 17th, 2023]]
 	- [Tailwind 3.0 Audio Player](https://omnivore.app/me/tailwind-3-0-audio-player-18df49898d3)
 	  collapsed:: true
 	  site:: [codepen.io](https://codepen.io/serversideup/pen/Vwrgoea)

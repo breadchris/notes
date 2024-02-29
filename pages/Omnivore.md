@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Tailwind 3.0 Audio Player](https://omnivore.app/me/tailwind-3-0-audio-player-18df49898d3)
+	  collapsed:: true
+	  site:: [codepen.io](https://codepen.io/serversideup/pen/Vwrgoea)
+	  date-saved:: [[Feb 29th, 2024]]
+	- [Toast by Heywood Banks](https://omnivore.app/me/https-www-youtube-com-watch-v-u-oonl-p-we-ggs-18df491b115)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=uOonlPWeGgs)
+	  author:: The BOB & TOM Show
+	  date-saved:: [[Feb 29th, 2024]]
 	- [The StoryGraph | Because life's too short for a book you're not in the mood for](https://omnivore.app/me/the-story-graph-because-life-s-too-short-for-a-book-you-re-not-i-18df1ba256d)
 	  collapsed:: true
 	  site:: [thestorygraph.com](https://thestorygraph.com)

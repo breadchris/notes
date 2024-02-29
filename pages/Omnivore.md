@@ -1,4 +1,31 @@
 ## 🔖 Articles
+	- [Campsite — A better way to collaborate](https://omnivore.app/me/campsite-a-better-way-to-collaborate-18df6f87486)
+	  collapsed:: true
+	  site:: [Campsite](https://www.campsite.co)
+	  date-saved:: [[Feb 29th, 2024]]
+	- [siderea | How to Compete with Patreon [New Media, Tech, Patreon]](https://omnivore.app/me/siderea-how-to-compete-with-patreon-new-media-tech-patreon-18df6eb47b3)
+	  collapsed:: true
+	  site:: [siderea.dreamwidth.org](https://siderea.dreamwidth.org/1824441.html)
+	  date-saved:: [[Feb 29th, 2024]]
+	- [You’ve just
+	  inherited a legacy C++ codebase, now what?](https://omnivore.app/me/you-inherited-a-legacy-cpp-codebase-now-what-18df6a59dc8)
+	  collapsed:: true
+	  site:: [gaultier.github.io](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
+	  date-saved:: [[Feb 29th, 2024]]
+	- [Webmention.io](https://omnivore.app/me/webmention-io-18df6443b4f)
+	  collapsed:: true
+	  site:: [webmention.io](https://webmention.io)
+	  date-saved:: [[Feb 29th, 2024]]
+	- [Bridgy](https://omnivore.app/me/bridgy-18df643e1e1)
+	  collapsed:: true
+	  site:: [brid.gy](https://brid.gy)
+	  date-saved:: [[Feb 29th, 2024]]
+	- [Advent of Technical Writing: Jargon | James' Coffee Blog](https://omnivore.app/me/advent-of-technical-writing-jargon-james-coffee-blog-18df641b140)
+	  collapsed:: true
+	  site:: [jamesg.blog](https://jamesg.blog/2023/12/22/jargon/)
+	  author:: James' Coffee Blog ☕
+	  date-saved:: [[Feb 29th, 2024]]
+	  date-published:: [[Dec 21st, 2023]]
 	- [A Case for Password Hashing With Delegation | Latacora](https://omnivore.app/me/a-case-for-password-hashing-with-delegation-latacora-18df5cac0af)
 	  collapsed:: true
 	  site:: [latacora.com](https://www.latacora.com/blog/2023/12/22/case-for-password-hashing/)
@@ -200,7 +227,7 @@
 	  collapsed:: true
 	  site:: [Luke Plant's home page](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 	  author:: Luke Plant
-	  date-saved:: [[Feb 22nd, 2024]]
+	  date-saved:: [[Feb 29th, 2024]]
 	  date-published:: [[Apr 4th, 2020]]
 	- [WebAuthn Basic Web Client/Server · Herbie's Blog](https://omnivore.app/me/web-authn-basic-web-client-server-herbie-s-blog-18dd4346b9a)
 	  collapsed:: true

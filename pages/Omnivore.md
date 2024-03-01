@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [0x10 rules](https://omnivore.app/me/0-x-10-rules-18df9c7c3d6)
+	  collapsed:: true
+	  site:: [fabiensanglard.net](https://fabiensanglard.net/ilike/index.html)
+	  date-saved:: [[Mar 1st, 2024]]
+	  date-published:: [[May 6th, 2020]]
+	- [The internet turned into a crowded mall. Now you need a corner shop. | Pith & Pip](https://omnivore.app/me/the-internet-turned-into-a-crowded-mall-now-you-need-a-corner-sh-18df9374aa1)
+	  collapsed:: true
+	  site:: [pithandpip.com](https://pithandpip.com/blog/15-minute-internet)
+	  date-saved:: [[Mar 1st, 2024]]
+	- [Introducing Struct: a feed-centric chat platform - Struct](https://omnivore.app/me/introducing-struct-a-feed-centric-chat-platform-struct-18df93629f0)
+	  collapsed:: true
+	  site:: [struct.ai](https://struct.ai/blog/introducing-the-struct-chat-platform)
+	  date-saved:: [[Mar 1st, 2024]]
+	  date-published:: [[Feb 27th, 2024]]
 	- [How SQLite Scales Read Concurrency · The Fly Blog](https://omnivore.app/me/how-sq-lite-scales-read-concurrency-the-fly-blog-18df75bfafd)
 	  collapsed:: true
 	  site:: [Fly](https://fly.io/blog/sqlite-internals-wal/)

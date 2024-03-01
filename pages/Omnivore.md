@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Niche Museums: Find tiny museums near you](https://omnivore.app/me/niche-museums-find-tiny-museums-near-you-18dfa37719a)
+	  collapsed:: true
+	  site:: [niche-museums.com](https://www.niche-museums.com)
+	  date-saved:: [[Mar 1st, 2024]]
+	  date-published:: [[Apr 20th, 2023]]
 	- [0x10 rules](https://omnivore.app/me/0-x-10-rules-18df9c7c3d6)
 	  collapsed:: true
 	  site:: [fabiensanglard.net](https://fabiensanglard.net/ilike/index.html)

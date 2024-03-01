@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [How SQLite Scales Read Concurrency · The Fly Blog](https://omnivore.app/me/how-sq-lite-scales-read-concurrency-the-fly-blog-18df75bfafd)
+	  collapsed:: true
+	  site:: [Fly](https://fly.io/blog/sqlite-internals-wal/)
+	  date-saved:: [[Feb 29th, 2024]]
+	  date-published:: [[Aug 23rd, 2022]]
 	- [Campsite — A better way to collaborate](https://omnivore.app/me/campsite-a-better-way-to-collaborate-18df6f87486)
 	  collapsed:: true
 	  site:: [Campsite](https://www.campsite.co)

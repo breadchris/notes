@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Boundaries](https://omnivore.app/me/boundaries-18dff44a20e)
+	  collapsed:: true
+	  site:: [destroyallsoftware.com](https://www.destroyallsoftware.com/talks/boundaries)
+	  date-saved:: [[Mar 2nd, 2024]]
+	- [A composable pattern for pure state machines with effects (draft v3)](https://omnivore.app/me/a-composable-pattern-for-pure-state-machines-with-effects-draft--18dff441a7e)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2)
+	  date-saved:: [[Mar 2nd, 2024]]
+	- [Composable Architecture](https://omnivore.app/me/composable-architecture-18dff436acb)
+	  collapsed:: true
+	  site:: [pointfree.co](https://www.pointfree.co/collections/composable-architecture)
+	  date-saved:: [[Mar 2nd, 2024]]
 	- [Curations - Stunning Tools, served daily](https://omnivore.app/me/curations-stunning-tools-served-daily-18dfba23c51)
 	  collapsed:: true
 	  site:: [Curations](https://www.curations.tech/?category=development)

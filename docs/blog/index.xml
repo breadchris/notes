@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sensible web stack decisions</title>
+      <link>https://breadchris.com/blog/sensible-web-stack-decisions/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/sensible-web-stack-decisions/</guid>
+      <description>I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &amp;ldquo;principled&amp;rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &amp;ldquo;modern&amp;rdquo; approach.</description>
+    </item>
     <item>
       <title>take notes to understand your language</title>
       <link>https://breadchris.com/blog/take-notes-to-understand-your-language/</link>

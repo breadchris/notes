@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>sensible web stack decisions | breadchris</title>
+<meta name="keywords" content="blog/post, web">
+<meta name="description" content="I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &ldquo;principled&rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &ldquo;modern&rdquo; approach.">
+<meta name="author" content="breadchris">
+<link rel="canonical" href="https://breadchris.com/blog/sensible-web-stack-decisions/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.7d0dbc7bebc97247baddbf44f81f3261912c9f64c3f03500922375b9988f4ea9.css" integrity="sha256-fQ28e&#43;vJcke63b9E&#43;B8yYZEsn2TD8DUAkiN1uZiPTqk=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://breadchris.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://breadchris.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://breadchris.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><script defer data-domain="breadchris.com" src="https://plausible.io/js/script.js"></script><meta property="og:title" content="sensible web stack decisions" />
+<meta property="og:description" content="I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &ldquo;principled&rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &ldquo;modern&rdquo; approach." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://breadchris.com/blog/sensible-web-stack-decisions/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-03-02T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-03-02T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="sensible web stack decisions"/>
+<meta name="twitter:description" content="I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &ldquo;principled&rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &ldquo;modern&rdquo; approach."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Blogs",
+      "item": "https://breadchris.com/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "sensible web stack decisions",
+      "item": "https://breadchris.com/blog/sensible-web-stack-decisions/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "sensible web stack decisions",
+  "name": "sensible web stack decisions",
+  "description": "I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the \u0026ldquo;principled\u0026rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a \u0026ldquo;modern\u0026rdquo; approach.",
+  "keywords": [
+    "blog/post", "web"
+  ],
+  "articleBody": "I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the “principled” stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a “modern” approach. Yes, you can still write HTML on your Apache server to get the job done, but there is significant value in understanding how to leverage something like React. Here are some technologies that I value not just for their tech but also philosophy:\nTailwind CSS I didn’t want to like it, but it is the right tool for styling components. Early reluctance came from the unreadable HTML Tailwind class names, I just wanted stupidly simple Bootstrap. My opinions changed when I read the blog post and then the book. It predates the library and discusses rules for styling sites that make sense. The artifact of the book is Tailwind CSS, a utility CSS framework that feels more like a design language for HTML. On top of this, I found the Bootstrap class names I was looking for with DaisyUI. Together these tools are simply CSS, and allow for a robust design experience that will continue to work well into the future. There are reasonable criticisms, but I believe something like Tailwind is the future.\nesbuild I don’t enjoy writing Javascript. Connecting data and code dependencies together feels brittle. There is a distinct absence of coherent design principles vital to a language’s health. But holy crap, it is incredible what you can do with it. When working with a lot of JS, you need a bundler. I started cargo-culting bundling setups from other projects and found Webpack too slow and Babel transpalation configs incredibly confusing. Parcel, Vite, and Rollup, made their rounds as the shiny JS libraries of the week and looking under the hood I found the holy grail of JS build systems, esbuild. As a Go elitist, esbuild was poetry to me. The docs told me everything I needed to know about configuring my project. Building and hot reloading are fast. God bless you evanw, you are doing the Lord’s work.\nReact I think React is the best option for building stateful JS apps. The library options (with types) that exist for React vs Vue or Svelte are just better, and I think that is the most essential attribute. I have used Vue before, and it was okay, but I enjoy the functional way of thinking that React encourages. I was all about Svelte initially. But the decision to move from using Typescript to JSDoc was symbolic to me that it is not a project that is forward thinking. I reluctantly returned to React. I dream to use something like reasonml, elm, purescript, but there are a handful of reasons these aren’t great choices today.\nhtmx I remember initially seeing the site and not understanding, but later read the book and had my mind blown. The intro might be boring to most, but I found it quite profound in explaining how we missed some core ideas of REST by making endpoints only return JSON. You can get more “reactivity” from your app by simply returning HTML than you think, and you don’t have to manage an entire SPA to get it. I have hesitations regarding vigorously typing the view and controller layers, but I have been theorizing some solutions (most recently, I have been playing with templ).\nIf you find your builds slow or code to be a burden to write, something better might exist. Just because I, a random programmer from the Internet, say that this tech works for me doesn’t mean it will work for you and your particular project constraints. This stack of technology, however, was explicitly curated to work for the most significant number of use cases I could think of.\nPS: Here are some great resources I frequent when writing web apps for my stack of tech choices:\nTailwind Cheatsheet\nDaisyUI Docs\nHeroicons\nA Complete Guide to Flexbox\n",
+  "wordCount" : "715",
+  "inLanguage": "en",
+  "datePublished": "2024-03-02T00:00:00Z",
+  "dateModified": "2024-03-02T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "breadchris"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://breadchris.com/blog/sensible-web-stack-decisions/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "breadchris",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://breadchris.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://breadchris.com" accesskey="h" title="breadchris (Alt + H)">breadchris</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://breadchris.com/blog" title="blog">
+                    <span>blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/resume" title="resume">
+                    <span>resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/tags/" title="tags">
+                    <span>tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/talks" title="talks">
+                    <span>talks</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/thinkies" title="thinkies">
+                    <span>thinkies</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      sensible web stack decisions
+    </h1>
+    <div class="post-meta"><span title='2024-03-02 00:00:00 +0000 UTC'>March 2, 2024</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;breadchris
+
+</div>
+  </header> 
+  <div class="post-content"><p>I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &ldquo;principled&rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &ldquo;modern&rdquo; approach. Yes, you can still write HTML on your Apache server to get the job done, but there is significant value in understanding how to leverage something like React. Here are some technologies that I value not just for their tech but also philosophy:</p>
+<h2 id="tailwind-csshttpstailwindcsscom"><a href="https://tailwindcss.com/">Tailwind CSS</a><a hidden class="anchor" aria-hidden="true" href="#tailwind-csshttpstailwindcsscom">#</a></h2>
+<p>I didn&rsquo;t want to like it, but it is the right tool for styling components. Early reluctance came from the unreadable HTML Tailwind class names, I just wanted stupidly simple Bootstrap. My opinions changed when I read <a href="https://adamwathan.me/css-utility-classes-and-separation-of-concerns/">the blog post</a> and then <a href="https://www.refactoringui.com/?ref=resources">the book</a>. It predates the library and discusses rules for styling sites that make sense. The artifact of the book is Tailwind CSS, a utility CSS framework that feels more like a design language for HTML. On top of this, I found the Bootstrap class names I was looking for with <a href="https://daisyui.com/">DaisyUI</a>. Together these tools are simply CSS, and allow for a robust design experience that will continue to work well into the future. There are reasonable <a href="https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/">criticisms,</a> but I believe something like Tailwind is the future.</p>
+<h2 id="esbuildhttpsesbuildgithubio"><a href="https://esbuild.github.io/">esbuild</a><a hidden class="anchor" aria-hidden="true" href="#esbuildhttpsesbuildgithubio">#</a></h2>
+<p>I don&rsquo;t enjoy writing Javascript. Connecting data and code dependencies together feels brittle. There is a distinct absence of coherent design principles vital to a language&rsquo;s health. But holy crap, it is incredible what you can do with it. When working with a lot of JS, you need a bundler. I started cargo-culting bundling setups from other projects and found Webpack too slow and Babel transpalation configs incredibly confusing. Parcel, Vite, and Rollup, made their rounds as the shiny JS libraries of the week and looking under the hood I found the holy grail of JS build systems, esbuild. As a Go elitist, esbuild was poetry to me. The docs told me everything I needed to know about <a href="https://github.com/justshare-io/justshare/blob/main/js/esbuild.mjs">configuring my project</a>. Building and hot reloading are fast. God bless you <a href="https://github.com/evanw">evanw</a>, you are doing the Lord&rsquo;s work.</p>
+<h2 id="reacthttpsreactdev"><a href="https://react.dev/">React</a><a hidden class="anchor" aria-hidden="true" href="#reacthttpsreactdev">#</a></h2>
+<p>I think React is the best option for building stateful JS apps. The library options (with types) that exist for React vs Vue or Svelte are just better, and I think that is the most essential attribute. I have used Vue before, and it was okay, but I enjoy the functional way of thinking that React encourages. I was all about Svelte initially. But the decision to move from using <a href="https://github.com/sveltejs/svelte/pull/8569">Typescript to JSDoc</a> was symbolic to me that it is not a project that is forward thinking. I reluctantly returned to React. I dream to use something like <a href="https://reasonml.github.io/">reasonml</a>, <a href="https://elm-lang.org/">elm</a>, <a href="https://www.purescript.org/">purescript</a>, but there are a handful of reasons these aren&rsquo;t great choices today.</p>
+<h2 id="htmxhttpshtmxorg"><a href="https://htmx.org/">htmx</a><a hidden class="anchor" aria-hidden="true" href="#htmxhttpshtmxorg">#</a></h2>
+<p>I remember initially seeing the site and not understanding, but later <a href="https://hypermedia.systems/">read the book</a> and had my mind blown. The intro might be boring to most, but I found it quite profound in explaining how we missed some core ideas of REST by making endpoints only return JSON. You can get more &ldquo;reactivity&rdquo; from your app by simply returning HTML than you think, and you don&rsquo;t have to manage an entire SPA to get it. I have hesitations regarding vigorously typing the view and controller layers, but I have been theorizing some solutions (most recently, I have been playing with <a href="https://templ.guide/">templ</a>).</p>
+<p>If you find your builds slow or code to be a burden to write, something better might exist. Just because I, a random programmer from the Internet, say that this tech works for me doesn&rsquo;t mean it will work for you and your particular project constraints. This stack of technology, however, was explicitly curated to work for the most significant number of use cases I could think of.</p>
+<p>PS: Here are some great resources I frequent when writing web apps for my stack of tech choices:</p>
+<ul>
+<li>
+<p><a href="https://tailwindcomponents.com/cheatsheet/">Tailwind Cheatsheet</a></p>
+</li>
+<li>
+<p><a href="https://daisyui.com/docs/install/">DaisyUI Docs</a></p>
+</li>
+<li>
+<p><a href="https://heroicons.com/">Heroicons</a></p>
+</li>
+<li>
+<p><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a></p>
+</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://breadchris.com/tags/blog/post/">blog/post</a></li>
+      <li><a href="https://breadchris.com/tags/web/">web</a></li>
+    </ul>
+    <form
+            action="https://buttondown.email/api/emails/embed-subscribe/breadchris"
+            method="post"
+            target="popupwindow"
+            onsubmit="window.open('https://buttondown.email/breadchris', 'popupwindow')"
+            class="embeddable-buttondown-form"
+    >
+      <input class="input" type="email" name="email" id="bd-input" placeholder="join the email list" />
+      <input class="btn" type="submit" id="bd-submit" value="Subscribe" />
+    </form>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="https://breadchris.com">breadchris</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

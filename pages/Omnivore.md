@@ -1,4 +1,27 @@
 ## 🔖 Articles
+	- [sqlite-diffable - a tool for Datasette](https://omnivore.app/me/sqlite-diffable-a-tool-for-datasette-18e04272bd1)
+	  collapsed:: true
+	  site:: [datasette.io](https://datasette.io/tools/sqlite-diffable)
+	  date-saved:: [[Mar 3rd, 2024]]
+	- [Tracking SQLite Database Changes in Git | Garrit's Notes](https://omnivore.app/me/tracking-sq-lite-database-changes-in-git-garrit-s-notes-18e04268c2b)
+	  collapsed:: true
+	  site:: [garrit.xyz](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
+	  date-saved:: [[Mar 3rd, 2024]]
+	  date-published:: [[Oct 31st, 2023]]
+	- [CS 6120: The Self-Guided Course](https://omnivore.app/me/cs-6120-the-self-guided-course-18e0422b95d)
+	  collapsed:: true
+	  site:: [cs.cornell.edu](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
+	  date-saved:: [[Mar 3rd, 2024]]
+	- [Primate - Polymorphic development platform](https://omnivore.app/me/primate-polymorphic-development-platform-18e035054a7)
+	  collapsed:: true
+	  site:: [primatejs.com](https://primatejs.com)
+	  date-saved:: [[Mar 2nd, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/primate-polymorphic-development-platform-18e035054a7#6b9bae9b-4a9c-44ae-b74e-91abf4a1b20d)
+	- [Ever see a UUID collision? | Hacker News](https://omnivore.app/me/ever-see-a-uuid-collision-hacker-news-18e01006df7)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=36900641)
+	  date-saved:: [[Mar 2nd, 2024]]
 	- [Boundaries](https://omnivore.app/me/boundaries-18dff44a20e)
 	  collapsed:: true
 	  site:: [destroyallsoftware.com](https://www.destroyallsoftware.com/talks/boundaries)
@@ -225,10 +248,10 @@
 	  site:: [drossbucket](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
 	  date-saved:: [[Feb 23rd, 2024]]
 	  date-published:: [[Jun 30th, 2021]]
-	- [24:56 - Time to focus!](https://omnivore.app/me/24-56-time-to-focus-18dd4d1a55b)
+	- [24:35 - loading context](https://omnivore.app/me/24-56-time-to-focus-18dd4d1a55b)
 	  collapsed:: true
 	  site:: [pomofocus.io](https://pomofocus.io)
-	  date-saved:: [[Feb 22nd, 2024]]
+	  date-saved:: [[Mar 3rd, 2024]]
 	- [205 Roy St.m4a - Transcriptey](https://omnivore.app/me/205-roy-st-m-4-a-transcriptey-18dd4b91ddf)
 	  collapsed:: true
 	  site:: [transcriptey.com](https://www.transcriptey.com)

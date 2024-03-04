@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Why is Go 1.22's enhanced routing not working for me? · Jamie Tanna | Software Engineer](https://omnivore.app/me/why-is-go-1-22-s-enhanced-routing-not-working-for-me-jamie-tanna-18e09c77a64)
+	  collapsed:: true
+	  site:: [Jamie Tanna | Software Engineer](https://www.jvt.me/posts/2024/03/04/go-net-http-why-404/)
+	  author:: Jamie Tanna
+	  date-saved:: [[Mar 4th, 2024]]
+	  date-published:: [[Mar 4th, 2024]]
 	- [mattn/go-sqlite3: sqlite3 driver for go using database/sql](https://omnivore.app/me/mattn-go-sqlite-3-sqlite-3-driver-for-go-using-database-sql-18e090a5cfc)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/mattn/go-sqlite3?tab=readme-ov-file)

@@ -6,8 +6,17 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reply to &#34;sensible web stack decisions&#34;</title>
+      <link>https://breadchris.com/thinkies/reply-to-sensible-web-stack-decisions/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/reply-to-sensible-web-stack-decisions/</guid>
+      <description>In response to my previous post:
+martinsos:
+I like it, very practical and honest! No preaching, just direct opinions. Quite fresh for a web dev article. Btw I competely shared that view on Tailwind that you had at the start, and I still have it in part, just because I didn&amp;rsquo;t have enough time to learn more of it. It still seems weird that we are putting all the style directly into html, I can&amp;rsquo;t read that and it doesn&amp;rsquo;t show the intention, but I think I read they are not against classes at the end, it is just that even them you woudl then define with Tailwind.</description>
+    </item>
     <item>
       <title>what happened to irc?</title>
       <link>https://breadchris.com/thinkies/what-happened-to-irc/</link>

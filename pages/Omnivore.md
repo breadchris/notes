@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [File uploading, processing & delivery for web and mobile apps | Uploadcare](https://omnivore.app/me/file-uploading-processing-delivery-for-web-and-mobile-apps-uploa-18e09f27c8d)
+	  collapsed:: true
+	  site:: [Uploadcare](https://uploadcare.com)
+	  date-saved:: [[Mar 4th, 2024]]
 	- [Why is Go 1.22's enhanced routing not working for me? · Jamie Tanna | Software Engineer](https://omnivore.app/me/why-is-go-1-22-s-enhanced-routing-not-working-for-me-jamie-tanna-18e09c77a64)
 	  collapsed:: true
 	  site:: [Jamie Tanna | Software Engineer](https://www.jvt.me/posts/2024/03/04/go-net-http-why-404/)

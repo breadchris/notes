@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [CSS for printing to paper](https://omnivore.app/me/css-for-printing-to-paper-18e08e365b2)
+	  collapsed:: true
+	  site:: [voussoir.net](https://voussoir.net/writing/css_for_printing)
+	  date-saved:: [[Mar 4th, 2024]]
+	  date-published:: [[Mar 3rd, 2024]]
 	- [Blog · Ana Ulin](https://omnivore.app/me/blog-ana-ulin-18e051dbcd3)
 	  collapsed:: true
 	  site:: [anaulin.org](https://anaulin.org/blog/)

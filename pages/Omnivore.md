@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Everything is one. Except for the 0 (2020) - IMDb](https://omnivore.app/me/everything-is-one-except-for-the-0-2020-im-db-18e0b5a38a5)
+	  collapsed:: true
+	  site:: [IMDb](https://www.imdb.com/title/tt11794022/)
+	  date-saved:: [[Mar 4th, 2024]]
+	  date-published:: [[Jul 28th, 2021]]
+	- [The Hunt for the Missing Data Type](https://omnivore.app/me/the-hunt-for-the-missing-data-type-18e0b2b8cf4)
+	  collapsed:: true
+	  site:: [Hillel Wayne](https://www.hillelwayne.com/post/graph-types/)
+	  date-saved:: [[Mar 4th, 2024]]
+	  date-published:: [[Mar 1st, 2024]]
 	- [File uploading, processing & delivery for web and mobile apps | Uploadcare](https://omnivore.app/me/file-uploading-processing-delivery-for-web-and-mobile-apps-uploa-18e09f27c8d)
 	  collapsed:: true
 	  site:: [Uploadcare](https://uploadcare.com)

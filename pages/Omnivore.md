@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [mattn/go-sqlite3: sqlite3 driver for go using database/sql](https://omnivore.app/me/mattn-go-sqlite-3-sqlite-3-driver-for-go-using-database-sql-18e090a5cfc)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/mattn/go-sqlite3?tab=readme-ov-file)
+	  date-saved:: [[Mar 4th, 2024]]
 	- [CSS for printing to paper](https://omnivore.app/me/css-for-printing-to-paper-18e08e365b2)
 	  collapsed:: true
 	  site:: [voussoir.net](https://voussoir.net/writing/css_for_printing)

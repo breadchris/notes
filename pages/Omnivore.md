@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [The Go Play Space](https://omnivore.app/me/the-go-play-space-18e0e4889b6)
+	  collapsed:: true
+	  site:: [goplay.space](https://goplay.space)
+	  date-saved:: [[Mar 5th, 2024]]
+	- [Startup Cemetery: Analyses on Why Have +120 Startups Failed](https://omnivore.app/me/startup-cemetery-analyses-on-why-have-120-startups-failed-18e0e23aa42)
+	  collapsed:: true
+	  site:: [failory.com](https://www.failory.com/cemetery)
+	  date-saved:: [[Mar 5th, 2024]]
 	- [Everything is one. Except for the 0 (2020) - IMDb](https://omnivore.app/me/everything-is-one-except-for-the-0-2020-im-db-18e0b5a38a5)
 	  collapsed:: true
 	  site:: [IMDb](https://www.imdb.com/title/tt11794022/)

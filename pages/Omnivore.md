@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Factory pattern example](https://omnivore.app/me/factory-pattern-example-18e10741157)
+	  collapsed:: true
+	  site:: [linkedin.com](https://www.linkedin.com/learning/go-design-patterns/factory-pattern-example?resume=false)
+	  author:: Follow on LinkedIn
+	  date-saved:: [[Mar 5th, 2024]]
+	  date-published:: [[Sep 29th, 2023]]
+	- [Using GitHub Codespaces with this course](https://omnivore.app/me/using-git-hub-codespaces-with-this-course-18e10735099)
+	  collapsed:: true
+	  site:: [linkedin.com](https://www.linkedin.com/learning/hands-on-introduction-go/using-github-codespaces-with-this-course?resume=false)
+	  author:: Follow on LinkedIn
+	  date-saved:: [[Mar 5th, 2024]]
+	  date-published:: [[Jan 20th, 2024]]
+	- [heartwood · Radicle Heartwood Protocol & Stack](https://omnivore.app/me/heartwood-radicle-heartwood-protocol-stack-18e1052737d)
+	  collapsed:: true
+	  site:: [app.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+	  date-saved:: [[Mar 5th, 2024]]
 	- [Jeroen's Hierarchy of Constraints](https://omnivore.app/me/jeroen-s-hierarchy-of-constraints-18e0ed49a0e)
 	  collapsed:: true
 	  site:: [Incremental Elm](https://incrementalelm.com/jeroens-hierarchy/)

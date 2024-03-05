@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Jeroen's Hierarchy of Constraints](https://omnivore.app/me/jeroen-s-hierarchy-of-constraints-18e0ed49a0e)
+	  collapsed:: true
+	  site:: [Incremental Elm](https://incrementalelm.com/jeroens-hierarchy/)
+	  date-saved:: [[Mar 5th, 2024]]
 	- [The Go Play Space](https://omnivore.app/me/the-go-play-space-18e0e4889b6)
 	  collapsed:: true
 	  site:: [goplay.space](https://goplay.space)
@@ -29,10 +33,6 @@
 	  author:: Jamie Tanna
 	  date-saved:: [[Mar 4th, 2024]]
 	  date-published:: [[Mar 4th, 2024]]
-	- [mattn/go-sqlite3: sqlite3 driver for go using database/sql](https://omnivore.app/me/mattn-go-sqlite-3-sqlite-3-driver-for-go-using-database-sql-18e090a5cfc)
-	  collapsed:: true
-	  site:: [GitHub](https://github.com/mattn/go-sqlite3?tab=readme-ov-file)
-	  date-saved:: [[Mar 4th, 2024]]
 	- [CSS for printing to paper](https://omnivore.app/me/css-for-printing-to-paper-18e08e365b2)
 	  collapsed:: true
 	  site:: [voussoir.net](https://voussoir.net/writing/css_for_printing)
@@ -171,10 +171,6 @@
 	  collapsed:: true
 	  site:: [pql.dev](https://pql.dev)
 	  date-saved:: [[Feb 28th, 2024]]
-	- [Starter Pages & Examples | Preline UI, crafted with Tailwind CSS](https://omnivore.app/me/starter-pages-examples-preline-ui-crafted-with-tailwind-css-18df16eea94)
-	  collapsed:: true
-	  site:: [Preline](https://preline.co/examples.html)
-	  date-saved:: [[Feb 28th, 2024]]
 	- [Preline UI, crafted with Tailwind CSS](https://omnivore.app/me/preline-ui-crafted-with-tailwind-css-18df16e6040)
 	  collapsed:: true
 	  site:: [Preline](https://preline.co/index.html)
@@ -291,10 +287,6 @@
 	  site:: [drossbucket](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
 	  date-saved:: [[Feb 23rd, 2024]]
 	  date-published:: [[Jun 30th, 2021]]
-	- [24:35 - loading context](https://omnivore.app/me/24-56-time-to-focus-18dd4d1a55b)
-	  collapsed:: true
-	  site:: [pomofocus.io](https://pomofocus.io)
-	  date-saved:: [[Mar 3rd, 2024]]
 	- [205 Roy St.m4a - Transcriptey](https://omnivore.app/me/205-roy-st-m-4-a-transcriptey-18dd4b91ddf)
 	  collapsed:: true
 	  site:: [transcriptey.com](https://www.transcriptey.com)

@@ -15,11 +15,13 @@
 	- [The Hunt for the Missing Data Type](https://omnivore.app/me/the-hunt-for-the-missing-data-type-18e0b2b8cf4)
 	  collapsed:: true
 	  site:: [Hillel Wayne](https://www.hillelwayne.com/post/graph-types/)
+	  labels:: [[programming]]
 	  date-saved:: [[Mar 4th, 2024]]
 	  date-published:: [[Mar 1st, 2024]]
 	- [File uploading, processing & delivery for web and mobile apps | Uploadcare](https://omnivore.app/me/file-uploading-processing-delivery-for-web-and-mobile-apps-uploa-18e09f27c8d)
 	  collapsed:: true
 	  site:: [Uploadcare](https://uploadcare.com)
+	  labels:: [[business ]]
 	  date-saved:: [[Mar 4th, 2024]]
 	- [Why is Go 1.22's enhanced routing not working for me? · Jamie Tanna | Software Engineer](https://omnivore.app/me/why-is-go-1-22-s-enhanced-routing-not-working-for-me-jamie-tanna-18e09c77a64)
 	  collapsed:: true

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Symphony – Interfaces](https://omnivore.app/me/symphony-interfaces-18e151a6ae7)
+	  collapsed:: true
+	  site:: [symphony.run](https://www.symphony.run/blog/interfaces)
+	  author:: Posted by jeremy
+	  date-saved:: [[Mar 6th, 2024]]
+	  date-published:: [[Oct 18th, 2023]]
 	- [Understanding The Web Security Model, Part I: Web Publishing](https://omnivore.app/me/understanding-the-web-security-model-part-i-web-publishing-18e1350fbdb)
 	  collapsed:: true
 	  site:: [educatedguesswork.org](https://educatedguesswork.org/posts/web-security-model-intro1/)

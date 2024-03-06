@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Understanding The Web Security Model, Part I: Web Publishing](https://omnivore.app/me/understanding-the-web-security-model-part-i-web-publishing-18e1350fbdb)
+	  collapsed:: true
+	  site:: [educatedguesswork.org](https://educatedguesswork.org/posts/web-security-model-intro1/)
+	  author:: Posted by ekr on 04 Mar 2022
+	  date-saved:: [[Mar 6th, 2024]]
 	- [Factory pattern example](https://omnivore.app/me/factory-pattern-example-18e10741157)
 	  collapsed:: true
 	  site:: [linkedin.com](https://www.linkedin.com/learning/go-design-patterns/factory-pattern-example?resume=false)

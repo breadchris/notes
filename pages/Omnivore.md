@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [How Dolt Stores Table Data | DoltHub Blog](https://omnivore.app/me/how-dolt-stores-table-data-dolt-hub-blog-18e1942f954)
+	  collapsed:: true
+	  site:: [DoltHub](https://www.dolthub.com/blog/2020-04-01-how-dolt-stores-table-data/)
+	  author:: Aaron Son
+	  date-saved:: [[Mar 7th, 2024]]
+	  date-published:: [[Mar 31st, 2020]]
 	- [Uppy](https://omnivore.app/me/uppy-18e189adbd7)
 	  collapsed:: true
 	  site:: [uppy.io](https://uppy.io)
@@ -10,11 +16,11 @@
 	  date-saved:: [[Mar 7th, 2024]]
 	  date-published:: [[Jan 16th, 2023]]
 	- [Writing a Postgres Logical Replication System in Golang | DoltHub Blog](https://omnivore.app/me/writing-a-postgres-logical-replication-system-in-golang-dolt-hub-18e18158789)
-	  collapsed:: true
 	  site:: [DoltHub](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
 	  author:: Zach Musgrave
 	  date-saved:: [[Mar 7th, 2024]]
 	  date-published:: [[Mar 7th, 2024]]
+	  collapsed:: true
 	- [Symphony – Interfaces](https://omnivore.app/me/symphony-interfaces-18e151a6ae7)
 	  collapsed:: true
 	  site:: [symphony.run](https://www.symphony.run/blog/interfaces)

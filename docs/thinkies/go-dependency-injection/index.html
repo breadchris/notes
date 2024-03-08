@@ -210,15 +210,9 @@ A dependency graph resolved at runtime is error prone and leads to confusing cod
 </div>
   </header> 
   <div class="post-content"><p>dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.</p>
-<blockquote>
 <p>If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime <a href="https://github.com/uber-go/fx">https://github.com/uber-go/fx</a></p>
-</blockquote>
-<blockquote>
 <p>A dependency graph resolved at runtime is error prone and leads to confusing code. Where does this instance come from? I was excited to find wire, compile-time dependency resolution. <a href="https://github.com/google/wire">https://github.com/google/wire</a></p>
-</blockquote>
-<blockquote>
 <p>The dependency graph is resolved and compiled with a &ldquo;go generate&rdquo;. The result is code which clearly communicates what instances are created and where they are going. <a href="https://github.com/justshare-io/justshare/blob/main/pkg/cli/wire_gen.go">https://github.com/justshare-io/justshare/blob/main/pkg/cli/wire_gen.go</a></p>
-</blockquote>
 
 
   </div>

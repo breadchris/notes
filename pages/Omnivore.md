@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [HTMX CEO's](https://omnivore.app/me/htmx-ceo-s-18e1eef6c0d)
+	  collapsed:: true
+	  site:: [htmx.ceo](https://htmx.ceo)
+	  date-saved:: [[Mar 8th, 2024]]
 	- [uilabs](https://omnivore.app/me/uilabs-18e1ebdc845)
 	  collapsed:: true
 	  site:: [uilabs.dev](https://www.uilabs.dev)

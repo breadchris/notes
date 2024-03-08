@@ -13,7 +13,7 @@
       <link>https://breadchris.com/thinkies/go-dependency-injection/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/thinkies/go-dependency-injection/</guid>
-      <description>dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+      <description>Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
 If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
 A dependency graph resolved at runtime is error prone and leads to confusing code.</description>
     </item>

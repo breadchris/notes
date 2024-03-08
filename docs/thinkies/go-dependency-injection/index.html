@@ -7,7 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>go dependency injection | breadchris</title>
 <meta name="keywords" content="thinkies, go">
-<meta name="description" content="dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+<meta name="description" content="Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
 If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
 A dependency graph resolved at runtime is error prone and leads to confusing code.">
 <meta name="author" content="breadchris">
@@ -59,7 +59,7 @@ A dependency graph resolved at runtime is error prone and leads to confusing cod
 
     </style>
 </noscript><script defer data-domain="breadchris.com" src="https://plausible.io/js/script.js"></script><meta property="og:title" content="go dependency injection" />
-<meta property="og:description" content="dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+<meta property="og:description" content="Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
 If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
 A dependency graph resolved at runtime is error prone and leads to confusing code." />
 <meta property="og:type" content="article" />
@@ -69,7 +69,7 @@ A dependency graph resolved at runtime is error prone and leads to confusing cod
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="go dependency injection"/>
-<meta name="twitter:description" content="dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+<meta name="twitter:description" content="Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
 If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
 A dependency graph resolved at runtime is error prone and leads to confusing code."/>
 
@@ -100,12 +100,12 @@ A dependency graph resolved at runtime is error prone and leads to confusing cod
   "@type": "BlogPosting",
   "headline": "go dependency injection",
   "name": "go dependency injection",
-  "description": "dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.\nIf you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx\nA dependency graph resolved at runtime is error prone and leads to confusing code.",
+  "description": "Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.\nIf you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx\nA dependency graph resolved at runtime is error prone and leads to confusing code.",
   "keywords": [
     "thinkies", "go"
   ],
-  "articleBody": "dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.\nIf you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx\nA dependency graph resolved at runtime is error prone and leads to confusing code. Where does this instance come from? I was excited to find wire, compile-time dependency resolution. https://github.com/google/wire\nThe dependency graph is resolved and compiled with a “go generate”. The result is code which clearly communicates what instances are created and where they are going. https://github.com/justshare-io/justshare/blob/main/pkg/cli/wire_gen.go\n",
-  "wordCount" : "127",
+  "articleBody": "Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.\nIf you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx\nA dependency graph resolved at runtime is error prone and leads to confusing code. Where does this instance come from? I was excited to find wire, compile-time dependency resolution. https://github.com/google/wire\nThe dependency graph is resolved and compiled with a “go generate”. The result is code which clearly communicates what instances are created and where they are going. https://github.com/justshare-io/justshare/blob/main/pkg/cli/wire_gen.go\nWire’s docs are…complete, but terse. I didn’t really understand how to use it until I read June’s blog post on wire.\n",
+  "wordCount" : "147",
   "inLanguage": "en",
   "datePublished": "2024-03-08T00:00:00Z",
   "dateModified": "2024-03-08T00:00:00Z",
@@ -209,10 +209,11 @@ A dependency graph resolved at runtime is error prone and leads to confusing cod
 
 </div>
   </header> 
-  <div class="post-content"><p>dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.</p>
+  <div class="post-content"><p>Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.</p>
 <p>If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime <a href="https://github.com/uber-go/fx">https://github.com/uber-go/fx</a></p>
 <p>A dependency graph resolved at runtime is error prone and leads to confusing code. Where does this instance come from? I was excited to find wire, compile-time dependency resolution. <a href="https://github.com/google/wire">https://github.com/google/wire</a></p>
 <p>The dependency graph is resolved and compiled with a &ldquo;go generate&rdquo;. The result is code which clearly communicates what instances are created and where they are going. <a href="https://github.com/justshare-io/justshare/blob/main/pkg/cli/wire_gen.go">https://github.com/justshare-io/justshare/blob/main/pkg/cli/wire_gen.go</a></p>
+<p>Wire&rsquo;s <a href="https://github.com/google/wire/blob/main/_tutorial/README.md">docs</a> are&hellip;complete, but terse. I didn&rsquo;t really understand how to use it until I read June&rsquo;s <a href="https://clavinjune.dev/en/blogs/golang-dependency-injection-using-wire/">blog post</a> on wire.</p>
 
 
   </div>

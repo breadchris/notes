@@ -1,4 +1,34 @@
 ## 🔖 Articles
+	- [What is a SOC 2 Certification? How Do You Get One? | Fractional CISO](https://omnivore.app/me/what-is-a-soc-2-certification-how-do-you-get-one-fractional-ciso-18e1d91a0e6)
+	  collapsed:: true
+	  site:: [Fractional CISO - Virtual CISO](https://fractionalciso.com/soc-2-certification/)
+	  author:: Rob Black
+	  date-saved:: [[Mar 8th, 2024]]
+	  date-published:: [[Apr 6th, 2022]]
+	- [The Cell Programming Language](https://omnivore.app/me/the-cell-programming-language-18e1b35c5b1)
+	  collapsed:: true
+	  site:: [cell-lang.net](https://www.cell-lang.net)
+	  date-saved:: [[Mar 7th, 2024]]
+	- [Autogenerating a Book Series From Three Years of iMessages | Ben Kettle](https://omnivore.app/me/autogenerating-a-book-series-from-three-years-of-i-messages-ben--18e1b314038)
+	  collapsed:: true
+	  site:: [benkettle.xyz](https://benkettle.xyz/posts/message-book/)
+	  date-saved:: [[Mar 7th, 2024]]
+	  date-published:: [[Feb 7th, 2024]]
+	- [Eloquent JavaScript](https://omnivore.app/me/eloquent-java-script-18e1b1b7bbe)
+	  collapsed:: true
+	  site:: [eloquentjavascript.net](https://eloquentjavascript.net)
+	  date-saved:: [[Mar 7th, 2024]]
+	- [Error Handling in Go: Not ACTUALLY Bad - z9fr blog](https://omnivore.app/me/error-handling-in-go-not-actually-bad-z-9-fr-blog-18e1aecbc92)
+	  collapsed:: true
+	  site:: [z9fr blog](https://z9fr.xyz/blog/error-handling-in-go)
+	  author:: z9fr
+	  date-saved:: [[Mar 7th, 2024]]
+	  date-published:: [[Mar 2nd, 2024]]
+	- [Home – Alex Edwards](https://omnivore.app/me/home-alex-edwards-18e1aeb4c4e)
+	  collapsed:: true
+	  site:: [alexedwards.net](https://www.alexedwards.net)
+	  author:: Alex Edwards
+	  date-saved:: [[Mar 7th, 2024]]
 	- [How Dolt Stores Table Data | DoltHub Blog](https://omnivore.app/me/how-dolt-stores-table-data-dolt-hub-blog-18e1942f954)
 	  collapsed:: true
 	  site:: [DoltHub](https://www.dolthub.com/blog/2020-04-01-how-dolt-stores-table-data/)

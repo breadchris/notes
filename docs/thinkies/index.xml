@@ -6,8 +6,17 @@
     <description>Recent content in Thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go dependency injection</title>
+      <link>https://breadchris.com/thinkies/go-dependency-injection/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/go-dependency-injection/</guid>
+      <description>dependency injection has radically increased my rate of programming. when everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
+A dependency graph resolved at runtime is error prone and leads to confusing code.</description>
+    </item>
     <item>
       <title>reply to &#34;sensible web stack decisions&#34;</title>
       <link>https://breadchris.com/thinkies/reply-to-sensible-web-stack-decisions/</link>

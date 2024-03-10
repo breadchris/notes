@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Gimli](https://omnivore.app/me/gimli-18e26850ebb)
+	  collapsed:: true
+	  site:: [gimli.app](https://gimli.app)
+	  author:: Joakim Hjertvik
+	  date-saved:: [[Mar 9th, 2024]]
+	- [hocs](https://omnivore.app/me/u-3-be-7-b-9-a-4-de-8-c-11-ee-9-d-4-e-a-72-f-4-baa-0712-hocs-pdf-18e265a5411)
+	  collapsed:: true
+	  site:: [legacy.cs.indiana.edu](https://legacy.cs.indiana.edu/~dyb/pubs/hocs.pdf)
+	  date-saved:: [[Mar 9th, 2024]]
 	- [ONYX BOOX Palma E Reader :: ONYX BOOX electronic books](https://omnivore.app/me/onyx-boox-palma-e-reader-onyx-boox-electronic-books-18e25faf867)
 	  collapsed:: true
 	  site:: [onyxboox.com](https://onyxboox.com/boox_palma)

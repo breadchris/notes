@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [SQLite on macOS: Not ACID compliant with the bundled version](https://omnivore.app/me/sq-lite-on-mac-os-not-acid-compliant-with-the-bundled-version-18e28dd0839)
+	  collapsed:: true
+	  site:: [bonsaidb.io](https://bonsaidb.io/blog/acid-on-apple/)
+	  date-saved:: [[Mar 10th, 2024]]
+	- [Stylized image binning algorithm | Benjamin Dicken](https://omnivore.app/me/stylized-image-binning-algorithm-benjamin-dicken-18e28d98aa1)
+	  collapsed:: true
+	  site:: [benjdd.com](https://benjdd.com/posts/stylized-image-binning-algorithm/)
+	  author:: Benjamin Dicken
+	  date-saved:: [[Mar 10th, 2024]]
+	  date-published:: [[Mar 7th, 2024]]
 	- [Gimli](https://omnivore.app/me/gimli-18e26850ebb)
 	  collapsed:: true
 	  site:: [gimli.app](https://gimli.app)

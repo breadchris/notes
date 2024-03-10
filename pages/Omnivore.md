@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Components - Aceternity UI](https://omnivore.app/me/components-aceternity-ui-18e29f591eb)
+	  collapsed:: true
+	  site:: [ui.aceternity.com](https://ui.aceternity.com/components)
+	  date-saved:: [[Mar 10th, 2024]]
 	- [The Open Source Headless CMS (and More)](https://omnivore.app/me/the-open-source-headless-cms-and-more-18e295bd8ad)
 	  collapsed:: true
 	  site:: [directus.io](https://directus.io)

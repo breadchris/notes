@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [https://dl.acm.org/doi/pdf/10.1145/3386321](https://omnivore.app/me/https-dl-acm-org-doi-pdf-10-1145-3386321-18e259aebd5)
+	  collapsed:: true
+	  site:: [dl.acm.org](https://dl.acm.org/doi/pdf/10.1145/3386321)
+	  labels:: [[programming]][[books]]
+	  date-saved:: [[Mar 9th, 2024]]
 	- [Bulk generate social media images.](https://omnivore.app/me/bulk-generate-social-media-images-18e252e58ad)
 	  collapsed:: true
 	  site:: [dito.so](https://www.dito.so)

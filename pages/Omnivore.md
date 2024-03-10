@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [ONYX BOOX Palma E Reader :: ONYX BOOX electronic books](https://omnivore.app/me/onyx-boox-palma-e-reader-onyx-boox-electronic-books-18e25faf867)
+	  collapsed:: true
+	  site:: [onyxboox.com](https://onyxboox.com/boox_palma)
+	  date-saved:: [[Mar 9th, 2024]]
 	- [https://dl.acm.org/doi/pdf/10.1145/3386321](https://omnivore.app/me/https-dl-acm-org-doi-pdf-10-1145-3386321-18e259aebd5)
 	  collapsed:: true
 	  site:: [dl.acm.org](https://dl.acm.org/doi/pdf/10.1145/3386321)

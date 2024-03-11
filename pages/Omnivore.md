@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [JSON Canvas — An open file format for infinite canvas data.](https://omnivore.app/me/json-canvas-an-open-file-format-for-infinite-canvas-data-18e2eaf3767)
+	  collapsed:: true
+	  site:: [JSON Canvas](https://jsoncanvas.org)
+	  author:: JSON Canvas
+	  date-saved:: [[Mar 11th, 2024]]
 	- [Components - Aceternity UI](https://omnivore.app/me/components-aceternity-ui-18e29f591eb)
 	  collapsed:: true
 	  site:: [ui.aceternity.com](https://ui.aceternity.com/components)

@@ -1,4 +1,25 @@
 ## 🔖 Articles
+	- [Hyperfiddle](https://omnivore.app/me/hyperfiddle-18e32b37679)
+	  collapsed:: true
+	  site:: [hyperfiddle.net](https://www.hyperfiddle.net)
+	  date-saved:: [[Mar 12th, 2024]]
+	- [Reactive Clojure: You don't need a web framework, you need a web language](https://omnivore.app/me/reactive-clojure-you-don-t-need-a-web-framework-you-need-a-web-l-18e32b0f137)
+	  collapsed:: true
+	  site:: [Notion](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
+	  date-saved:: [[Mar 12th, 2024]]
+	- [Computer: Interview with Ken Thompson, May 1999](https://omnivore.app/me/computer-interview-with-ken-thompson-may-1999-18e32a86a5e)
+	  collapsed:: true
+	  site:: [cs.princeton.edu](https://www.cs.princeton.edu/courses/archive/spring03/cs333/thompson)
+	  date-saved:: [[Mar 12th, 2024]]
+	- [Breaking Down Tasks - Jacob Kaplan-Moss](https://omnivore.app/me/breaking-down-tasks-jacob-kaplan-moss-18e32a81ca6)
+	  collapsed:: true
+	  site:: [jacobian.org](https://jacobian.org/2024/mar/11/breaking-down-tasks/)
+	  date-saved:: [[Mar 12th, 2024]]
+	  date-published:: [[Mar 10th, 2024]]
+	- [Build a writing habit with just 100 words a day](https://omnivore.app/me/build-a-writing-habit-with-just-100-words-a-day-18e32a64111)
+	  collapsed:: true
+	  site:: [kadavy.net](https://kadavy.net/100wordwritinghabit/)
+	  date-saved:: [[Mar 12th, 2024]]
 	- [Luca Steeb | Full Stack Software Engineer](https://omnivore.app/me/luca-steeb-full-stack-software-engineer-18e30227688)
 	  collapsed:: true
 	  site:: [Luca Steeb | Full Stack Software Engineer](https://luca-steeb.com)
@@ -1304,7 +1325,7 @@
 	  collapsed:: true
 	  site:: [Steph Ango](https://stephango.com/photoshop-for-text)
 	  author:: Steph Ango
-	  date-saved:: [[Jan 29th, 2024]]
+	  date-saved:: [[Mar 12th, 2024]]
 	  date-published:: [[Oct 17th, 2022]]
 	- [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://omnivore.app/me/what-i-talk-about-when-i-talk-about-query-optimizer-part-1-ir-de-18d56052b29)
 	  collapsed:: true

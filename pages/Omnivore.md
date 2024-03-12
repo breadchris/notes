@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Debugging programs running inside Docker containers, in production](https://omnivore.app/me/debugging-programs-running-inside-docker-containers-in-productio-18e33f2b0ac)
+	  collapsed:: true
+	  site:: [nvartolomei.com](https://nvartolomei.com/debugging-programs-running-inside-docker-containers--in-production/)
+	  date-saved:: [[Mar 12th, 2024]]
 	- [Hyperfiddle](https://omnivore.app/me/hyperfiddle-18e32b37679)
 	  collapsed:: true
 	  site:: [hyperfiddle.net](https://www.hyperfiddle.net)

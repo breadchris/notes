@@ -6,8 +6,15 @@
     <description>Recent content in go on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The case for a single binary</title>
+      <link>https://breadchris.com/thinkies/the-case-for-a-single-binary/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-case-for-a-single-binary/</guid>
+      <description>In the realm of software development, the dichotomy between local development environments and production settings presents a notable challenge. The ideal scenario is where both environments mirror each other as closely as possible, minimizing discrepancies that can lead to unexpected behaviors upon deployment. However, achieving this level of synchronization is fraught with complexities. Tools like Docker have emerged as potential solutions, offering the promise of containerization to encapsulate applications in self-contained units that can run consistently across various environments.</description>
+    </item>
     <item>
       <title>go dependency injection</title>
       <link>https://breadchris.com/thinkies/go-dependency-injection/</link>

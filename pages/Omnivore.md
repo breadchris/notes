@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Luca Steeb | Full Stack Software Engineer](https://omnivore.app/me/luca-steeb-full-stack-software-engineer-18e30227688)
+	  collapsed:: true
+	  site:: [Luca Steeb | Full Stack Software Engineer](https://luca-steeb.com)
+	  date-saved:: [[Mar 11th, 2024]]
 	- [JSON Canvas — An open file format for infinite canvas data.](https://omnivore.app/me/json-canvas-an-open-file-format-for-infinite-canvas-data-18e2eaf3767)
 	  collapsed:: true
 	  site:: [JSON Canvas](https://jsoncanvas.org)
@@ -1732,7 +1736,7 @@
 	- [Gleam](https://omnivore.app/me/gleam-18d0ef521ad)
 	  collapsed:: true
 	  site:: [gleam.run](https://gleam.run)
-	  date-saved:: [[Mar 10th, 2024]]
+	  date-saved:: [[Mar 11th, 2024]]
 	- [A Periodic Table of Visualization Methods](https://omnivore.app/me/a-periodic-table-of-visualization-methods-18d0e8d77a3)
 	  collapsed:: true
 	  site:: [visual-literacy.org](https://www.visual-literacy.org/periodic_table/periodic_table.html)

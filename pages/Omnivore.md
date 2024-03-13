@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [I'm really excited about Darklang](https://omnivore.app/me/i-m-really-excited-about-darklang-18e39140c2e)
+	  collapsed:: true
+	  site:: [Stachu.NET](https://stachu.net/im-really-excited-about-darklang/)
+	  author:: Stachu Korick
+	  date-saved:: [[Mar 13th, 2024]]
+	  date-published:: [[Mar 12th, 2024]]
+	- [Marker](https://omnivore.app/me/marker-18e3911d175)
+	  collapsed:: true
+	  site:: [marker.pages.dev](https://marker.pages.dev)
+	  date-saved:: [[Mar 13th, 2024]]
 	- [Web Filter Violation](https://omnivore.app/me/web-filter-violation-18e3847aeb9)
 	  collapsed:: true
 	  site:: [breadchris.ngrok.io](https://breadchris.ngrok.io)

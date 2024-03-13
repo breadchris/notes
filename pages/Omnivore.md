@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [How I used GPT-3 to hit Hacker News front page 5 times in 3 weeks](https://omnivore.app/me/how-i-used-gpt-3-to-hit-hacker-news-front-page-5-times-in-3-week-18e39afec93)
+	  collapsed:: true
+	  site:: [Vasili Shynkarenka](https://vasilishynkarenka.com/gpt-3/)
+	  author:: Vasili Shynkarenka
+	  date-saved:: [[Mar 13th, 2024]]
+	  date-published:: [[Oct 28th, 2020]]
 	- [I'm really excited about Darklang](https://omnivore.app/me/i-m-really-excited-about-darklang-18e39140c2e)
 	  collapsed:: true
 	  site:: [Stachu.NET](https://stachu.net/im-really-excited-about-darklang/)

@@ -1,0 +1,35 @@
+- mcphsf 2024 postmortem | how not to run a competition
+  breadchris
+- running a competition
+	- make a story
+	- make evidence
+	- ![evidence graph](https://justluk.dev/images/blog/mcpshsf-writeup/evidence_graph.png)
+	- put everything online
+	- ![Screenshot 2024-03-13 at 12.52.49 PM.png](../assets/Screenshot_2024-03-13_at_12.52.49 PM_1710348786326_0.png)
+- what happened?
+	- a new system for putting things online
+	- lots of people, lots of requests
+	- ![Screenshot 2024-03-13 at 11.54.19 AM.png](../assets/Screenshot_2024-03-13_at_11.54.19 AM_1710345283623_0.png)
+	- website falls over
+	- ![503 Error](https://i.stack.imgur.com/ld6xI.png)
+	- i need bigger computer
+	- ![Giant Computer Keyboard Prop - WhiteClouds](https://www.whiteclouds.com/wp-content/uploads/2019/12/computers-and-electronics-g01-giant-whiteclouds-keyboard-large.jpg)
+	- new computer, different connection, no security
+	- ![Screenshot 2024-03-13 at 12.43.06 PM.png](../assets/Screenshot_2024-03-13_at_12.43.06 PM_1710348195504_0.png)
+	- need a domain with security
+	- ![Screenshot 2024-03-13 at 12.43.35 PM.png](../assets/Screenshot_2024-03-13_at_12.43.35 PM_1710348221331_0.png)
+	- "website kind of works"
+	- ![Screenshot 2024-03-13 at 11.54.07 AM.png](../assets/Screenshot_2024-03-13_at_11.54.07 AM_1710345296601_0.png)
+	- my laptop gets hot serving requests
+- how do you prevent this?
+	- try to break your system beforehand
+	- ![Capture-2024-03-13-124441.png](../assets/Capture-2024-03-13-124441_1710348293880_0.png)
+	- have a fallback plan
+	- ![What is a Single Point of Failure?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGI366Zv9nNWm00IpT0h8YsiXs4voxicgkSHOJ8d3FA&s){:height 264, :width 420}
+	- "new" is not always better
+	- ![Screenshot 2024-03-13 at 12.48.02 PM.png](../assets/Screenshot_2024-03-13_at_12.48.02 PM_1710348488657_0.png)
+- what's next?
+	- https://2024.mcpshsf.com will be fixed in the coming week
+	- mcpshsf 2025 will have these problems addressed
+	- picoctf in the meantime
+	- ![200.webp](../assets/200_1710348616044_0.webp)

@@ -22,10 +22,10 @@
 	- ![Screenshot 2024-03-13 at 11.54.07 AM.png](../assets/Screenshot_2024-03-13_at_11.54.07 AM_1710345296601_0.png)
 	- my laptop gets hot serving requests
 - how do you prevent this?
+	- have a fallback plan
+	- ![Screenshot 2024-03-13 at 1.01.25 PM.png](../assets/Screenshot_2024-03-13_at_1.01.25 PM_1710349295571_0.png)
 	- try to break your system beforehand
 	- ![Capture-2024-03-13-124441.png](../assets/Capture-2024-03-13-124441_1710348293880_0.png)
-	- have a fallback plan
-	- ![What is a Single Point of Failure?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGI366Zv9nNWm00IpT0h8YsiXs4voxicgkSHOJ8d3FA&s){:height 264, :width 420}
 	- "new" is not always better
 	- ![Screenshot 2024-03-13 at 12.48.02 PM.png](../assets/Screenshot_2024-03-13_at_12.48.02 PM_1710348488657_0.png)
 - what's next?

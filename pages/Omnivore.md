@@ -1,9 +1,13 @@
 ## 🔖 Articles
-	- [How Figma's Databases Team Lived to Tell the Scale | Figma Blog](https://omnivore.app/me/how-figma-s-databases-team-lived-to-tell-the-scale-figma-blog-18e3e4df0c2)
+	- [Metosin](https://omnivore.app/me/metosin-18e3e6fb5f6)
 	  collapsed:: true
+	  site:: [metosin.fi](https://www.metosin.fi/en)
+	  date-saved:: [[Mar 14th, 2024]]
+	- [How Figma's Databases Team Lived to Tell the Scale | Figma Blog](https://omnivore.app/me/how-figma-s-databases-team-lived-to-tell-the-scale-figma-blog-18e3e4df0c2)
 	  site:: [Figma](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 	  date-saved:: [[Mar 14th, 2024]]
 	  date-published:: [[Mar 13th, 2024]]
+	  collapsed:: true
 	- [Eyecandy - Visual Technique Library](https://omnivore.app/me/eyecandy-visual-technique-library-18e3afe4229)
 	  collapsed:: true
 	  site:: [Eyecandy](https://eyecannndy.com)

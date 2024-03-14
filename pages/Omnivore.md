@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Eyecandy - Visual Technique Library](https://omnivore.app/me/eyecandy-visual-technique-library-18e3afe4229)
+	  collapsed:: true
+	  site:: [Eyecandy](https://eyecannndy.com)
+	  author:: Jacobi Mehringer
+	  date-saved:: [[Mar 13th, 2024]]
+	- [Play with Kubernetes](https://omnivore.app/me/play-with-kubernetes-18e3abceaa8)
+	  collapsed:: true
+	  site:: [labs.play-with-k8s.com](https://labs.play-with-k8s.com)
+	  date-saved:: [[Mar 13th, 2024]]
 	- [Component Encyclopedia | Storybook](https://omnivore.app/me/component-encyclopedia-storybook-18e39c6f18c)
 	  collapsed:: true
 	  site:: [storybook.js.org](https://storybook.js.org/showcase)

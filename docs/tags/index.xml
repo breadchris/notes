@@ -6,8 +6,29 @@
     <description>Recent content in Tags on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://breadchris.com/tags/blog/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>deploy</title>
+      <link>https://breadchris.com/tags/deploy/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/tags/deploy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kubes</title>
+      <link>https://breadchris.com/tags/kubes/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/tags/kubes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>go</title>
       <link>https://breadchris.com/tags/go/</link>
@@ -20,13 +41,6 @@
       <link>https://breadchris.com/tags/thinkies/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/tags/thinkies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>blog</title>
-      <link>https://breadchris.com/tags/blog/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>

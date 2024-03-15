@@ -6,8 +6,15 @@
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>failing miserably to scale kubes</title>
+      <link>https://breadchris.com/blog/failing-miserably-to-scale-kubes/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/failing-miserably-to-scale-kubes/</guid>
+      <description>I run a cyber security competition for high schoolers every year. Yesterday was the 7th iteration. Months of planning go into designing the story and putting together digital evidence for the competitors to try to solve a murder mystery. It was a special event because the organizers who built it for my high school self stoked my passion for security. Unfortunately, it did not go as planned this year. After giving the introduction talk to 350 students, the site got DOSed from the concurrent load of everyone accessing it.</description>
+    </item>
     <item>
       <title>The case for a single binary</title>
       <link>https://breadchris.com/thinkies/the-case-for-a-single-binary/</link>

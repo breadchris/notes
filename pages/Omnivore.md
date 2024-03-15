@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Clojure vs. The Static Typing World](https://omnivore.app/me/clojure-vs-the-static-typing-world-18e3fd4ae96)
+	  collapsed:: true
+	  site:: [ericnormand.me](https://ericnormand.me/article/clojure-and-types)
+	  date-saved:: [[Mar 14th, 2024]]
+	  date-published:: [[Oct 26th, 2017]]
 	- [Launch Week](https://omnivore.app/me/launch-week-18e3ebe348d)
 	  collapsed:: true
 	  site:: [workos.com](https://workos.com/launch-week/)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Animations on the web](https://omnivore.app/me/animations-on-the-web-18e41fe721e)
+	  collapsed:: true
+	  site:: [Animations on the web](https://animations.dev)
+	  date-saved:: [[Mar 15th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/animations-on-the-web-18e41fe721e#f1bde2f0-d274-4363-b6a1-90c1c12a0cdb)
 	- [Clojure vs. The Static Typing World](https://omnivore.app/me/clojure-vs-the-static-typing-world-18e3fd4ae96)
 	  collapsed:: true
 	  site:: [ericnormand.me](https://ericnormand.me/article/clojure-and-types)

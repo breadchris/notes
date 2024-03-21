@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Soundry AI](https://omnivore.app/me/soundry-ai-18e62a9404e)
+	  collapsed:: true
+	  site:: [soundry.ai](https://soundry.ai)
+	  labels:: [[ai]][[music]]
+	  date-saved:: [[Mar 21st, 2024]]
+	- [Learning Go in 2024; From Beginner to Senior](https://omnivore.app/me/learning-go-in-2024-from-beginner-to-senior-18e61c3f5fc)
+	  collapsed:: true
+	  site:: [ByteSizeGo](https://www.bytesizego.com/blog/learning-golang-2024)
+	  date-saved:: [[Mar 21st, 2024]]
+	  date-published:: [[Mar 20th, 2024]]
+	- [Hackpad | Playground](https://omnivore.app/me/hackpad-playground-18e5f07b038)
+	  collapsed:: true
+	  site:: [hackpad.org](https://hackpad.org)
+	  date-saved:: [[Mar 20th, 2024]]
+	- [Free Website Development Services Agreement - 2024 Contract](https://omnivore.app/me/free-website-development-services-agreement-2024-contract-18e5e597575)
+	  collapsed:: true
+	  site:: [PandaDoc](https://www.pandadoc.com/website-development-agreement-template/)
+	  date-saved:: [[Mar 20th, 2024]]
 	- [Animations on the web](https://omnivore.app/me/animations-on-the-web-18e41fe721e)
 	  collapsed:: true
 	  site:: [Animations on the web](https://animations.dev)

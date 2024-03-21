@@ -399,11 +399,11 @@
 	  collapsed:: true
 	  site:: [siderea.dreamwidth.org](https://siderea.dreamwidth.org/1824441.html)
 	  date-saved:: [[Feb 29th, 2024]]
-	- [You’ve just
-	  inherited a legacy C++ codebase, now what?](https://omnivore.app/me/you-inherited-a-legacy-cpp-codebase-now-what-18df6a59dc8)
+	- [You've just inherited a legacy C++ codebase, now what?](https://omnivore.app/me/you-inherited-a-legacy-cpp-codebase-now-what-18df6a59dc8)
 	  collapsed:: true
 	  site:: [gaultier.github.io](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
-	  date-saved:: [[Feb 29th, 2024]]
+	  date-saved:: [[Mar 21st, 2024]]
+	  date-published:: [[Feb 28th, 2024]]
 	- [Webmention.io](https://omnivore.app/me/webmention-io-18df6443b4f)
 	  collapsed:: true
 	  site:: [webmention.io](https://webmention.io)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [2212.14315](https://omnivore.app/me/https-arxiv-org-pdf-2212-14315-pdf-18e67213a5e)
+	  collapsed:: true
+	  site:: [arxiv.org](https://arxiv.org/pdf/2212.14315.pdf)
+	  date-saved:: [[Mar 22nd, 2024]]
+	- [How to attack Machine Learning ( Evasion, Poisoning, Inference, Trojans, Backdoors) | by Alex Polyakov | Towards Data Science](https://omnivore.app/me/how-to-attack-machine-learning-evasion-poisoning-inference-troja-18e6718e678)
+	  collapsed:: true
+	  site:: [Towards Data Science](https://towardsdatascience.com/how-to-attack-machine-learning-evasion-poisoning-inference-trojans-backdoors-a7cb5832595c)
+	  author:: Alex Polyakov
+	  date-saved:: [[Mar 22nd, 2024]]
+	  date-published:: [[Aug 6th, 2019]]
 	- [Index](https://omnivore.app/me/index-18e64f61aca)
 	  collapsed:: true
 	  site:: [arewelearningyet.com](https://www.arewelearningyet.com)

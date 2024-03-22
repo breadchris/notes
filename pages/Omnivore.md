@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [AI model security: A comprehensive overview](https://omnivore.app/me/ai-model-security-a-comprehensive-overview-18e63cf4320)
+	  collapsed:: true
+	  site:: [LeewayHertz - AI Development Company](https://www.leewayhertz.com/ai-model-security/)
+	  author:: Akash Takyar
+	  date-saved:: [[Mar 21st, 2024]]
+	  date-published:: [[Jun 11th, 2023]]
 	- [Soundry AI](https://omnivore.app/me/soundry-ai-18e62a9404e)
 	  collapsed:: true
 	  site:: [soundry.ai](https://soundry.ai)

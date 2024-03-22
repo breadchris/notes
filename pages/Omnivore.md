@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Snowball, des newsletters pour investir](https://omnivore.app/me/snowball-des-newsletters-pour-investir-18e6433dfd1)
+	  collapsed:: true
+	  site:: [snowball.xyz](https://www.snowball.xyz)
+	  date-saved:: [[Mar 21st, 2024]]
+	- [Migadu Email](https://omnivore.app/me/migadu-email-18e64270fbf)
+	  collapsed:: true
+	  site:: [migadu.com](https://www.migadu.com)
+	  date-saved:: [[Mar 21st, 2024]]
 	- [AI model security: A comprehensive overview](https://omnivore.app/me/ai-model-security-a-comprehensive-overview-18e63cf4320)
 	  collapsed:: true
 	  site:: [LeewayHertz - AI Development Company](https://www.leewayhertz.com/ai-model-security/)

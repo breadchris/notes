@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Zoom In: An Introduction to Circuits](https://omnivore.app/me/https-distill-pub-2020-circuits-zoom-in-18e683e61d8)
+	  collapsed:: true
+	  site:: [distill.pub](https://distill.pub/2020/circuits/zoom-in/)
+	  date-saved:: [[Mar 22nd, 2024]]
 	- [Senior Software Engineer, Persistence Infrastructure at Discord](https://omnivore.app/me/senior-software-engineer-persistence-infrastructure-at-discord-18e6770861e)
 	  collapsed:: true
 	  site:: [Discord](https://discord.com/jobs/7288234002)

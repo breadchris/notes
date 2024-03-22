@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Senior Software Engineer, Persistence Infrastructure at Discord](https://omnivore.app/me/senior-software-engineer-persistence-infrastructure-at-discord-18e6770861e)
+	  collapsed:: true
+	  site:: [Discord](https://discord.com/jobs/7288234002)
+	  date-saved:: [[Mar 22nd, 2024]]
 	- [2212.14315](https://omnivore.app/me/https-arxiv-org-pdf-2212-14315-pdf-18e67213a5e)
 	  collapsed:: true
 	  site:: [arxiv.org](https://arxiv.org/pdf/2212.14315.pdf)

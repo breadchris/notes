@@ -6,8 +6,16 @@
     <description>Recent content in thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>static vs dynamic types</title>
+      <link>https://breadchris.com/thinkies/static-vs-dynamic-types/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/static-vs-dynamic-types/</guid>
+      <description>The debate between statically and dynamically typed languages has always been a hot topic in software development. Designing types for a problem can feel like solving a puzzle—fun for some and frustrating for others. But the real question is: Do you know how to represent the domain? While the alpha engineer may claim they do, understanding a domain comes from observing patterns over time.
+The challenge in business, where code is most commonly used, is collecting and understanding the data needed to define these types accurately.</description>
+    </item>
     <item>
       <title>The case for a single binary</title>
       <link>https://breadchris.com/thinkies/the-case-for-a-single-binary/</link>

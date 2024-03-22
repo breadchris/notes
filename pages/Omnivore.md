@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [prompts](https://omnivore.app/me/prompts-18e687ceaf2)
+	  collapsed:: true
+	  site:: [storage.googleapis.com](https://storage.googleapis.com/oss-fuzz-llm-targets-public/elfutils-dwarf_getlocations/prompts.txt)
+	  date-saved:: [[Mar 22nd, 2024]]
+	- [Google Online Security Blog: AI-Powered Fuzzing: Breaking the Bug Hunting Barrier](https://omnivore.app/me/google-online-security-blog-ai-powered-fuzzing-breaking-the-bug--18e6873fc7b)
+	  collapsed:: true
+	  site:: [Google Online Security Blog](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html)
+	  author:: Dongge Liu, Jonathan Metzman, Oliver Chang, Google Open Source Security Team
+	  date-saved:: [[Mar 22nd, 2024]]
+	  date-published:: [[Aug 15th, 2023]]
+	- [Neural Networks, Manifolds, and Topology -- colah's blog](https://omnivore.app/me/neural-networks-manifolds-and-topology-colah-s-blog-18e6860b143)
+	  collapsed:: true
+	  site:: [colah.github.io](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+	  date-saved:: [[Mar 22nd, 2024]]
+	- [Federated Learning](https://omnivore.app/me/federated-learning-18e685f07b4)
+	  collapsed:: true
+	  site:: [Federated Learning](https://federated.withgoogle.com)
+	  date-saved:: [[Mar 22nd, 2024]]
 	- [Zoom In: An Introduction to Circuits](https://omnivore.app/me/https-distill-pub-2020-circuits-zoom-in-18e683e61d8)
 	  collapsed:: true
 	  site:: [distill.pub](https://distill.pub/2020/circuits/zoom-in/)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Account Hijacking and Internal Network Attacks in Kubeflow](https://omnivore.app/me/account-hijacking-and-internal-network-attacks-in-kubeflow-18e6c3d78d4)
+	  collapsed:: true
+	  site:: [Protect AI, Inc.](https://mlsecops.com/resources/hacking-ai-account-hijacking-and-internal-network-attacks-in-kubeflow)
+	  author:: Dan McInerney
+	  date-saved:: [[Mar 23rd, 2024]]
+	  date-published:: [[Aug 7th, 2023]]
 	- [soupault](https://omnivore.app/me/soupault-18e69f30345)
 	  collapsed:: true
 	  site:: [soupault.app](https://soupault.app)

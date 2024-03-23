@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Underjord | Fundamentals of Object Storage](https://omnivore.app/me/underjord-fundamentals-of-object-storage-18e6ca7b43a)
+	  collapsed:: true
+	  site:: [Underjord](https://underjord.io/fundamentals-of-object-storage.html)
+	  date-saved:: [[Mar 23rd, 2024]]
+	  date-published:: [[Mar 18th, 2024]]
 	- [Account Hijacking and Internal Network Attacks in Kubeflow](https://omnivore.app/me/account-hijacking-and-internal-network-attacks-in-kubeflow-18e6c3d78d4)
 	  collapsed:: true
 	  site:: [Protect AI, Inc.](https://mlsecops.com/resources/hacking-ai-account-hijacking-and-internal-network-attacks-in-kubeflow)

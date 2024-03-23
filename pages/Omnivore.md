@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Federated Learning: Collaborative Machine Learning without Centralized Training Data – Google Research Blog](https://omnivore.app/me/federated-learning-collaborative-machine-learning-without-centra-18e68b32d63)
+	  collapsed:: true
+	  site:: [blog.research.google](https://blog.research.google/2017/04/federated-learning-collaborative.html)
+	  author:: Thursday,
+	  date-saved:: [[Mar 22nd, 2024]]
+	  date-published:: [[Apr 5th, 2017]]
+	- [Adversarial Attacks on LLMs | Lil'Log](https://omnivore.app/me/adversarial-attacks-on-ll-ms-lil-log-18e68b076eb)
+	  collapsed:: true
+	  site:: [Lil'Log](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
+	  author:: Lilian Weng
+	  date-saved:: [[Mar 22nd, 2024]]
+	  date-published:: [[Oct 24th, 2023]]
 	- [prompts](https://omnivore.app/me/prompts-18e687ceaf2)
 	  collapsed:: true
 	  site:: [storage.googleapis.com](https://storage.googleapis.com/oss-fuzz-llm-targets-public/elfutils-dwarf_getlocations/prompts.txt)

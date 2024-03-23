@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [soupault](https://omnivore.app/me/soupault-18e69f30345)
+	  collapsed:: true
+	  site:: [soupault.app](https://soupault.app)
+	  date-saved:: [[Mar 22nd, 2024]]
 	- [Federated Learning: Collaborative Machine Learning without Centralized Training Data – Google Research Blog](https://omnivore.app/me/federated-learning-collaborative-machine-learning-without-centra-18e68b32d63)
 	  collapsed:: true
 	  site:: [blog.research.google](https://blog.research.google/2017/04/federated-learning-collaborative.html)

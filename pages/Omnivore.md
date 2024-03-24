@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [How ML Model Data Poisoning Works in 5 Minutes](https://omnivore.app/me/how-ml-model-data-poisoning-works-in-5-minutes-18e71eb0bb2)
+	  collapsed:: true
+	  site:: [Hexmos Journal](https://journal.hexmos.com/training-data-poisoning/?src=hn)
+	  author:: sreedeep
+	  date-saved:: [[Mar 24th, 2024]]
+	  date-published:: [[Mar 24th, 2024]]
+	- [Lezer](https://omnivore.app/me/lezer-18e71e7d0b8)
+	  collapsed:: true
+	  site:: [marijnhaverbeke.nl](https://marijnhaverbeke.nl/blog/lezer.html)
+	  date-saved:: [[Mar 24th, 2024]]
+	  date-published:: [[Sep 2nd, 2019]]
 	- [Explorable Explanations](https://omnivore.app/me/explorable-explanations-18e6f13c6c3)
 	  collapsed:: true
 	  site:: [explorabl.es](https://explorabl.es)

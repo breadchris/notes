@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [A friendly introduction to Recurrent Neural Networks](https://omnivore.app/me/https-m-youtube-com-watch-v-u-nmq-ti-on-rfg-18e7293e3b2)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=UNmqTiOnRfg)
+	  author:: Serrano.Academy
+	  date-saved:: [[Mar 24th, 2024]]
+	- [The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time.](https://omnivore.app/me/the-illustrated-gpt-2-visualizing-transformer-language-models-ja-18e7255e8ff)
+	  collapsed:: true
+	  site:: [jalammar.github.io](https://jalammar.github.io/illustrated-gpt2/)
+	  author:: Jay Alammar
+	  date-saved:: [[Mar 24th, 2024]]
+	  date-published:: [[Aug 11th, 2019]]
 	- [How ML Model Data Poisoning Works in 5 Minutes](https://omnivore.app/me/how-ml-model-data-poisoning-works-in-5-minutes-18e71eb0bb2)
 	  collapsed:: true
 	  site:: [Hexmos Journal](https://journal.hexmos.com/training-data-poisoning/?src=hn)
@@ -6,10 +17,10 @@
 	  date-saved:: [[Mar 24th, 2024]]
 	  date-published:: [[Mar 24th, 2024]]
 	- [Lezer](https://omnivore.app/me/lezer-18e71e7d0b8)
-	  collapsed:: true
 	  site:: [marijnhaverbeke.nl](https://marijnhaverbeke.nl/blog/lezer.html)
 	  date-saved:: [[Mar 24th, 2024]]
 	  date-published:: [[Sep 2nd, 2019]]
+	  collapsed:: true
 	- [Explorable Explanations](https://omnivore.app/me/explorable-explanations-18e6f13c6c3)
 	  collapsed:: true
 	  site:: [explorabl.es](https://explorabl.es)

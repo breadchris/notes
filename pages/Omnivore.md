@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Explorable Explanations](https://omnivore.app/me/explorable-explanations-18e6f13c6c3)
+	  collapsed:: true
+	  site:: [explorabl.es](https://explorabl.es)
+	  date-saved:: [[Mar 23rd, 2024]]
+	- [popets-2021-0084](https://omnivore.app/me/u-795298-a-6-e-9-a-2-11-ee-a-5-c-9-07-e-83462-ae-29-popets-2021--18e6f030473)
+	  collapsed:: true
+	  site:: [petsymposium.org](https://petsymposium.org/popets/2021/popets-2021-0084.pdf)
+	  date-saved:: [[Mar 23rd, 2024]]
 	- [An intuitive introduction to text embeddings - Stack Overflow](https://omnivore.app/me/an-intuitive-introduction-to-text-embeddings-stack-overflow-18e6ed80e08)
 	  collapsed:: true
 	  site:: [stackoverflow.blog](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/)
@@ -12,11 +20,11 @@
 	  date-saved:: [[Mar 23rd, 2024]]
 	  date-published:: [[Jan 29th, 2024]]
 	- [GraphQL | tweak](https://omnivore.app/me/graph-ql-tweak-18e6ea8d9ad)
-	  collapsed:: true
 	  site:: [tweak-extension.com](https://tweak-extension.com/docs/graphql-support)
 	  author:: tweak
 	  date-saved:: [[Mar 23rd, 2024]]
 	  date-published:: [[Jul 21st, 2010]]
+	  collapsed:: true
 	- [USENIX Enigma 2021 - The Practical Divide between Adversarial ML Research and Security Practice](https://omnivore.app/me/https-m-youtube-com-watch-embeds-referring-euri-https-3-a-2-f-2--18e6ddeace4)
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.usenix.org%2F&feature=emb_logo&source_ve_path=Mjg2NjY&time_continue=383&v=RWx_DitGF7A)

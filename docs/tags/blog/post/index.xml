@@ -8,6 +8,22 @@
     <language>en</language>
     <atom:link href="https://breadchris.com/tags/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>structs in go</title>
+      <link>https://breadchris.com/blog/structs-in-go/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/structs-in-go/</guid>
+      <description>In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&amp;rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.
+Structs in Go, known for their straightforward and unadorned syntax, reflect the language&amp;rsquo;s overarching philosophy: to keep things simple and efficient.</description>
+    </item>
+    <item>
+      <title>structs in go</title>
+      <link>https://breadchris.com/blog/structs-in-go/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/structs-in-go/</guid>
+      <description>In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&amp;rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.
+Structs in Go, known for their straightforward and unadorned syntax, reflect the language&amp;rsquo;s overarching philosophy: to keep things simple and efficient.</description>
+    </item>
+    <item>
       <title>failing miserably to scale kubes</title>
       <link>https://breadchris.com/blog/failing-miserably-to-scale-kubes/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>

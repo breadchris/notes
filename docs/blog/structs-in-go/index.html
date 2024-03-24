@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>structs in go | breadchris</title>
+<meta name="keywords" content="blog/post">
+<meta name="description" content="In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.
+Structs in Go, known for their straightforward and unadorned syntax, reflect the language&rsquo;s overarching philosophy: to keep things simple and efficient.">
+<meta name="author" content="breadchris">
+<link rel="canonical" href="https://breadchris.com/blog/structs-in-go/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.7d0dbc7bebc97247baddbf44f81f3261912c9f64c3f03500922375b9988f4ea9.css" integrity="sha256-fQ28e&#43;vJcke63b9E&#43;B8yYZEsn2TD8DUAkiN1uZiPTqk=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://breadchris.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://breadchris.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://breadchris.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><script defer data-domain="breadchris.com" src="https://plausible.io/js/script.js"></script><meta property="og:title" content="structs in go" />
+<meta property="og:description" content="In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.
+Structs in Go, known for their straightforward and unadorned syntax, reflect the language&rsquo;s overarching philosophy: to keep things simple and efficient." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://breadchris.com/blog/structs-in-go/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-03-23T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-03-23T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="structs in go"/>
+<meta name="twitter:description" content="In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.
+Structs in Go, known for their straightforward and unadorned syntax, reflect the language&rsquo;s overarching philosophy: to keep things simple and efficient."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Blogs",
+      "item": "https://breadchris.com/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "structs in go",
+      "item": "https://breadchris.com/blog/structs-in-go/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "structs in go",
+  "name": "structs in go",
+  "description": "In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go\u0026rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.\nStructs in Go, known for their straightforward and unadorned syntax, reflect the language\u0026rsquo;s overarching philosophy: to keep things simple and efficient.",
+  "keywords": [
+    "blog/post"
+  ],
+  "articleBody": "In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go’s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.\nStructs in Go, known for their straightforward and unadorned syntax, reflect the language’s overarching philosophy: to keep things simple and efficient. The syntax, consisting of the keyword struct followed by a brace-enclosed list of fields, embodies Go’s approach to offer a clean, readable, and maintainable coding style.\ntype Person struct { Name string Age int }\nAt first glance, this syntax is a mere vessel for data organization, yet it tells a story of decades of programming evolution. The inception of Go’s struct syntax can be traced back to the C language, the grandparent of Go. In C, structs were conceived to group related variables under one roof, an idea that revolutionized how data was managed and manipulated.\nAs C evolved and inspired new languages, each brought its flavor to struct syntax, but the essence remained the same. When Go was being designed at Google by luminaries like Rob Pike, Ken Thompson, and Robert Griesemer, they sought to imbibe the simplicity and strength of C but also to refine and streamline its syntax to eliminate redundancy and complexity.\nWhy does Go’s struct syntax resonate so profoundly with developers? The answer lies in its unassuming power. By stripping away the extraneous, Go fosters a coding environment where functionality shines over form, clarity trumps complexity, and every line of code holds purpose. This minimalist design philosophy ensures that Go’s structs are not just data holders but clear and concise representations of a program’s structure.\nHistorically, Go’s syntax is a homage to its predecessors, carrying forward the legacy of structured programming while infusing it with modern clarity and efficiency. The struct in Go, therefore, is more than a syntax; it’s a testament to the language’s commitment to simplicity and the rich history of programming languages from which it draws inspiration.\nIn conclusion, the struct syntax in Go isn’t just written the way it is out of convenience or by chance. It’s a deliberate design choice, a nod to the past, and a step towards a future where code is functional, clear, concise, and a joy to write. In the world of Go, structs stand as pillars of simplicity, proving that less is often more in the economy of code.\n",
+  "wordCount" : "416",
+  "inLanguage": "en",
+  "datePublished": "2024-03-23T00:00:00Z",
+  "dateModified": "2024-03-23T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "breadchris"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://breadchris.com/blog/structs-in-go/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "breadchris",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://breadchris.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://breadchris.com" accesskey="h" title="breadchris (Alt + H)">breadchris</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://breadchris.com/blog" title="blog">
+                    <span>blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/resume" title="resume">
+                    <span>resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/tags/" title="tags">
+                    <span>tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/talks" title="talks">
+                    <span>talks</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/thinkies" title="thinkies">
+                    <span>thinkies</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      structs in go
+    </h1>
+    <div class="post-meta"><span title='2024-03-23 00:00:00 +0000 UTC'>March 23, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;breadchris
+
+</div>
+  </header> 
+  <div class="post-content"><p>In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.</p>
+<p>Structs in Go, known for their straightforward and unadorned syntax, reflect the language&rsquo;s overarching philosophy: to keep things simple and efficient. The syntax, consisting of the keyword <code>struct</code> followed by a brace-enclosed list of fields, embodies Go&rsquo;s approach to offer a clean, readable, and maintainable coding style.</p>
+<p><code>type Person struct { Name string Age int }</code></p>
+<p>At first glance, this syntax is a mere vessel for data organization, yet it tells a story of decades of programming evolution. The inception of Go&rsquo;s struct syntax can be traced back to the C language, the grandparent of Go. In C, structs were conceived to group related variables under one roof, an idea that revolutionized how data was managed and manipulated.</p>
+<p>As C evolved and inspired new languages, each brought its flavor to struct syntax, but the essence remained the same. When Go was being designed at Google by luminaries like Rob Pike, Ken Thompson, and Robert Griesemer, they sought to imbibe the simplicity and strength of C but also to refine and streamline its syntax to eliminate redundancy and complexity.</p>
+<p>Why does Go&rsquo;s struct syntax resonate so profoundly with developers? The answer lies in its unassuming power. By stripping away the extraneous, Go fosters a coding environment where functionality shines over form, clarity trumps complexity, and every line of code holds purpose. This minimalist design philosophy ensures that Go&rsquo;s structs are not just data holders but clear and concise representations of a program&rsquo;s structure.</p>
+<p>Historically, Go&rsquo;s syntax is a homage to its predecessors, carrying forward the legacy of structured programming while infusing it with modern clarity and efficiency. The struct in Go, therefore, is more than a syntax; it&rsquo;s a testament to the language&rsquo;s commitment to simplicity and the rich history of programming languages from which it draws inspiration.</p>
+<p>In conclusion, the struct syntax in Go isn&rsquo;t just written the way it is out of convenience or by chance. It&rsquo;s a deliberate design choice, a nod to the past, and a step towards a future where code is functional, clear, concise, and a joy to write. In the world of Go, structs stand as pillars of simplicity, proving that less is often more in the economy of code.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://breadchris.com/tags/blog/post/">blog/post</a></li>
+    </ul>
+    <form
+            action="https://buttondown.email/api/emails/embed-subscribe/breadchris"
+            method="post"
+            target="popupwindow"
+            onsubmit="window.open('https://buttondown.email/breadchris', 'popupwindow')"
+            class="embeddable-buttondown-form"
+    >
+      <input class="input" type="email" name="email" id="bd-input" placeholder="join the email list" />
+      <input class="btn" type="submit" id="bd-submit" value="Subscribe" />
+    </form>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="https://breadchris.com">breadchris</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

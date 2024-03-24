@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [USENIX Enigma 2021 - The Practical Divide between Adversarial ML Research and Security Practice](https://omnivore.app/me/https-m-youtube-com-watch-embeds-referring-euri-https-3-a-2-f-2--18e6ddeace4)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.usenix.org%2F&feature=emb_logo&source_ve_path=Mjg2NjY&time_continue=383&v=RWx_DitGF7A)
+	  author:: USENIX Enigma Conference
+	  date-saved:: [[Mar 23rd, 2024]]
+	- [Breaking things is easy | cleverhans-blog](https://omnivore.app/me/breaking-things-is-easy-cleverhans-blog-18e6ddc6809)
+	  collapsed:: true
+	  site:: [cleverhans-blog](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html)
+	  date-saved:: [[Mar 23rd, 2024]]
+	  date-published:: [[Dec 15th, 2016]]
 	- [THE YEAR 2090 💻⌨️🖥️🔮 HIGH TECHNOLOGY COMPILATION🤯 ARE YOU INTERESTED WHAT IS THERE IN THE FUTURE? ARTIFICIAL INTELLIGENCE HAS CAPTURED… | Instagram](https://omnivore.app/me/the-year-2090-high-technology-compilation-are-you-interested-wha-18e6d573dae)
 	  collapsed:: true
 	  site:: [Instagram](https://www.instagram.com/reel/C2UqjGUxXxX/)

@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [An intuitive introduction to text embeddings - Stack Overflow](https://omnivore.app/me/an-intuitive-introduction-to-text-embeddings-stack-overflow-18e6ed80e08)
+	  collapsed:: true
+	  site:: [stackoverflow.blog](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/)
+	  author:: Kevin Henner
+	  date-saved:: [[Mar 23rd, 2024]]
+	  date-published:: [[Nov 8th, 2023]]
+	- [There and Back Again: An Embedding Attack Journey | IronCore Labs](https://omnivore.app/me/there-and-back-again-an-embedding-attack-journey-iron-core-labs-18e6ed6f968)
+	  collapsed:: true
+	  site:: [IronCore Labs](https://ironcorelabs.com/blog/2024/text-embedding-privacy-risks/)
+	  author:: Colt Frederickson
+	  date-saved:: [[Mar 23rd, 2024]]
+	  date-published:: [[Jan 29th, 2024]]
+	- [GraphQL | tweak](https://omnivore.app/me/graph-ql-tweak-18e6ea8d9ad)
+	  collapsed:: true
+	  site:: [tweak-extension.com](https://tweak-extension.com/docs/graphql-support)
+	  author:: tweak
+	  date-saved:: [[Mar 23rd, 2024]]
+	  date-published:: [[Jul 21st, 2010]]
 	- [USENIX Enigma 2021 - The Practical Divide between Adversarial ML Research and Security Practice](https://omnivore.app/me/https-m-youtube-com-watch-embeds-referring-euri-https-3-a-2-f-2--18e6ddeace4)
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.usenix.org%2F&feature=emb_logo&source_ve_path=Mjg2NjY&time_continue=383&v=RWx_DitGF7A)

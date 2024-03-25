@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Google Chrome --headless mode | Simon Willison’s TILs](https://omnivore.app/me/google-chrome-headless-mode-simon-willison-s-ti-ls-18e734f2383)
+	  collapsed:: true
+	  site:: [til.simonwillison.net](https://til.simonwillison.net/chrome/headless)
+	  date-saved:: [[Mar 24th, 2024]]
 	- [A friendly introduction to Recurrent Neural Networks](https://omnivore.app/me/https-m-youtube-com-watch-v-u-nmq-ti-on-rfg-18e7293e3b2)
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/watch?v=UNmqTiOnRfg)

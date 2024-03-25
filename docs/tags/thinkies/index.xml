@@ -6,8 +6,15 @@
     <description>Recent content in thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>security affects everything</title>
+      <link>https://breadchris.com/thinkies/security-affects-everything/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/security-affects-everything/</guid>
+      <description>As a security engineer, I found this talk interesting. It is pushing for something that I agree with; the focus of ML security in research papers is primarily on novel adversarial attacks, but there are an incredible amount of attacks on the supply chain aspect of training models that are often overlooked.</description>
+    </item>
     <item>
       <title>static vs dynamic types</title>
       <link>https://breadchris.com/thinkies/static-vs-dynamic-types/</link>

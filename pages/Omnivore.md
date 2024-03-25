@@ -1,4 +1,28 @@
 ## 🔖 Articles
+	- [Never a dill moment: Exploiting machine learning pickle files | Trail of Bits Blog](https://omnivore.app/me/never-a-dill-moment-exploiting-machine-learning-pickle-files-tra-18e7470e37e)
+	  collapsed:: true
+	  site:: [Trail of Bits Blog](https://blog.trailofbits.com/2021/03/15/never-a-dill-moment-exploiting-machine-learning-pickle-files/)
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Mar 15th, 2021]]
+	- [USENIX Enigma 2021 - The Practical Divide between Adversarial ML Research and Security Practice](https://omnivore.app/me/https-www-youtube-com-watch-v-r-wx-dit-gf-7-a-18e745e275d)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=RWx_DitGF7A)
+	  author:: USENIX Enigma Conference
+	  date-saved:: [[Mar 24th, 2024]]
+	- [1809.02701](https://omnivore.app/me/u-5-a-2544-ae-ea-71-11-ee-85-e-5-77-c-73-ef-9-cf-0-d-1809-02701--18e744ed083)
+	  collapsed:: true
+	  site:: [arxiv.org](https://arxiv.org/pdf/1809.02701.pdf)
+	  date-saved:: [[Mar 24th, 2024]]
+	- [Legislation Chatbot | Devpost](https://omnivore.app/me/legislation-chatbot-devpost-18e744768f7)
+	  collapsed:: true
+	  site:: [Devpost](https://devpost.com/software/legislation-llm)
+	  date-saved:: [[Mar 24th, 2024]]
+	  date-published:: [[Nov 18th, 2023]]
+	- [Comparing RAG Copilots from OpenAI, Anthropic, Perplexity and more - Graphlit](https://omnivore.app/me/comparing-rag-copilots-from-open-ai-anthropic-perplexity-and-mor-18e7443480d)
+	  collapsed:: true
+	  site:: [graphlit.com](https://www.graphlit.com/blog/rag-copilot-comparison)
+	  date-saved:: [[Mar 24th, 2024]]
+	  date-published:: [[Dec 10th, 2023]]
 	- [Google Chrome --headless mode | Simon Willison’s TILs](https://omnivore.app/me/google-chrome-headless-mode-simon-willison-s-ti-ls-18e734f2383)
 	  collapsed:: true
 	  site:: [til.simonwillison.net](https://til.simonwillison.net/chrome/headless)

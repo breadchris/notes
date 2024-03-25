@@ -91,7 +91,7 @@
 	  collapsed:: true
 	  site:: [Lil'Log](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 	  author:: Lilian Weng
-	  date-saved:: [[Mar 22nd, 2024]]
+	  date-saved:: [[Mar 24th, 2024]]
 	  date-published:: [[Oct 24th, 2023]]
 	- [prompts](https://omnivore.app/me/prompts-18e687ceaf2)
 	  collapsed:: true

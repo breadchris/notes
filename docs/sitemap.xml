@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://breadchris.com/thinkies/a-hackers-quest-for-the-ultimate-note-taking-system/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://breadchris.com/tags/ai/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/justshare/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/thinkies/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/web/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/blog/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
@@ -11,25 +35,13 @@
     <loc>https://breadchris.com/blog/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://breadchris.com/blog/security-affects-everything/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/structs-in-go/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/static-vs-dynamic-types/</loc>
-    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/thinkies/</loc>
-    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/thinkies/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/deploy/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/sensible-web-stack-decisions/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/web/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/anatomy-of-syntax/</loc>
@@ -114,9 +123,6 @@
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/i-need-some-hackers/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/justshare/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/the-justshare-podcast/</loc>

@@ -6,8 +6,22 @@
     <description>Recent content in Thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Hacker’s Quest for the Ultimate Note-Taking System</title>
+      <link>https://breadchris.com/thinkies/a-hackers-quest-for-the-ultimate-note-taking-system/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/a-hackers-quest-for-the-ultimate-note-taking-system/</guid>
+      <description>As the flickering lights of monitors illuminate the shadowed visage of a hacker, known in the cyber realms as Zero Cool, the mind behind the screen drifts away from the usual code and into the realm of daily organization. Amid the clutter of local Apple Notes, a thought emerges, tinged with the desire for something more open, more connected. “What if,” muses Zero Cool, “my notes could seamlessly sync with the very fabric of my digital life?</description>
+    </item>
+    <item>
+      <title>to spa, or not to spa?</title>
+      <link>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</guid>
+      <description>Website vs web app, what is the difference? How do you know how to make the tradeoffs in terms of complexity for a spa vs the simple HTML of templates? Managing state in the DOM is not easy, dynamic components require managing of more state. How does htmx relate?</description>
+    </item>
     <item>
       <title>static vs dynamic types</title>
       <link>https://breadchris.com/thinkies/static-vs-dynamic-types/</link>

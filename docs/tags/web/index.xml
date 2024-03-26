@@ -6,8 +6,15 @@
     <description>Recent content in web on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>to spa, or not to spa?</title>
+      <link>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</guid>
+      <description>Website vs web app, what is the difference? How do you know how to make the tradeoffs in terms of complexity for a spa vs the simple HTML of templates? Managing state in the DOM is not easy, dynamic components require managing of more state. How does htmx relate?</description>
+    </item>
     <item>
       <title>sensible web stack decisions</title>
       <link>https://breadchris.com/blog/sensible-web-stack-decisions/</link>

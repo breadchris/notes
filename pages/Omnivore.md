@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Google's First Tensor Processing Unit - Architecture](https://omnivore.app/me/google-s-first-tensor-processing-unit-architecture-18e78f310a4)
+	  collapsed:: true
+	  site:: [The Chip Letter](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
+	  author:: Babbage
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Mar 24th, 2024]]
 	- [ent-grpc-example/ent/proto/entpb/entpb.proto at main · rotemtam/ent-grpc-example](https://omnivore.app/me/ent-grpc-example-ent-proto-entpb-entpb-proto-at-main-rotemtam-en-18e7847eb89)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/rotemtam/ent-grpc-example/blob/main/ent/proto/entpb/entpb.proto)

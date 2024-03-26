@@ -1,4 +1,52 @@
 ## 🔖 Articles
+	- [ent-grpc-example/ent/proto/entpb/entpb.proto at main · rotemtam/ent-grpc-example](https://omnivore.app/me/ent-grpc-example-ent-proto-entpb-entpb-proto-at-main-rotemtam-en-18e7847eb89)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/rotemtam/ent-grpc-example/blob/main/ent/proto/entpb/entpb.proto)
+	  date-saved:: [[Mar 25th, 2024]]
+	- [Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more](https://omnivore.app/me/inigo-quilez-computer-graphics-mathematics-shaders-fractals-demo-18e77d92a6a)
+	  collapsed:: true
+	  site:: [iquilezles.org](https://iquilezles.org/articles/)
+	  author:: Inigo Quilez
+	  date-saved:: [[Mar 25th, 2024]]
+	- [Two open source projects with great documentation • johnjago.com](https://omnivore.app/me/two-open-source-projects-with-great-documentation-johnjago-com-18e778f5083)
+	  collapsed:: true
+	  site:: [johnjago.com](https://johnjago.com/great-docs/)
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Mar 23rd, 2024]]
+	- [‘He was always voraciously watching’: Scorsese’s secret life as an obsessive VHS archivist | Martin Scorsese | The Guardian](https://omnivore.app/me/he-was-always-voraciously-watching-scorsese-s-secret-life-as-an--18e778e9c69)
+	  collapsed:: true
+	  site:: [The Guardian](https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive)
+	  author:: Guardian staff reporter
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Mar 25th, 2024]]
+	- [Docker security | Docker Docs](https://omnivore.app/me/docker-security-docker-docs-18e7752beb6)
+	  collapsed:: true
+	  site:: [Docker Documentation](https://docs.docker.com/engine/security/)
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Feb 9th, 2024]]
+	- [Enterprise Ready SaaS App Guide to Product Security](https://omnivore.app/me/enterprise-ready-saa-s-app-guide-to-product-security-18e7752956a)
+	  collapsed:: true
+	  site:: [enterpriseready.io](https://www.enterpriseready.io/features/product-security/)
+	  date-saved:: [[Mar 25th, 2024]]
+	- [River: a Fast, Robust Job Queue for Go + Postgres](https://omnivore.app/me/river-a-fast-robust-job-queue-for-go-postgres-18e773f8f43)
+	  collapsed:: true
+	  site:: [brandur.org](https://brandur.org/river)
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Nov 19th, 2023]]
+	- [Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations](https://omnivore.app/me/u-ed-96-e-8-dc-eada-11-ee-a-939-97-ea-0900-db-68-2019-mapl-tille-18e7702b7bf)
+	  collapsed:: true
+	  site:: [eecs.harvard.edu](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf)
+	  author:: Philippe Tillet, H. T. Kung, and David Cox
+	  date-saved:: [[Mar 25th, 2024]]
+	- [Guidelines for Frontend Development | Gitea Documentation](https://omnivore.app/me/guidelines-for-frontend-development-gitea-documentation-18e76ea045f)
+	  collapsed:: true
+	  site:: [docs.gitea.com](https://docs.gitea.com/contributing/guidelines-frontend)
+	  date-saved:: [[Mar 25th, 2024]]
+	- [Tinybird · The Way to build Real-time Data Products](https://omnivore.app/me/tinybird-the-way-to-build-real-time-data-products-18e76e04904)
+	  collapsed:: true
+	  site:: [tinybird.co](https://www.tinybird.co)
+	  date-saved:: [[Mar 25th, 2024]]
+	  date-published:: [[Mar 10th, 2024]]
 	- [Never a dill moment: Exploiting machine learning pickle files | Trail of Bits Blog](https://omnivore.app/me/never-a-dill-moment-exploiting-machine-learning-pickle-files-tra-18e7470e37e)
 	  collapsed:: true
 	  site:: [Trail of Bits Blog](https://blog.trailofbits.com/2021/03/15/never-a-dill-moment-exploiting-machine-learning-pickle-files/)

@@ -8,6 +8,32 @@
     <language>en</language>
     <atom:link href="https://breadchris.com/tags/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>8529 people have contributed to scikit-learn</title>
+      <link>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn/</guid>
+      <description>The code that scikit-learn comprises has been committed to by 8529+ people.
+python/cpython - 2640
+numpy/numpy - 1581
+scipy/scipy - 1447
+joblib/threadpoolctl - 10
+scikit-learn/scikit-learn - 2837
+It is possible that some of these people introduced typo changes, or the code they contributed has been rewritten by someone else. But the repo was affected by them, no less. Their accounts were authenticated to contribute to the history of a notable library in the ML training community.</description>
+    </item>
+    <item>
+      <title>8529 people have contributed to scikit-learn</title>
+      <link>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn/</guid>
+      <description>The code that scikit-learn comprises has been committed to by 8529+ people.
+python/cpython - 2640
+numpy/numpy - 1581
+scipy/scipy - 1447
+joblib/threadpoolctl - 10
+scikit-learn/scikit-learn - 2837
+It is possible that some of these people introduced typo changes, or the code they contributed has been rewritten by someone else. But the repo was affected by them, no less. Their accounts were authenticated to contribute to the history of a notable library in the ML training community.</description>
+    </item>
+    <item>
       <title>security affects everything</title>
       <link>https://breadchris.com/blog/security-affects-everything/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>

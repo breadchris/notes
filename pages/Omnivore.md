@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Join the Future - Explore Career Opportunities at Ninja AI](https://omnivore.app/me/join-the-future-explore-career-opportunities-at-ninja-ai-18e86e08360)
+	  collapsed:: true
+	  site:: [ninjatech.ai](https://www.ninjatech.ai/careers?ashby_jid=4ad76b96-a2b9-4dc9-941d-9cce5ba544cc)
+	  date-saved:: [[Mar 28th, 2024]]
+	- [How We’ll Reach a 1 Trillion Transistor GPU - IEEE Spectrum](https://omnivore.app/me/how-we-ll-reach-a-1-trillion-transistor-gpu-ieee-spectrum-18e86ae2a3f)
+	  collapsed:: true
+	  site:: [IEEE Spectrum](https://spectrum.ieee.org/trillion-transistor-gpu)
+	  author:: Mark Liu, H.-S. Philip Wong
+	  date-saved:: [[Mar 28th, 2024]]
+	  date-published:: [[Mar 28th, 2024]]
 	- [artima - Programming is Gardening, not Engineering](https://omnivore.app/me/artima-programming-is-gardening-not-engineering-18e8604ec88)
 	  collapsed:: true
 	  site:: [artima.com](https://www.artima.com/articles/programming-is-gardening-not-engineering)

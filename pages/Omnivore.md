@@ -1,4 +1,101 @@
 ## 🔖 Articles
+	- [HTML5 Node Garden](https://omnivore.app/me/html-5-node-garden-18e832f74fa)
+	  collapsed:: true
+	  site:: [nodegarden.js.org](https://nodegarden.js.org)
+	  date-saved:: [[Mar 27th, 2024]]
+	- [Checklist Design - A collection of the best design practices.](https://omnivore.app/me/checklist-design-a-collection-of-the-best-design-practices-18e83201ff3)
+	  collapsed:: true
+	  site:: [checklist.design](https://www.checklist.design)
+	  date-saved:: [[Mar 27th, 2024]]
+	- [Fontshare: Quality Fonts. Free.](https://omnivore.app/me/fontshare-quality-fonts-free-18e831ed589)
+	  collapsed:: true
+	  site:: [Fontshare: Quality Fonts. Free.](https://www.fontshare.com)
+	  date-saved:: [[Mar 27th, 2024]]
+	- [CSS Layout Generator](https://omnivore.app/me/css-layout-generator-18e831eac34)
+	  collapsed:: true
+	  site:: [layout.bradwoods.io](https://layout.bradwoods.io)
+	  author:: Brad Woods
+	  date-saved:: [[Mar 27th, 2024]]
+	- [Home | The Component Gallery](https://omnivore.app/me/home-the-component-gallery-18e831cefd8)
+	  collapsed:: true
+	  site:: [component.gallery](https://component.gallery)
+	  date-saved:: [[Mar 27th, 2024]]
+	- [Fontjoy - Generate font pairings in one click](https://omnivore.app/me/fontjoy-generate-font-pairings-in-one-click-18e831c9a2d)
+	  collapsed:: true
+	  site:: [fontjoy.com](https://fontjoy.com)
+	  date-saved:: [[Mar 27th, 2024]]
+	- [questionable services · Technical writings about computing infrastructure, HTTP & security.](https://omnivore.app/me/questionable-services-technical-writings-about-computing-infrast-18e81b77472)
+	  collapsed:: true
+	  site:: [blog.questionable.services](https://blog.questionable.services)
+	  author:: Matt Silverlock
+	  date-saved:: [[Mar 27th, 2024]]
+	- [Improving Our Graph Visualization - Neolace Junction](https://omnivore.app/me/improving-our-graph-visualization-neolace-junction-18e814a7b7a)
+	  collapsed:: true
+	  site:: [junction.neolace.com](https://junction.neolace.com/entry/improving-our-graph-visualization)
+	  date-saved:: [[Mar 27th, 2024]]
+	  date-published:: [[Feb 5th, 2023]]
+	- [Ontic structural realism and quantum field theory: Are there intrinsic properties at the most fundamental level of reality? - ScienceDirect](https://omnivore.app/me/ontic-structural-realism-and-quantum-field-theory-are-there-intr-18e7e9a11e5)
+	  collapsed:: true
+	  site:: [sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S1355219817300795)
+	  author:: J. Earman
+	  labels:: [[ai]]
+	  date-saved:: [[Mar 26th, 2024]]
+	- [Mixture of Experts Explained](https://omnivore.app/me/mixture-of-experts-explained-18e7e7cb397)
+	  collapsed:: true
+	  site:: [huggingface.co](https://huggingface.co/blog/moe)
+	  labels:: [[ai]]
+	  date-saved:: [[Mar 26th, 2024]]
+	  date-published:: [[Feb 2nd, 2024]]
+	- [My binary vector search is better than your FP32 vectors](https://omnivore.app/me/my-binary-vector-search-is-better-than-your-fp-32-vectors-18e7e7b4853)
+	  collapsed:: true
+	  site:: [pgvecto.rs](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+	  author:: Ce Gao
+	  labels:: [[ai]]
+	  date-saved:: [[Mar 26th, 2024]]
+	  date-published:: [[Mar 22nd, 2024]]
+	- [Firecracker MicroVMs: Lightweight Virtualization for Containers and Serverless Workloads](https://omnivore.app/me/firecracker-micro-v-ms-lightweight-virtualization-for-containers-18e7e69961b)
+	  collapsed:: true
+	  site:: [Koyeb](https://www.koyeb.com/blog/firecracker-microvms-lightweight-virtualization-for-containers-and-serverless-workloads)
+	  labels:: [[infra]]
+	  date-saved:: [[Mar 26th, 2024]]
+	  date-published:: [[Mar 6th, 2024]]
+	- [An Overview of Early Vision in InceptionV1](https://omnivore.app/me/an-overview-of-early-vision-in-inception-v-1-18e7e29c6a8)
+	  collapsed:: true
+	  site:: [distill.pub](https://distill.pub/2020/circuits/early-vision/)
+	  date-saved:: [[Mar 26th, 2024]]
+	- [Deep Neural Nets: 33 years ago and 33 years from now](https://omnivore.app/me/deep-neural-nets-33-years-ago-and-33-years-from-now-18e7e178124)
+	  collapsed:: true
+	  site:: [karpathy.github.io](https://karpathy.github.io/2022/03/14/lecun1989/)
+	  date-saved:: [[Mar 26th, 2024]]
+	  date-published:: [[Mar 13th, 2022]]
+	- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://omnivore.app/me/the-unreasonable-effectiveness-of-recurrent-neural-networks-18e7df33043)
+	  collapsed:: true
+	  site:: [karpathy.github.io](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+	  date-saved:: [[Mar 26th, 2024]]
+	  date-published:: [[May 20th, 2015]]
+	- [Tensor2Tensor Intro - Colaboratory](https://omnivore.app/me/tensor-2-tensor-intro-colaboratory-18e7dee63f5)
+	  collapsed:: true
+	  site:: [colab.research.google.com](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
+	  date-saved:: [[Mar 26th, 2024]]
+	- [infinite backrooms](https://omnivore.app/me/infinite-backrooms-18e7d7182f3)
+	  collapsed:: true
+	  site:: [dreams-of-an-electric-mind.webflow.io](https://dreams-of-an-electric-mind.webflow.io)
+	  date-saved:: [[Mar 26th, 2024]]
+	- [Aqua Voice - Voice-only Document Editor](https://omnivore.app/me/aqua-voice-voice-only-document-editor-18e7d3c172b)
+	  collapsed:: true
+	  site:: [Aqua Voice](https://withaqua.com)
+	  author:: Aqua Voice
+	  date-saved:: [[Mar 26th, 2024]]
+	- [Radios, how do they work? - lcamtuf’s thing](https://omnivore.app/me/radios-how-do-they-work-lcamtuf-s-thing-18e7c3ffadc)
+	  collapsed:: true
+	  site:: [lcamtuf’s thing](https://lcamtuf.substack.com/p/radios-how-do-they-work)
+	  author:: lcamtuf
+	  date-saved:: [[Mar 26th, 2024]]
+	  date-published:: [[Mar 25th, 2024]]
+	- [DoMusic/Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat.](https://omnivore.app/me/do-music-hybrid-net-real-time-audio-source-separation-generate-l-18e7bc1eaa7)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/DoMusic/Hybrid-Net)
+	  date-saved:: [[Mar 26th, 2024]]
 	- [Google's First Tensor Processing Unit - Architecture](https://omnivore.app/me/google-s-first-tensor-processing-unit-architecture-18e78f310a4)
 	  collapsed:: true
 	  site:: [The Chip Letter](https://thechipletter.substack.com/p/googles-first-tpu-architecture)

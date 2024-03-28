@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [artima - Programming is Gardening, not Engineering](https://omnivore.app/me/artima-programming-is-gardening-not-engineering-18e8604ec88)
+	  collapsed:: true
+	  site:: [artima.com](https://www.artima.com/articles/programming-is-gardening-not-engineering)
+	  date-saved:: [[Mar 28th, 2024]]
+	  date-published:: [[Apr 13th, 2003]]
 	- [HTML5 Node Garden](https://omnivore.app/me/html-5-node-garden-18e832f74fa)
 	  collapsed:: true
 	  site:: [nodegarden.js.org](https://nodegarden.js.org)

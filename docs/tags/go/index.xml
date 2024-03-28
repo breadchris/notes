@@ -6,8 +6,15 @@
     <description>Recent content in go on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>notes about coroutines?</title>
+      <link>https://breadchris.com/thinkies/notes-about-coroutines/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/notes-about-coroutines/</guid>
+      <description>Even though the &amp;ldquo;go&amp;rdquo; keyword is the same name as the language, you would think this is more commonly used. From my experience, go developers, including myself, will avoid using go routines and channels as much as possible. The reason is that it adds complexity that you often don&amp;rsquo;t need. Concurrent code unlocks a lot of performance as tasks that would otherwise &amp;ldquo;stop the world&amp;rdquo; only stop the go routine that they are on.</description>
+    </item>
     <item>
       <title>The case for a single binary</title>
       <link>https://breadchris.com/thinkies/the-case-for-a-single-binary/</link>

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [oss-security - backdoor in upstream xz/liblzma leading to ssh server compromise](https://omnivore.app/me/oss-security-backdoor-in-upstream-xz-liblzma-leading-to-ssh-serv-18e8b97c088)
+	  collapsed:: true
+	  site:: [openwall.com](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+	  date-saved:: [[Mar 29th, 2024]]
+	  date-published:: [[Mar 28th, 2024]]
 	- [Konstantine Buhler on X: "Last week we hosted an AI segment called “What’s Next” with my former AI professor at @Stanford  @AndrewYNg. He pioneered the use of GPUs for deep learning and co-founded @coursera, @Google Brain, and @AI_Fund. During his keynote, Andrew spoke about “What’s Next” for AI Agent… https://t.co/v5LLVIRDzX" / X](https://omnivore.app/me/https-twitter-com-kosta-buhler-status-1772748681940504706-18e86e3c192)
 	  collapsed:: true
 	  site:: [X (formerly Twitter)](https://twitter.com/KostaBuhler/status/1772748681940504706)

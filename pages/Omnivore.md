@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Konstantine Buhler on X: "Last week we hosted an AI segment called “What’s Next” with my former AI professor at @Stanford  @AndrewYNg. He pioneered the use of GPUs for deep learning and co-founded @coursera, @Google Brain, and @AI_Fund. During his keynote, Andrew spoke about “What’s Next” for AI Agent… https://t.co/v5LLVIRDzX" / X](https://omnivore.app/me/https-twitter-com-kosta-buhler-status-1772748681940504706-18e86e3c192)
+	  collapsed:: true
+	  site:: [X (formerly Twitter)](https://twitter.com/KostaBuhler/status/1772748681940504706)
+	  date-saved:: [[Mar 28th, 2024]]
 	- [Join the Future - Explore Career Opportunities at Ninja AI](https://omnivore.app/me/join-the-future-explore-career-opportunities-at-ninja-ai-18e86e08360)
 	  collapsed:: true
 	  site:: [ninjatech.ai](https://www.ninjatech.ai/careers?ashby_jid=4ad76b96-a2b9-4dc9-941d-9cce5ba544cc)

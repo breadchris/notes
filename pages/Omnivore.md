@@ -1,12 +1,16 @@
 ## 🔖 Articles
+	- [Thomas Roccia 🤘 on X: "🤯 The level of sophistication of the XZ attack is very impressive! I tried to make sense of the analysis in a single page (which was quite complicated)! I hope it helps to make sense of the information out there. Please treat the information "as is" while the analysis… https://t.co/N11klcymeP" / X](https://omnivore.app/me/https-twitter-com-fr-0-gger-status-1774342248437813525-photo-1-18e96d87516)
+	  collapsed:: true
+	  site:: [X (formerly Twitter)](https://twitter.com/fr0gger_/status/1774342248437813525/photo/1)
+	  date-saved:: [[Mar 31st, 2024]]
 	- [Ion_Front_4](https://omnivore.app/me/https-cdn-shopify-com-s-files-1-0887-6300-files-ion-manual-compl-18e8bec7f68)
 	  collapsed:: true
 	  site:: [cdn.shopify.com](https://cdn.shopify.com/s/files/1/0887/6300/files/Ion_Manual_Complete.pdf?6815731560973912495=)
 	  date-saved:: [[Mar 29th, 2024]]
 	- [Ion_Front_4](https://omnivore.app/me/u-d-90931-d-4-ee-0-b-11-ee-84-f-9-3-b-678-dea-5038-ion-manual-co-18e8bec7b58)
-	  collapsed:: true
 	  site:: [cdn.shopify.com](https://cdn.shopify.com/s/files/1/0887/6300/files/Ion_Manual_Complete.pdf?6815731560973912495)
 	  date-saved:: [[Mar 29th, 2024]]
+	  collapsed:: true
 	- [oss-security - backdoor in upstream xz/liblzma leading to ssh server compromise](https://omnivore.app/me/oss-security-backdoor-in-upstream-xz-liblzma-leading-to-ssh-serv-18e8b97c088)
 	  site:: [openwall.com](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 	  date-saved:: [[Mar 29th, 2024]]

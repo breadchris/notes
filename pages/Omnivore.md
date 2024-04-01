@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Code generator for Golang projects - Autostrada](https://omnivore.app/me/code-generator-for-golang-projects-autostrada-18e9752ce57)
+	  collapsed:: true
+	  site:: [autostrada.dev](https://autostrada.dev)
+	  date-saved:: [[Mar 31st, 2024]]
 	- [Productivity Expert at Routine | Y Combinator's Work at a Startup](https://omnivore.app/me/productivity-expert-at-routine-y-combinator-s-work-at-a-startup-18e970d1201)
 	  collapsed:: true
 	  site:: [Y Combinator's Work at a Startup](https://www.workatastartup.com/jobs/61141)

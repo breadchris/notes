@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Productivity Expert at Routine | Y Combinator's Work at a Startup](https://omnivore.app/me/productivity-expert-at-routine-y-combinator-s-work-at-a-startup-18e970d1201)
+	  collapsed:: true
+	  site:: [Y Combinator's Work at a Startup](https://www.workatastartup.com/jobs/61141)
+	  date-saved:: [[Mar 31st, 2024]]
 	- [Thomas Roccia 🤘 on X: "🤯 The level of sophistication of the XZ attack is very impressive! I tried to make sense of the analysis in a single page (which was quite complicated)! I hope it helps to make sense of the information out there. Please treat the information "as is" while the analysis… https://t.co/N11klcymeP" / X](https://omnivore.app/me/https-twitter-com-fr-0-gger-status-1774342248437813525-photo-1-18e96d87516)
 	  collapsed:: true
 	  site:: [X (formerly Twitter)](https://twitter.com/fr0gger_/status/1774342248437813525/photo/1)

@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Rave Logos – Counter-Print](https://omnivore.app/me/rave-logos-counter-print-18e978c653b)
+	  collapsed:: true
+	  site:: [Counter-Print](https://www.counter-print.co.uk/products/rave-logos)
+	  date-saved:: [[Mar 31st, 2024]]
+	- [Recurse Center Day 24: Hacking Go compiler to add a new keyword - blag](https://omnivore.app/me/recurse-center-day-24-hacking-go-compiler-to-add-a-new-keyword-b-18e9788521c)
+	  collapsed:: true
+	  site:: [avi.im](https://avi.im/blag/2021/rc-day-24/)
+	  date-saved:: [[Mar 31st, 2024]]
+	  date-published:: [[Dec 7th, 2021]]
 	- [Code generator for Golang projects - Autostrada](https://omnivore.app/me/code-generator-for-golang-projects-autostrada-18e9752ce57)
 	  collapsed:: true
 	  site:: [autostrada.dev](https://autostrada.dev)

@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [How Turkish coffee destroyed an empire](https://omnivore.app/me/how-turkish-coffee-destroyed-an-empire-18ea0710e9f)
+	  collapsed:: true
+	  site:: [The Economist](https://www.economist.com/1843/2019/02/26/how-turkish-coffee-destroyed-an-empire)
+	  author:: The Economist
+	  date-saved:: [[Apr 2nd, 2024]]
+	  date-published:: [[Feb 26th, 2019]]
+	- [FULL INTERVIEW with Yuri Bezmenov: The Four Stages of Ideological Subversion (1984)](https://omnivore.app/me/https-www-youtube-com-watch-v-y-er-kt-vd-e-tpw-18ea033401a)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=yErKTVdETpw)
+	  author:: Nicholas Marshall
+	  date-saved:: [[Apr 2nd, 2024]]
+	  date-published:: [[Aug 21st, 2020]]
 	- [RippleUI | TailwindCSS Components](https://omnivore.app/me/ripple-ui-tailwind-css-components-18e9d691bc4)
 	  collapsed:: true
 	  site:: [ripple-ui.com](https://www.ripple-ui.com)

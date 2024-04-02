@@ -1,4 +1,41 @@
 ## 🔖 Articles
+	- [Tailwind Play](https://omnivore.app/me/tailwind-play-18e9bb77ac2)
+	  collapsed:: true
+	  site:: [Tailwind Play](https://play.tailwindcss.com/XE57I8yBrb)
+	  date-saved:: [[Apr 1st, 2024]]
+	- [Security Engineer Job in Redmond, WA at Nintendo (Hiring)](https://omnivore.app/me/security-engineer-job-in-redmond-wa-at-nintendo-hiring-18e9b73badc)
+	  collapsed:: true
+	  site:: [ZipRecruiter](https://www.ziprecruiter.com/c/Nintendo/Job/Security-Engineer/-in-Redmond,WA?jid=69a06cbeff254dca)
+	  date-saved:: [[Apr 1st, 2024]]
+	  date-published:: [[Feb 15th, 2024]]
+	- [Sr Software Engineer Job in Redmond, WA at Spacex (Hiring)](https://omnivore.app/me/sr-software-engineer-job-in-redmond-wa-at-spacex-hiring-18e9b72f829)
+	  collapsed:: true
+	  site:: [ZipRecruiter](https://www.ziprecruiter.com/c/SpaceX/Job/Sr.-Software-Engineer-(SpaceX-Security)/-in-Redmond,WA?jid=a7891ceb8cfffb34)
+	  date-saved:: [[Apr 1st, 2024]]
+	  date-published:: [[Feb 29th, 2024]]
+	- [Security Engineer Job in Seattle, WA at Meta (Hiring Now)](https://omnivore.app/me/security-engineer-job-in-seattle-wa-at-meta-hiring-now-18e9b711cab)
+	  collapsed:: true
+	  site:: [ZipRecruiter](https://www.ziprecruiter.com/c/Meta/Job/Security-Engineer-Vulnerability-Management/-in-Seattle,WA?jid=f79f0c18a2d9c8d7)
+	  date-saved:: [[Apr 1st, 2024]]
+	  date-published:: [[Mar 6th, 2024]]
+	- [amlweems/xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://omnivore.app/me/amlweems-xzbot-notes-honeypot-and-exploit-demo-for-the-xz-backdo-18e9b62be70)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/amlweems/xzbot)
+	  date-saved:: [[Apr 1st, 2024]]
+	- [Launch Your Startup in Days, Not Weeks | ShipFast](https://omnivore.app/me/launch-your-startup-in-days-not-weeks-ship-fast-18e9b268c29)
+	  collapsed:: true
+	  site:: [shipfa.st](https://shipfa.st)
+	  author:: Marc Lou
+	  date-saved:: [[Apr 1st, 2024]]
+	  date-published:: [[Jul 31st, 2023]]
+	- [Celest - The Flutter cloud platform](https://omnivore.app/me/celest-the-flutter-cloud-platform-18e9ac378eb)
+	  collapsed:: true
+	  site:: [celest.dev](https://celest.dev)
+	  date-saved:: [[Apr 1st, 2024]]
+	- [Hire with a Talent Expert](https://omnivore.app/me/hire-with-a-talent-expert-18e98347346)
+	  collapsed:: true
+	  site:: [about.pangea.app](https://www.about.pangea.app)
+	  date-saved:: [[Mar 31st, 2024]]
 	- [Rave Logos – Counter-Print](https://omnivore.app/me/rave-logos-counter-print-18e978c653b)
 	  collapsed:: true
 	  site:: [Counter-Print](https://www.counter-print.co.uk/products/rave-logos)

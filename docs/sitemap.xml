@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://breadchris.com/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/go/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/thinkies/notes-about-coroutines/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/the-go-proposal-process/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/thinkies/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/notes-about-coroutines/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/interviews-suck/</loc>

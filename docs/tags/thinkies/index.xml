@@ -6,8 +6,15 @@
     <description>Recent content in thinkies on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Go Proposal Process</title>
+      <link>https://breadchris.com/thinkies/the-go-proposal-process/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-go-proposal-process/</guid>
+      <description>Underneath the syntax and runtime is a very important system that is often overlooked in a language. Usually, there is &amp;ldquo;the person&amp;rdquo; who built the language, and successful languages often come from the person wanting a language to suit their needs, not finding one, and then making their own. Over time, more people want to use the language, and balancing constraints of what is included or not included in a language becomes challenging.</description>
+    </item>
     <item>
       <title>notes about coroutines?</title>
       <link>https://breadchris.com/thinkies/notes-about-coroutines/</link>

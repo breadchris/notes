@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [RunSybil](https://omnivore.app/me/run-sybil-18ea486c1ff)
+	  collapsed:: true
+	  site:: [runsybil.com](https://www.runsybil.com)
+	  date-saved:: [[Apr 3rd, 2024]]
 	- [Personalized Start Page and Bookmark Manager | start.me](https://omnivore.app/me/personalized-start-page-and-bookmark-manager-start-me-18ea27798c3)
 	  collapsed:: true
 	  site:: [about.start.me](https://about.start.me)

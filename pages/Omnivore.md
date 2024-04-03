@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Product Security Engineer - Careers | Hex](https://omnivore.app/me/product-security-engineer-careers-hex-18ea573c7c5)
+	  collapsed:: true
+	  site:: [hex.tech](https://hex.tech/careers/product-security-engineer/)
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [Etsy Careers](https://omnivore.app/me/etsy-careers-18ea571ab57)
+	  collapsed:: true
+	  site:: [etsy.wd5.myworkdayjobs.com](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-NY/Senior-Software-Engineer-II--Application-Security_JR3207)
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [Vulnerability Researcher - Careers at Apple](https://omnivore.app/me/vulnerability-researcher-careers-at-apple-18ea57024ef)
+	  collapsed:: true
+	  site:: [jobs.apple.com](https://jobs.apple.com/en-us/details/200537641/vulnerability-researcher?team=SFTWR)
+	  date-saved:: [[Apr 3rd, 2024]]
 	- [RunSybil](https://omnivore.app/me/run-sybil-18ea486c1ff)
 	  collapsed:: true
 	  site:: [runsybil.com](https://www.runsybil.com)

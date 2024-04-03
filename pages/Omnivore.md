@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [WebAuthn 101: How Web Authentication Works](https://omnivore.app/me/web-authn-101-how-web-authentication-works-18ea6223dc4)
+	  collapsed:: true
+	  site:: [descope.com](https://www.descope.com/learn/post/webauthn)
+	  date-saved:: [[Apr 3rd, 2024]]
+	  date-published:: [[Sep 26th, 2022]]
 	- [Product Security Engineer - Careers | Hex](https://omnivore.app/me/product-security-engineer-careers-hex-18ea573c7c5)
 	  collapsed:: true
 	  site:: [hex.tech](https://hex.tech/careers/product-security-engineer/)

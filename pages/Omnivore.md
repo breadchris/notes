@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Personalized Start Page and Bookmark Manager | start.me](https://omnivore.app/me/personalized-start-page-and-bookmark-manager-start-me-18ea27798c3)
+	  collapsed:: true
+	  site:: [about.start.me](https://about.start.me)
+	  date-saved:: [[Apr 2nd, 2024]]
+	- [Welcome | Lino Tagliapietra](https://omnivore.app/me/welcome-lino-tagliapietra-18ea13cf369)
+	  collapsed:: true
+	  site:: [linotagliapietra.com](https://www.linotagliapietra.com)
+	  labels:: [[websites]][[lydia]]
+	  date-saved:: [[Apr 2nd, 2024]]
 	- [How Turkish coffee destroyed an empire](https://omnivore.app/me/how-turkish-coffee-destroyed-an-empire-18ea0710e9f)
 	  collapsed:: true
 	  site:: [The Economist](https://www.economist.com/1843/2019/02/26/how-turkish-coffee-destroyed-an-empire)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Cloudflare Calls: millions of cascading trees all the way down](https://omnivore.app/me/cloudflare-calls-millions-of-cascading-trees-all-the-way-down-18eaa9eb477)
+	  collapsed:: true
+	  site:: [The Cloudflare Blog](https://blog.cloudflare.com/cloudflare-calls-anycast-webrtc)
+	  author:: Renan DincerRachel ChenFelipe Astroza ArayaKevin KippKazi Najib
+	  date-saved:: [[Apr 4th, 2024]]
+	  date-published:: [[Apr 4th, 2024]]
+	- [QUIC's (hidden) Super Powers - Media over QUIC](https://omnivore.app/me/quic-s-hidden-super-powers-media-over-quic-18eaa9e6c87)
+	  collapsed:: true
+	  site:: [quic.video](https://quic.video/blog/quic-powers/)
+	  date-saved:: [[Apr 4th, 2024]]
 	- [xz/liblzma: Bash-stage Obfuscation Explained - gynvael.coldwind//vx.log](https://omnivore.app/me/xz-liblzma-bash-stage-obfuscation-explained-gynvael-coldwind-vx--18eaa720348)
 	  collapsed:: true
 	  site:: [gynvael.coldwind.pl](https://gynvael.coldwind.pl/?id=782&lang=en)

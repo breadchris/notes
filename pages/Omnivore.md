@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [xz/liblzma: Bash-stage Obfuscation Explained - gynvael.coldwind//vx.log](https://omnivore.app/me/xz-liblzma-bash-stage-obfuscation-explained-gynvael-coldwind-vx--18eaa720348)
+	  collapsed:: true
+	  site:: [gynvael.coldwind.pl](https://gynvael.coldwind.pl/?id=782&lang=en)
+	  date-saved:: [[Apr 4th, 2024]]
+	  date-published:: [[Mar 29th, 2024]]
 	- [(2) Post | Feed | LinkedIn](https://omnivore.app/me/2-post-feed-linked-in-18ea68f6b9b)
 	  collapsed:: true
 	  site:: [linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:7143617457847492608/)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [(2) Post | Feed | LinkedIn](https://omnivore.app/me/2-post-feed-linked-in-18ea68f6b9b)
+	  collapsed:: true
+	  site:: [linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:7143617457847492608/)
+	  author:: Author
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [Learning Synths](https://omnivore.app/me/learning-synths-18ea6844ae6)
+	  collapsed:: true
+	  site:: [learningsynths.ableton.com](https://learningsynths.ableton.com)
+	  labels:: [[music]][[internet/toys]]
+	  date-saved:: [[Apr 3rd, 2024]]
 	- [shopping 1 - JummBox 2.6](https://omnivore.app/me/shopping-1-jumm-box-2-6-18ea642e937)
 	  collapsed:: true
 	  site:: [jummb.us](https://jummb.us)
@@ -18,9 +28,9 @@
 	  labels:: [[music]][[internet/toys]]
 	  date-saved:: [[Apr 3rd, 2024]]
 	- [Overview of Policies - SameSite Wiki](https://omnivore.app/me/overview-of-policies-same-site-wiki-18ea6294dd3)
-	  collapsed:: true
 	  site:: [SameSite Wiki](https://scnps.co/same-site-wiki/docs/policies/overview.html)
 	  date-saved:: [[Apr 3rd, 2024]]
+	  collapsed:: true
 	- [WebAuthn 101: How Web Authentication Works](https://omnivore.app/me/web-authn-101-how-web-authentication-works-18ea6223dc4)
 	  collapsed:: true
 	  site:: [descope.com](https://www.descope.com/learn/post/webauthn)

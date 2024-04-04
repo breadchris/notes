@@ -1,4 +1,26 @@
 ## 🔖 Articles
+	- [shopping 1 - JummBox 2.6](https://omnivore.app/me/shopping-1-jumm-box-2-6-18ea642e937)
+	  collapsed:: true
+	  site:: [jummb.us](https://jummb.us)
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [BeepBox Song Player](https://omnivore.app/me/beep-box-song-player-18ea6421f86)
+	  collapsed:: true
+	  site:: [beepbox.co](https://www.beepbox.co/player/)
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [UltraBox 2.2.4](https://omnivore.app/me/ultra-box-2-2-4-18ea6416060)
+	  collapsed:: true
+	  site:: [ultraabox.github.io](https://ultraabox.github.io)
+	  labels:: [[music]][[internet/toys]]
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [Unnamed - PaandorasBox 3.4](https://omnivore.app/me/unnamed-paandoras-box-3-4-18ea640aae2)
+	  collapsed:: true
+	  site:: [paandorasbox.github.io](https://paandorasbox.github.io)
+	  labels:: [[music]][[internet/toys]]
+	  date-saved:: [[Apr 3rd, 2024]]
+	- [Overview of Policies - SameSite Wiki](https://omnivore.app/me/overview-of-policies-same-site-wiki-18ea6294dd3)
+	  collapsed:: true
+	  site:: [SameSite Wiki](https://scnps.co/same-site-wiki/docs/policies/overview.html)
+	  date-saved:: [[Apr 3rd, 2024]]
 	- [WebAuthn 101: How Web Authentication Works](https://omnivore.app/me/web-authn-101-how-web-authentication-works-18ea6223dc4)
 	  collapsed:: true
 	  site:: [descope.com](https://www.descope.com/learn/post/webauthn)

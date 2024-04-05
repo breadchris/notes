@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [How NAT traversal works](https://omnivore.app/me/how-nat-traversal-works-18eac058014)
+	  collapsed:: true
+	  site:: [tailscale.com](https://tailscale.com/blog/how-nat-traversal-works)
+	  date-saved:: [[Apr 4th, 2024]]
+	  date-published:: [[Aug 20th, 2020]]
 	- [Cloudflare Calls: millions of cascading trees all the way down](https://omnivore.app/me/cloudflare-calls-millions-of-cascading-trees-all-the-way-down-18eaa9eb477)
 	  collapsed:: true
 	  site:: [The Cloudflare Blog](https://blog.cloudflare.com/cloudflare-calls-anycast-webrtc)

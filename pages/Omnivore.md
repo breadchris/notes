@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [BeepBox](https://omnivore.app/me/beep-box-18eafd72f76)
+	  collapsed:: true
+	  site:: [beepbox.co](https://www.beepbox.co)
+	  date-saved:: [[Apr 5th, 2024]]
+	- [Wlfs vnder yovr bed - JummBox 2.6](https://omnivore.app/me/wlfs-vnder-yovr-bed-jumm-box-2-6-18eafcb818b)
+	  collapsed:: true
+	  site:: [jummb.us](https://jummb.us/player/)
+	  labels:: [[music]]
+	  date-saved:: [[Apr 5th, 2024]]
 	- [Palantir Impact | Holistic Pricing Optimization](https://omnivore.app/me/palantir-impact-holistic-pricing-optimization-18ead220dd2)
 	  collapsed:: true
 	  site:: [Palantir](https://www.palantir.com/impact/pricing-optimization/)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Palantir Impact | Holistic Pricing Optimization](https://omnivore.app/me/palantir-impact-holistic-pricing-optimization-18ead220dd2)
+	  collapsed:: true
+	  site:: [Palantir](https://www.palantir.com/impact/pricing-optimization/)
+	  labels:: [[websites]]
+	  date-saved:: [[Apr 5th, 2024]]
+	  date-published:: [[Nov 22nd, 2023]]
+	- [4 Day Week Jobs (32hrs @ 100% salary) - 4dayweek.io](https://omnivore.app/me/4-day-week-jobs-32-hrs-100-salary-4-dayweek-io-18ead00bb1b)
+	  collapsed:: true
+	  site:: [4dayweek.io](https://4dayweek.io)
+	  date-saved:: [[Apr 4th, 2024]]
 	- [How NAT traversal works](https://omnivore.app/me/how-nat-traversal-works-18eac058014)
 	  collapsed:: true
 	  site:: [tailscale.com](https://tailscale.com/blog/how-nat-traversal-works)

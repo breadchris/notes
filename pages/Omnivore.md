@@ -1,4 +1,28 @@
 ## 🔖 Articles
+	- [What I think about when I edit — Eva Parish](https://omnivore.app/me/what-i-think-about-when-i-edit-eva-parish-18eb46cc80b)
+	  collapsed:: true
+	  site:: [Eva Parish](https://evaparish.com/blog/how-i-edit)
+	  author:: Eva Parish
+	  date-saved:: [[Apr 6th, 2024]]
+	  date-published:: [[Jun 21st, 2019]]
+	- [How Much to Charge for a Website](https://omnivore.app/me/how-much-to-charge-for-a-website-18eb2552a29)
+	  collapsed:: true
+	  site:: [Wix Studio](https://www.wix.com/studio/blog/how-much-to-charge-for-a-website)
+	  author:: Rebecca Strehlow
+	  date-saved:: [[Apr 6th, 2024]]
+	  date-published:: [[Sep 19th, 2021]]
+	- [How to start a web design business in 7 steps](https://omnivore.app/me/how-to-start-a-web-design-business-in-7-steps-18eb254d871)
+	  collapsed:: true
+	  site:: [Wix Studio](https://www.wix.com/studio/blog/how-to-start-a-web-design-business?twclid=22074q3gl4hw3rwqv7l6foystm)
+	  author:: Aaron Gelbman
+	  date-saved:: [[Apr 6th, 2024]]
+	  date-published:: [[Mar 20th, 2024]]
+	- [A Lego Model of Financial Capitalism - by Brett Scott](https://omnivore.app/me/a-lego-model-of-financial-capitalism-by-brett-scott-18eb0e60040)
+	  collapsed:: true
+	  site:: [Altered States of Monetary Consciousness](https://www.asomo.co/p/a-lego-model-of-financial-capitalism)
+	  author:: Brett Scott
+	  date-saved:: [[Apr 5th, 2024]]
+	  date-published:: [[Apr 4th, 2024]]
 	- [Categories - go - Socket](https://omnivore.app/me/categories-go-socket-18eb0d92db5)
 	  collapsed:: true
 	  site:: [Socket](https://socket.dev/go/category)

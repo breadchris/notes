@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Categories - go - Socket](https://omnivore.app/me/categories-go-socket-18eb0d92db5)
+	  collapsed:: true
+	  site:: [Socket](https://socket.dev/go/category)
+	  date-saved:: [[Apr 5th, 2024]]
+	- [Senior - Staff Backend Engineer - Socket](https://omnivore.app/me/senior-staff-backend-engineer-socket-18eb0d716ad)
+	  collapsed:: true
+	  site:: [Socket](https://socket.dev/careers/senior-staff-backend-engineer)
+	  date-saved:: [[Apr 5th, 2024]]
 	- [BeepBox](https://omnivore.app/me/beep-box-18eafd72f76)
 	  collapsed:: true
 	  site:: [beepbox.co](https://www.beepbox.co)

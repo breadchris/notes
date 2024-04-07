@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [VCV Rack - The Eurorack Simulator for Windows/Mac/Linux](https://omnivore.app/me/vcv-rack-the-eurorack-simulator-for-windows-mac-linux-18eb4bfca0b)
+	  collapsed:: true
+	  site:: [vcvrack.com](https://vcvrack.com)
+	  date-saved:: [[Apr 6th, 2024]]
+	- [Dangers of using wildcard certificates](https://omnivore.app/me/dangers-of-using-wildcard-certificates-18eb49819dc)
+	  collapsed:: true
+	  site:: [Sean Wright](https://blog.sean-wright.com/wildcard-certs-not-quite-the-star/)
+	  author:: Sean Wright
+	  date-saved:: [[Apr 6th, 2024]]
+	  date-published:: [[Nov 18th, 2017]]
+	- [Mozilla SSL Configuration Generator](https://omnivore.app/me/mozilla-ssl-configuration-generator-18eb4945058)
+	  collapsed:: true
+	  site:: [ssl-config.mozilla.org](https://ssl-config.mozilla.org)
+	  author:: April King
+	  date-saved:: [[Apr 6th, 2024]]
+	  date-published:: [[Jan 3rd, 2024]]
 	- [What I think about when I edit — Eva Parish](https://omnivore.app/me/what-i-think-about-when-i-edit-eva-parish-18eb46cc80b)
 	  collapsed:: true
 	  site:: [Eva Parish](https://evaparish.com/blog/how-i-edit)

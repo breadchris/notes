@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Jake Mor on X: "100 tips I learned growing an iOS app to ~$5M in sales in 3 yrs, going through YC 1.5 times, and co-founding @Superwall 👇" / X](https://omnivore.app/me/https-twitter-com-jakemor-status-1549281861687451648-18ebf890e7e)
+	  collapsed:: true
+	  site:: [X (formerly Twitter)](https://twitter.com/jakemor/status/1549281861687451648)
+	  date-saved:: [[Apr 8th, 2024]]
 	- [build-systems-jfp](https://omnivore.app/me/u-fd-6-cfdf-8-f-5-d-6-11-ee-84-e-2-8-bd-257201-c-19-build-system-18ebeffd872)
 	  collapsed:: true
 	  site:: [microsoft.com](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf)

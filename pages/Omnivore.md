@@ -1,8 +1,19 @@
 ## 🔖 Articles
-	- [Jake Mor on X: "100 tips I learned growing an iOS app to ~$5M in sales in 3 yrs, going through YC 1.5 times, and co-founding @Superwall 👇" / X](https://omnivore.app/me/https-twitter-com-jakemor-status-1549281861687451648-18ebf890e7e)
+	- [How To Found a Company In Germany: 14 “Easy” Steps And Lots Of Pain – Oliver Eidel's Blog](https://omnivore.app/me/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain-18ebfe6a923)
 	  collapsed:: true
+	  site:: [eidel.io](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)
+	  author:: Oliver Eidel
+	  date-saved:: [[Apr 8th, 2024]]
+	  date-published:: [[Apr 2nd, 2024]]
+	- [Lennon McLean | My Website](https://omnivore.app/me/lennon-mc-lean-my-website-18ebfc965c2)
+	  collapsed:: true
+	  site:: [Lennon McLean](https://thecoder08.github.io/hello-world.html)
+	  date-saved:: [[Apr 8th, 2024]]
+	  date-published:: [[Apr 5th, 2024]]
+	- [Jake Mor on X: "100 tips I learned growing an iOS app to ~$5M in sales in 3 yrs, going through YC 1.5 times, and co-founding @Superwall 👇" / X](https://omnivore.app/me/https-twitter-com-jakemor-status-1549281861687451648-18ebf890e7e)
 	  site:: [X (formerly Twitter)](https://twitter.com/jakemor/status/1549281861687451648)
 	  date-saved:: [[Apr 8th, 2024]]
+	  collapsed:: true
 	- [build-systems-jfp](https://omnivore.app/me/u-fd-6-cfdf-8-f-5-d-6-11-ee-84-e-2-8-bd-257201-c-19-build-system-18ebeffd872)
 	  collapsed:: true
 	  site:: [microsoft.com](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf)

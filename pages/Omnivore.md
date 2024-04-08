@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [build-systems-jfp](https://omnivore.app/me/u-fd-6-cfdf-8-f-5-d-6-11-ee-84-e-2-8-bd-257201-c-19-build-system-18ebeffd872)
+	  collapsed:: true
+	  site:: [microsoft.com](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf)
+	  date-saved:: [[Apr 8th, 2024]]
 	- [zeu_dev - Twitch](https://omnivore.app/me/zeu-dev-twitch-18ebe762b13)
 	  collapsed:: true
 	  site:: [Twitch](https://m.twitch.tv/zeu_dev)

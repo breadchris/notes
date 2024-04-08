@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Hands-on: X25519 Key Exchange](https://omnivore.app/me/hands-on-x-25519-key-exchange-18eba80449f)
+	  collapsed:: true
+	  site:: [x25519.xargs.org](https://x25519.xargs.org)
+	  date-saved:: [[Apr 7th, 2024]]
+	- [1906.07221](https://omnivore.app/me/u-6-ea-918-f-0-f-526-11-ee-88-b-3-b-7621-df-58216-1906-07221-pdf-18eba7ac1d7)
+	  collapsed:: true
+	  site:: [arxiv.org](https://arxiv.org/pdf/1906.07221.pdf)
+	  date-saved:: [[Apr 7th, 2024]]
+	- [Ring Signatures vs zkSNARKs: Comparing privacy technologies](https://omnivore.app/me/ring-signatures-vs-zk-snar-ks-comparing-privacy-technologies-18eba79feed)
+	  collapsed:: true
+	  site:: [Panther Protocol Blog](https://blog.pantherprotocol.io/ring-signatures-vs-zksnarks-comparing-privacy-technologies/)
+	  author:: Panther Team
+	  date-saved:: [[Apr 7th, 2024]]
+	  date-published:: [[Jul 20th, 2022]]
+	- [The Illustrated TLS Connection: Every Byte Explained](https://omnivore.app/me/the-illustrated-tls-connection-every-byte-explained-18eba6bed1c)
+	  collapsed:: true
+	  site:: [tls12.xargs.org](https://tls12.xargs.org)
+	  date-saved:: [[Apr 7th, 2024]]
 	- [VCV Rack - The Eurorack Simulator for Windows/Mac/Linux](https://omnivore.app/me/vcv-rack-the-eurorack-simulator-for-windows-mac-linux-18eb4bfca0b)
 	  collapsed:: true
 	  site:: [vcvrack.com](https://vcvrack.com)

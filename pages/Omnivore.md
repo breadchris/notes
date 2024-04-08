@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [zeu_dev - Twitch](https://omnivore.app/me/zeu-dev-twitch-18ebe762b13)
+	  collapsed:: true
+	  site:: [Twitch](https://m.twitch.tv/zeu_dev)
+	  date-saved:: [[Apr 8th, 2024]]
+	- [Zeu Capua - Full Stack Web Developer](https://omnivore.app/me/zeu-capua-full-stack-web-developer-18ebe74a8b6)
+	  collapsed:: true
+	  site:: [zeu.dev](https://www.zeu.dev)
+	  date-saved:: [[Apr 8th, 2024]]
+	  date-published:: [[Nov 17th, 2023]]
 	- [Hands-on: X25519 Key Exchange](https://omnivore.app/me/hands-on-x-25519-key-exchange-18eba80449f)
 	  collapsed:: true
 	  site:: [x25519.xargs.org](https://x25519.xargs.org)

@@ -1,9 +1,15 @@
 ## 🔖 Articles
-	- [AstroForge](https://omnivore.app/me/astro-forge-18ec0703307)
+	- [Titles. Most CEOs are an urgent breed. | by Gokul Rajaram | Medium](https://omnivore.app/me/titles-most-ce-os-are-an-urgent-breed-by-gokul-rajaram-medium-18ec09b8fae)
 	  collapsed:: true
+	  site:: [Medium](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
+	  author:: Gokul Rajaram
+	  date-saved:: [[Apr 8th, 2024]]
+	  date-published:: [[May 11th, 2017]]
+	- [AstroForge](https://omnivore.app/me/astro-forge-18ec0703307)
 	  site:: [astroforge.io](https://www.astroforge.io)
 	  date-saved:: [[Apr 8th, 2024]]
 	  date-published:: [[Dec 10th, 2023]]
+	  collapsed:: true
 	- [How To Found a Company In Germany: 14 “Easy” Steps And Lots Of Pain – Oliver Eidel's Blog](https://omnivore.app/me/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain-18ebfe6a923)
 	  collapsed:: true
 	  site:: [eidel.io](https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/)

@@ -1,10 +1,23 @@
 ## 🔖 Articles
-	- [Titles. Most CEOs are an urgent breed. | by Gokul Rajaram | Medium](https://omnivore.app/me/titles-most-ce-os-are-an-urgent-breed-by-gokul-rajaram-medium-18ec09b8fae)
+	- [Enso | Get insights you can rely on. In real time.](https://omnivore.app/me/enso-get-insights-you-can-rely-on-in-real-time-18ec18bcc4f)
 	  collapsed:: true
+	  site:: [enso.org](https://enso.org)
+	  date-saved:: [[Apr 8th, 2024]]
+	  date-published:: [[Apr 8th, 2024]]
+	- [Parinfer - simpler Lisp editing](https://omnivore.app/me/parinfer-simpler-lisp-editing-18ec18989e4)
+	  collapsed:: true
+	  site:: [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/)
+	  date-saved:: [[Apr 8th, 2024]]
+	- [Cirru/calcit-editor: Intuitive S-expressions editing for Clojure(Script).](https://omnivore.app/me/cirru-calcit-editor-intuitive-s-expressions-editing-for-clojure--18ec1874b52)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/Cirru/calcit-editor?tab=readme-ov-file)
+	  date-saved:: [[Apr 8th, 2024]]
+	- [Titles. Most CEOs are an urgent breed. | by Gokul Rajaram | Medium](https://omnivore.app/me/titles-most-ce-os-are-an-urgent-breed-by-gokul-rajaram-medium-18ec09b8fae)
 	  site:: [Medium](https://medium.com/@gokulrajaram/the-one-thing-ceos-should-delay-as-long-as-possible-ea28347714b0)
 	  author:: Gokul Rajaram
 	  date-saved:: [[Apr 8th, 2024]]
 	  date-published:: [[May 11th, 2017]]
+	  collapsed:: true
 	- [AstroForge](https://omnivore.app/me/astro-forge-18ec0703307)
 	  site:: [astroforge.io](https://www.astroforge.io)
 	  date-saved:: [[Apr 8th, 2024]]

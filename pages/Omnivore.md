@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Frameight - Framer templates](https://omnivore.app/me/frameight-framer-templates-18ec56e326d)
+	  collapsed:: true
+	  site:: [frameight.co](https://frameight.co)
+	  date-saved:: [[Apr 9th, 2024]]
 	- [ScreenAI: A visual language model for UI and visually-situated language understanding](https://omnivore.app/me/screen-ai-a-visual-language-model-for-ui-and-visually-situated-l-18ec49757f2)
 	  collapsed:: true
 	  site:: [research.google](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)
@@ -11,10 +15,10 @@
 	  date-saved:: [[Apr 9th, 2024]]
 	  date-published:: [[Aug 8th, 2022]]
 	- [Theragun - 6100 Wilshire Blvd, Ste 200, Los Angeles, Ca 90048, Us - company Report - Import Yeti](https://omnivore.app/me/theragun-6100-wilshire-blvd-ste-200-los-angeles-ca-90048-us-comp-18ec47c2b77)
-	  collapsed:: true
 	  site:: [ImportYeti - Find Quality Suppliers](https://www.importyeti.com/company/theragun)
 	  date-saved:: [[Apr 9th, 2024]]
 	  date-published:: [[May 31st, 2016]]
+	  collapsed:: true
 	- [Enso | Get insights you can rely on. In real time.](https://omnivore.app/me/enso-get-insights-you-can-rely-on-in-real-time-18ec18bcc4f)
 	  collapsed:: true
 	  site:: [enso.org](https://enso.org)

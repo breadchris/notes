@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Welcome | Practical Cryptography for Developers](https://omnivore.app/me/welcome-practical-cryptography-for-developers-18ec8cc930d)
+	  collapsed:: true
+	  site:: [cryptobook.nakov.com](https://cryptobook.nakov.com)
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Feb 24th, 2020]]
 	- [TLSNotary](https://omnivore.app/me/tls-notary-18ec63a2243)
 	  collapsed:: true
 	  site:: [tlsnotary.org](https://tlsnotary.org)

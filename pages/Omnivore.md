@@ -1,8 +1,12 @@
 ## 🔖 Articles
-	- [Frameight - Framer templates](https://omnivore.app/me/frameight-framer-templates-18ec56e326d)
+	- [Documentation | SFOSC](https://omnivore.app/me/documentation-sfosc-18ec603fb5c)
 	  collapsed:: true
+	  site:: [sfosc.org](https://sfosc.org/docs/)
+	  date-saved:: [[Apr 9th, 2024]]
+	- [Frameight - Framer templates](https://omnivore.app/me/frameight-framer-templates-18ec56e326d)
 	  site:: [frameight.co](https://frameight.co)
 	  date-saved:: [[Apr 9th, 2024]]
+	  collapsed:: true
 	- [ScreenAI: A visual language model for UI and visually-situated language understanding](https://omnivore.app/me/screen-ai-a-visual-language-model-for-ui-and-visually-situated-l-18ec49757f2)
 	  collapsed:: true
 	  site:: [research.google](https://research.google/blog/screenai-a-visual-language-model-for-ui-and-visually-situated-language-understanding/)

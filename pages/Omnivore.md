@@ -1,4 +1,135 @@
 ## 🔖 Articles
+	- [Articles in tag "Go"](https://omnivore.app/me/articles-in-tag-go-18ed32a0005)
+	  collapsed:: true
+	  site:: [eli.thegreenplace.net](https://eli.thegreenplace.net/tag/go)
+	  date-saved:: [[Apr 12th, 2024]]
+	- [Publicly Available Big Data Sets :: Hadoop Illuminated](https://omnivore.app/me/publicly-available-big-data-sets-hadoop-illuminated-18ed317232b)
+	  collapsed:: true
+	  site:: [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+	  date-saved:: [[Apr 12th, 2024]]
+	- [Using Clickhouse to scale an events engine · getlago/lago Wiki](https://omnivore.app/me/using-clickhouse-to-scale-an-events-engine-getlago-lago-wiki-18ed0ebd743)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/getlago/lago/wiki/Using-Clickhouse-to-scale-an-events-engine)
+	  date-saved:: [[Apr 11th, 2024]]
+	  date-published:: [[Feb 23rd, 2024]]
+	- [gRPC on Node.js with Buf and TypeScript (in 2024) | Medium](https://omnivore.app/me/g-rpc-on-node-js-with-buf-and-type-script-in-2024-medium-18ed07c886d)
+	  collapsed:: true
+	  site:: [Medium](https://slavovojacek.medium.com/grpc-on-node-js-with-buf-and-typescript-part-1-5aad61bab03b)
+	  author:: Slavo Vojacek
+	  date-saved:: [[Apr 11th, 2024]]
+	  date-published:: [[Nov 5th, 2020]]
+	- [Vintage Motorola Advisor Pager Beeper ( FREE SHIPPING IN USA) | eBay](https://omnivore.app/me/vintage-motorola-advisor-pager-beeper-free-shipping-in-usa-e-bay-18ecf734d6a)
+	  collapsed:: true
+	  site:: [eBay](https://www.ebay.com/itm/266482333594)
+	  date-saved:: [[Apr 11th, 2024]]
+	- [Mutiny | Turn Your Website Into Your #1 Revenue Channel | Mutiny](https://omnivore.app/me/mutiny-turn-your-website-into-your-1-revenue-channel-mutiny-18ece7cd7c5)
+	  collapsed:: true
+	  site:: [Mutiny](https://www.mutinyhq.com)
+	  date-saved:: [[Apr 11th, 2024]]
+	- [Technology, Design and Photography — PaulStamatiou.com](https://omnivore.app/me/technology-design-and-photography-paul-stamatiou-com-18ece1a311d)
+	  collapsed:: true
+	  site:: [paulstamatiou.com](https://paulstamatiou.com)
+	  author:: Paul Stamatiou
+	  date-saved:: [[Apr 11th, 2024]]
+	- [SpruceID Partners with California DMV on the Mobile Driver’s License](https://omnivore.app/me/spruce-id-partners-with-california-dmv-on-the-mobile-driver-s-li-18ecbdaf065)
+	  collapsed:: true
+	  site:: [SpruceID](https://blog.spruceid.com/spruceid-partners-with-ca-dmv-on-mdl/)
+	  author:: Spruce
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Oct 25th, 2023]]
+	- [Decentralized Identity and Web3](https://omnivore.app/me/decentralized-identity-and-web-3-18ecbdae44c)
+	  collapsed:: true
+	  site:: [SpruceID](https://blog.spruceid.com/decentralized-identity-and-web3/)
+	  author:: Spruce
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Aug 5th, 2022]]
+	- [Authentication and Authorization Protocols | Spruce Digital Identity Knowledge Base](https://omnivore.app/me/authentication-and-authorization-protocols-spruce-digital-identi-18ecbdad092)
+	  collapsed:: true
+	  site:: [learn.spruceid.com](https://learn.spruceid.com/mobile-drivers-licenses-technology/authentication-and-authorization-protocols)
+	  author:: Authorization Methods
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Oct 31st, 2023]]
+	- [ISO/IEC DIS 18013-5](https://omnivore.app/me/u-24020574-f-7-cd-11-ee-84-b-1-3-ff-77-bcb-31-b-1-iso-18013-5-e--18ecbdabd83)
+	  collapsed:: true
+	  site:: [mobiledl-e5018.web.app](https://mobiledl-e5018.web.app/ISO_18013-5_E_draft.pdf)
+	  author:: ISO
+	  date-saved:: [[Apr 10th, 2024]]
+	- [Token Status List](https://omnivore.app/me/token-status-list-18ecbdab2f1)
+	  collapsed:: true
+	  site:: [ietf.org](https://www.ietf.org/archive/id/draft-ietf-oauth-status-list-02.html)
+	  author:: Christian Bormann
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Feb 26th, 2024]]
+	- [Home · Solid](https://omnivore.app/me/home-solid-18ecbd506c1)
+	  collapsed:: true
+	  site:: [solidproject.org](https://solidproject.org)
+	  date-saved:: [[Apr 10th, 2024]]
+	- [Storage (DWNs) | TBD](https://omnivore.app/me/storage-dw-ns-tbd-18ecbd24b17)
+	  collapsed:: true
+	  site:: [developer.tbd.website](https://developer.tbd.website/docs/web5/learn/decentralized-web-nodes/)
+	  author:: Authorization​
+	  date-saved:: [[Apr 10th, 2024]]
+	- [The Path to Self-Sovereign Identity - Life With Alacrity](https://omnivore.app/me/the-path-to-self-sovereign-identity-life-with-alacrity-18ecbd12d4c)
+	  collapsed:: true
+	  site:: [Life With Alacrity](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/)
+	  author:: Phase Two: Federated Identity (administrative control by multiple, federated authorities)Permalink
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Apr 25th, 2016]]
+	- [jp home](https://omnivore.app/me/jp-home-18ecbd0f7fc)
+	  collapsed:: true
+	  site:: [bayes.cs.ucla.edu](http://bayes.cs.ucla.edu/jp_home.html)
+	  date-saved:: [[Apr 10th, 2024]]
+	- [Slack-rival Element wins largest ever collaborative software deal | Sifted](https://omnivore.app/me/slack-rival-element-wins-largest-ever-collaborative-software-dea-18ecba443e7)
+	  collapsed:: true
+	  site:: [Sifted](https://sifted.eu/articles/element-germany-deal)
+	  author:: Michael Stothard
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Jul 13th, 2020]]
+	- [IcePanel | Explain complex software systems](https://omnivore.app/me/ice-panel-explain-complex-software-systems-18ecb524975)
+	  collapsed:: true
+	  site:: [IcePanel](https://icepanel.io)
+	  author:: IcePanel Technologies Inc.
+	  date-saved:: [[Apr 10th, 2024]]
+	- [Home | Tezos](https://omnivore.app/me/home-tezos-18ecb3d4318)
+	  collapsed:: true
+	  site:: [Tezos](https://tezos.com)
+	  author:: Spotlight
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Apr 9th, 2024]]
+	- [State Legislature Websites | Congress.gov | Library of Congress](https://omnivore.app/me/state-legislature-websites-congress-gov-library-of-congress-18ecb3150f3)
+	  collapsed:: true
+	  site:: [congress.gov](https://www.congress.gov/state-legislature-websites)
+	  date-saved:: [[Apr 10th, 2024]]
+	- [gotraining/topics/go/design/composition/README.md at master · ardanlabs/gotraining](https://omnivore.app/me/gotraining-topics-go-design-composition-readme-md-at-master-arda-18ecb2cd973)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/ardanlabs/gotraining/blob/master/topics/go/design/composition/README.md)
+	  date-saved:: [[Apr 10th, 2024]]
+	- [vcplayground.org](https://omnivore.app/me/-18ecaced0d8)
+	  collapsed:: true
+	  site:: [vcplayground.org](https://vcplayground.org)
+	  date-saved:: [[Apr 10th, 2024]]
+	- [did:web Method Specification](https://omnivore.app/me/did-web-method-specification-18eca932f5a)
+	  collapsed:: true
+	  site:: [w3c-ccg.github.io](https://w3c-ccg.github.io/did-method-web/)
+	  author:: Michael Prorock (mesur.io)
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[May 5th, 2023]]
+	- [On JSON-LD and the Semantics of Identity | by Orie Steele | Transmute | Medium](https://omnivore.app/me/on-json-ld-and-the-semantics-of-identity-by-orie-steele-transmut-18eca90dd2a)
+	  collapsed:: true
+	  site:: [Transmute](https://medium.com/transmute-techtalk/on-json-ld-and-the-semantics-of-identity-42d051d3ce14)
+	  author:: Orie Steele
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Jan 6th, 2020]]
+	- [Learn Concepts: Semantic Web. MATTR Learn | by Nader Helmy | MATTR | Medium](https://omnivore.app/me/learn-concepts-semantic-web-mattr-learn-by-nader-helmy-mattr-med-18eca90d043)
+	  collapsed:: true
+	  site:: [MATTR](https://medium.com/mattr-global/learn-concepts-semantic-web-250784d6a49f)
+	  author:: Nader Helmy
+	  date-saved:: [[Apr 10th, 2024]]
+	  date-published:: [[Dec 23rd, 2020]]
+	- [Benthos | Benthos](https://omnivore.app/me/benthos-benthos-18eca7f4f91)
+	  collapsed:: true
+	  site:: [benthos.dev](https://www.benthos.dev)
+	  date-saved:: [[Apr 10th, 2024]]
 	- [Welcome | Practical Cryptography for Developers](https://omnivore.app/me/welcome-practical-cryptography-for-developers-18ec8cc930d)
 	  collapsed:: true
 	  site:: [cryptobook.nakov.com](https://cryptobook.nakov.com)

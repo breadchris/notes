@@ -1,4 +1,68 @@
 ## 🔖 Articles
+	- [The Coding Forge](https://omnivore.app/me/the-coding-forge-18edb426a46)
+	  collapsed:: true
+	  site:: [thecodingforge.com.au](https://thecodingforge.com.au)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Renovamen/playground-macos: My portfolio website simulating macOS's GUI, developed with React and UnoCSS.](https://omnivore.app/me/renovamen-playground-macos-my-portfolio-website-simulating-mac-o-18edb3fdf2d)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/Renovamen/playground-macos?tab=readme-ov-file)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [file-explorer - CodeSandbox](https://omnivore.app/me/file-explorer-code-sandbox-18edaec6e4e)
+	  collapsed:: true
+	  site:: [codesandbox.io](https://codesandbox.io/p/sandbox/file-explorer-8z332z?file=%252Fsrc%252Fcomponents%252FDisplay.jsx)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Taildash | Tailwind Dashboard Template](https://omnivore.app/me/taildash-tailwind-dashboard-template-18edaeb264a)
+	  collapsed:: true
+	  site:: [taildash.tailwinddashboard.com](https://taildash.tailwinddashboard.com/index-analytics.html)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Free Online Form Builder | Tally](https://omnivore.app/me/free-online-form-builder-tally-18edacb02da)
+	  collapsed:: true
+	  site:: [Tally Forms](https://tally.so/?version=6)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Why did the German government create an agency for disruptive innovations? | DWIH Tokyo](https://omnivore.app/me/why-did-the-german-government-create-an-agency-for-disruptive-in-18eda7d4c3d)
+	  collapsed:: true
+	  site:: [dwih-tokyo.org](https://www.dwih-tokyo.org/en/2021/05/25/sprin-d/)
+	  author:: Toru Kumagai’s report on R&D trends in Germany
+	  date-saved:: [[Apr 13th, 2024]]
+	  date-published:: [[May 24th, 2021]]
+	- [EUDI WALLET Prototypes | SPRIND](https://omnivore.app/me/eudi-wallet-prototypes-sprind-18eda64b65d)
+	  collapsed:: true
+	  site:: [Bundesagentur für Sprunginnovationen](https://www.sprind.org/en/challenges/eudi-wallet-prototypes/)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [EP105: The 12 Factor App - ByteByteGo Newsletter](https://omnivore.app/me/ep-105-the-12-factor-app-byte-byte-go-newsletter-18eda5bd580)
+	  collapsed:: true
+	  site:: [ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep105-the-12-factor-app)
+	  author:: ByteByteGo
+	  date-saved:: [[Apr 13th, 2024]]
+	  date-published:: [[Mar 30th, 2024]]
+	- [The future of identity, data, and compute – Fission](https://omnivore.app/me/the-future-of-identity-data-and-compute-fission-18eda3f4d2c)
+	  collapsed:: true
+	  site:: [Fission](https://fission.codes)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Disco · Supercharge Growth](https://omnivore.app/me/disco-supercharge-growth-18eda36ef3c)
+	  collapsed:: true
+	  site:: [disco.xyz](https://www.disco.xyz)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Company | Quest Labs AI](https://omnivore.app/me/company-quest-labs-ai-18eda36685d)
+	  collapsed:: true
+	  site:: [linkedin.com](https://www.linkedin.com/company/questai/)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Projects Archive | Florian - Design Engineer](https://omnivore.app/me/projects-archive-florian-design-engineer-18ed87fef68)
+	  collapsed:: true
+	  site:: [floriankiem.com](https://floriankiem.com/archive/projects)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [Copy of A New Way of Work - Kindred Minds Culture Manifesto - Google Docs](https://omnivore.app/me/https-docs-google-com-document-d-12-v-09-zr-q-4-a-d-6-x-e-ivl-3--18ed7f5c95a)
+	  collapsed:: true
+	  site:: [Google Docs](https://docs.google.com/document/d/12V09zrQ4aD6xEIvl3WGVf3fpRjg6xGjPc1tvcxoLzxY/edit)
+	  date-saved:: [[Apr 13th, 2024]]
+	- [wgpu: portable graphics library for Rust](https://omnivore.app/me/wgpu-portable-graphics-library-for-rust-18ed51652ae)
+	  collapsed:: true
+	  site:: [wgpu.rs](https://wgpu.rs)
+	  date-saved:: [[Apr 12th, 2024]]
+	- [Rerun — Visualize multimodal data over time](https://omnivore.app/me/rerun-visualize-multimodal-data-over-time-18ed5160d7f)
+	  collapsed:: true
+	  site:: [rerun.io](https://www.rerun.io)
+	  date-saved:: [[Apr 12th, 2024]]
 	- [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://omnivore.app/me/pim-eyes-face-recognition-search-engine-and-reverse-image-search-18ed46b930a)
 	  collapsed:: true
 	  site:: [pimeyes.com](https://pimeyes.com/en)
@@ -143,7 +207,7 @@
 	- [TLSNotary](https://omnivore.app/me/tls-notary-18ec63a2243)
 	  collapsed:: true
 	  site:: [tlsnotary.org](https://tlsnotary.org)
-	  date-saved:: [[Apr 9th, 2024]]
+	  date-saved:: [[Apr 13th, 2024]]
 	- [Documentation | SFOSC](https://omnivore.app/me/documentation-sfosc-18ec603fb5c)
 	  site:: [sfosc.org](https://sfosc.org/docs/)
 	  date-saved:: [[Apr 9th, 2024]]

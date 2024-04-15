@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Hancock](https://omnivore.app/me/hancock-18edfaf6956)
+	  collapsed:: true
+	  site:: [hancock.ink](https://hancock.ink)
+	  date-saved:: [[Apr 14th, 2024]]
+	- [Cyberpunk 2077 Blackwall, Rogue AI, And Demons Explained](https://omnivore.app/me/cyberpunk-2077-blackwall-rogue-ai-and-demons-explained-18edfa73142)
+	  collapsed:: true
+	  site:: [TheGamer](https://www.thegamer.com/cyberpunk-2077-blackwall-netrunners-explained/)
+	  author:: Cian Maher
+	  date-saved:: [[Apr 14th, 2024]]
+	  date-published:: [[Sep 18th, 2020]]
 	- [The Coding Forge](https://omnivore.app/me/the-coding-forge-18edb426a46)
 	  collapsed:: true
 	  site:: [thecodingforge.com.au](https://thecodingforge.com.au)

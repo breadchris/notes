@@ -1,12 +1,22 @@
 ## 🔖 Articles
+	- [Home | Uniswap Protocol](https://omnivore.app/me/home-uniswap-protocol-18ee087af4c)
+	  collapsed:: true
+	  site:: [Uniswap Protocol](https://uniswap.org)
+	  date-saved:: [[Apr 14th, 2024]]
+	- [eIDAS2 is here! — walt.id](https://omnivore.app/me/e-idas-2-is-here-walt-id-18ee076a6e6)
+	  collapsed:: true
+	  site:: [walt.id](https://walt.id/white-paper/eidas2)
+	  author:: Dominik Beron
+	  date-saved:: [[Apr 14th, 2024]]
+	  date-published:: [[Mar 22nd, 2024]]
 	- [PickleBoxer/dev-chatgpt-prompts: 📚 Personal collection of ChatGPT prompts for developers!](https://omnivore.app/me/pickle-boxer-dev-chatgpt-prompts-personal-collection-of-chat-gpt-18ee03120de)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts)
 	  date-saved:: [[Apr 14th, 2024]]
 	- [walt.id | Powerful digital identity and wallet infrastructure](https://omnivore.app/me/walt-id-powerful-digital-identity-and-wallet-infrastructure-18ee0246826)
-	  collapsed:: true
 	  site:: [walt.id](https://walt.id)
 	  date-saved:: [[Apr 14th, 2024]]
+	  collapsed:: true
 	- [IPLD - The data model of the content-addressable web](https://omnivore.app/me/ipld-the-data-model-of-the-content-addressable-web-18edffce06f)
 	  collapsed:: true
 	  site:: [IPLD](https://ipld.io)

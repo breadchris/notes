@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [25 CSS Paper Effects](https://omnivore.app/me/25-css-paper-effects-18ee299926b)
+	  collapsed:: true
+	  site:: [freefrontend.com](https://freefrontend.com/css-paper-effects/)
+	  author:: Author Terence Eden
+	  date-saved:: [[Apr 15th, 2024]]
+	  date-published:: [[Jun 2nd, 2022]]
 	- [Home | Uniswap Protocol](https://omnivore.app/me/home-uniswap-protocol-18ee087af4c)
 	  collapsed:: true
 	  site:: [Uniswap Protocol](https://uniswap.org)

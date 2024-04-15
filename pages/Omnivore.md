@@ -1,10 +1,15 @@
 ## 🔖 Articles
-	- [25 CSS Paper Effects](https://omnivore.app/me/25-css-paper-effects-18ee299926b)
+	- [AmazingRibs.com, The Authoritative Source For BBQ And Grilling](https://omnivore.app/me/amazing-ribs-com-the-authoritative-source-for-bbq-and-grilling-18ee33271b8)
 	  collapsed:: true
+	  site:: [Meathead's AmazingRibs.com](https://amazingribs.com)
+	  author:: By:
+	  date-saved:: [[Apr 15th, 2024]]
+	- [25 CSS Paper Effects](https://omnivore.app/me/25-css-paper-effects-18ee299926b)
 	  site:: [freefrontend.com](https://freefrontend.com/css-paper-effects/)
 	  author:: Author Terence Eden
 	  date-saved:: [[Apr 15th, 2024]]
 	  date-published:: [[Jun 2nd, 2022]]
+	  collapsed:: true
 	- [Home | Uniswap Protocol](https://omnivore.app/me/home-uniswap-protocol-18ee087af4c)
 	  collapsed:: true
 	  site:: [Uniswap Protocol](https://uniswap.org)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [The Secret Science of Perfect Spacing](https://omnivore.app/me/https-www-youtube-com-watch-v-9-elrc-tt-axz-a-18ee3fdf86f)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=9ElrcTtAxzA)
+	  author:: Chainlift
+	  date-saved:: [[Apr 15th, 2024]]
+	  date-published:: [[Feb 28th, 2024]]
 	- [AmazingRibs.com, The Authoritative Source For BBQ And Grilling](https://omnivore.app/me/amazing-ribs-com-the-authoritative-source-for-bbq-and-grilling-18ee33271b8)
 	  collapsed:: true
 	  site:: [Meathead's AmazingRibs.com](https://amazingribs.com)

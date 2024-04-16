@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Decentralized Identifiers (DIDs): The Ultimate Beginner's Guide 2023](https://omnivore.app/me/decentralized-identifiers-di-ds-the-ultimate-beginner-s-guide-20-18ee575a9ba)
+	  collapsed:: true
+	  site:: [dock.io](https://www.dock.io/post/decentralized-identifiers)
+	  date-saved:: [[Apr 15th, 2024]]
+	  date-published:: [[Dec 7th, 2023]]
 	- [The Secret Science of Perfect Spacing](https://omnivore.app/me/https-www-youtube-com-watch-v-9-elrc-tt-axz-a-18ee3fdf86f)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=9ElrcTtAxzA)

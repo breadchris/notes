@@ -1,4 +1,29 @@
 ## 🔖 Articles
+	- [Lamucal : AI-Enhanced Tabs & Chords for Any Song](https://omnivore.app/me/lamucal-ai-enhanced-tabs-chords-for-any-song-18ee8d4c7a0)
+	  collapsed:: true
+	  site:: [Lamucal](https://lamucal.ai)
+	  labels:: [[music]]
+	  date-saved:: [[Apr 16th, 2024]]
+	- [Digital Signatures | Practical Cryptography for Developers](https://omnivore.app/me/digital-signatures-practical-cryptography-for-developers-18ee8bfffb1)
+	  collapsed:: true
+	  site:: [cryptobook.nakov.com](https://cryptobook.nakov.com/digital-signatures)
+	  date-saved:: [[Apr 16th, 2024]]
+	  date-published:: [[Jun 19th, 2019]]
+	- [Market Annealing: Getting to $10M ARR in Very Early Markets | Andreessen Horowitz](https://omnivore.app/me/market-annealing-getting-to-10-m-arr-in-very-early-markets-andre-18ee8b59730)
+	  collapsed:: true
+	  site:: [Andreessen Horowitz](https://a16z.com/market-annealing-getting-to-10m-arr-in-very-early-markets/)
+	  author:: Martin Casado, Peter Levine
+	  date-saved:: [[Apr 16th, 2024]]
+	  date-published:: [[Jan 11th, 2023]]
+	- [A Visual Guide to Vision Transformers | MDTURP](https://omnivore.app/me/a-visual-guide-to-vision-transformers-mdturp-18ee8b09b6d)
+	  collapsed:: true
+	  site:: [blog.mdturp.ch](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+	  date-saved:: [[Apr 16th, 2024]]
+	  date-published:: [[Apr 4th, 2024]]
+	- [Term Typer - Improve typing and vocabulary](https://omnivore.app/me/term-typer-improve-typing-and-vocabulary-18ee8ae26bf)
+	  collapsed:: true
+	  site:: [termtyper.com](https://www.termtyper.com)
+	  date-saved:: [[Apr 16th, 2024]]
 	- [connect-es/packages/connect-express/src/express-connect-middleware.ts at fd9a93127e1671cf614f14c7d410ec6b9b30b025 · connectrpc/connect-es](https://omnivore.app/me/connect-es-packages-connect-express-src-express-connect-middlewa-18ee5ac3ccb)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/connectrpc/connect-es/blob/fd9a93127e1671cf614f14c7d410ec6b9b30b025/packages/connect-express/src/express-connect-middleware.ts)

@@ -9,11 +9,26 @@
     <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A cool button goes viral</title>
+      <link>https://breadchris.com/thinkies/a-cool-button-goes-viral/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/a-cool-button-goes-viral/</guid>
+      <description>Imagine a developer named Alex, who creates a simple yet intriguing app with a button that shows the user a picture of a cat when they click on it.
+Alex chooses PostgreSQL for the backend, confident in its robustness and familiarity. At first, the app functions flawlessly, gaining a steady user base. Each button press generates a record in the database: timestamp, user ID, execution time, and the URL of the cat picture.</description>
+    </item>
+    <item>
       <title>error checking is hard</title>
       <link>https://breadchris.com/thinkies/error-checking-is-hard/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/thinkies/error-checking-is-hard/</guid>
       <description>Error checking is a complicated problem. It is like a garbage problem; everyone produces garbage, but no one wants to pick it up. Errors come from code that might behave unexpectedly due to forces outside of the developer&amp;rsquo;s control. Code accepts user input, and it will do its best to make sense of it, but there are scenarios where it is not possible for the code to handle the data that it was given (the code does addition but gets &amp;ldquo;hamburger&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>the modern business card</title>
+      <link>https://breadchris.com/thinkies/the-modern-business-card/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-modern-business-card/</guid>
+      <description>I had this idea while I was at a rave (related to DID): I can define an RPC schema that anyone in the world can interface with. I can define different circles of trust for people who can hit certain endpoints (ex. “CalendarService.ScheduleMeeting” can only be invoked by my network on LinkedIn). I can also put different middleware on the endpoint (ex. Paywall middleware, rate limit, etc.). When a request comes in it goes into a queue, prioritized by some logic (ex.</description>
     </item>
     <item>
       <title>you have invented time travel</title>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>protocard on breadchris</title>
+    <link>https://breadchris.com/tags/protocard/</link>
+    <description>Recent content in protocard on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/protocard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the modern business card</title>
+      <link>https://breadchris.com/thinkies/the-modern-business-card/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-modern-business-card/</guid>
+      <description>I had this idea while I was at a rave (related to DID): I can define an RPC schema that anyone in the world can interface with. I can define different circles of trust for people who can hit certain endpoints (ex. “CalendarService.ScheduleMeeting” can only be invoked by my network on LinkedIn). I can also put different middleware on the endpoint (ex. Paywall middleware, rate limit, etc.). When a request comes in it goes into a queue, prioritized by some logic (ex.</description>
+    </item>
+  </channel>
+</rss>

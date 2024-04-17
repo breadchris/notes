@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Worse Is Better](https://omnivore.app/me/worse-is-better-18eea463938)
+	  collapsed:: true
+	  site:: [dreamsongs.com](https://www.dreamsongs.com/WIB.html)
+	  date-saved:: [[Apr 16th, 2024]]
+	- [Worse Is Better](https://omnivore.app/me/worse-is-better-18eea44fa2c)
+	  collapsed:: true
+	  site:: [dreamsongs.com](https://www.dreamsongs.com/WorseIsBetter.html)
+	  date-saved:: [[Apr 16th, 2024]]
 	- [Art Litvinau/](https://omnivore.app/me/art-litvinau-18ee9535a2c)
 	  collapsed:: true
 	  site:: [litvinau.com](https://litvinau.com)

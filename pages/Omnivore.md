@@ -1,8 +1,12 @@
 ## 🔖 Articles
-	- [Page not found at /artifacts/mail.log](https://omnivore.app/me/page-not-found-at-artifacts-mail-log-18efa6300a2)
+	- [screencasting.com by Aaron Francis](https://omnivore.app/me/screencasting-com-by-aaron-francis-18efca7395c)
 	  collapsed:: true
+	  site:: [screencasting.com](https://screencasting.com)
+	  date-saved:: [[Apr 20th, 2024]]
+	- [Page not found at /artifacts/mail.log](https://omnivore.app/me/page-not-found-at-artifacts-mail-log-18efa6300a2)
 	  site:: [admin.4faeffcd3685b2d0.tacorala.com](https://admin.4faeffcd3685b2d0.tacorala.com/artifacts/mail.log)
 	  date-saved:: [[Apr 20th, 2024]]
+	  collapsed:: true
 	- [Starting Up Security](https://omnivore.app/me/starting-up-security-18ef7c7e9fd)
 	  collapsed:: true
 	  site:: [scrty.io](https://scrty.io)

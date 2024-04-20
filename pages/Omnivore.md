@@ -1,4 +1,48 @@
 ## 🔖 Articles
+	- [Starting Up Security](https://omnivore.app/me/starting-up-security-18ef7c7e9fd)
+	  collapsed:: true
+	  site:: [scrty.io](https://scrty.io)
+	  date-saved:: [[Apr 19th, 2024]]
+	- [Global EV Charging Points with Open Charge Map](https://omnivore.app/me/global-ev-charging-points-with-open-charge-map-18ef7b8ddcb)
+	  collapsed:: true
+	  site:: [tech.marksblogg.com](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
+	  author:: Mark Litwintschik
+	  date-saved:: [[Apr 19th, 2024]]
+	  date-published:: [[Aug 2nd, 2012]]
+	- [A Billion Taxi Rides in Redshift](https://omnivore.app/me/a-billion-taxi-rides-in-redshift-18ef7b86b09)
+	  collapsed:: true
+	  site:: [tech.marksblogg.com](https://tech.marksblogg.com/billion-nyc-taxi-rides-redshift.html)
+	  author:: Mark Litwintschik
+	  date-saved:: [[Apr 19th, 2024]]
+	- [Jay Goel (DM) - Scratch Data - Slack](https://omnivore.app/me/jay-goel-dm-scratch-data-slack-18ef7904e02)
+	  collapsed:: true
+	  site:: [app.slack.com](https://app.slack.com/client/T01N8RQK1KK/D06RACCFJPN?build_manifest_last_modified=1713469102&recommended_build_version=1713466645)
+	  author:: Slack
+	  date-saved:: [[Apr 19th, 2024]]
+	  date-published:: [[Apr 18th, 2024]]
+	- [Fey: Finance is finally effortless.](https://omnivore.app/me/fey-finance-is-finally-effortless-18ef71d8815)
+	  collapsed:: true
+	  site:: [Fey](https://www.feyapp.com)
+	  date-saved:: [[Apr 19th, 2024]]
+	  date-published:: [[Jan 17th, 2024]]
+	- [Developer Experience at ▲ Vercel and Next.js](https://omnivore.app/me/developer-experience-at-vercel-and-next-js-18ef50555dd)
+	  collapsed:: true
+	  site:: [Delba](https://delba.dev)
+	  date-saved:: [[Apr 18th, 2024]]
+	  date-published:: [[Aug 23rd, 2022]]
+	- [ZetaChain: Interoperability Platform | Build Omnichain dApps | 1M Users](https://omnivore.app/me/zeta-chain-interoperability-platform-build-omnichain-d-apps-1-m--18ef4354431)
+	  collapsed:: true
+	  site:: [ZetaChain: Interoperability Platform | Build Omnichain dApps | 1M Users](https://www.zetachain.com)
+	  date-saved:: [[Apr 18th, 2024]]
+	- [Tincans](https://omnivore.app/me/tincans-18ef409acdb)
+	  collapsed:: true
+	  site:: [tincans.ai](https://tincans.ai)
+	  date-saved:: [[Apr 18th, 2024]]
+	  date-published:: [[Mar 18th, 2024]]
+	- [Effect – The best way to build robust apps in TypeScript](https://omnivore.app/me/effect-the-best-way-to-build-robust-apps-in-type-script-18eec8aa014)
+	  collapsed:: true
+	  site:: [effect.website](https://effect.website)
+	  date-saved:: [[Apr 17th, 2024]]
 	- [Worse Is Better](https://omnivore.app/me/worse-is-better-18eea463938)
 	  collapsed:: true
 	  site:: [dreamsongs.com](https://www.dreamsongs.com/WIB.html)

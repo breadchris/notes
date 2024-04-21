@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Synchronizable abstractions for understandable concurrency | by Adam Solove | Medium](https://omnivore.app/me/synchronizable-abstractions-for-understandable-concurrency-by-ad-18eff644fa4)
+	  collapsed:: true
+	  site:: [Medium](https://asolove.medium.com/synchronizable-abstractions-for-understandable-concurrency-64ae57cd61d1)
+	  author:: Adam Solove
+	  date-saved:: [[Apr 20th, 2024]]
+	  date-published:: [[Apr 1st, 2017]]
+	- [Adam Solove](https://omnivore.app/me/adam-solove-18eff63b40d)
+	  collapsed:: true
+	  site:: [adamsolove.com](https://www.adamsolove.com)
+	  date-saved:: [[Apr 20th, 2024]]
+	- [Poolesville High School students crack codes in international cybersecurity competition -- Gazette.Net](https://omnivore.app/me/poolesville-high-school-students-crack-codes-in-international-cy-18eff3cc773)
+	  collapsed:: true
+	  site:: [Gazette.net Gazette Maryland Community News](https://web.archive.org/web/20141109055312/http://www.gazette.net/article/20140609/NEWS/140609365/1124/poolesville-high-school-students-crack-codes-in-international&template=gazette)
+	  author:: Sarah Scully Staff writer
+	  date-saved:: [[Apr 20th, 2024]]
 	- [screencasting.com by Aaron Francis](https://omnivore.app/me/screencasting-com-by-aaron-francis-18efca7395c)
 	  collapsed:: true
 	  site:: [screencasting.com](https://screencasting.com)

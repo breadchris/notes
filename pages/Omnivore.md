@@ -1,4 +1,29 @@
 ## 🔖 Articles
+	- [My Reading & Listening List - The Pragmatic Engineer](https://omnivore.app/me/my-reading-listening-list-the-pragmatic-engineer-18f10639421)
+	  collapsed:: true
+	  site:: [The Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/)
+	  author:: Gergely Orosz
+	  date-saved:: [[Apr 24th, 2024]]
+	  date-published:: [[Oct 28th, 2018]]
+	- [Tailscan - Browser inspector for Tailwind CSS](https://omnivore.app/me/tailscan-browser-inspector-for-tailwind-css-18f10591e3e)
+	  collapsed:: true
+	  site:: [tailscan.com](https://tailscan.com)
+	  date-saved:: [[Apr 24th, 2024]]
+	- [Superior Livestock Auction – The leader in Livestock Marketing](https://omnivore.app/me/superior-livestock-auction-the-leader-in-livestock-marketing-18f0c91c735)
+	  collapsed:: true
+	  site:: [superiorlivestock.com](https://superiorlivestock.com)
+	  date-saved:: [[Apr 23rd, 2024]]
+	  date-published:: [[Apr 30th, 2001]]
+	- [The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt](https://omnivore.app/me/the-pragmatic-programmer-20-th-anniversary-edition-your-journey--18f0732bbc2)
+	  collapsed:: true
+	  site:: [pragprog.com](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+	  author:: David Thomas, Andrew Hunt
+	  date-saved:: [[Apr 22nd, 2024]]
+	  date-published:: [[Jan 22nd, 2020]]
+	- [Intro - Book experts & get advice](https://omnivore.app/me/intro-book-experts-get-advice-18f071d126c)
+	  collapsed:: true
+	  site:: [intro.co](https://intro.co)
+	  date-saved:: [[Apr 22nd, 2024]]
 	- [playhtml](https://omnivore.app/me/playhtml-18f015622bb)
 	  collapsed:: true
 	  site:: [playhtml.fun](https://playhtml.fun)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [APL](https://omnivore.app/me/apl-18f2987eae7)
+	  collapsed:: true
+	  site:: [patternlanguage.com](https://www.patternlanguage.com/apl/direct-76.htm)
+	  date-saved:: [[Apr 29th, 2024]]
 	- [My Reading & Listening List - The Pragmatic Engineer](https://omnivore.app/me/my-reading-listening-list-the-pragmatic-engineer-18f10639421)
 	  collapsed:: true
 	  site:: [The Pragmatic Engineer](https://blog.pragmaticengineer.com/my-reading-list/)

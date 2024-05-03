@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Hacked APK for Android Download](https://omnivore.app/me/hacked-apk-for-android-download-18f409ccec5)
+	  collapsed:: true
+	  site:: [APKPure.com](https://apkpure.com/hacked/com.hackedapp)
+	  date-saved:: [[May 3rd, 2024]]
+	  date-published:: [[Jun 23rd, 2015]]
 	- [APL](https://omnivore.app/me/apl-18f2987eae7)
 	  collapsed:: true
 	  site:: [patternlanguage.com](https://www.patternlanguage.com/apl/direct-76.htm)

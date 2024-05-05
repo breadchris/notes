@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [How to style React applications while the world burns around us | Herb Caudill](https://omnivore.app/me/how-to-style-react-applications-while-the-world-burns-around-us--18f4a06f2b6)
+	  collapsed:: true
+	  site:: [herbcaudill.com](https://herbcaudill.com/words/20201007-style-react-app)
+	  date-saved:: [[May 5th, 2024]]
+	  date-published:: [[Feb 18th, 2019]]
 	- [Mushroom and Fern Ring, Sterling Silver, Wood Texture Band, Handcrafted, Perfect Gift for Her - Etsy](https://omnivore.app/me/mushroom-and-fern-ring-sterling-silver-wood-texture-band-handcra-18f44401298)
 	  collapsed:: true
 	  site:: [etsy.com](https://www.etsy.com/listing/1483535971/mushroom-and-fern-ring-sterling-silver?frs=1&ga_order=most_relevant&ga_search_query=nature+inspired+ring&ga_search_type=all&ga_view_type=gallery&plkey=ffc889721cec20ad8ffd152404795c6710d38359%253A1483535971&pro=1&ref=sc_gallery-1-9&search_preloaded_img=1)

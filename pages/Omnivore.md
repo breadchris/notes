@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Interactive SVG Animations](https://omnivore.app/me/interactive-svg-animations-18f4fe94c3b)
+	  collapsed:: true
+	  site:: [Interactive SVG Animations](https://www.svg-animations.how)
+	  author:: Nanda Syahrasyad
+	  date-saved:: [[May 6th, 2024]]
 	- [The Social Graph Is Neither (Pinboard Blog)](https://omnivore.app/me/the-social-graph-is-neither-pinboard-blog-18f4dd93017)
 	  collapsed:: true
 	  site:: [blog.pinboard.in](https://blog.pinboard.in/2011/11/the_social_graph_is_neither/)

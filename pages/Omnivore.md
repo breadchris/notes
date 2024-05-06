@@ -1,9 +1,13 @@
 ## 🔖 Articles
-	- [Great essays · Applied Cartography](https://omnivore.app/me/great-essays-applied-cartography-18f4d6156c9)
+	- [The Social Graph Is Neither (Pinboard Blog)](https://omnivore.app/me/the-social-graph-is-neither-pinboard-blog-18f4dd93017)
 	  collapsed:: true
+	  site:: [blog.pinboard.in](https://blog.pinboard.in/2011/11/the_social_graph_is_neither/)
+	  date-saved:: [[May 6th, 2024]]
+	- [Great essays · Applied Cartography](https://omnivore.app/me/great-essays-applied-cartography-18f4d6156c9)
 	  site:: [jmduke.com](https://jmduke.com/posts/catalogs/great-essays/)
 	  date-saved:: [[May 6th, 2024]]
 	  date-published:: [[Feb 9th, 2024]]
+	  collapsed:: true
 	- [iiiiioiooooo](https://omnivore.app/me/iiiiioiooooo-18f4a6fcfb7)
 	  site:: [celeriac.net](https://celeriac.net/iiiiioiooooo/public/)
 	  date-saved:: [[May 5th, 2024]]

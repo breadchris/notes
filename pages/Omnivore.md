@@ -1,4 +1,23 @@
 ## 🔖 Articles
+	- [The Whole Code Catalog](https://omnivore.app/me/the-whole-code-catalog-18f53b2d10a)
+	  collapsed:: true
+	  site:: [futureofcoding.org](https://futureofcoding.org/catalog/)
+	  date-saved:: [[May 7th, 2024]]
+	  date-published:: [[Sep 8th, 2019]]
+	- [Hazel, a live functional programming environment featuring typed holes.](https://omnivore.app/me/hazel-a-live-functional-programming-environment-featuring-typed--18f53ae1343)
+	  collapsed:: true
+	  site:: [hazel.org](https://hazel.org)
+	  date-saved:: [[May 7th, 2024]]
+	  date-published:: [[Dec 31st, 2023]]
+	- [programmer interfaces - Google Slides](https://omnivore.app/me/programmer-interfaces-google-slides-18f53ad9e5f)
+	  collapsed:: true
+	  site:: [docs.google.com](https://docs.google.com/presentation/d/e/2PACX-1vSPuf3eQ2tlCtXAif4gEWQQU-xK8EzhiH3SIfuD7vWy7eP4NN0-KRejbec_m-GF6-f_D95OOFyyoolx/pub?delayms=3000&loop=false&slide=id.g1da0625f1b_0_56&start=false)
+	  date-saved:: [[May 7th, 2024]]
+	- [The shape of data](https://omnivore.app/me/the-shape-of-data-18f53ac5db4)
+	  collapsed:: true
+	  site:: [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/the-shape-of-data/)
+	  date-saved:: [[May 7th, 2024]]
+	  date-published:: [[Mar 28th, 2022]]
 	- [KLIPSE: a simple and elegant online cljs compiler and evaluator | Yehonathan Sharvit](https://omnivore.app/me/klipse-a-simple-and-elegant-online-cljs-compiler-and-evaluator-y-18f532c6c6b)
 	  collapsed:: true
 	  site:: [Yehonathan Sharvit](https://blog.klipse.tech/clojure/2016/03/17/klipse.html)
@@ -6,9 +25,9 @@
 	  date-saved:: [[May 7th, 2024]]
 	  date-published:: [[Mar 16th, 2016]]
 	- [Clojure/Script mode for CodeMirror 6](https://omnivore.app/me/clojure-script-mode-for-code-mirror-6-18f532abf10)
-	  collapsed:: true
 	  site:: [nextjournal.github.io](https://nextjournal.github.io/clojure-mode/)
 	  date-saved:: [[May 7th, 2024]]
+	  collapsed:: true
 	- [Schema for Clojure(Script) Data Shape Declaration and Validation](https://omnivore.app/me/schema-for-clojure-script-data-shape-declaration-and-validation-18f501d91b1)
 	  collapsed:: true
 	  site:: [plumatic.github.io](https://plumatic.github.io/schema-for-clojurescript-data-shape-declaration-and-validation)

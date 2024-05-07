@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [KLIPSE: a simple and elegant online cljs compiler and evaluator](https://omnivore.app/me/klipse-a-simple-and-elegant-online-cljs-compiler-and-evaluator-18f53dcb084)
+	  collapsed:: true
+	  site:: [app.klipse.tech](http://app.klipse.tech)
+	  date-saved:: [[May 7th, 2024]]
 	- [The Whole Code Catalog](https://omnivore.app/me/the-whole-code-catalog-18f53b2d10a)
 	  collapsed:: true
 	  site:: [futureofcoding.org](https://futureofcoding.org/catalog/)

@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [Schema for Clojure(Script) Data Shape Declaration and Validation](https://omnivore.app/me/schema-for-clojure-script-data-shape-declaration-and-validation-18f501d91b1)
+	  collapsed:: true
+	  site:: [plumatic.github.io](https://plumatic.github.io/schema-for-clojurescript-data-shape-declaration-and-validation)
+	  date-saved:: [[May 6th, 2024]]
+	  date-published:: [[Apr 7th, 2014]]
+	- [Tour of our 250k line Clojure codebase – Blog](https://omnivore.app/me/tour-of-our-250-k-line-clojure-codebase-blog-18f501c92f9)
+	  collapsed:: true
+	  site:: [Blog](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
+	  date-saved:: [[May 6th, 2024]]
+	  date-published:: [[Jun 3rd, 2021]]
+	- [Learn ClojureScript | Learn ClojureScript](https://omnivore.app/me/learn-clojure-script-learn-clojure-script-18f50198537)
+	  collapsed:: true
+	  site:: [learn-clojurescript.com](https://www.learn-clojurescript.com)
+	  author:: About the author
+	  date-saved:: [[May 6th, 2024]]
+	- [Developing Clojure in Vim (2023 edition) :: endot — eschew obfuscation (and espouse elucidation)](https://omnivore.app/me/developing-clojure-in-vim-2023-edition-endot-eschew-obfuscation--18f50158d1b)
+	  collapsed:: true
+	  site:: [endot](https://endot.org/2023/05/27/vim-clojure-dev-2023/)
+	  date-saved:: [[May 6th, 2024]]
+	  date-published:: [[May 27th, 2023]]
 	- [Interactive SVG Animations](https://omnivore.app/me/interactive-svg-animations-18f4fe94c3b)
 	  collapsed:: true
 	  site:: [Interactive SVG Animations](https://www.svg-animations.how)

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [KLIPSE: a simple and elegant online cljs compiler and evaluator | Yehonathan Sharvit](https://omnivore.app/me/klipse-a-simple-and-elegant-online-cljs-compiler-and-evaluator-y-18f532c6c6b)
+	  collapsed:: true
+	  site:: [Yehonathan Sharvit](https://blog.klipse.tech/clojure/2016/03/17/klipse.html)
+	  author:: Yehonathan Sharvit
+	  date-saved:: [[May 7th, 2024]]
+	  date-published:: [[Mar 16th, 2016]]
+	- [Clojure/Script mode for CodeMirror 6](https://omnivore.app/me/clojure-script-mode-for-code-mirror-6-18f532abf10)
+	  collapsed:: true
+	  site:: [nextjournal.github.io](https://nextjournal.github.io/clojure-mode/)
+	  date-saved:: [[May 7th, 2024]]
 	- [Schema for Clojure(Script) Data Shape Declaration and Validation](https://omnivore.app/me/schema-for-clojure-script-data-shape-declaration-and-validation-18f501d91b1)
 	  collapsed:: true
 	  site:: [plumatic.github.io](https://plumatic.github.io/schema-for-clojurescript-data-shape-declaration-and-validation)

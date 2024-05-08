@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [The Roc Programming Language](https://omnivore.app/me/the-roc-programming-language-18f556e6c1c)
+	  collapsed:: true
+	  site:: [roc-lang.org](https://www.roc-lang.org)
+	  date-saved:: [[May 7th, 2024]]
+	- [cheatsheet/src/modules/cheatsheet.json at main · tailwindcomponents/cheatsheet · GitHub](https://omnivore.app/me/https-github-com-tailwindcomponents-cheatsheet-blob-main-src-mod-18f540441ff)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/tailwindcomponents/cheatsheet/blob/main/src/modules/cheatsheet.json)
+	  author:: tailwindcomponents
+	  date-saved:: [[May 7th, 2024]]
+	  date-published:: [[Nov 23rd, 2023]]
 	- [KLIPSE: a simple and elegant online cljs compiler and evaluator](https://omnivore.app/me/klipse-a-simple-and-elegant-online-cljs-compiler-and-evaluator-18f53dcb084)
 	  collapsed:: true
 	  site:: [app.klipse.tech](http://app.klipse.tech)

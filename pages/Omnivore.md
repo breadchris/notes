@@ -1,4 +1,39 @@
 ## 🔖 Articles
+	- [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://omnivore.app/me/hardest-problem-in-computer-science-centering-things-tonsky-me-18f641cb0eb)
+	  collapsed:: true
+	  site:: [tonsky.me](https://tonsky.me/blog/centering/)
+	  author:: Nikita Prokopov
+	  date-saved:: [[May 10th, 2024]]
+	  date-published:: [[Apr 15th, 2024]]
+	- [LogLog Games](https://omnivore.app/me/log-log-games-18f641aef48)
+	  collapsed:: true
+	  site:: [loglog.games](https://loglog.games/blog/leaving-rust-gamedev/)
+	  date-saved:: [[May 10th, 2024]]
+	- [This is a teenager](https://omnivore.app/me/this-is-a-teenager-18f64199b0c)
+	  collapsed:: true
+	  site:: [The Pudding](https://pudding.cool/2024/03/teenagers/)
+	  author:: The Pudding
+	  date-saved:: [[May 10th, 2024]]
+	- [Equinox](https://omnivore.app/me/equinox-18f64187868)
+	  collapsed:: true
+	  site:: [equinox.space](https://equinox.space)
+	  date-saved:: [[May 10th, 2024]]
+	- [Airfoil – Bartosz Ciechanowski](https://omnivore.app/me/airfoil-bartosz-ciechanowski-18f6416e58f)
+	  collapsed:: true
+	  site:: [ciechanow.ski](https://ciechanow.ski/airfoil/)
+	  author:: Bartosz Ciechanowski
+	  date-saved:: [[May 10th, 2024]]
+	  date-published:: [[Feb 26th, 2024]]
+	- [OMFGDOGS](https://omnivore.app/me/omfgdogs-18f641535a9)
+	  collapsed:: true
+	  site:: [omfgdogs.com](https://www.omfgdogs.com)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[May 10th, 2024]]
+	- [No, dynamic type systems are not inherently more open](https://omnivore.app/me/no-dynamic-type-systems-are-not-inherently-more-open-18f6322320f)
+	  collapsed:: true
+	  site:: [lexi-lambda.github.io](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
+	  date-saved:: [[May 10th, 2024]]
+	  date-published:: [[Jan 18th, 2020]]
 	- [ferrucc.io | Everything I've learned in 10 years of Blogging](https://omnivore.app/me/ferrucc-io-everything-i-ve-learned-in-10-years-of-blogging-18f603145c3)
 	  collapsed:: true
 	  site:: [ferrucc.io](https://ferrucc.io/posts/starting-a-blog/)

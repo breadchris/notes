@@ -1,4 +1,31 @@
 ## 🔖 Articles
+	- [ferrucc.io | Everything I've learned in 10 years of Blogging](https://omnivore.app/me/ferrucc-io-everything-i-ve-learned-in-10-years-of-blogging-18f603145c3)
+	  collapsed:: true
+	  site:: [ferrucc.io](https://ferrucc.io/posts/starting-a-blog/)
+	  date-saved:: [[May 9th, 2024]]
+	  date-published:: [[Dec 15th, 2018]]
+	- [JSON Web Token Validation Bypass in Auth0 Authentication API | CyberCX](https://omnivore.app/me/https-insomniasec-com-blog-auth-0-jwt-validation-bypass-18f5ffc8417)
+	  collapsed:: true
+	  site:: [CyberCX](https://insomniasec.com/blog/auth0-jwt-validation-bypass)
+	  author:: Lee Davis
+	  date-saved:: [[May 9th, 2024]]
+	  date-published:: [[Apr 15th, 2020]]
+	- [Nature of Code](https://omnivore.app/me/nature-of-code-18f5f6c0dc2)
+	  collapsed:: true
+	  site:: [natureofcode.com](https://natureofcode.com)
+	  date-saved:: [[May 9th, 2024]]
+	- [Ramblings from Jessie: Books I Recommend](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11)
+	  collapsed:: true
+	  site:: [Ramblings from Jessie](https://blog.jessfraz.com/post/books/)
+	  date-saved:: [[May 8th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11#f558b733-fa08-4821-a25b-15b6cf8d21bf)
+	- [The Life of a Data Byte – Communications of the ACM](https://omnivore.app/me/the-life-of-a-data-byte-communications-of-the-acm-18f5b17316c)
+	  collapsed:: true
+	  site:: [cacm.acm.org](https://cacm.acm.org/practice/the-life-of-a-data-byte/)
+	  author:: Jessie Frazelle
+	  date-saved:: [[May 8th, 2024]]
+	  date-published:: [[Nov 30th, 2020]]
 	- [The Roc Programming Language](https://omnivore.app/me/the-roc-programming-language-18f556e6c1c)
 	  collapsed:: true
 	  site:: [roc-lang.org](https://www.roc-lang.org)
@@ -4204,7 +4231,7 @@
 	- [Stop using JWT for sessions - joepie91's Ramblings](https://omnivore.app/me/stop-using-jwt-for-sessions-joepie-91-s-ramblings-18c07ab8e9a)
 	  collapsed:: true
 	  site:: [cryto.net](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
-	  labels:: [[programming]]
+	  labels:: [[jwt]][[programming]][[security ]]
 	  date-saved:: [[Nov 25th, 2023]]
 	  date-published:: [[Jun 12th, 2016]]
 	- [Beato Ear Training – beatoeartraining.com](https://omnivore.app/me/beato-ear-training-beatoeartraining-com-18c05670f76)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Hypermedia Knowledge Base](https://omnivore.app/me/hypermedia-knowledge-base-18f65817d48)
+	  collapsed:: true
+	  site:: [hyper.media](https://hyper.media)
+	  date-saved:: [[May 10th, 2024]]
 	- [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://omnivore.app/me/hardest-problem-in-computer-science-centering-things-tonsky-me-18f641cb0eb)
 	  collapsed:: true
 	  site:: [tonsky.me](https://tonsky.me/blog/centering/)

@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [100,000 Stars](https://omnivore.app/me/100-000-stars-18f6947de07)
+	  collapsed:: true
+	  site:: [stars.chromeexperiments.com](https://stars.chromeexperiments.com)
+	  date-saved:: [[May 11th, 2024]]
+	- [Immersive Math](https://omnivore.app/me/immersive-math-18f6946043f)
+	  collapsed:: true
+	  site:: [immersivemath.com](https://immersivemath.com/ila/index.html)
+	  date-saved:: [[May 11th, 2024]]
 	- [Hypermedia Knowledge Base](https://omnivore.app/me/hypermedia-knowledge-base-18f65817d48)
 	  collapsed:: true
 	  site:: [hyper.media](https://hyper.media)

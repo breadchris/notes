@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on breadchris</title>
-    <link>https://breadchris.com/tags/blog/</link>
-    <description>Recent content in blog on breadchris</description>
+    <title>sketchysecurity on breadchris</title>
+    <link>https://breadchris.com/tags/sketchysecurity/</link>
+    <description>Recent content in sketchysecurity on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://breadchris.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://breadchris.com/tags/sketchysecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>building a plugin system for the web</title>
       <link>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</guid>
       <description>The Figma Plugin System Figma is a design tool that has become the industry standard, similar to how Photoshop became the defacto for photo editing. When everyone uses one tool, it only follows that there will be functionality that different groups of people need that isn&amp;rsquo;t immediately supported. To bridge the gap in functionality, a plugin system is the go-to solution for letting people extend a system how they see fit.</description>
-    </item>
-    <item>
-      <title>some thoughts</title>
-      <link>https://breadchris.com/blog/some-thoughts/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/some-thoughts/</guid>
-      <description>You can also just talk and what&amp;rsquo;s being said just shows up in here so you&amp;rsquo;re just talking about stuff so I can be talking to you and we&amp;rsquo;re talking about like your hopes and dreams or maybe your past whatever it&amp;rsquo;s gonna show up in here and then
-That&amp;rsquo;s a pretty cool idea! It&amp;rsquo;s like having a conversation that gets transcribed into a blog post in real-time. So, let&amp;rsquo;s talk about hopes and dreams.</description>
     </item>
   </channel>
 </rss>

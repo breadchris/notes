@@ -6,8 +6,15 @@
     <description>Recent content in Tags on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://breadchris.com/tags/blog/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/tags/blog/</guid>
+      <description></description>
+    </item>
     <item>
       <title>db</title>
       <link>https://breadchris.com/tags/db/</link>
@@ -34,13 +41,6 @@
       <link>https://breadchris.com/tags/thinkies/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/tags/thinkies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>blog</title>
-      <link>https://breadchris.com/tags/blog/</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>

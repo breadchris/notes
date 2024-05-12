@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sketchy security: web plugin system</title>
+      <link>https://breadchris.com/blog/sketchy-security-web-plugin-system/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/sketchy-security-web-plugin-system/</guid>
+      <description>https://chat.openai.com/share/42a154ff-c195-46db-b617-2bd28c463f68</description>
+    </item>
     <item>
       <title>My favorite button on the Internet</title>
       <link>https://breadchris.com/blog/my-favorite-button-on-the-internet/</link>

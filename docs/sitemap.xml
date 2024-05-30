@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://breadchris.com/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/code/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/i-want-to-use-your-code/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/tags/thinkies/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://breadchris.com/thinkies/</loc>
+    <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://breadchris.com/tags/blog/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/blog/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://breadchris.com/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/tags/sketchysecurity/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/a-cool-button-goes-viral/</loc>
@@ -36,12 +48,6 @@
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/the-modern-business-card/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/thinkies/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/thinkies/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/you-have-invented-time-travel/</loc>
@@ -193,9 +199,6 @@
   </url><url>
     <loc>https://breadchris.com/thinkies/where-did-pnw-companies-come-from/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://breadchris.com/tags/code/</loc>
-    <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://breadchris.com/thinkies/deployment-dashboard-in-the-app/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>

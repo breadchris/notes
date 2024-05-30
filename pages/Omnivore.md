@@ -1,4 +1,100 @@
 ## 🔖 Articles
+	- [Runtime code generation and execution in Go: Part 1 | BitByteWise](https://omnivore.app/me/runtime-code-generation-and-execution-in-go-part-1-bit-byte-wise-18fc5f8d858)
+	  collapsed:: true
+	  site:: [BitByteWise](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
+	  date-saved:: [[May 29th, 2024]]
+	  date-published:: [[May 18th, 2024]]
+	- [The Shape of Data | No Starch Press](https://omnivore.app/me/the-shape-of-data-no-starch-press-18fc328f6df)
+	  collapsed:: true
+	  site:: [nostarch.com](https://nostarch.com/shapeofdata)
+	  author:: Colleen M. Farrelly and Yaé Ulrich Gaba
+	  date-saved:: [[May 29th, 2024]]
+	  date-published:: [[Jul 25th, 2022]]
+	- [Complicated World](https://omnivore.app/me/complicated-world-18fc131302b)
+	  collapsed:: true
+	  site:: [complicated.world](https://complicated.world/en/Human_Life)
+	  date-saved:: [[May 28th, 2024]]
+	  date-published:: [[May 27th, 2024]]
+	- [Grooved - OKatBest](https://omnivore.app/me/grooved-o-kat-best-18fc12fbc1b)
+	  collapsed:: true
+	  site:: [grooved.okat.best](https://grooved.okat.best)
+	  date-saved:: [[May 28th, 2024]]
+	- [Effects Showroom - TerminalTextEffects Docs](https://omnivore.app/me/effects-showroom-terminal-text-effects-docs-18fc12f48f0)
+	  collapsed:: true
+	  site:: [chrisbuilds.github.io](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+	  author:: ChrisBuilds
+	  date-saved:: [[May 28th, 2024]]
+	- [x1unix/go-playground: Better Go Playground powered by React and Monaco editor](https://omnivore.app/me/x-1-unix-go-playground-better-go-playground-powered-by-react-and-18fa69d51ca)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/x1unix/go-playground)
+	  labels:: [[go]]
+	  date-saved:: [[May 23rd, 2024]]
+	- [Green Lake Jewelry Works - Google Maps](https://omnivore.app/me/https-maps-app-goo-gl-jpyv-6-ewg-6-z-4-db-25-l-8-g-st-app-omnivo-18f9d12b502)
+	  collapsed:: true
+	  site:: [Green Lake Jewelry Works · Seattle, Washington](https://www.google.com/maps?entry=gps&ftid=0x549011576c1b8a4b%3A0x7d63af408a19fb85&g_ep=CAISDTYuMTE1LjEuNjAwMTAYACCenQoqSCw5NDIyMjM0OSw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICVVM%3D&g_st=app.omnivore.app.share-extension&lucs=%2C94222349%2C47071704%2C47069508%2C94218641%2C94203019%2C47084304%2C94208458%2C94208447&q=Green+Lake+Jewelry+Works%2C+550+NE+Northgate+Way%2C+Seattle%2C+WA+98125)
+	  date-saved:: [[May 21st, 2024]]
+	- [Napkin – The fastest way to Build and Deploy APIs](https://omnivore.app/me/napkin-the-fastest-way-to-build-and-deploy-ap-is-18f7d399fa2)
+	  collapsed:: true
+	  site:: [napkin.io](https://www.napkin.io)
+	  labels:: [[nolan]]
+	  date-saved:: [[May 20th, 2024]]
+	- [Modal: High-performance cloud for developers](https://omnivore.app/me/modal-high-performance-cloud-for-developers-18f983e7894)
+	  collapsed:: true
+	  site:: [Modal](https://modal.com)
+	  date-saved:: [[May 20th, 2024]]
+	- [Payroll Connectivity for Modern Financial Services](https://omnivore.app/me/payroll-connectivity-for-modern-financial-services-18f9836cd7b)
+	  collapsed:: true
+	  site:: [Argyle](https://argyle.com)
+	  date-saved:: [[May 20th, 2024]]
+	- [Anonymous mock interviews with engineers from FAANG and more | interviewing.io](https://omnivore.app/me/anonymous-mock-interviews-with-engineers-from-faang-and-more-int-18f9836af27)
+	  collapsed:: true
+	  site:: [interviewing.io](https://interviewing.io)
+	  date-saved:: [[May 20th, 2024]]
+	- [How does the Foodpairing Tool work? - Foodpairing](https://omnivore.app/me/how-does-the-foodpairing-tool-work-foodpairing-18f972106d1)
+	  collapsed:: true
+	  site:: [Foodpairing](https://www.foodpairing.com/how-does-the-foodpairing-tool-work/)
+	  author:: Marie Haspeslagh
+	  date-saved:: [[May 20th, 2024]]
+	  date-published:: [[Dec 31st, 2015]]
+	- [The invisible seafaring industry that keeps the internet afloat](https://omnivore.app/me/the-invisible-seafaring-industry-that-keeps-the-internet-afloat-18f86d57c22)
+	  collapsed:: true
+	  site:: [The Verge](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+	  author:: Josh Dzieza
+	  date-saved:: [[May 17th, 2024]]
+	  date-published:: [[Apr 16th, 2024]]
+	- [/uses](https://omnivore.app/me/uses-18f78722a2a)
+	  collapsed:: true
+	  site:: [uses.tech](https://uses.tech)
+	  date-saved:: [[May 14th, 2024]]
+	  date-published:: [[Nov 20th, 2021]]
+	- [The Notifier Pattern for Applications That Use Postgres](https://omnivore.app/me/the-notifier-pattern-for-applications-that-use-postgres-18f7870fab7)
+	  collapsed:: true
+	  site:: [brandur.org](https://brandur.org/notifier)
+	  date-saved:: [[May 14th, 2024]]
+	  date-published:: [[May 5th, 2024]]
+	- [The Soul of A New Machine: Kidder, Tracy: 9780316491976: Amazon.com: Books](https://omnivore.app/me/the-soul-of-a-new-machine-kidder-tracy-9780316491976-amazon-com--18f7304bc07)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977)
+	  author:: Follow the authors
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Aug 20th, 2023]]
+	- [High Output Management: Grove, Andrew S.: 9780679762881: Amazon.com: Books](https://omnivore.app/me/high-output-management-grove-andrew-s-9780679762881-amazon-com-b-18f73041540)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+	  author:: Follow the author
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Oct 27th, 2023]]
+	- [How We Engineer Feedback at Figma with Eng Crits | Figma Blog](https://omnivore.app/me/how-we-engineer-feedback-at-figma-with-eng-crits-figma-blog-18f72e6c941)
+	  collapsed:: true
+	  site:: [Figma](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Feb 28th, 2024]]
+	- [Aviary: Clinical Collaboration Platform - Dmitri Sotnikov & Carmen La](https://omnivore.app/me/https-www-youtube-com-watch-v-iek-p-zpfbda-i-18f724c711a)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=IekPZpfbdaI)
+	  author:: Clojure/north
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[May 15th, 2019]]
 	- [aegir-assembly/omni-clip: Open source video editing web application](https://omnivore.app/me/aegir-assembly-omni-clip-open-source-video-editing-web-applicati-18f6e467fd4)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/aegir-assembly/omni-clip)

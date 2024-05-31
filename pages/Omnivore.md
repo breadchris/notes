@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [All 119 References in “We Didn’t Start the Fire,” Explained | Britannica](https://omnivore.app/me/all-119-references-in-we-didn-t-start-the-fire-explained-britann-18fcc3aa474)
+	  collapsed:: true
+	  site:: [Encyclopedia Britannica](https://www.britannica.com/list/all-119-references-in-we-didnt-start-the-fire-explained)
+	  author:: Meg Matthias Meg Matthias is Senior Video Producer at Encyclopædia Britannica.
+	  date-saved:: [[May 30th, 2024]]
 	- [Tree-sitter｜Introduction](https://omnivore.app/me/tree-sitter-introduction-18fcc027ea9)
 	  collapsed:: true
 	  site:: [tree-sitter.github.io](https://tree-sitter.github.io/tree-sitter/)

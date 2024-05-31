@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Food & Drink Smokers • Cold Smoke System | Breville](https://omnivore.app/me/food-drink-smokers-cold-smoke-system-breville-18fcc6f9d83)
+	  collapsed:: true
+	  site:: [Breville](https://www.breville.com/en-us/shop/smoking-gun)
+	  date-saved:: [[May 30th, 2024]]
 	- [All 119 References in “We Didn’t Start the Fire,” Explained | Britannica](https://omnivore.app/me/all-119-references-in-we-didn-t-start-the-fire-explained-britann-18fcc3aa474)
 	  collapsed:: true
 	  site:: [Encyclopedia Britannica](https://www.britannica.com/list/all-119-references-in-we-didnt-start-the-fire-explained)

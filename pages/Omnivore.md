@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Symbolica](https://omnivore.app/me/symbolica-18fd13b2f65)
+	  collapsed:: true
+	  site:: [symbolica.ai](https://www.symbolica.ai)
+	  date-saved:: [[May 31st, 2024]]
 	- [Food & Drink Smokers • Cold Smoke System | Breville](https://omnivore.app/me/food-drink-smokers-cold-smoke-system-breville-18fcc6f9d83)
 	  collapsed:: true
 	  site:: [Breville](https://www.breville.com/en-us/shop/smoking-gun)

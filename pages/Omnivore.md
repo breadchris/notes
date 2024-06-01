@@ -1,8 +1,12 @@
 ## 🔖 Articles
-	- [Symbolica](https://omnivore.app/me/symbolica-18fd13b2f65)
+	- [Wired Elements](https://omnivore.app/me/wired-elements-18fd15f35ef)
 	  collapsed:: true
+	  site:: [wiredjs.com](https://wiredjs.com)
+	  date-saved:: [[May 31st, 2024]]
+	- [Symbolica](https://omnivore.app/me/symbolica-18fd13b2f65)
 	  site:: [symbolica.ai](https://www.symbolica.ai)
 	  date-saved:: [[May 31st, 2024]]
+	  collapsed:: true
 	- [Food & Drink Smokers • Cold Smoke System | Breville](https://omnivore.app/me/food-drink-smokers-cold-smoke-system-breville-18fcc6f9d83)
 	  collapsed:: true
 	  site:: [Breville](https://www.breville.com/en-us/shop/smoking-gun)

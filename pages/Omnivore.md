@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Bubble | Build Powerful Full-Stack Apps Without Code](https://omnivore.app/me/bubble-build-powerful-full-stack-apps-without-code-18fd6ed3ce7)
+	  collapsed:: true
+	  site:: [Bubble](https://bubble.io)
+	  date-saved:: [[Jun 1st, 2024]]
 	- [Why Haiti is Dying & the DR is Booming](https://omnivore.app/me/https-youtu-be-wp-wb-3-mtv-9-bg-si-ar-nd-xv-3-sz-3-q-dwcpx-18fd6a46326)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/WpWb3MTV9bg?si=ArNDXv3sz3qDWCPX)

@@ -1,8 +1,14 @@
 ## 🔖 Articles
-	- [Wired Elements](https://omnivore.app/me/wired-elements-18fd15f35ef)
+	- [Why Haiti is Dying & the DR is Booming](https://omnivore.app/me/https-youtu-be-wp-wb-3-mtv-9-bg-si-ar-nd-xv-3-sz-3-q-dwcpx-18fd6a46326)
 	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/WpWb3MTV9bg?si=ArNDXv3sz3qDWCPX)
+	  author:: RealLifeLore
+	  date-saved:: [[Jun 1st, 2024]]
+	  date-published:: [[Dec 15th, 2023]]
+	- [Wired Elements](https://omnivore.app/me/wired-elements-18fd15f35ef)
 	  site:: [wiredjs.com](https://wiredjs.com)
 	  date-saved:: [[May 31st, 2024]]
+	  collapsed:: true
 	- [Symbolica](https://omnivore.app/me/symbolica-18fd13b2f65)
 	  site:: [symbolica.ai](https://www.symbolica.ai)
 	  date-saved:: [[May 31st, 2024]]

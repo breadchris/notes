@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Irrational Exuberance](https://omnivore.app/me/irrational-exuberance-18fe41706f9)
+	  collapsed:: true
+	  site:: [lethain.com](https://lethain.com)
+	  date-saved:: [[Jun 4th, 2024]]
+	  date-published:: [[May 21st, 2024]]
 	- [Store Files in a File System, Not a Relational Database. - Brent Ozar Unlimited®](https://omnivore.app/me/store-files-in-a-file-system-not-a-relational-database-brent-oza-18fe1e32d44)
 	  collapsed:: true
 	  site:: [Brent Ozar Unlimited®](https://www.brentozar.com/archive/2021/07/store-files-in-a-file-system-not-a-relational-database/)

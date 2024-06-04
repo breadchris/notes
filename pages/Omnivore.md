@@ -1,4 +1,21 @@
 ## 🔖 Articles
+	- [Go: Don't name packages common nouns — brandur.org](https://omnivore.app/me/go-don-t-name-packages-common-nouns-brandur-org-18fe13af740)
+	  collapsed:: true
+	  site:: [brandur.org](https://brandur.org/fragments/go-no-common-nouns)
+	  date-saved:: [[Jun 3rd, 2024]]
+	  date-published:: [[Jun 1st, 2024]]
+	- [Ctrl-Z Exhaustion - 6 Proven Methods to Overcome Mental Fatigue and Reclaim Your Energy - Sparrow's Digital Garden](https://omnivore.app/me/ctrl-z-exhaustion-6-proven-methods-to-overcome-mental-fatigue-an-18fe1398e5b)
+	  collapsed:: true
+	  site:: [garden.sparrow.zone](https://garden.sparrow.zone/Ctrl-Z+Exhaustion+-+6+Proven+Methods+to+Overcome+Mental+Fatigue+and+Reclaim+Your+Energy)
+	  date-saved:: [[Jun 3rd, 2024]]
+	- [selzer-the-knife](https://omnivore.app/me/u-0-a-4570-c-4-9-c-55-4-cca-99-b-0-279-ab-099-b-06-b-selzer-the--18fe10cef1c)
+	  collapsed:: true
+	  site:: [kentcomp0100.wordpress.com](https://kentcomp0100.wordpress.com/wp-content/uploads/2013/08/selzer-the-knife.pdf)
+	  date-saved:: [[Jun 3rd, 2024]]
+	- [richard-selzer-the-knife](https://omnivore.app/me/u-43-cee-431-8-c-58-4-d-98-9972-e-1413496-d-30-b-richard-selzer--18fe1081a56)
+	  collapsed:: true
+	  site:: [blogs.baruch.cuny.edu](https://blogs.baruch.cuny.edu/english3680/files/2009/01/richard-selzer-the-knife.pdf)
+	  date-saved:: [[Jun 3rd, 2024]]
 	- [Discover Web Apps | Mobbin](https://omnivore.app/me/discover-web-apps-mobbin-18fdecb1c9b)
 	  collapsed:: true
 	  site:: [Mobbin](https://mobbin.com/browse/web/apps)

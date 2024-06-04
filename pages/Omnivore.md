@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Store Files in a File System, Not a Relational Database. - Brent Ozar Unlimited®](https://omnivore.app/me/store-files-in-a-file-system-not-a-relational-database-brent-oza-18fe1e32d44)
+	  collapsed:: true
+	  site:: [Brent Ozar Unlimited®](https://www.brentozar.com/archive/2021/07/store-files-in-a-file-system-not-a-relational-database/)
+	  author:: Brent Ozar
+	  date-saved:: [[Jun 3rd, 2024]]
+	  date-published:: [[Jul 1st, 2021]]
 	- [Go: Don't name packages common nouns — brandur.org](https://omnivore.app/me/go-don-t-name-packages-common-nouns-brandur-org-18fe13af740)
 	  collapsed:: true
 	  site:: [brandur.org](https://brandur.org/fragments/go-no-common-nouns)

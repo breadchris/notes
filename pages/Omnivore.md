@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [5 AMAZING meals that changed my life](https://omnivore.app/me/https-www-youtube-com-watch-v-q-6-s-y-0-rp-hgys-18fe6508f0f)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=Q6sY0RPHgys)
+	  author:: Derek Sarno
+	  date-saved:: [[Jun 4th, 2024]]
+	  date-published:: [[Feb 27th, 2024]]
 	- [Irrational Exuberance](https://omnivore.app/me/irrational-exuberance-18fe41706f9)
 	  collapsed:: true
 	  site:: [lethain.com](https://lethain.com)

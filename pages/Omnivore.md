@@ -136,7 +136,7 @@
 	  collapsed:: true
 	  site:: [napkin.io](https://www.napkin.io)
 	  labels:: [[nolan]]
-	  date-saved:: [[May 20th, 2024]]
+	  date-saved:: [[Jun 5th, 2024]]
 	- [Modal: High-performance cloud for developers](https://omnivore.app/me/modal-high-performance-cloud-for-developers-18f983e7894)
 	  collapsed:: true
 	  site:: [Modal](https://modal.com)

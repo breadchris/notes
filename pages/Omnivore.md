@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Getting Started - JSON Forms](https://omnivore.app/me/getting-started-json-forms-18fe9bb907b)
+	  collapsed:: true
+	  site:: [jsonforms.io](https://jsonforms.io/docs/getting-started)
+	  date-saved:: [[Jun 5th, 2024]]
 	- [5 AMAZING meals that changed my life](https://omnivore.app/me/https-www-youtube-com-watch-v-q-6-s-y-0-rp-hgys-18fe6508f0f)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/watch?v=Q6sY0RPHgys)

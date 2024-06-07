@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Amazon.com: Shapton K0702 Blade, 1000, Medium, Orange : Tools & Home Improvement](https://omnivore.app/me/amazon-com-shapton-k-0702-blade-1000-medium-orange-tools-home-im-18ff08429b0)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/Kuromaku-Ceramic-Whetstone-Medium-Grit/dp/B001TPFT0G/ref=sr_1_1?crid=1SCU2XDD10OOG&dib=eyJ2IjoiMSJ9.qHQOHIJ0O8touaTaD6O-EyLop-7ef6VCjQBjn4pSU_eKB8iY_BKA1WejqqehIE4ZD81k0QM8rleAzK5daiKh122OqWtVTEvp6svg7vC4x0PGFk7guw8dXU3JLm3L1mIksrHz4h0Vr_71AXOKR7QKS-09fYHiz42O8z3BsAUnhALQwfjaALUu1RVHVDLQTTXNjuf4OdxSr9gIjdTRxlTmGMp1quA3kyo3_s0DkjrrnOsv9ecZXWh5u2CJf6a78IbeTAWyfbQWuEJT9wYyFiVk71Mva8ZT5K38z94YnI3aRM4.D1pSznzUvwXSC-dm2qkZa45d9doVOs-AccUSBxCsaLE&dib_tag=se&keywords=shapton%252Bpro&qid=1717727128&sprefix=shapton%252Bpr%252Caps%252C182&sr=8-1&th=1)
+	  author:: Brand: Shapton
+	  date-saved:: [[Jun 6th, 2024]]
+	  date-published:: [[Dec 31st, 1999]]
 	- [Mobbin - The world’s largest mobile & web app design reference library](https://omnivore.app/me/mobbin-the-world-s-largest-mobile-web-app-design-reference-libra-18fef8e166c)
 	  collapsed:: true
 	  site:: [Mobbin](https://mobbin.com)

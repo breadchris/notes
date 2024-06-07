@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [squint-cljs/squint: Light-weight ClojureScript dialect](https://omnivore.app/me/squint-cljs-squint-light-weight-clojure-script-dialect-18ff3809d7d)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/squint-cljs/squint?tab=readme-ov-file)
+	  date-saved:: [[Jun 7th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/squint-cljs-squint-light-weight-clojure-script-dialect-18ff3809d7d#c56fef05-f40f-4bc7-b104-96ca9bcf7a02)
 	- [Mario Kart 3.js](https://omnivore.app/me/mario-kart-3-js-18ff164b6e9)
 	  collapsed:: true
 	  site:: [mario-kart-3-js.vercel.app](https://mario-kart-3-js.vercel.app)

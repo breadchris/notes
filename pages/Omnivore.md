@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Pikilo Mushroom Protein in Finland with Simo Ellilä](https://omnivore.app/me/pikilo-mushroom-protein-in-finland-with-simo-ellila-18ffa1928ac)
+	  collapsed:: true
+	  site:: [Mushroom Revival](https://www.mushroomrevival.com/blogs/podcast/pikilo-mushroom-protein-in-finland-with-simo-ellila)
+	  author:: Alisa Nappa
+	  date-saved:: [[Jun 8th, 2024]]
+	  date-published:: [[Feb 22nd, 2024]]
+	- [git - the simple guide - no deep shit!](https://omnivore.app/me/git-the-simple-guide-no-deep-shit-18ffa02afc6)
+	  collapsed:: true
+	  site:: [rogerdudler.github.io](http://rogerdudler.github.io/git-guide/)
+	  date-saved:: [[Jun 8th, 2024]]
 	- [Giving up my smartphone - Duoqin F22 Pro - /dev/knill](https://omnivore.app/me/giving-up-my-smartphone-duoqin-f-22-pro-dev-knill-18ff934fd91)
 	  collapsed:: true
 	  site:: [zak knill](https://zknill.io/posts/duoqin-f22-pro/)

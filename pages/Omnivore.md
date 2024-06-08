@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Giving up my smartphone - Duoqin F22 Pro - /dev/knill](https://omnivore.app/me/giving-up-my-smartphone-duoqin-f-22-pro-dev-knill-18ff934fd91)
+	  collapsed:: true
+	  site:: [zak knill](https://zknill.io/posts/duoqin-f22-pro/)
+	  author:: zak knill
+	  date-saved:: [[Jun 8th, 2024]]
+	  date-published:: [[Nov 4th, 2023]]
+	- [Dumbphone Finder — Jose Briones](https://omnivore.app/me/dumbphone-finder-jose-briones-18ff9342233)
+	  collapsed:: true
+	  site:: [Jose Briones](https://josebriones.org/dumbphone-finder)
+	  date-saved:: [[Jun 8th, 2024]]
 	- [Scipress Docs - Scipress](https://omnivore.app/me/scipress-docs-scipress-18ff894e344)
 	  collapsed:: true
 	  site:: [scipress.io](https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs)

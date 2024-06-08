@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Scipress Docs - Scipress](https://omnivore.app/me/scipress-docs-scipress-18ff894e344)
+	  collapsed:: true
+	  site:: [scipress.io](https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs)
+	  author:: Ben Gorman
+	  date-saved:: [[Jun 8th, 2024]]
+	  date-published:: [[May 6th, 2024]]
 	- [ButterDocs | The IDE for Writing](https://omnivore.app/me/butter-docs-the-ide-for-writing-18ff3998ad3)
 	  collapsed:: true
 	  site:: [butterdocs.com](https://www.butterdocs.com/ide)

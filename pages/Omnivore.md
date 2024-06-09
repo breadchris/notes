@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Washington Farms | Local Farm Finder | Washington Food](https://omnivore.app/me/washington-farms-local-farm-finder-washington-food-18ffb2d95ee)
+	  collapsed:: true
+	  site:: [Eat Local First](https://eatlocalfirst.org/wa-food-farm-finder/)
+	  date-saved:: [[Jun 8th, 2024]]
 	- [Pikilo Mushroom Protein in Finland with Simo Ellilä](https://omnivore.app/me/pikilo-mushroom-protein-in-finland-with-simo-ellila-18ffa1928ac)
 	  collapsed:: true
 	  site:: [Mushroom Revival](https://www.mushroomrevival.com/blogs/podcast/pikilo-mushroom-protein-in-finland-with-simo-ellila)

@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Access Restricted](https://omnivore.app/me/access-restricted-18fff0468e9)
+	  collapsed:: true
+	  site:: (file:///System/Library/PrivateFrameworks/WebCore.framework/ContentFilterBlockedPage.html)
+	  date-saved:: [[Jun 9th, 2024]]
+	- [A Funny Thing Happened on the Way to the Forum : Free Download, Borrow, and Streaming : Internet Archive](https://omnivore.app/me/a-funny-thing-happened-on-the-way-to-the-forum-free-download-bor-18ffefe735d)
+	  collapsed:: true
+	  site:: [Internet Archive](https://archive.org/details/AFunnyThingHappenedOnTheWayToTheForum)
+	  date-saved:: [[Jun 9th, 2024]]
+	  date-published:: [[Dec 31st, 1965]]
+	- [best kitchen knives for your home](https://omnivore.app/me/best-kitchen-knives-for-your-home-18ffeedf158)
+	  collapsed:: true
+	  site:: [Burrfection](https://www.burrfection.com)
+	  date-saved:: [[Jun 9th, 2024]]
 	- [Washington Farms | Local Farm Finder | Washington Food](https://omnivore.app/me/washington-farms-local-farm-finder-washington-food-18ffb2d95ee)
 	  collapsed:: true
 	  site:: [Eat Local First](https://eatlocalfirst.org/wa-food-farm-finder/)

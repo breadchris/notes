@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Game Studies 0501: WarioWare Review by Chaim Gingold](https://omnivore.app/me/game-studies-0501-wario-ware-review-by-chaim-gingold-190052cdcdd)
+	  collapsed:: true
+	  site:: [gamestudies.org](https://www.gamestudies.org/0501/gingold/)
+	  date-saved:: [[Jun 10th, 2024]]
+	- [Klack — Satisfying sound with every keystroke](https://omnivore.app/me/klack-satisfying-sound-with-every-keystroke-1900529fafd)
+	  collapsed:: true
+	  site:: [Klack](https://tryklack.com)
+	  date-saved:: [[Jun 10th, 2024]]
+	- [The World's Most Satisfying Checkbox | !Boring](https://omnivore.app/me/the-world-s-most-satisfying-checkbox-boring-1900529ae41)
+	  collapsed:: true
+	  site:: [notboring.software](https://www.notboring.software/words/the-most-satisfying-checkbox)
+	  date-saved:: [[Jun 10th, 2024]]
 	- [Calling All Hackers [Phrack Preprint] -- DO NOT SHARE](https://omnivore.app/me/calling-all-hackers-phrack-preprint-do-not-share-19004b0042b)
 	  collapsed:: true
 	  site:: [Gist](https://gist.github.com/stong/adc147b230e6c4d2e4c7e83f200c68b8)

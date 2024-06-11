@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Calling All Hackers [Phrack Preprint] -- DO NOT SHARE](https://omnivore.app/me/calling-all-hackers-phrack-preprint-do-not-share-19004b0042b)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/stong/adc147b230e6c4d2e4c7e83f200c68b8)
+	  author:: stong
+	  date-saved:: [[Jun 10th, 2024]]
 	- [Access Restricted](https://omnivore.app/me/access-restricted-18fff0468e9)
 	  collapsed:: true
 	  site:: (file:///System/Library/PrivateFrameworks/WebCore.framework/ContentFilterBlockedPage.html)

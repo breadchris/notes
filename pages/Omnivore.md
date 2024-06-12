@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Programming Model](https://omnivore.app/me/programming-model-1900d452806)
+	  collapsed:: true
+	  site:: [restate.dev](https://restate.dev/programming-model)
+	  date-saved:: [[Jun 12th, 2024]]
+	- [The discovery of superconductivity | Physics Today | AIP Publishing](https://omnivore.app/me/the-discovery-of-superconductivity-physics-today-aip-publishing-1900d2efc75)
+	  collapsed:: true
+	  site:: [AIP Publishing](https://pubs.aip.org/physicstoday/article/63/9/38/386608/The-discovery-of-superconductivityA-century-ago)
+	  author:: van Delft, Dirk, Kes, Peter
+	  date-saved:: [[Jun 12th, 2024]]
+	  date-published:: [[Aug 31st, 2010]]
 	- [Baking Bread with Steam in Your Home Oven | The Perfect Loaf](https://omnivore.app/me/baking-bread-with-steam-in-your-home-oven-the-perfect-loaf-1900a436e61)
 	  collapsed:: true
 	  site:: [The Perfect Loaf](https://www.theperfectloaf.com/baking-with-steam-in-your-home-oven/)

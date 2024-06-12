@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Baking Bread with Steam in Your Home Oven | The Perfect Loaf](https://omnivore.app/me/baking-bread-with-steam-in-your-home-oven-the-perfect-loaf-1900a436e61)
+	  collapsed:: true
+	  site:: [The Perfect Loaf](https://www.theperfectloaf.com/baking-with-steam-in-your-home-oven/)
+	  author:: Maurizio Leo
+	  date-saved:: [[Jun 11th, 2024]]
+	  date-published:: [[Jun 13th, 2015]]
 	- [Game Studies 0501: WarioWare Review by Chaim Gingold](https://omnivore.app/me/game-studies-0501-wario-ware-review-by-chaim-gingold-190052cdcdd)
 	  collapsed:: true
 	  site:: [gamestudies.org](https://www.gamestudies.org/0501/gingold/)

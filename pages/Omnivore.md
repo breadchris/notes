@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Convert Word and PDF files to HTML | Free online HTML editor](https://omnivore.app/me/convert-word-and-pdf-files-to-html-free-online-html-editor-1901f896987)
+	  collapsed:: true
+	  site:: [wordtohtml.net](https://wordtohtml.net)
+	  date-saved:: [[Jun 15th, 2024]]
+	  date-published:: [[Dec 19th, 2023]]
 	- [Programming Model](https://omnivore.app/me/programming-model-1900d452806)
 	  collapsed:: true
 	  site:: [restate.dev](https://restate.dev/programming-model)

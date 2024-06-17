@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [A Comprehensive Introduction to Tree-sitter](https://omnivore.app/me/a-comprehensive-introduction-to-tree-sitter-190241d3a2d)
+	  collapsed:: true
+	  site:: [derekstride](https://derek.stride.host/posts/comprehensive-introduction-to-tree-sitter)
+	  date-saved:: [[Jun 16th, 2024]]
+	  date-published:: [[Aug 5th, 2021]]
+	- [Look at Ghost Recon Future Soldier Running on my MAC! : r/GhostRecon](https://omnivore.app/me/look-at-ghost-recon-future-soldier-running-on-my-mac-r-ghost-rec-19023fd3196)
+	  collapsed:: true
+	  site:: [reddit.com](https://www.reddit.com/r/GhostRecon/comments/x5ged1/look_at_ghost_recon_future_soldier_running_on_my/)
+	  author:: PrestigiousZombie531
+	  date-saved:: [[Jun 16th, 2024]]
+	  date-published:: [[Sep 4th, 2022]]
 	- [V. Single Host Reverse Proxy](https://omnivore.app/me/v-single-host-reverse-proxy-1901fa20fef)
 	  collapsed:: true
 	  site:: [fideloper.com](https://fideloper.com/golang-single-host-reverse-proxy)

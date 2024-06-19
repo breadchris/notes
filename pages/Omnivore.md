@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [wavesurfer.js | audio waveform player JavaScript library](https://omnivore.app/me/wavesurfer-js-audio-waveform-player-java-script-library-1902db6421e)
+	  collapsed:: true
+	  site:: [wavesurfer.xyz](https://wavesurfer.xyz/examples/?record.js=)
+	  date-saved:: [[Jun 18th, 2024]]
+	- [Web Audio Demos](https://omnivore.app/me/web-audio-demos-1902db498a5)
+	  collapsed:: true
+	  site:: [webaudiodemos.appspot.com](https://webaudiodemos.appspot.com)
+	  author:: cwilso@google.com
+	  date-saved:: [[Jun 18th, 2024]]
 	- [Apple's Ill-Fated Social Network 'Ping' Launched 10 Years Ago Today - MacRumors](https://omnivore.app/me/apple-s-ill-fated-social-network-ping-launched-10-years-ago-toda-190294071d6)
 	  collapsed:: true
 	  site:: [MacRumors](https://www.macrumors.com/2020/09/01/itunes-ping-launched-10-years-ago-today/)

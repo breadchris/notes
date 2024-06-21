@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [The Prophylactic Extraction of Third Molars: A Public Health Hazard - PMC](https://omnivore.app/me/the-prophylactic-extraction-of-third-molars-a-public-health-haza-1903890e861)
+	  collapsed:: true
+	  site:: [PubMed Central (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1963310/)
+	  author:: Jay W. Friedman, DDS, MPH
+	  date-saved:: [[Jun 20th, 2024]]
+	- [OpenIDEO - Challenge: ‪Cybersecurity Visuals Challenge‬](https://omnivore.app/me/open-ideo-challenge-cybersecurity-visuals-challenge-190376682b5)
+	  collapsed:: true
+	  site:: [challenges.openideo.com](https://challenges.openideo.com/challenge/cybersecurity-visuals-challenge?documentId=51adaf776b8ed548ccae1fdcb75d1359&documentTableId=612490718155757054)
+	  date-saved:: [[Jun 20th, 2024]]
 	- [wavesurfer.js | audio waveform player JavaScript library](https://omnivore.app/me/wavesurfer-js-audio-waveform-player-java-script-library-1902db6421e)
 	  collapsed:: true
 	  site:: [wavesurfer.xyz](https://wavesurfer.xyz/examples/?record.js=)

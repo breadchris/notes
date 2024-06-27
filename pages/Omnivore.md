@@ -99,10 +99,6 @@
 	  site:: [Gist](https://gist.github.com/stong/adc147b230e6c4d2e4c7e83f200c68b8)
 	  author:: stong
 	  date-saved:: [[Jun 10th, 2024]]
-	- [Access Restricted](https://omnivore.app/me/access-restricted-18fff0468e9)
-	  collapsed:: true
-	  site:: (file:///System/Library/PrivateFrameworks/WebCore.framework/ContentFilterBlockedPage.html)
-	  date-saved:: [[Jun 9th, 2024]]
 	- [A Funny Thing Happened on the Way to the Forum : Free Download, Borrow, and Streaming : Internet Archive](https://omnivore.app/me/a-funny-thing-happened-on-the-way-to-the-forum-free-download-bor-18ffefe735d)
 	  collapsed:: true
 	  site:: [Internet Archive](https://archive.org/details/AFunnyThingHappenedOnTheWayToTheForum)

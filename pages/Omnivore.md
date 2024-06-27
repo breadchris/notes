@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Highest Rated SCPs - SCP Foundation](https://omnivore.app/me/highest-rated-sc-ps-scp-foundation-19055d91e63)
+	  collapsed:: true
+	  site:: [The SCP Foundation](https://scp-wiki.wikidot.com/highest-rated-scps)
+	  date-saved:: [[Jun 26th, 2024]]
+	  date-published:: [[Jul 25th, 2008]]
+	- [Main - SCP Foundation](https://omnivore.app/me/main-scp-foundation-19055d879a4)
+	  collapsed:: true
+	  site:: [The SCP Foundation](https://scp-wiki.wikidot.com)
+	  date-saved:: [[Jun 26th, 2024]]
+	  date-published:: [[Jun 16th, 2024]]
 	- [m110.github.io](https://omnivore.app/me/-1903c40cc9b)
 	  collapsed:: true
 	  site:: [m110.github.io](https://m110.github.io/airplanes/)
@@ -56,11 +66,6 @@
 	  collapsed:: true
 	  site:: [fideloper.com](https://fideloper.com/golang-single-host-reverse-proxy)
 	  date-saved:: [[Jun 15th, 2024]]
-	- [Convert Word and PDF files to HTML | Free online HTML editor](https://omnivore.app/me/convert-word-and-pdf-files-to-html-free-online-html-editor-1901f896987)
-	  collapsed:: true
-	  site:: [wordtohtml.net](https://wordtohtml.net)
-	  date-saved:: [[Jun 15th, 2024]]
-	  date-published:: [[Dec 19th, 2023]]
 	- [Programming Model](https://omnivore.app/me/programming-model-1900d452806)
 	  collapsed:: true
 	  site:: [restate.dev](https://restate.dev/programming-model)

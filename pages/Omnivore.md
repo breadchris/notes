@@ -1,4 +1,25 @@
 ## 🔖 Articles
+	- [The Webtender - Cocktail & Mixed Drink Recipes and Bartending Guide](https://omnivore.app/me/the-webtender-cocktail-mixed-drink-recipes-and-bartending-guide-1905be99a06)
+	  collapsed:: true
+	  site:: [webtender.com](https://www.webtender.com)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [restorativland](https://omnivore.app/me/restorativland-1905b99e48b)
+	  collapsed:: true
+	  site:: [restorativland.org](https://restorativland.org)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [Rebecca A. Demarest | Speculative Fiction served with a smile!](https://omnivore.app/me/rebecca-a-demarest-speculative-fiction-served-with-a-smile-1905b2c9dbb)
+	  collapsed:: true
+	  site:: [Rebecca A. Demarest](https://rebeccademarest.com)
+	  date-saved:: [[Jun 27th, 2024]]
+	  date-published:: [[Dec 26th, 2023]]
+	- [Bro was going CRAZY 🔥💪 - YouTube](https://omnivore.app/me/https-youtube-com-shorts-b-4-uq-9-jep-m-si-zc-8-w-x-lv-5-y-sa-wp-1905a3d6747)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/B4_uq-9JepM?si=Zc8wXLv5YSaWPT3y)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [Would you get a hotdog from this guy? - YouTube](https://omnivore.app/me/https-youtube-com-shorts-2-x-x-4-yi-iw-wmm-si-je-xq-le-d-egd-ug--1905a3a9dc3)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/2xX4YiIwWMM?si=jeXQLeDEgdUGDkx7)
+	  date-saved:: [[Jun 27th, 2024]]
 	- [Highest Rated SCPs - SCP Foundation](https://omnivore.app/me/highest-rated-sc-ps-scp-foundation-19055d91e63)
 	  collapsed:: true
 	  site:: [The SCP Foundation](https://scp-wiki.wikidot.com/highest-rated-scps)

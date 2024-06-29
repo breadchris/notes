@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Sorry! Something went wrong!](https://omnivore.app/me/https-www-amazon-com-denali-pro-3-x-s-k-denali-pro-3-x-1906306d2f5)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/denali-pro-3x/s?k=denali+pro+3x)
+	  date-saved:: [[Jun 29th, 2024]]
+	- [St. Unix Clown College for the Criminally Insane](https://omnivore.app/me/st-unix-clown-college-for-the-criminally-insane-190625ec6a6)
+	  collapsed:: true
+	  site:: [unix-haters.org](https://www.unix-haters.org)
+	  date-saved:: [[Jun 28th, 2024]]
 	- [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://omnivore.app/me/flightradar-24-live-flight-tracker-real-time-flight-tracker-map-19061ddf6d4)
 	  collapsed:: true
 	  site:: [Flightradar24](https://www.flightradar24.com/51.50,-0.12/6)

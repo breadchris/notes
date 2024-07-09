@@ -1,8 +1,12 @@
 ## 🔖 Articles
-	- [Search – Science Huβ Publishing- Leading the Information Highway](https://omnivore.app/me/search-science-hub-publishing-leading-the-information-highway-19095de2dee)
+	- [501 Writing Prompts ](https://omnivore.app/me/u-29-ea-68-c-6-685-e-46-ab-83-d-4-22-d-78-da-2-a-6-f-1-501-writi-19095edb974)
 	  collapsed:: true
+	  site:: [misd.net](https://www.misd.net/languageart/grammarinaction/501writingprompts.pdf)
+	  date-saved:: [[Jul 8th, 2024]]
+	- [Search – Science Huβ Publishing- Leading the Information Highway](https://omnivore.app/me/search-science-hub-publishing-leading-the-information-highway-19095de2dee)
 	  site:: [scihub.org](https://www.scihub.org/search/)
 	  date-saved:: [[Jul 8th, 2024]]
+	  collapsed:: true
 	- [Thorsten Ball - Register Spill](https://omnivore.app/me/thorsten-ball-register-spill-1909313d9a6)
 	  collapsed:: true
 	  site:: [thorstenball.com](https://thorstenball.com/register-spill/)

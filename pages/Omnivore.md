@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Search – Science Huβ Publishing- Leading the Information Highway](https://omnivore.app/me/search-science-hub-publishing-leading-the-information-highway-19095de2dee)
+	  collapsed:: true
+	  site:: [scihub.org](https://www.scihub.org/search/)
+	  date-saved:: [[Jul 8th, 2024]]
 	- [Thorsten Ball - Register Spill](https://omnivore.app/me/thorsten-ball-register-spill-1909313d9a6)
 	  collapsed:: true
 	  site:: [thorstenball.com](https://thorstenball.com/register-spill/)

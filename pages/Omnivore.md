@@ -1,4 +1,44 @@
 ## 🔖 Articles
+	- [Thorsten Ball - Register Spill](https://omnivore.app/me/thorsten-ball-register-spill-1909313d9a6)
+	  collapsed:: true
+	  site:: [thorstenball.com](https://thorstenball.com/register-spill/)
+	  date-saved:: [[Jul 8th, 2024]]
+	- [Living in Oblivion (1995) - IMDb](https://omnivore.app/me/https-m-imdb-com-title-tt-0113677-ref-ext-shr-lnk-19085497265)
+	  collapsed:: true
+	  site:: [IMDb](https://m.imdb.com/title/tt0113677/?ref_=ext_shr_lnk)
+	  date-saved:: [[Jul 5th, 2024]]
+	  date-published:: [[Jul 20th, 1995]]
+	- [Leaporkim LYNX Electric Unicycle User Manual](https://omnivore.app/me/leaporkim-lynx-electric-unicycle-user-manual-19085238f4f)
+	  collapsed:: true
+	  site:: [Manuals+](https://manuals.plus/leaporkim/lynx-electric-unicycle-manual)
+	  author:: m.ali
+	  date-saved:: [[Jul 5th, 2024]]
+	  date-published:: [[Dec 9th, 2023]]
+	- [Live looping w/ OP-Z, iPad, Loopy, Midi Fighter Twister, and Roli Lightpad Blocks #shorts - YouTube](https://omnivore.app/me/https-youtube-com-shorts-qw-5-o-5-i-fz-uay-si-a-wdp-w-gn-wo-5-c--1907a213ebe)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/Qw5o5IFzUAY?si=aWdpWGnWO5C-WRNs)
+	  date-saved:: [[Jul 3rd, 2024]]
+	- [Northflank — Deploy any project in seconds, in our cloud or yours.](https://omnivore.app/me/northflank-deploy-any-project-in-seconds-in-our-cloud-or-yours-19076c647b3)
+	  collapsed:: true
+	  site:: [Northflank — Deploy any project in seconds, in our cloud or yours.](https://northflank.com)
+	  date-saved:: [[Jul 2nd, 2024]]
+	- [Community Transformers](https://omnivore.app/me/community-transformers-19075a9b7a6)
+	  collapsed:: true
+	  site:: [transformers.mit.edu](https://transformers.mit.edu)
+	  date-saved:: [[Jul 2nd, 2024]]
+	- [Orange Cassette Player WE-001 • Serge](https://omnivore.app/me/orange-cassette-player-we-001-serge-19071eccf8e)
+	  collapsed:: true
+	  site:: [WE ARE REWIND](https://www.wearerewind.com/products/lecteur-cassette-bluetooth-orange-serge?currency=USD&srsltid=AfmBOopB5iIt1APlVsr-ELIHMfF1ONHmTXzJIkdHgWLTtFC714CcoU_itSQ&variant=44030424908040)
+	  date-saved:: [[Jul 1st, 2024]]
+	- [prometheus movie - Google Search](https://omnivore.app/me/prometheus-movie-google-search-1906fd70b6e)
+	  collapsed:: true
+	  site:: [google.com](https://www.google.com/search?client=safari&hl=en-us&ie=UTF-8&oe=UTF-8&q=prometheus+movie&safe=active)
+	  date-saved:: [[Jul 1st, 2024]]
+	  date-published:: [[Nov 20th, 2023]]
+	- [652ed31a-e353-41a9-9a18-80a545ab7134](https://omnivore.app/me/u-4-e-4-ba-0-d-5-6-e-0-e-469-e-add-2-c-9490-fd-5756-e-652-ed-31--1906d2f9610)
+	  collapsed:: true
+	  site:: [omnivore.app](https://omnivore.app/attachments/u/4e4ba0d5-6e0e-469e-add2-c9490fd5756e/652ed31a-e353-41a9-9a18-80a545ab7134.pdf)
+	  date-saved:: [[Jul 1st, 2024]]
 	- [undercurrents.io](https://omnivore.app/me/-190658e9949)
 	  collapsed:: true
 	  site:: [undercurrents.io](https://undercurrents.io/blog/welcome/)

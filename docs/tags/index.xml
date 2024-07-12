@@ -6,167 +6,20 @@
     <description>Recent content in Tags on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>code</title>
-      <link>https://breadchris.com/tags/code/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>thinkies</title>
-      <link>https://breadchris.com/tags/thinkies/</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/thinkies/</guid>
-      <description></description>
-    </item>
     <item>
       <title>blog</title>
       <link>https://breadchris.com/tags/blog/</link>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>sketchysecurity</title>
-      <link>https://breadchris.com/tags/sketchysecurity/</link>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/sketchysecurity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>db</title>
-      <link>https://breadchris.com/tags/db/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/db/</guid>
       <description></description>
     </item>
     <item>
       <title>go</title>
       <link>https://breadchris.com/tags/go/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>protocard</title>
-      <link>https://breadchris.com/tags/protocard/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/protocard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>design</title>
-      <link>https://breadchris.com/tags/design/</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ai</title>
-      <link>https://breadchris.com/tags/ai/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>justshare</title>
-      <link>https://breadchris.com/tags/justshare/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/justshare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>web</title>
-      <link>https://breadchris.com/tags/web/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/web/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>deploy</title>
-      <link>https://breadchris.com/tags/deploy/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/deploy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>kubes</title>
-      <link>https://breadchris.com/tags/kubes/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/kubes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>newsletter</title>
-      <link>https://breadchris.com/tags/newsletter/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/newsletter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>replies</title>
-      <link>https://breadchris.com/tags/replies/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/replies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>irc</title>
-      <link>https://breadchris.com/tags/irc/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/irc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>notetaking</title>
-      <link>https://breadchris.com/tags/notetaking/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/notetaking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>books</title>
-      <link>https://breadchris.com/tags/books/</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/books/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>free</title>
-      <link>https://breadchris.com/tags/free/</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/free/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>smut</title>
-      <link>https://breadchris.com/tags/smut/</link>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/smut/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>xctf</title>
-      <link>https://breadchris.com/tags/xctf/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/xctf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>lanparty</title>
-      <link>https://breadchris.com/tags/lanparty/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/lanparty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>recipes</title>
-      <link>https://breadchris.com/tags/recipes/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/tags/recipes/</guid>
       <description></description>
     </item>
     <item>
@@ -181,6 +34,13 @@
       <link>https://breadchris.com/tags/grpc/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://breadchris.com/tags/grpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>thinkies</title>
+      <link>https://breadchris.com/tags/thinkies/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/tags/thinkies/</guid>
       <description></description>
     </item>
     <item>

@@ -6,126 +6,14 @@
     <description>Recent content in Blogs on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://breadchris.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>building a plugin system for the web</title>
-      <link>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</link>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</guid>
+      <title>The Figma Plugin System</title>
+      <link>https://breadchris.com/blog/the-figma-plugin-system/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/the-figma-plugin-system/</guid>
       <description>The Figma Plugin System Figma is a design tool that has become the industry standard, similar to how Photoshop became the defacto for photo editing. When everyone uses one tool, it only follows that there will be functionality that different groups of people need that isn&amp;rsquo;t immediately supported. To bridge the gap in functionality, a plugin system is the go-to solution for letting people extend a system how they see fit.</description>
-    </item>
-    <item>
-      <title>My favorite button on the Internet</title>
-      <link>https://breadchris.com/blog/my-favorite-button-on-the-internet/</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/my-favorite-button-on-the-internet/</guid>
-      <description>A button is a deceptively hard web component to get right. A good button makes a lot of things simple to do. You only need to press one thing, and a lot of things happen.
-&amp;gt; &amp;ldquo;Design is not just what it looks like and feels like. Design is how it works.&amp;rdquo; ~ Steve Jobs
-Beyond what the button does, it also captures intent. The user desires to interact with this button because they want what it offers.</description>
-    </item>
-    <item>
-      <title>8529 people have contributed to scikit-learn</title>
-      <link>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn/</guid>
-      <description>The code that scikit-learn comprises has been committed to by 8529+ people.
-python/cpython - 2640
-numpy/numpy - 1581
-scipy/scipy - 1447
-joblib/threadpoolctl - 10
-scikit-learn/scikit-learn - 2837
-It is possible that some of these people introduced typo changes, or the code they contributed has been rewritten by someone else. But the repo was affected by them, no less. Their accounts were authenticated to contribute to the history of a notable library in the ML training community.</description>
-    </item>
-    <item>
-      <title>security affects everything</title>
-      <link>https://breadchris.com/blog/security-affects-everything/</link>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/security-affects-everything/</guid>
-      <description>As a security engineer, I found this talk interesting. It pushes for something that I agree with: the focus of ML security in research papers is primarily on novel adversarial attacks, but there are an incredible number of attacks on the supply chain aspect of training models that are often overlooked. The attacks from the papers are relevant but might require varying levels of attacker access to the system (ex., needing to observe model weights or inference confidence isn&amp;rsquo;t always immediately accessible to an attacker).</description>
-    </item>
-    <item>
-      <title>structs in go</title>
-      <link>https://breadchris.com/blog/structs-in-go/</link>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/structs-in-go/</guid>
-      <description>In programming, where syntax and structure are the maestros orchestrating the flow of logic, Go&amp;rsquo;s struct declaration stands out as a masterpiece of minimalist design. But to appreciate its artistry, we must delve into the annals of programming history and uncover the symphony of influences that led to its creation.
-Structs in Go, known for their straightforward and unadorned syntax, reflect the language&amp;rsquo;s overarching philosophy: to keep things simple and efficient.</description>
-    </item>
-    <item>
-      <title>failing miserably to scale kubes</title>
-      <link>https://breadchris.com/blog/failing-miserably-to-scale-kubes/</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/failing-miserably-to-scale-kubes/</guid>
-      <description>I run a cyber security competition for high schoolers every year. Yesterday was the 7th iteration. Months of planning go into designing the story and putting together digital evidence for the competitors to try to solve a murder mystery. It was a special event because the organizers who built it for my high school self stoked my passion for security. Unfortunately, it did not go as planned this year. After giving the introduction talk to 350 students, the site got DOSed from the concurrent load of everyone accessing it.</description>
-    </item>
-    <item>
-      <title>hack the planet | finding focus</title>
-      <link>https://breadchris.com/blog/hack-the-planet-finding-focus/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/hack-the-planet-finding-focus/</guid>
-      <description>Hey y&amp;rsquo;all,
-Maybe it is the poor Internet connection in Ireland, but I feel disconnected. Watching a site load brings me back to when you had to find offline tasks while waiting. Breaking up a hyperconnected workflow has helped immensely with building focus.
-I am finishing up an annual cyber security competition I will run in Maryland soon. I&amp;rsquo;ll share when I am done; it is enjoyable to play 😊 After I clear that off my plate, my focus will fall on building a course on service design patterns.</description>
-    </item>
-    <item>
-      <title>sensible web stack decisions</title>
-      <link>https://breadchris.com/blog/sensible-web-stack-decisions/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/sensible-web-stack-decisions/</guid>
-      <description>I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &amp;ldquo;principled&amp;rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &amp;ldquo;modern&amp;rdquo; approach.</description>
-    </item>
-    <item>
-      <title>take notes to understand your language</title>
-      <link>https://breadchris.com/blog/take-notes-to-understand-your-language/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/take-notes-to-understand-your-language/</guid>
-      <description>Someone probably looked up one day and said, &amp;ldquo;That is the &amp;lsquo;sky&amp;rsquo;.&amp;rdquo; They told their friends, and then they told their friends. At some point, when anyone looked up at the vast expanse above them and needed a way to describe it, the word that came to mind was &amp;ldquo;sky.&amp;rdquo;
-Maybe there is something that you are looking at in your life that will have a similar story one day. It might not be as profound as naming &amp;ldquo;sky,&amp;rdquo; but it describes a service we use like &amp;ldquo;Google&amp;rdquo; or &amp;ldquo;Uber.</description>
-    </item>
-    <item>
-      <title>go run</title>
-      <link>https://breadchris.com/blog/go-run/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/go-run/</guid>
-      <description>It may seem silly, but go run is my favorite part about go. Want to run your code? go run main.go. It is so stupidly simple that I could tell my mom about this command, and she would immediately understand. Like with most things in go, the real power in this command is in the effortless understanding of how to build and run everyone&amp;rsquo;s code.
-But I can run node main.</description>
-    </item>
-    <item>
-      <title>i need some hackers</title>
-      <link>https://breadchris.com/blog/i-need-some-hackers/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/i-need-some-hackers/</guid>
-      <description>TL;DR - I need money for a non-profit international cybersecurity competition (open-source, too). Donations here, email chris@breadchris.com for sponsorship opportunities.
-I am running an annual cyber security competition (mcpshsf, soon to be xctf) with my high school computer science teacher, celebrating its 8th? year, on March 14th. When run at NYU, it attracted incredible talent from around the US. Some of the alumni went on to form or join notable security companies/teams ( TrailofBits, Zellic, Google, Uber, etc.</description>
-    </item>
-    <item>
-      <title>Join a Group to Save Your Life</title>
-      <link>https://breadchris.com/blog/join-a-group-to-save-your-life/</link>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/join-a-group-to-save-your-life/</guid>
-      <description>Joining and participating in one group cuts in half your odds of dying next year.
-Every ten minutes of commuting reduces all forms of social capital by 10%
-Watching commercial entertainment TV is the only leisure activity where doing more of it is associated with lower social capital.
-Trends over the last 25 years Attending Club Meetings 58% drop
-Family dinners 43% drop
-Having friends over 35% drop
-http://bowlingalone.com/?page_id=13
-comments</description>
-    </item>
-    <item>
-      <title>you should try a partner dance</title>
-      <link>https://breadchris.com/blog/you-should-try-a-partner-dance/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/you-should-try-a-partner-dance/</guid>
-      <description>I have been going swing dancing at Century Ballroom every week since the start of the year. Swing is a partner dance that has leaders and followers. Before every song, it is customary for the leader, typically a guy, to ask a follower, usually a girl, to dance, and when the song ends, the leader finds another follower to dance with for the next song. For someone with social anxiety, this can be pretty intimidating.</description>
-    </item>
-    <item>
-      <title>Naming is Important</title>
-      <link>https://breadchris.com/blog/naming-is-important/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/naming-is-important/</guid>
-      <description>Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and how they are related. A database schema or language specification is such an important document that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.</description>
     </item>
     <item>
       <title>Build dope shit with go</title>

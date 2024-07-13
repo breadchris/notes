@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Showlist Seattle](https://omnivore.app/me/showlist-seattle-190aa8f702b)
+	  collapsed:: true
+	  site:: [Showlist Seattle](https://seattle.showlists.net)
+	  date-saved:: [[Jul 12th, 2024]]
 	- [ekmixon/webauthn.io: The source code for webauthn.io, a demonstration of WebAuthn.](https://omnivore.app/me/ekmixon-webauthn-io-the-source-code-for-webauthn-io-a-demonstrat-190a01139bc)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/ekmixon/webauthn.io)

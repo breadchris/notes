@@ -6776,11 +6776,9 @@
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/copy-paste)
 	  date-saved:: [[Aug 20th, 2023]]
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a163096cd)
-	  collapsed:: true
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/undo-redo)
 	  date-saved:: [[Aug 20th, 2023]]
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a16308be7)
-	  collapsed:: true
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/dynamic-grouping)
 	  date-saved:: [[Aug 20th, 2023]]
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a16308161)

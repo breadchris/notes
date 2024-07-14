@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Frontiers | A Scoping Review of Flow Research](https://omnivore.app/me/frontiers-a-scoping-review-of-flow-research-190af80b489)
+	  collapsed:: true
+	  site:: [Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.815665/full)
+	  author:: Marié P. Wissing
+	  date-saved:: [[Jul 13th, 2024]]
+	  date-published:: [[Apr 5th, 2022]]
 	- [Showlist Seattle](https://omnivore.app/me/showlist-seattle-190aa8f702b)
 	  collapsed:: true
 	  site:: [Showlist Seattle](https://seattle.showlists.net)

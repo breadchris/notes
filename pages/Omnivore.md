@@ -1,10 +1,20 @@
 ## 🔖 Articles
-	- [Frontiers | A Scoping Review of Flow Research](https://omnivore.app/me/frontiers-a-scoping-review-of-flow-research-190af80b489)
+	- [Reviewing the Bleve search library - Ayende @ Rahien](https://omnivore.app/me/reviewing-the-bleve-search-library-ayende-rahien-190af93233a)
 	  collapsed:: true
+	  site:: [Ayende @ Rahien](https://ayende.com/blog/183041-C/reviewing-the-bleve-search-library)
+	  date-saved:: [[Jul 13th, 2024]]
+	- [Developments and Trends in Flow Research Over 40 Years: A Bibliometric Analysis | Collabra: Psychology | University of California Press](https://omnivore.app/me/developments-and-trends-in-flow-research-over-40-years-a-bibliom-190af854145)
+	  collapsed:: true
+	  site:: [University of California Press](https://online.ucpress.edu/collabra/article/10/1/92948/200116/Developments-and-Trends-in-Flow-Research-Over-40)
+	  author:: Zhang, Yongfa, Wang, Fei, Farb, Norman
+	  date-saved:: [[Jul 13th, 2024]]
+	  date-published:: [[Feb 27th, 2024]]
+	- [Frontiers | A Scoping Review of Flow Research](https://omnivore.app/me/frontiers-a-scoping-review-of-flow-research-190af80b489)
 	  site:: [Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.815665/full)
 	  author:: Marié P. Wissing
 	  date-saved:: [[Jul 13th, 2024]]
 	  date-published:: [[Apr 5th, 2022]]
+	  collapsed:: true
 	- [Showlist Seattle](https://omnivore.app/me/showlist-seattle-190aa8f702b)
 	  collapsed:: true
 	  site:: [Showlist Seattle](https://seattle.showlists.net)

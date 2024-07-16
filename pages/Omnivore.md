@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Spirit Quest](https://omnivore.app/me/spirit-quest-190bc62d478)
+	  collapsed:: true
+	  site:: [Spirit Quest](https://spiritquest.vhx.tv)
+	  date-saved:: [[Jul 16th, 2024]]
+	- [sbensu: We need visual programming. No, not like that.](https://omnivore.app/me/sbensu-we-need-visual-programming-no-not-like-that-190b9c68526)
+	  collapsed:: true
+	  site:: [blog.sbensu.com](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+	  date-saved:: [[Jul 15th, 2024]]
+	- [Supercharged fast, private & reliable file hosting – Horizon](https://omnivore.app/me/supercharged-fast-private-reliable-file-hosting-horizon-190b9c5a13a)
+	  collapsed:: true
+	  site:: [Horizon – Supercharged Sharing](https://horizon.pics)
+	  author:: Uploaded by rens
+	  date-saved:: [[Jul 15th, 2024]]
 	- [Log in - Sterling Volunteers](https://omnivore.app/me/https-app-sterlingvolunteers-com-en-candidates-profile-190b257ba3d)
 	  collapsed:: true
 	  site:: [app.sterlingvolunteers.com](https://app.sterlingvolunteers.com/en/Candidates/Profile)

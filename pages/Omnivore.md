@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Web Design Pricing Explained: How Much Does a Website Cost?](https://omnivore.app/me/web-design-pricing-explained-how-much-does-a-website-cost-190beb20f8f)
+	  collapsed:: true
+	  site:: [Connective Web Design](https://connectivewebdesign.com/pricing/web-design)
+	  author:: Rodney Warner
+	  date-saved:: [[Jul 16th, 2024]]
+	  date-published:: [[Nov 20th, 2023]]
 	- [Spirit Quest](https://omnivore.app/me/spirit-quest-190bc62d478)
 	  collapsed:: true
 	  site:: [Spirit Quest](https://spiritquest.vhx.tv)

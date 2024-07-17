@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Brilliant Labs](https://omnivore.app/me/brilliant-labs-190c274a4f4)
+	  collapsed:: true
+	  site:: [Brilliant Labs](https://brilliant.xyz)
+	  date-saved:: [[Jul 17th, 2024]]
 	- [Hamming, "You and Your Research" (June 6, 1995)](https://omnivore.app/me/https-youtube-com-watch-si-k-3-fy-ev-3-in-9-ee-gwt-v-a-1-z-du-o--190bf51d7e8)
 	  collapsed:: true
 	  site:: [YouTube](https://youtube.com/watch?si=k3fyEV3IN9_EeGwt&v=a1zDuOPkMSw)

@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [Overcoming the limits of current LLM](https://omnivore.app/me/overcoming-the-limits-of-current-llm-190c8bf698b)
+	  collapsed:: true
+	  site:: [seanpedersen.github.io](https://seanpedersen.github.io/posts/overcoming-llm-limits)
+	  date-saved:: [[Jul 18th, 2024]]
+	  date-published:: [[Jul 17th, 2024]]
+	- [Post-Architecture: Premature Abstraction Is the Root of All Evil](https://omnivore.app/me/post-architecture-premature-abstraction-is-the-root-of-all-evil-190c8bf0281)
+	  collapsed:: true
+	  site:: [arendjr.nl](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
+	  date-saved:: [[Jul 18th, 2024]]
+	  date-published:: [[Jul 17th, 2024]]
+	- [What Would It Take to Recreate Bell Labs? - by Brian Potter](https://omnivore.app/me/what-would-it-take-to-recreate-bell-labs-by-brian-potter-190c8beafd0)
+	  collapsed:: true
+	  site:: [Construction Physics](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+	  author:: Brian Potter
+	  date-saved:: [[Jul 18th, 2024]]
+	  date-published:: [[Jul 18th, 2024]]
+	- [Writing an MP4 Muxer for Fun and Profit | OBS](https://omnivore.app/me/writing-an-mp-4-muxer-for-fun-and-profit-obs-190c8be30b2)
+	  collapsed:: true
+	  site:: [obsproject.com](https://obsproject.com/blog/obs-studio-hybrid-mp4)
+	  date-saved:: [[Jul 18th, 2024]]
 	- [Brilliant Labs](https://omnivore.app/me/brilliant-labs-190c274a4f4)
 	  collapsed:: true
 	  site:: [Brilliant Labs](https://brilliant.xyz)

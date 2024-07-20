@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Fillet](https://omnivore.app/me/fillet-190cc3fcc9f)
+	  collapsed:: true
+	  site:: [getfillet.com](https://getfillet.com/en/)
+	  date-saved:: [[Jul 19th, 2024]]
+	- [The Cookie Website](https://omnivore.app/me/the-cookie-website-190cc3bc29e)
+	  collapsed:: true
+	  site:: [The Cookie Website](https://thecookie.website/?c=U2FsdGVkX1%2FkJx3G4Rj4YNThSvJ0QKfcVqmjuQs5DD5%2F2L7G%2BbI7ajBRJHf9YfUNszEIwlP%2FvWe3mwl4wvZZ16xbm8MzpGAPqFtlAPBljBbEiRO0J44GPiVguFI2GzgV)
+	  date-saved:: [[Jul 19th, 2024]]
 	- [Overcoming the limits of current LLM](https://omnivore.app/me/overcoming-the-limits-of-current-llm-190c8bf698b)
 	  collapsed:: true
 	  site:: [seanpedersen.github.io](https://seanpedersen.github.io/posts/overcoming-llm-limits)

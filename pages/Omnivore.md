@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Phasic Body](https://omnivore.app/me/https-marcello-palozzo-mykajabi-com-phasic-body-190d0fa8034)
+	  collapsed:: true
+	  site:: [marcello-palozzo.mykajabi.com](https://marcello-palozzo.mykajabi.com/phasic-body)
+	  date-saved:: [[Jul 20th, 2024]]
+	- [Half Batch Baking | In baking, ingredients in a recipe are based on ratios, often expressed as parts. Most commonly, ratios are based on the weight of the... | Instagram](https://omnivore.app/me/https-www-instagram-com-reel-c-9-kfs-ylpr-3-z-igsh-mxj-2-d-wxt-m-190d0f74aa0)
+	  collapsed:: true
+	  site:: [Instagram](https://www.instagram.com/reel/C9kfsYLPR3z/?igsh=MXJ2dWxtMWRvbnE5NQ%3D%3D)
+	  date-saved:: [[Jul 20th, 2024]]
+	- [Studio Olafur Eliasson](https://omnivore.app/me/studio-olafur-eliasson-190cedf3b12)
+	  collapsed:: true
+	  site:: [olafureliasson.net](https://olafureliasson.net/uncertain)
+	  date-saved:: [[Jul 19th, 2024]]
+	- [Sea Wolf](https://omnivore.app/me/sea-wolf-190ce2d6e50)
+	  collapsed:: true
+	  site:: [Sea Wolf](https://www.seawolfbakers.com)
+	  date-saved:: [[Jul 19th, 2024]]
 	- [Fillet](https://omnivore.app/me/fillet-190cc3fcc9f)
 	  collapsed:: true
 	  site:: [getfillet.com](https://getfillet.com/en/)

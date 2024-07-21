@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [OS/2 Museum | OS/2, vintage PC computing, and random musings](https://omnivore.app/me/os-2-museum-os-2-vintage-pc-computing-and-random-musings-190d2836f47)
+	  collapsed:: true
+	  site:: [os2museum.com](https://www.os2museum.com/wp/)
+	  author:: Posted on
+	  date-saved:: [[Jul 20th, 2024]]
+	  date-published:: [[Jul 19th, 2024]]
+	- [typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://omnivore.app/me/typst-typst-a-new-markup-based-typesetting-system-that-is-powerf-190d283083b)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/typst/typst)
+	  date-saved:: [[Jul 20th, 2024]]
 	- [Phasic Body](https://omnivore.app/me/https-marcello-palozzo-mykajabi-com-phasic-body-190d0fa8034)
 	  collapsed:: true
 	  site:: [marcello-palozzo.mykajabi.com](https://marcello-palozzo.mykajabi.com/phasic-body)

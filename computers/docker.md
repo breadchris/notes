@@ -1,0 +1,2 @@
+- stop all containers: `docker stop $(docker ps -q)`
+	- https://www.unixtutorial.org/docker-stop-all-containers/

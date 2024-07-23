@@ -1,0 +1,2 @@
+
+- `set -x` helps debug weird shell init errors, you can see commands that are running when you open up a new shell

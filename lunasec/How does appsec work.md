@@ -1,0 +1,7 @@
+- Identify the problem
+- Develop a hypothesis
+- Write a POC
+- Report data using POC
+- Sift through data to confirm hypothesis
+- Answer the question "can the solution be enforced as a bottom line at scale?"
+- Write a service that can enforce the solution in a meaningful way for engineers

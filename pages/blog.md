@@ -1,5 +1,9 @@
 - #blog/post This is for Nolan
   collapsed:: true
+- [[This is for Nolan]]
+- [[teach yourself about ai]]
+- [[I hacked my high school, and you should too]]
+- [[AI Can't Fold 1000 Cranes]]
 	- ## SOLID principles
 	- The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
 	- In Go, the SOLID principles can be applied as follows:
@@ -422,10 +426,17 @@
 	- You also realize something about the reason about the origin of this tradition. Every year, people fold and bring [1000 cranes to the Hiroshima and Nagasaki](https://blog.nationalgeographic.org/2015/08/28/how-paper-cranes-became-a-symbol-of-healing-in-japan/). There is something deeply intimate about offering something that you spent at least 83 hours of your year doing. Every crane is a chance to meditate on what is happening around you. A time to accept yourself for what you have been capable of. A time to consider what you could be working on after you are done folding. Man, I would get terribly distracted when folding. I would often take a piece of paper, thinking I was going to fold it and then a few days later I would look at it and go "oh, right". But the thing is, it was ok. Why wouldn't it be? If I wanted my wish, I was going to have to work for it.
 	- You truly have to be in a state of flow in order to get your wish. I am hesitant to say that this experience has "profoundly" changed me, but I can certainly say that this has reinforced what it means to have "small wins" every day, and the compounding effect that they can have. Someone told me that the reason the US Military is so strict on [making your bed neatly every day](https://www.youtube.com/watch?v=KgzLzbd-zT4) is to serve as a simple task that you can look back on and be proud of yourself that you have achieved. I find it very fitting that I made my bed before I started counting my cranes to see if I had gotten to 1000.
 	- If you have never heard of this before, or maybe have and have been curious, I highly encourage you to [buy some origami paper](https://a.co/d/2Cbrikh) (you don't need to buy 1000, you can start with much less) and try to make just one crane. If you haven't folded on before, I guarantee that there will be some struggle, but push through! My love, Erin, who is an artist, had a rough first attempt, but got it right on the next few. Let you work surprise you. I am not recommending that everyone try to fold 1000 cranes, I think that task is too daunting. Instead, just have some origami paper laying around (or even grabbing some [printer paper and turning it into a square](https://www.youtube.com/watch?v=cMXzRBDFpGU)), play with it when you are bored. Check out [this youtuber](https://www.youtube.com/watch?v=6VqF8WGuBLA), I have been following them forever, and they are some of the best origami videos out there. Learn/try to teach with your partner, your kids, your friends, your family. Learning to fold a crane is something that is very subtly impressive and incredibly rewarding, in my opinion of course. I hope I was able to inspire you to try something new today!
-- #blog/post Start with a Static Site
+- [[Start with a Static Site]]
   id:: 641f9021-a48c-462b-a3cd-768f86f38848
-  collapsed:: true
 	- Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.
+- [[A Sustainable Thinker Always Wins]]
+- [[How I Got to Where I Am]]
+- [[NYU Dropped the Ball]]
+- [[I hacked your site]]
+- [[We need Legos for Code]]
+- [[Information About Gloving]]
+- [[What holds us back]]
+- [[Why soundbite should exist]]
 	- Start with Markdown and hugo.  Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.
 	- If you want to have more control over how things are formatted and roughly look, html will be the next step of learning. By itself, it will be relatively limited, but you can get pretty far with including a simple CSS style sheet like this one.
 	- If you want to move things around on the page, make them bigger/smaller, red/blue. You are going to need to learn CSS. As you learn more about CSS, you should consider playing with css libraries like bootstrap or tailwindcss which will greatly scale up your abilities as you try to do more complicated and coordinated visual things.

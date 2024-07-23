@@ -1,0 +1,2 @@
+
+- [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0&ab_channel=CarnegieMellonUniversity)

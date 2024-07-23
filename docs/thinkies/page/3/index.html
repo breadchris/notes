@@ -158,71 +158,67 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Figuring it out
+    <h2 class="entry-hint-parent">The case for a single binary
     </h2>
   </header>
   <div class="entry-content">
-    <p>Someone shared this with me today. They said: “yeah when I read this I thought of your exact thing lol”. So it turns out that I am on to something. Let’s take a look at how well I am meeting Andrej’s ideal blogging platform:
-Writing
-✅ in markdown
-✅ with full WYSIWYG, not just split view (think: Typora)
-I am using https://tiptap.dev/ super easy to copy paste and add images...</p>
+    <p>In the realm of software development, the dichotomy between local development environments and production settings presents a notable challenge. The ideal scenario is where both environments mirror each other as closely as possible, minimizing discrepancies that can lead to unexpected behaviors upon deployment. However, achieving this level of synchronization is fraught with complexities. Tools like Docker have emerged as potential solutions, offering the promise of containerization to encapsulate applications in self-contained units that can run consistently across various environments....</p>
   </div>
-  <footer class="entry-footer"><span title='2024-01-27 00:00:00 +0000 UTC'>January 27, 2024</span>&nbsp;·&nbsp;breadchris</footer>
-  <a class="entry-link" aria-label="post link to Figuring it out" href="https://breadchris.com/thinkies/figuring-it-out/"></a>
+  <footer class="entry-footer"><span title='2024-03-11 00:00:00 +0000 UTC'>March 11, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to The case for a single binary" href="https://breadchris.com/thinkies/the-case-for-a-single-binary/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Ideas at the speed of Github Actions
+    <h2 class="entry-hint-parent">go dependency injection
     </h2>
   </header>
   <div class="entry-content">
-    <p>Let’s see how fast this idea can go from my computer to my site. We are blocked on github actions, but still looking for a faster way to deploy and one that doesn’t require a github account.</p>
+    <p>Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
+A dependency graph resolved at runtime is error prone and leads to confusing code....</p>
   </div>
-  <footer class="entry-footer"><span title='2024-01-26 00:00:00 +0000 UTC'>January 26, 2024</span>&nbsp;·&nbsp;breadchris</footer>
-  <a class="entry-link" aria-label="post link to Ideas at the speed of Github Actions" href="https://breadchris.com/thinkies/ideas-at-the-speed-of-github-actions/"></a>
+  <footer class="entry-footer"><span title='2024-03-08 00:00:00 +0000 UTC'>March 8, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to go dependency injection" href="https://breadchris.com/thinkies/go-dependency-injection/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">There are different types of thoughts
+    <h2 class="entry-hint-parent">reply to &#34;sensible web stack decisions&#34;
     </h2>
   </header>
   <div class="entry-content">
-    <p>small ones like tweets
-bigger ones like facebook posts
-formalized ideas in blog posts
-ones that need to hold up to scrutiny like an essay
-long cohesive ideas that are meant to take you on an all encompassing journey, like a book</p>
+    <p>In response to my previous post:
+martinsos:
+I like it, very practical and honest! No preaching, just direct opinions. Quite fresh for a web dev article. Btw I competely shared that view on Tailwind that you had at the start, and I still have it in part, just because I didn’t have enough time to learn more of it. It still seems weird that we are putting all the style directly into html, I can’t read that and it doesn’t show the intention, but I think I read they are not against classes at the end, it is just that even them you woudl then define with Tailwind....</p>
   </div>
-  <footer class="entry-footer"><span title='2024-01-26 00:00:00 +0000 UTC'>January 26, 2024</span>&nbsp;·&nbsp;breadchris</footer>
-  <a class="entry-link" aria-label="post link to There are different types of thoughts" href="https://breadchris.com/thinkies/there-are-different-types-of-thoughts/"></a>
+  <footer class="entry-footer"><span title='2024-03-04 00:00:00 +0000 UTC'>March 4, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to reply to &#34;sensible web stack decisions&#34;" href="https://breadchris.com/thinkies/reply-to-sensible-web-stack-decisions/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Workflow Engine syntax isn&#39;t making me happy, halp
+    <h2 class="entry-hint-parent">what happened to irc?
     </h2>
   </header>
   <div class="entry-content">
-    <p>I have been building a workflow engine that can route strongly-typed data through durable functions (guaranteed to execute). These functions do not need to exist in the process, they could be remote APIs, grpc servers, a p2p connection with your friend’s computer. It supports streaming of data with observables, thanks to rxgo, meaning you can create rules to map, filter, reduce data without redeployment.
-This is the sketch I have in my head, and have been trying to implement it here....</p>
+    <p>I get that it took a while for IRCv3 to come out, but the more I think about my ideal form of communication, the more it looks like IRC. I mostly communicate with Simple text comms, with the occasional voice/video chat. I also want to be able to write bots to receive and send messages on channels. Moderation controls are important for larger channels.
+There is a Go server/client implementation, ergo, that I am excited to try out....</p>
   </div>
-  <footer class="entry-footer"><span title='2024-01-25 00:00:00 +0000 UTC'>January 25, 2024</span>&nbsp;·&nbsp;breadchris</footer>
-  <a class="entry-link" aria-label="post link to Workflow Engine syntax isn&#39;t making me happy, halp" href="https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/"></a>
+  <footer class="entry-footer"><span title='2024-03-03 00:00:00 +0000 UTC'>March 3, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to what happened to irc?" href="https://breadchris.com/thinkies/what-happened-to-irc/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Connecting your body and your mind
+    <h2 class="entry-hint-parent">anatomy of syntax
     </h2>
   </header>
   <div class="entry-content">
-    <p>If someone were to talk to me about connecting my body to my mind a decade ago, I would have thought they were full of it. Regularly practicing meditation and now yoga has really made me realize how stupid you must be not to build this connection with yourself. Humans all have this incredible biological computer sitting inside their head and if you treat it as just that, a computer, it can do cool things....</p>
+    <p>Something I do not see often in programming language books is a concise explanation of semantic structures that are typically used. For example, in a Java method, there are different modifiers you can apply to the function to change how it behaves (public, private, static, etc.) Usually, the syntax is introduced and it is talked about at length, covering the many edge cases that might exist or the syntax is introduced in passing as an example requires a reader’s comprehension of the topic, referencing a later section for the explaination....</p>
   </div>
-  <footer class="entry-footer"><span title='2024-01-22 00:00:00 +0000 UTC'>January 22, 2024</span>&nbsp;·&nbsp;breadchris</footer>
-  <a class="entry-link" aria-label="post link to Connecting your body and your mind" href="https://breadchris.com/thinkies/connecting-your-body-and-your-mind/"></a>
+  <footer class="entry-footer"><span title='2024-03-01 00:00:00 +0000 UTC'>March 1, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to anatomy of syntax" href="https://breadchris.com/thinkies/anatomy-of-syntax/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

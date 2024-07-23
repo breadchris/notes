@@ -1,6 +1,5 @@
 file:: [A_Type_of_Programming_Draft_Dec_8_1702169465977_0.pdf](../assets/A_Type_of_Programming_Draft_Dec_8_1702169465977_0.pdf)
 file-path:: ../assets/A_Type_of_Programming_Draft_Dec_8_1702169465977_0.pdf
-
 - add_one :: Natural -> Natural add_one = \x -> x + 1
   ls-type:: annotation
   hl-page:: 18

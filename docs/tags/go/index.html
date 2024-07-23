@@ -143,15 +143,71 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Build dope shit with go
+    <h2 class="entry-hint-parent">error checking is hard
     </h2>
   </header>
   <div class="entry-content">
-    <p>The goal for this year is to: “write and publish something every day.” So far I have been doing a good job keeping up with this. In my pursuit to build larger compositions of thoughts, next year will be themed accordingly; I want to write a book. How does one go about choosing the topic to write a book about? It is probably something that you spend a lot of time thinking about....</p>
+    <p>Error checking is a complicated problem. It is like a garbage problem; everyone produces garbage, but no one wants to pick it up. Errors come from code that might behave unexpectedly due to forces outside of the developer’s control. Code accepts user input, and it will do its best to make sense of it, but there are scenarios where it is not possible for the code to handle the data that it was given (the code does addition but gets “hamburger”)....</p>
   </div>
-  <footer class="entry-footer"><span title='2024-02-13 00:00:00 +0000 UTC'>February 13, 2024</span>&nbsp;·&nbsp;breadchris</footer>
-  <a class="entry-link" aria-label="post link to Build dope shit with go" href="https://breadchris.com/blog/build-dope-shit-with-go/"></a>
+  <footer class="entry-footer"><span title='2024-04-16 00:00:00 +0000 UTC'>April 16, 2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to error checking is hard" href="https://breadchris.com/thinkies/error-checking-is-hard/"></a>
 </article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">The Go Proposal Process
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Underneath the syntax and runtime is a very important system that is often overlooked in a language. Usually, there is “the person” who built the language, and successful languages often come from the person wanting a language to suit their needs, not finding one, and then making their own. Over time, more people want to use the language, and balancing constraints of what is included or not included in a language becomes challenging....</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-04-02 00:00:00 +0000 UTC'>April 2, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to The Go Proposal Process" href="https://breadchris.com/thinkies/the-go-proposal-process/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">notes about coroutines?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Even though the “go” keyword is the same name as the language, you would think this is more commonly used. From my experience, go developers, including myself, will avoid using go routines and channels as much as possible. The reason is that it adds complexity that you often don’t need. Concurrent code unlocks a lot of performance as tasks that would otherwise “stop the world” only stop the go routine that they are on....</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-03-28 00:00:00 +0000 UTC'>March 28, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to notes about coroutines?" href="https://breadchris.com/thinkies/notes-about-coroutines/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">The case for a single binary
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>In the realm of software development, the dichotomy between local development environments and production settings presents a notable challenge. The ideal scenario is where both environments mirror each other as closely as possible, minimizing discrepancies that can lead to unexpected behaviors upon deployment. However, achieving this level of synchronization is fraught with complexities. Tools like Docker have emerged as potential solutions, offering the promise of containerization to encapsulate applications in self-contained units that can run consistently across various environments....</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-03-11 00:00:00 +0000 UTC'>March 11, 2024</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to The case for a single binary" href="https://breadchris.com/thinkies/the-case-for-a-single-binary/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">go dependency injection
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
+A dependency graph resolved at runtime is error prone and leads to confusing code....</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-03-08 00:00:00 +0000 UTC'>March 8, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;breadchris</footer>
+  <a class="entry-link" aria-label="post link to go dependency injection" href="https://breadchris.com/thinkies/go-dependency-injection/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="https://breadchris.com/tags/go/page/2/">Next&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
     </main>
     
 <footer class="footer">

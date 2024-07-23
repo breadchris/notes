@@ -1,0 +1,7 @@
+# Why people don't cook more
+
+* "upfront cost" - https://www.reddit.com/r/Cooking/comments/teo7l9/why_do_some_people_act_like_cooking_is_more/
+
+So I have been cooking for a while. Well not that long when you look at how many days I have been on this earth, but it feels like a while. I started cooking during covid when there was nothing else to do but be inside. But the thing is, I am an engineer. Like pretty nerdy, tech bro kind of engineer. And to me, good cooking was an art. It was something that felt unobtainable. How could I ever eat a hamburger I could make myself that was as good as McDonald's Quarter Pounder? I would make myself burgers, but they were always dry. McDonalds must just know how to do it better than me. It was a special occasion for me to go eat out. And when I did, it was something super special. The food that I would get was nothing that I had ever been able to make myself. Going to the grocery store, they had foods that I didn't have the slightest clue how it was made. Bread? I had hardly ever had a good muffin I made myself, let alone a whole loaf of bread. 
+
+I would watch Chef Ramsey, Martha Stewart, and Racheal Ray in perfectly manicured sets, ingredients mise en place, ready to be simply dumped in while they recite the recipe they have learned from their Grandma or inspired by a friend who runs Spain's most famous restaurant. A knife can cut through their tomato that easily? The inside of that steak is that red? Jesus christ, how the hell did they make that happen.

@@ -1,385 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>breadchris</title>
     <link>https://breadchris.com/</link>
     <description>Recent content on breadchris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Figma Plugin System</title>
-      <link>https://breadchris.com/blog/the-figma-plugin-system/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/the-figma-plugin-system/</guid>
-      <description>The Figma Plugin System Figma is a design tool that has become the industry standard, similar to how Photoshop became the defacto for photo editing. When everyone uses one tool, it only follows that there will be functionality that different groups of people need that isn&amp;rsquo;t immediately supported. To bridge the gap in functionality, a plugin system is the go-to solution for letting people extend a system how they see fit.</description>
-    </item>
-    <item>
-      <title>Build dope shit with go</title>
-      <link>https://breadchris.com/blog/build-dope-shit-with-go/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/build-dope-shit-with-go/</guid>
-      <description>The goal for this year is to: &amp;ldquo;write and publish something every day.&amp;rdquo; So far I have been doing a good job keeping up with this. In my pursuit to build larger compositions of thoughts, next year will be themed accordingly; I want to write a book. How does one go about choosing the topic to write a book about? It is probably something that you spend a lot of time thinking about.</description>
-    </item>
-    <item>
-      <title>zoning out during standup</title>
-      <link>https://breadchris.com/blog/zoning-out-during-standup/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/zoning-out-during-standup/</guid>
-      <description>Every morning, as the first light bled into the room, the software engineer&amp;rsquo;s alarm would chirp, marking another day&amp;rsquo;s beginning. The routine was as predictable as the sunrise. Wake, stretch, sip a coffee, and sit before the computer.
-The screen springs to life, revealing a grid of familiar faces. Standup meeting — the daily ritual. Each square held an expression; some were tired, some eager, but all were familiar. Pixels and bandwidth conveying nuances, the raise of an eyebrow, the half-hidden yawn.</description>
-    </item>
-    <item>
-      <title>Fabled Fusion</title>
-      <link>https://breadchris.com/blog/fabled-fusion/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/fabled-fusion/</guid>
-      <description>We have created a fusion AI-powered trading card game where you can talk into a microphone, and it will transcribe what you say. Let&amp;rsquo;s discuss the features of this game. When you look at the camera, you will see stacks of uniquely generated cards. Each card is created by an AI based on a short prompt. We have various themes for these cards, and each theme has a corresponding image and a Chat GPT Element name.</description>
-    </item>
-    <item>
-      <title>Fashion starts as a Sketch</title>
-      <link>https://breadchris.com/blog/fashion-starts-as-a-sketch/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/fashion-starts-as-a-sketch/</guid>
-      <description>I don&amp;rsquo;t like how long it takes for me to figure out ideas. Too much code is written before I figure out what I wanted is not what I made. There is a bookstore near me that I frequent and on the shelf was the book Drawing Ideas. Through this book, I have come to appreciate the importance of sketching in unlocking creativity and exploring new avenues of value. Through observation and simplification, sketching allows us to see our ideas projected onto a medium, much like using our voice to sketch out thoughts verbally.</description>
-    </item>
-    <item>
-      <title>some thoughts</title>
-      <link>https://breadchris.com/blog/some-thoughts/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/some-thoughts/</guid>
-      <description>You can also just talk and what&amp;rsquo;s being said just shows up in here so you&amp;rsquo;re just talking about stuff so I can be talking to you and we&amp;rsquo;re talking about like your hopes and dreams or maybe your past whatever it&amp;rsquo;s gonna show up in here and then
-That&amp;rsquo;s a pretty cool idea! It&amp;rsquo;s like having a conversation that gets transcribed into a blog post in real-time. So, let&amp;rsquo;s talk about hopes and dreams.</description>
-    </item>
-    <item>
-      <title>Why you aren&#39;t using gRPC</title>
-      <link>https://breadchris.com/thinkies/why-you-arent-using-grpc/</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/why-you-arent-using-grpc/</guid>
-      <description>From the first moment I saw it, I thought that gRPC was going to change how people transferred data on the Internet. What are we using? Untyped JSON to REST endpoint? Obviously asking for problems. JSON schema? Better, but I don&amp;rsquo;t want to write that crap. Also tooling is annoying. GraphQL? Pretty nice. Better than gRPC when dealing with many related objects, but again tooling is eh. gRPC is built on Protobuf, a simple type system that has been battle-hardened by Google and other large companies over the past 20 years.</description>
-    </item>
-    <item>
-      <title>Testing Code Highlighting</title>
-      <link>https://breadchris.com/thinkies/testing-code-highlighting/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/testing-code-highlighting/</guid>
-      <description>package main import &amp;#34;fmt&amp;#34; // Function to calculate factorial func factorial(n int) int { // Base case: factorial of 0 and 1 is 1 if n == 0 || n == 1 { return 1 } // Recursive case: calculate factorial using recursion return n * factorial(n-1) } func main() { // Example usage num := 5 result := factorial(num) fmt.Printf(&amp;#34;Factorial of %d is %d\n&amp;#34;, num, result) } oh look it works.</description>
-    </item>
-    <item>
-      <title>Why I am moving on from Substack</title>
-      <link>https://breadchris.com/blog/why-i-am-moving-on-from-substack/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/why-i-am-moving-on-from-substack/</guid>
-      <description>I had a Substack where I would occasionally post some things on AI. The vision was to build a following, but I couldn&amp;rsquo;t execute it. There may be some &amp;ldquo;blaming the equipment, not the player&amp;rdquo; here, but from what I have learned, my writing flow feels so much better now:
-First of all, I think Substack is great. Its mission is clear, and overall, they do a great job executing it (much better than Medium, imo).</description>
-    </item>
-    <item>
-      <title>Massive Redesign</title>
-      <link>https://breadchris.com/thinkies/massive-redesign/</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/massive-redesign/</guid>
-      <description>Well I have gone down the rabbit hole today on changing the way that everything looks. There are still some blemishes, but there is much more space for writing content. Oh, and I also added an AI feature where if you highlight the text then it will ask you if you want to use that as a prompt and the output will be streamed into the editor. I am super stoked with the progress that I have made here.</description>
-    </item>
-    <item>
-      <title>The feeling to perform</title>
-      <link>https://breadchris.com/thinkies/the-feeling-to-perform/</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/the-feeling-to-perform/</guid>
-      <description>I had some interviews today. In the first one, I was asked a question to which I knew the answer, but the words weren&amp;rsquo;t quite there. I felt myself looping on, thinking of the answer, and then being frustrated. Time passed, and I couldn&amp;rsquo;t put my thoughts into words. Somewhere deep in my knowledge I knew how to respond, but in the moment I couldn&amp;rsquo;t answer. Overall, the interviews went fine.</description>
-    </item>
-    <item>
-      <title>I wrote some elm today!</title>
-      <link>https://breadchris.com/thinkies/i-wrote-some-elm-today/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/i-wrote-some-elm-today/</guid>
-      <description>I had a friend take me on a journey through elm today while on stream today. The exercises they gave me were really well thought out and it was a lot of fun to feel how the code evolved between each task. Starting from a simple counter, it built up to where you were managing a list of list of counters. The cycle of building the thing that just works, and then refactoring it so it could take on more abstraction illustrated why elm&amp;rsquo;s architecture shines.</description>
-    </item>
-    <item>
-      <title>I am coming for you transcription editor</title>
-      <link>https://breadchris.com/thinkies/i-am-coming-for-you-transcription-editor/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/i-am-coming-for-you-transcription-editor/</guid>
-      <description>A common theme in high thinkies is that I want to record my thoughts in a way that doesn&amp;rsquo;t get in my way of my thoughts. For example, writing down notes has been historically difficult and when the thinkies are coming in at blistering speed, it is difficult to keep up. So I started to just talk and record what I said. Audio files are super small. I also started streaming to also document what I was working on.</description>
-    </item>
-    <item>
-      <title>What language am I looking for?</title>
-      <link>https://breadchris.com/thinkies/what-language-am-i-looking-for/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/what-language-am-i-looking-for/</guid>
-      <description>If you ask anyone who knows me what my thoughts are on javascript, you will get a unanimous &amp;ldquo;he hates it&amp;rdquo;. Typescript helps, but it doesn&amp;rsquo;t fix the problems. I don&amp;rsquo;t believe the problems I have with it are actually solvable without some radical changes in the ecosystem. Why do I care so much? Because I freaking want to build websites that stick around for a while goddamnit! Sites built with the &amp;ldquo;right decisions&amp;rdquo; today feel like they fall over from a strong breeze.</description>
-    </item>
-    <item>
-      <title>SF Feels like another Planet</title>
-      <link>https://breadchris.com/thinkies/sf-feels-like-another-planet/</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/sf-feels-like-another-planet/</guid>
-      <description>I am visiting SF right now, and almost every billboard in the city has &amp;ldquo;AI&amp;rdquo; on it. I need to build image upload so that I can show you what I am talking about. I get it, there is a lot of hype for companies to cash in on, so why wouldn&amp;rsquo;t you?
-AI (ML or machine learning for the pedantic) is super cool and can do a lot of things now.</description>
-    </item>
-    <item>
-      <title>Offline-First Editing</title>
-      <link>https://breadchris.com/thinkies/offline-first-editing/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/offline-first-editing/</guid>
-      <description>I like to check in, every so often, on the state of offline-first solutions. Most of what exists is focused around sqlite. Here are some of the projects that pop up frequently when I search:
-cr-sqlite
-mycelite
-sqlite-sync
-litesync (not open source)
-sqlsync
-The appeal of an offline-first experience is pretty well summed up by cr-sqlite&amp;rsquo;s tag line: &amp;ldquo;It&amp;rsquo;s like Git, for your data.&amp;rdquo; We are constantly generating data, and in many different ways.</description>
-    </item>
-    <item>
-      <title>im showing free</title>
-      <link>https://breadchris.com/thinkies/im-showing-free/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/im-showing-free/</guid>
-      <description>Don&amp;rsquo;t think, write.</description>
-    </item>
-    <item>
-      <title>Figuring it out</title>
-      <link>https://breadchris.com/thinkies/figuring-it-out/</link>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/figuring-it-out/</guid>
-      <description>Someone shared this with me today. They said: &amp;ldquo;yeah when I read this I thought of your exact thing lol&amp;rdquo;. So it turns out that I am on to something. Let&amp;rsquo;s take a look at how well I am meeting Andrej&amp;rsquo;s ideal blogging platform:
-Writing
-✅ in markdown
-✅ with full WYSIWYG, not just split view (think: Typora)
-I am using https://tiptap.dev/ super easy to copy paste and add images</description>
-    </item>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://breadchris.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Sustainable Thinker Always Wins</title>
-      <link>https://breadchris.com/blog/a-sustainable-thinker-always-wins/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/a-sustainable-thinker-always-wins/</guid>
+      <link>https://breadchris.com/pages/a-sustainable-thinker-always-wins/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/a-sustainable-thinker-always-wins/</guid>
       <description>You can think about a lot of different things all the time. Think about too many things and this becomes a serious problem, especially for those who have ADD. If you have a problem focusing on which idea to pursue, it is easy to experience the feeling of being lost. Life is happening, ideas come and go, but there is nothing for you to bring to show and tell.
 I am not an expert in this field of study, but I do pay attention to what constitutes a “great thinker”.</description>
     </item>
+    
     <item>
       <title>AI Can&#39;t Fold 1000 Cranes</title>
-      <link>https://breadchris.com/blog/ai-cant-fold-1000-cranes/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/ai-cant-fold-1000-cranes/</guid>
-      <description>youtube
-Folding 1000 origami cranes sounds at lot easier than it is. When my engineer mind latched onto the idea of completing this task, I was intrigued by the foretold wish one would get in exchange for folding a bunch of the easiest origami models. Kids do this every year in Japan, how hard could it be? - On average, it would take me 5 minutes to fold a crane from start to finish.</description>
+      <link>https://breadchris.com/pages/ai-cant-fold-1000-cranes/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/ai-cant-fold-1000-cranes/</guid>
+      <description>Folding 1000 origami cranes sounds at lot easier than it is. When my engineer mind latched onto the idea of completing this task, I was intrigued by the foretold wish one would get in exchange for folding a bunch of the easiest origami models. Kids do this every year in Japan, how hard could it be?
+On average, it would take me 5 minutes to fold a crane from start to finish.</description>
     </item>
+    
     <item>
       <title>How I Got to Where I Am</title>
-      <link>https://breadchris.com/blog/how-i-got-to-where-i-am/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/how-i-got-to-where-i-am/</guid>
+      <link>https://breadchris.com/pages/how-i-got-to-where-i-am/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/how-i-got-to-where-i-am/</guid>
       <description>So i was in a really good high school https://en.wikipedia.org/wiki/Poolesville_High_School and so there would be some ridiculously smart people who would work on things and because the program was so close knit, information would disseminate between the grades and so the younger group of kids would only get that much better. I got involved in cyber security because the older kids competed in a competition that was for hacking and they did very well.</description>
     </item>
+    
     <item>
-      <title>I hacked my high school, and you should too.</title>
-      <link>https://breadchris.com/blog/i-hacked-my-high-school-and-you-should-too/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/i-hacked-my-high-school-and-you-should-too/</guid>
-      <description>- I have worked for Northrup Grumman and Uber as a security engineer and I built security tools that have been used around the world. The coolest thing that I have done in my life is that I got to help develop code that ran on every device that had Uber installed on it. The purpose of this code was to help the 20% Uber was losing to fraudulent trips. The talent needed to work on a project like this was so rare that I was hired on as the first team member, as an intern and later hired on as a college dropout.</description>
+      <title>I hacked my high school, and you should too</title>
+      <link>https://breadchris.com/pages/i-hacked-my-high-school-and-you-should-too/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/i-hacked-my-high-school-and-you-should-too/</guid>
+      <description>I have worked for Northrup Grumman and Uber as a security engineer and I built security tools that have been used around the world. The coolest thing that I have done in my life is that I got to help develop code that ran on every device that had Uber installed on it. The purpose of this code was to help the 20% Uber was losing to fraudulent trips. The talent needed to work on a project like this was so rare that I was hired on as the first team member, as an intern and later hired on as a college dropout.</description>
     </item>
+    
     <item>
-      <title>I hacked your site.</title>
-      <link>https://breadchris.com/blog/i-hacked-your-site/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/i-hacked-your-site/</guid>
+      <title>I hacked your site</title>
+      <link>https://breadchris.com/pages/i-hacked-your-site/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/i-hacked-your-site/</guid>
       <description>It isn&amp;rsquo;t your fault, you were just doing your job. Even if you wanted to try to stop it, there isn&amp;rsquo;t much you, as an individual, could do about it. Either I or someone else who vaguely understands how to code was going to hack you like this. Business requirements for shipping that feature out at lighting speed for your largest customer last quarter made this all too easy.
-```js</description>
+const asdf = () =&amp;gt; {} Your company&amp;rsquo;s site uses javascript.</description>
     </item>
-    <item>
-      <title>Ideas at the speed of Github Actions</title>
-      <link>https://breadchris.com/thinkies/ideas-at-the-speed-of-github-actions/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/ideas-at-the-speed-of-github-actions/</guid>
-      <description>Let&amp;rsquo;s see how fast this idea can go from my computer to my site. We are blocked on github actions, but still looking for a faster way to deploy and one that doesn&amp;rsquo;t require a github account.</description>
-    </item>
+    
     <item>
       <title>Information About Gloving</title>
-      <link>https://breadchris.com/blog/information-about-gloving/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/information-about-gloving/</guid>
-      <description>- Since the EmazingLights site seems to be down. I have moved the information over here to keep it alive!
-- ## Start Gloving
-- Welcome to the Learn Gloving Center, the most extensive online resource out there for learning everything you need to know about gloving. Constantly being updated and contributed to by the world’s most knowledgeable glovers, this is your first and best resource for learning what you need to jump into the world of gloving.</description>
+      <link>https://breadchris.com/pages/information-about-gloving/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/information-about-gloving/</guid>
+      <description>Since the EmazingLights site seems to be down. I have moved the information over here to keep it alive!
+Start Gloving Welcome to the Learn Gloving Center, the most extensive online resource out there for learning everything you need to know about gloving. Constantly being updated and contributed to by the world’s most knowledgeable glovers, this is your first and best resource for learning what you need to jump into the world of gloving.</description>
     </item>
+    
     <item>
       <title>NYU Dropped the Ball</title>
-      <link>https://breadchris.com/blog/nyu-dropped-the-ball/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/nyu-dropped-the-ball/</guid>
-      <description>## How it went wrong
-I have a pretty bad taste in my mouth with NYU after what they have done with CSAW over time. The fact that HSF became a CTF, quality went downhill, and then now non-existent is something that really bothers me. It had felt to me that there was a complete disregard for the exceptional talent pipeline that Nasir/Poly had established for continuing to build out cyber security at NYU.</description>
+      <link>https://breadchris.com/pages/nyu-dropped-the-ball/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/nyu-dropped-the-ball/</guid>
+      <description>How it went wrong I have a pretty bad taste in my mouth with NYU after what they have done with CSAW over time. The fact that HSF became a CTF, quality went downhill, and then now non-existent is something that really bothers me. It had felt to me that there was a complete disregard for the exceptional talent pipeline that Nasir/Poly had established for continuing to build out cyber security at NYU.</description>
     </item>
+    
     <item>
       <title>Start with a Static Site</title>
-      <link>https://breadchris.com/blog/start-with-a-static-site/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/start-with-a-static-site/</guid>
+      <link>https://breadchris.com/pages/start-with-a-static-site/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/start-with-a-static-site/</guid>
       <description>Ok, there is just simply way too much shit that you have to learn to host a freaking website . Let’s make that easier.
 Start with Markdown and hugo. Markdown is trivial to learn and making a website is instant. Hugo is a single binary you download, run and boom there is your website. A number of themes are available for you to check out and play with, but they aren’t necessary to start out.</description>
     </item>
+    
     <item>
-      <title>There are different types of thoughts</title>
-      <link>https://breadchris.com/thinkies/there-are-different-types-of-thoughts/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/there-are-different-types-of-thoughts/</guid>
-      <description>small ones like tweets
-bigger ones like facebook posts
-formalized ideas in blog posts
-ones that need to hold up to scrutiny like an essay
-long cohesive ideas that are meant to take you on an all encompassing journey, like a book</description>
+      <title>teach yourself about ai</title>
+      <link>https://breadchris.com/pages/teach-yourself-about-ai/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/teach-yourself-about-ai/</guid>
+      <description>We are going to be going through a huge upheaval in our world because of AI, and if you want to riding the wave, you should be learning about it now.
+There are a lot of really good blog posts that talk about AI. I really like this video by 3 blue 1 brown. The series can be listened to by most curious people, and then the last video in the series is where the hard math comes in.</description>
     </item>
+    
     <item>
       <title>This is for Nolan</title>
-      <link>https://breadchris.com/blog/this-is-for-nolan/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/this-is-for-nolan/</guid>
-      <description>## SOLID principles
-The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
+      <link>https://breadchris.com/pages/this-is-for-nolan/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/this-is-for-nolan/</guid>
+      <description>SOLID principles The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
 In Go, the SOLID principles can be applied as follows:
-### Single Responsibility Principle (SRP)
-Example:
-```go
-type UserService struct {
-userRepository UserRepository
-}
-func (us *UserService) CreateUser(user *User) error {
-return us.userRepository.Create(user)
-}
-func (us *UserService) GetUserByID(id int) (*User, error) {</description>
+Single Responsibility Principle (SRP) Example:
+type UserService struct { userRepository UserRepository } func (us *UserService) CreateUser(user *User) error { return us.userRepository.Create(user) } func (us *UserService) GetUserByID(id int) (*User, error) { return us.</description>
     </item>
+    
     <item>
-      <title>We need LEGOs for Code</title>
-      <link>https://breadchris.com/blog/we-need-legos-for-code/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/we-need-legos-for-code/</guid>
-      <description>## Playing with Legos
-Legos are fun, they are composable. Code is not composable, not at least in the way we learn to code.
+      <title>We need Legos for Code</title>
+      <link>https://breadchris.com/pages/we-need-legos-for-code/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/we-need-legos-for-code/</guid>
+      <description>Playing with Legos Legos are fun, they are composable. Code is not composable, not at least in the way we learn to code
 Different environments come with different constraints which end up with different code. Different ecosystems have different standards and ways to solve a problem.
 Legos have been designed to have an incredibly rigid specification that has been upheld for many years. It is trivial to determine impostor bricks (I am looking at you Mega Blocks) from an actual Lego.</description>
     </item>
+    
     <item>
       <title>What holds us back</title>
-      <link>https://breadchris.com/blog/what-holds-us-back/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/what-holds-us-back/</guid>
+      <link>https://breadchris.com/pages/what-holds-us-back/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://breadchris.com/pages/what-holds-us-back/</guid>
       <description>I don’t know if I personally would say that my life has been “hard”. I hear people use this to describe their life; “I have fallen on hard times”. But I don’t know, it doesn’t seem to be a relatable feeling. I have had to solve “hard” problems. Whether it is a math problem with seemingly random symbols or trying to comprehend why my parents won’t get along with each other.</description>
     </item>
-    <item>
-      <title>Why soundbite should exist</title>
-      <link>https://breadchris.com/blog/why-soundbite-should-exist/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/blog/why-soundbite-should-exist/</guid>
-      <description>TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
-Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone.</description>
-    </item>
-    <item>
-      <title>resume</title>
-      <link>https://breadchris.com/resume/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/resume/</guid>
-      <description>I am a security engineer with a passion for building tools that make security easier for developers. My passion is making concepts accessible for everyone.
-download | chris@breadchris.com
-### LunaSec: Security Engineer 2020 - Current
-Open-source security tooling for developers and security teams
-Critical vulnerability coverage Log4Shell, Spring4Shell, Protestware) for global security teams
-LunaTrace: &amp;ldquo;inbox-zero&amp;rdquo; for supply chain security
-LunaDefend: Zero trust input form protecting against OWASP top 10 vulnerabilities</description>
-    </item>
-    <item>
-      <title>talks</title>
-      <link>https://breadchris.com/talks/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/talks/</guid>
-      <description>### 101 Ways Dependencies Can Ruin Your Day
-slides
-Dependencies are really messy and can cause a lot of problems. There are systemic problems that hackers can take advantage of.
-### How do you design LEGOs for code?
-slides
-I have played with LEGOs all my life and I have been writing code for a while now. I have been thinking about how to make code feel more like LEGOs.</description>
-    </item>
-    <item>
-      <title>Workflow Engine syntax isn&#39;t making me happy, halp</title>
-      <link>https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/workflow-engine-syntax-isnt-making-me-happy-halp/</guid>
-      <description>I have been building a workflow engine that can route strongly-typed data through durable functions (guaranteed to execute). These functions do not need to exist in the process, they could be remote APIs, grpc servers, a p2p connection with your friend&amp;rsquo;s computer. It supports streaming of data with observables, thanks to rxgo, meaning you can create rules to map, filter, reduce data without redeployment.
-This is the sketch I have in my head, and have been trying to implement it here.</description>
-    </item>
-    <item>
-      <title>Connecting your body and your mind</title>
-      <link>https://breadchris.com/thinkies/connecting-your-body-and-your-mind/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/connecting-your-body-and-your-mind/</guid>
-      <description>If someone were to talk to me about connecting my body to my mind a decade ago, I would have thought they were full of it. Regularly practicing meditation and now yoga has really made me realize how stupid you must be not to build this connection with yourself. Humans all have this incredible biological computer sitting inside their head and if you treat it as just that, a computer, it can do cool things.</description>
-    </item>
-    <item>
-      <title>let&#39;s see if this works</title>
-      <link>https://breadchris.com/thinkies/lets-see-if-this-works/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/lets-see-if-this-works/</guid>
-      <description>So if my calculations are right, I should be able to do the following:
-Save this post with the tag #100daystooffload
-Click publish above
-Reload the site at /@breadchris
-I should be able to see this post
-This flow is a solid step in the direction of where I want to take this tool. With a little bit of tweaking, I now have a way to publish my ideas to the Internet the way that I want to.</description>
-    </item>
-    <item>
-      <title>What is a good refactoring task?</title>
-      <link>https://breadchris.com/thinkies/what-is-a-good-refactoring-task/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/what-is-a-good-refactoring-task/</guid>
-      <description>There has been a part of this code that I have been wanting to refactor for a while. Patch on patch of this form has left this code in disarray. This code is actually quite important to this site as well. It is a general application form that leverages the power of Protobuf&amp;rsquo;s expressive type system to generate a form a user can interact with. I have some ideas for where I want to take this code, but they haven&amp;rsquo;t been a priority.</description>
-    </item>
-    <item>
-      <title>Today wasn&#39;t a 100% day</title>
-      <link>https://breadchris.com/thinkies/today-wasnt-a-100-day/</link>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/today-wasnt-a-100-day/</guid>
-      <description>Idk what happened this morning but I went through my normal routine and then something just hit me which crippled my momentum. I have learned that listening to my body and trying to meet it where it is at in the moment vs trying to fight the feeling pays dividends over time. I try to map the feeling to a probability of what it is that I need. Often this feeling comes from not having enough water, so I drank some water and took a 20 minute nap.</description>
-    </item>
-    <item>
-      <title>Why aren&#39;t there more personal sites?</title>
-      <link>https://breadchris.com/thinkies/why-arent-there-more-personal-sites/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/why-arent-there-more-personal-sites/</guid>
-      <description>It bothers me that more people don&amp;rsquo;t have personal sites. In my opinion, we all do interesting things. In order to communicate the interesting things that we do, we need to provide others with an immersive experience of our world. Personal sites of designers and artists attempt to capture our imagination with an elegantly simple and refreshing display of their portfolios or wild 3d graphics. It makes sense why this isn&amp;rsquo;t the norm, these sites take time.</description>
-    </item>
-    <item>
-      <title>Hacking Culture</title>
-      <link>https://breadchris.com/thinkies/hacking-culture/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/hacking-culture/</guid>
-      <description>I had a call with a friend who was a hacker in the golden days of hacking. There were lots of exciting things happening in security as problems were unearthed, and solutions theorized. Over time, these problems that came up became solved. Buffers got compiler and runtime checks. SQL injection doesn&amp;rsquo;t exist when you use prepared statements. XSS doesn&amp;rsquo;t exist if you use React. The bread and butter of what hackers were poking at slowly shrunk as companies changed their development practices.</description>
-    </item>
-    <item>
-      <title>just a test</title>
-      <link>https://breadchris.com/thinkies/just-a-test/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/just-a-test/</guid>
-      <description>This is the post for today, lets see if i broke something.</description>
-    </item>
-    <item>
-      <title>what i have learned about the problem i want to solve</title>
-      <link>https://breadchris.com/thinkies/what-i-have-learned-about-the-problem-i-want-to-solve/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/what-i-have-learned-about-the-problem-i-want-to-solve/</guid>
-      <description>There are many things that I could be doing. I have spent a lot of time doing cyber security, I have spent a lot of time coding, maybe if I am lucky I could be a baker from all the time I have spent baking. But there is only so much time in the day. There are only so many things that you can get 10,000 hours of mastery over. And even if you have &amp;ldquo;mastered&amp;rdquo; it, have you felt good doing it?</description>
-    </item>
-    <item>
-      <title>Dogfooding</title>
-      <link>https://breadchris.com/thinkies/dogfooding/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/dogfooding/</guid>
-      <description>I think there are some really cool things that you get when you dogfood the thing you are building. For those who are unfamiliar with &amp;ldquo;dogfood&amp;rdquo;, as it relates to the tech world, it means to use it yourself. I have not had much focus on the projects that I have been working on, and now that I am directly dogfooding the app, which aims to help me increase the frequency and quality of how I write, I am held accountable.</description>
-    </item>
-    <item>
-      <title>v0: a start</title>
-      <link>https://breadchris.com/thinkies/v0-a-start/</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://breadchris.com/thinkies/v0-a-start/</guid>
-      <description>This post was written by a tool that I have been building for a while, and I think this is the first feature that is remotely helpful. I am writing this post in the browser and it is then going to get saved to the database. When I click the Publish button at the top of this page, then the post will be written to a file in LogSeq where I will push it to Github and link people to it from there.</description>
-    </item>
+    
   </channel>
 </rss>

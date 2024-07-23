@@ -1,0 +1,9 @@
+- intro
+- teams
+- solve challenge
+- read writeup
+- benefits
+	- mental health
+- create their own
+- competitor to creator
+- run in codespaces

@@ -1,0 +1,2 @@
+- webrtc is pretty cool, it is an easy way to make a POC for video calling, especially with #webrtc/livekit
+-

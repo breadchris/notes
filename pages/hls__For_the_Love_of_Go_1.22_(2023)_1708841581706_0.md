@@ -1,6 +1,5 @@
 file:: [For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf](../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf)
 file-path:: ../assets/For_the_Love_of_Go_1.22_(2023)_1708841581706_0.pdf
-
 - While all you need to write and run Go programs is a terminal and a text editor,
   ls-type:: annotation
   hl-page:: 11

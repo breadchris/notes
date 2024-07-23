@@ -653,7 +653,6 @@
 	  collapsed:: true
 	  site:: [Ramblings from Jessie](https://blog.jessfraz.com/post/books/)
 	  date-saved:: [[May 8th, 2024]]
-		- ### Highlights
 			- >  [⤴️](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11#f558b733-fa08-4821-a25b-15b6cf8d21bf)
 	- [The Life of a Data Byte – Communications of the ACM](https://omnivore.app/me/the-life-of-a-data-byte-communications-of-the-acm-18f5b17316c)
 	  collapsed:: true

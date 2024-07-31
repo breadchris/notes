@@ -1,4 +1,50 @@
 ## 🔖 Articles
+	- [Prompt Airlines - AI CTF by Wiz](https://omnivore.app/me/prompt-airlines-ai-ctf-by-wiz-19105d63097)
+	  collapsed:: true
+	  site:: [promptairlines.com](https://promptairlines.com)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [EP–133 K.O. II - teenage engineering](https://omnivore.app/me/ep-133-k-o-ii-teenage-engineering-19105d42a9d)
+	  collapsed:: true
+	  site:: [teenage engineering](https://teenage.engineering/store/ep-133/)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [UON VISUALS | Twitter, Instagram, Facebook | Linktree](https://omnivore.app/me/uon-visuals-twitter-instagram-facebook-linktree-1910580efa5)
+	  collapsed:: true
+	  site:: [Linktree](https://linktr.ee/uonvisuals?fbclid=PAZXh0bgNhZW0CMTEAAab-AFZf9uw1e-eo5SD842557ZEf22W7uD0GJGXfOxgaU2K656tQ6kFPdv8_aem_bWuVnN1M6eW8r3iGE_ujNQ)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [A Visual Guide to Quantization - by Maarten Grootendorst](https://omnivore.app/me/a-visual-guide-to-quantization-by-maarten-grootendorst-191055d45be)
+	  collapsed:: true
+	  site:: [Exploring Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+	  author:: Maarten Grootendorst
+	  date-saved:: [[Jul 30th, 2024]]
+	  date-published:: [[Jul 22nd, 2024]]
+	- [Video Editing SDK - Rendley SDK](https://omnivore.app/me/video-editing-sdk-rendley-sdk-191055ce359)
+	  collapsed:: true
+	  site:: [rendley](https://rendley.com)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [Editor - Stempad](https://omnivore.app/me/editor-stempad-191055c6471)
+	  collapsed:: true
+	  site:: [Stempad](https://www.stempad.io/editor)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [The Hitchhiker's Guide to Logical Verification](https://omnivore.app/me/https-browncs-1951-x-github-io-static-files-hitchhikersguide-pdf-191055b312b)
+	  collapsed:: true
+	  site:: [browncs1951x.github.io](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
+	  author:: Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg
+	  date-saved:: [[Jul 30th, 2024]]
+	- [Food Mood — Google Arts & Culture](https://omnivore.app/me/food-mood-google-arts-culture-191050ee8b7)
+	  collapsed:: true
+	  site:: [Google Arts & Culture](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [Your Lifestyle Has Already Been Designed](https://omnivore.app/me/your-lifestyle-has-already-been-designed-1910462b866)
+	  collapsed:: true
+	  site:: [Raptitude.com](https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+	  author:: David Cain
+	  date-saved:: [[Jul 30th, 2024]]
+	  date-published:: [[Jul 28th, 2010]]
+	- [hooterite - Google Search](https://omnivore.app/me/hooterite-google-search-190e785ab07)
+	  collapsed:: true
+	  site:: [google.com](https://www.google.com/search?client=safari&hl=en-us&ie=UTF-8&oe=UTF-8&q=hooterite)
+	  date-saved:: [[Jul 24th, 2024]]
+	  date-published:: [[Jan 12th, 2023]]
 	- [OS/2 Museum | OS/2, vintage PC computing, and random musings](https://omnivore.app/me/os-2-museum-os-2-vintage-pc-computing-and-random-musings-190d2836f47)
 	  collapsed:: true
 	  site:: [os2museum.com](https://www.os2museum.com/wp/)
@@ -653,7 +699,7 @@
 	  collapsed:: true
 	  site:: [Ramblings from Jessie](https://blog.jessfraz.com/post/books/)
 	  date-saved:: [[May 8th, 2024]]
-			- >  [⤴️](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11#f558b733-fa08-4821-a25b-15b6cf8d21bf)
+		- >  [⤴️](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11#f558b733-fa08-4821-a25b-15b6cf8d21bf)
 	- [The Life of a Data Byte – Communications of the ACM](https://omnivore.app/me/the-life-of-a-data-byte-communications-of-the-acm-18f5b17316c)
 	  collapsed:: true
 	  site:: [cacm.acm.org](https://cacm.acm.org/practice/the-life-of-a-data-byte/)

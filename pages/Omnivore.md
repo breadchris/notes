@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [cgzirim/not-shazam: An implementation of Shazam's song matching algorithm.](https://omnivore.app/me/cgzirim-not-shazam-an-implementation-of-shazam-s-song-matching-a-19111812cb7)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/cgzirim/not-shazam)
+	  date-saved:: [[Aug 1st, 2024]]
+	- [100R — about us](https://omnivore.app/me/100-r-about-us-19111802b29)
+	  collapsed:: true
+	  site:: [100r.co](https://100r.co/site/about_us.html)
+	  date-saved:: [[Aug 1st, 2024]]
+	- [UNMITIGATED RISK | un.mit.i.gat.ed: Adj. Not diminished or moderated in intensity or severity; unrelieved. risk: N. The possibiity of suffering harm or loss; danger.](https://omnivore.app/me/unmitigated-risk-un-mit-i-gat-ed-adj-not-diminished-or-moderated-191108f6c8b)
+	  collapsed:: true
+	  site:: [unmitigatedrisk.com](https://unmitigatedrisk.com)
+	  author:: rmhrisk
+	  date-saved:: [[Aug 1st, 2024]]
+	  date-published:: [[Jun 27th, 2024]]
+	- [Peterson Academy](https://omnivore.app/me/peterson-academy-1910f8b065e)
+	  collapsed:: true
+	  site:: [petersonacademy.com](https://petersonacademy.com/enroll?fbclid=PAZXh0bgNhZW0BMAABpg-vM2Ij9KJcTfHzoYatMrO3ZDVthiXKQEXW43yjgSen2MaJkE9ErEKJog_aem_4FfSyD3b0y71VoBBpeKLwg)
+	  date-saved:: [[Aug 1st, 2024]]
 	- [HyperSpring™ Toys – HyperSpring Toys](https://omnivore.app/me/hyper-spring-toys-hyper-spring-toys-1910b969f27)
 	  collapsed:: true
 	  site:: [HyperSpring Toys](https://www.hyperspringtoys.com)

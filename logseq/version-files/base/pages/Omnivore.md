@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [RMR OP-1 Pack: Volume 1](https://omnivore.app/me/rmr-op-1-pack-volume-1-1911606f262)
+	  collapsed:: true
+	  site:: [Gumroad](https://redmeansrecording.gumroad.com/l/TRfLrGF)
+	  date-saved:: [[Aug 2nd, 2024]]
+	  date-published:: [[Mar 25th, 2024]]
 	- [cgzirim/not-shazam: An implementation of Shazam's song matching algorithm.](https://omnivore.app/me/cgzirim-not-shazam-an-implementation-of-shazam-s-song-matching-a-19111812cb7)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/cgzirim/not-shazam)

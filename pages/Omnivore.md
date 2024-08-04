@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [flavioribeiro/donut: donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion.](https://omnivore.app/me/flavioribeiro-donut-donut-is-a-zero-setup-required-srt-mpeg-ts-w-1911f583827)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/flavioribeiro/donut)
+	  date-saved:: [[Aug 4th, 2024]]
+	- [How to Build Anything Extremely Quickly - Learn How To Learn](https://omnivore.app/me/how-to-build-anything-extremely-quickly-learn-how-to-learn-1911f57b75f)
+	  collapsed:: true
+	  site:: [Learn How To Learn](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+	  author:: dnbt777
+	  date-saved:: [[Aug 4th, 2024]]
+	  date-published:: [[Jun 6th, 2024]]
+	- [Parsing Protobuf Definitions with Tree-sitter - Repeatable Systems](https://omnivore.app/me/parsing-protobuf-definitions-with-tree-sitter-repeatable-systems-1911f573d06)
+	  collapsed:: true
+	  site:: [Repeatable Systems](https://relistan.com/parsing-protobuf-files-with-treesitter)
+	  author:: Karl Matthias
+	  date-saved:: [[Aug 4th, 2024]]
+	  date-published:: [[Jul 19th, 2024]]
 	- [FarmBot | Open-Source CNC Farming](https://omnivore.app/me/farm-bot-open-source-cnc-farming-1911c000fb7)
 	  collapsed:: true
 	  site:: [FarmBot](https://farm.bot)

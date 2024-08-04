@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [FarmBot | Open-Source CNC Farming](https://omnivore.app/me/farm-bot-open-source-cnc-farming-1911c000fb7)
+	  collapsed:: true
+	  site:: [FarmBot](https://farm.bot)
+	  date-saved:: [[Aug 3rd, 2024]]
 	- [RMR OP-1 Pack: Volume 1](https://omnivore.app/me/rmr-op-1-pack-volume-1-1911606f262)
 	  collapsed:: true
 	  site:: [Gumroad](https://redmeansrecording.gumroad.com/l/TRfLrGF)

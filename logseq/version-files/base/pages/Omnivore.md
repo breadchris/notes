@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Quick prototyping with a Golang REPL | by Denis Isidoro | Medium](https://omnivore.app/me/quick-prototyping-with-a-golang-repl-by-denis-isidoro-medium-19120eeac22)
+	  collapsed:: true
+	  site:: [Medium](https://medium.com/@den.isidoro/quick-prototyping-with-a-golang-repl-547703885bd8)
+	  author:: Denis Isidoro
+	  date-saved:: [[Aug 4th, 2024]]
+	  date-published:: [[Jun 2nd, 2020]]
 	- [flavioribeiro/donut: donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion.](https://omnivore.app/me/flavioribeiro-donut-donut-is-a-zero-setup-required-srt-mpeg-ts-w-1911f583827)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/flavioribeiro/donut)

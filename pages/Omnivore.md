@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Software Innovation Lab - Tweag](https://omnivore.app/me/software-innovation-lab-tweag-191257d11bc)
+	  collapsed:: true
+	  site:: [tweag.io](https://www.tweag.io)
+	  date-saved:: [[Aug 5th, 2024]]
+	- [How to write a linter using tree-sitter in an hour | siraben’s musings](https://omnivore.app/me/how-to-write-a-linter-using-tree-sitter-in-an-hour-siraben-s-mus-191257152ea)
+	  collapsed:: true
+	  site:: [siraben’s musings](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Mar 22nd, 2022]]
 	- [Burnin' Up Bass Tab](https://omnivore.app/me/burnin-up-bass-tab-191253336d3)
 	  collapsed:: true
 	  site:: [mybassistchris.com](https://www.mybassistchris.com/bass-tabs/jonas-brothers/burnin-up-bass-tab)

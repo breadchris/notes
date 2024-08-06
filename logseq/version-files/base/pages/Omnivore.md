@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Burnin' Up Bass Tab](https://omnivore.app/me/burnin-up-bass-tab-191253336d3)
+	  collapsed:: true
+	  site:: [mybassistchris.com](https://www.mybassistchris.com/bass-tabs/jonas-brothers/burnin-up-bass-tab)
+	  date-saved:: [[Aug 5th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/burnin-up-bass-tab-191253336d3#9d494ca7-021e-4294-bf2e-20c57fb70f75)
 	- [Quick prototyping with a Golang REPL | by Denis Isidoro | Medium](https://omnivore.app/me/quick-prototyping-with-a-golang-repl-by-denis-isidoro-medium-19120eeac22)
 	  collapsed:: true
 	  site:: [Medium](https://medium.com/@den.isidoro/quick-prototyping-with-a-golang-repl-547703885bd8)

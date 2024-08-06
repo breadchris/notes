@@ -1,13 +1,36 @@
 ## 🔖 Articles
+	- [RoCE networks for distributed AI training at scale - Engineering at Meta](https://omnivore.app/me/ro-ce-networks-for-distributed-ai-training-at-scale-engineering--191260e6f00)
+	  collapsed:: true
+	  site:: [Engineering at Meta](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
+	  author:: Adi Gangidi, James Hongyi Zeng
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Aug 5th, 2024]]
+	- [Pie Menu - the radial menu for Mac](https://omnivore.app/me/pie-menu-the-radial-menu-for-mac-191260df483)
+	  collapsed:: true
+	  site:: [pie-menu.com](https://www.pie-menu.com)
+	  author:: Gabriel Stephan
+	  date-saved:: [[Aug 5th, 2024]]
+	- [Food and friends, part I: Food is social life « The Story's Story](https://omnivore.app/me/food-and-friends-part-i-food-is-social-life-the-story-s-story-191260a4a01)
+	  collapsed:: true
+	  site:: [The Story's Story](https://jakeseliger.com/2024/02/26/food-and-friends-part-i-food-is-social-life/)
+	  author:: Jake Seliger
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Feb 26th, 2024]]
+	- [“No Salt” « The Story's Story](https://omnivore.app/me/no-salt-the-story-s-story-191260a0095)
+	  collapsed:: true
+	  site:: [The Story's Story](https://jakeseliger.com/2024/08/05/no-salt/)
+	  author:: Jake Seliger
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Aug 5th, 2024]]
 	- [Software Innovation Lab - Tweag](https://omnivore.app/me/software-innovation-lab-tweag-191257d11bc)
 	  collapsed:: true
 	  site:: [tweag.io](https://www.tweag.io)
 	  date-saved:: [[Aug 5th, 2024]]
 	- [How to write a linter using tree-sitter in an hour | siraben’s musings](https://omnivore.app/me/how-to-write-a-linter-using-tree-sitter-in-an-hour-siraben-s-mus-191257152ea)
-	  collapsed:: true
 	  site:: [siraben’s musings](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
 	  date-saved:: [[Aug 5th, 2024]]
 	  date-published:: [[Mar 22nd, 2022]]
+	  collapsed:: true
 	- [Burnin' Up Bass Tab](https://omnivore.app/me/burnin-up-bass-tab-191253336d3)
 	  collapsed:: true
 	  site:: [mybassistchris.com](https://www.mybassistchris.com/bass-tabs/jonas-brothers/burnin-up-bass-tab)

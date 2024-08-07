@@ -1,9 +1,19 @@
 ## 🔖 Articles
-	- [Wheat: Red vs White; Spring vs Winter | The Fresh Loaf](https://omnivore.app/me/wheat-red-vs-white-spring-vs-winter-the-fresh-loaf-1912924211e)
+	- [404 Not Found](https://omnivore.app/me/404-not-found-1912b275f2f)
 	  collapsed:: true
+	  site:: [htmx.org](https://htmx.org/extensions/server-sent-events/)
+	  date-saved:: [[Aug 6th, 2024]]
+	- [Live website updates with Go, SSE, and htmx](https://omnivore.app/me/live-website-updates-with-go-sse-and-htmx-1912b210350)
+	  collapsed:: true
+	  site:: [threedots.tech](https://threedots.tech/post/live-website-updates-go-sse-htmx/)
+	  author:: Miłosz Smółka
+	  date-saved:: [[Aug 6th, 2024]]
+	  date-published:: [[Jun 12th, 2024]]
+	- [Wheat: Red vs White; Spring vs Winter | The Fresh Loaf](https://omnivore.app/me/wheat-red-vs-white-spring-vs-winter-the-fresh-loaf-1912924211e)
 	  site:: [The Fresh Loaf](https://www.thefreshloaf.com/node/6985/wheat-red-vs-white-spring-vs-winter)
 	  author:: subfuscpersona
 	  date-saved:: [[Aug 6th, 2024]]
+	  collapsed:: true
 	- [RoCE networks for distributed AI training at scale - Engineering at Meta](https://omnivore.app/me/ro-ce-networks-for-distributed-ai-training-at-scale-engineering--191260e6f00)
 	  collapsed:: true
 	  site:: [Engineering at Meta](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)

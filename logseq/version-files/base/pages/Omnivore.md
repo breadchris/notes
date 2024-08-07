@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Wheat: Red vs White; Spring vs Winter | The Fresh Loaf](https://omnivore.app/me/wheat-red-vs-white-spring-vs-winter-the-fresh-loaf-1912924211e)
+	  collapsed:: true
+	  site:: [The Fresh Loaf](https://www.thefreshloaf.com/node/6985/wheat-red-vs-white-spring-vs-winter)
+	  author:: subfuscpersona
+	  date-saved:: [[Aug 6th, 2024]]
 	- [RoCE networks for distributed AI training at scale - Engineering at Meta](https://omnivore.app/me/ro-ce-networks-for-distributed-ai-training-at-scale-engineering--191260e6f00)
 	  collapsed:: true
 	  site:: [Engineering at Meta](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
@@ -17,11 +22,11 @@
 	  date-saved:: [[Aug 5th, 2024]]
 	  date-published:: [[Feb 26th, 2024]]
 	- [“No Salt” « The Story's Story](https://omnivore.app/me/no-salt-the-story-s-story-191260a0095)
-	  collapsed:: true
 	  site:: [The Story's Story](https://jakeseliger.com/2024/08/05/no-salt/)
 	  author:: Jake Seliger
 	  date-saved:: [[Aug 5th, 2024]]
 	  date-published:: [[Aug 5th, 2024]]
+	  collapsed:: true
 	- [Software Innovation Lab - Tweag](https://omnivore.app/me/software-innovation-lab-tweag-191257d11bc)
 	  collapsed:: true
 	  site:: [tweag.io](https://www.tweag.io)

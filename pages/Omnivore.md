@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Teenage Engineering](https://omnivore.app/me/https-youtube-com-playlist-list-ple-5-y-ap-cgt-ow-a-ii-xts-o-u-e-1912ec11c14)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/playlist?list=PLE5yApCgtOwA_IIXtsO_uETkp54DzcHc5&si=F8FtARaSORspp03Q)
+	  author:: Liam Killen
+	  date-saved:: [[Aug 7th, 2024]]
 	- [404 Not Found](https://omnivore.app/me/404-not-found-1912b275f2f)
 	  collapsed:: true
 	  site:: [htmx.org](https://htmx.org/extensions/server-sent-events/)

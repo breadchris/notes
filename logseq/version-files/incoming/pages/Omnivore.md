@@ -1,4 +1,745 @@
 ## 🔖 Articles
+	- [Teenage Engineering](https://omnivore.app/me/https-youtube-com-playlist-list-ple-5-y-ap-cgt-ow-a-ii-xts-o-u-e-1912ec11c14)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/playlist?list=PLE5yApCgtOwA_IIXtsO_uETkp54DzcHc5&si=F8FtARaSORspp03Q)
+	  author:: Liam Killen
+	  date-saved:: [[Aug 7th, 2024]]
+	- [404 Not Found](https://omnivore.app/me/404-not-found-1912b275f2f)
+	  collapsed:: true
+	  site:: [htmx.org](https://htmx.org/extensions/server-sent-events/)
+	  date-saved:: [[Aug 6th, 2024]]
+	- [Live website updates with Go, SSE, and htmx](https://omnivore.app/me/live-website-updates-with-go-sse-and-htmx-1912b210350)
+	  collapsed:: true
+	  site:: [threedots.tech](https://threedots.tech/post/live-website-updates-go-sse-htmx/)
+	  author:: Miłosz Smółka
+	  date-saved:: [[Aug 6th, 2024]]
+	  date-published:: [[Jun 12th, 2024]]
+	- [Wheat: Red vs White; Spring vs Winter | The Fresh Loaf](https://omnivore.app/me/wheat-red-vs-white-spring-vs-winter-the-fresh-loaf-1912924211e)
+	  site:: [The Fresh Loaf](https://www.thefreshloaf.com/node/6985/wheat-red-vs-white-spring-vs-winter)
+	  author:: subfuscpersona
+	  date-saved:: [[Aug 6th, 2024]]
+	  collapsed:: true
+	- [RoCE networks for distributed AI training at scale - Engineering at Meta](https://omnivore.app/me/ro-ce-networks-for-distributed-ai-training-at-scale-engineering--191260e6f00)
+	  collapsed:: true
+	  site:: [Engineering at Meta](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
+	  author:: Adi Gangidi, James Hongyi Zeng
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Aug 5th, 2024]]
+	- [Pie Menu - the radial menu for Mac](https://omnivore.app/me/pie-menu-the-radial-menu-for-mac-191260df483)
+	  collapsed:: true
+	  site:: [pie-menu.com](https://www.pie-menu.com)
+	  author:: Gabriel Stephan
+	  date-saved:: [[Aug 5th, 2024]]
+	- [Food and friends, part I: Food is social life « The Story's Story](https://omnivore.app/me/food-and-friends-part-i-food-is-social-life-the-story-s-story-191260a4a01)
+	  collapsed:: true
+	  site:: [The Story's Story](https://jakeseliger.com/2024/02/26/food-and-friends-part-i-food-is-social-life/)
+	  author:: Jake Seliger
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Feb 26th, 2024]]
+	- [“No Salt” « The Story's Story](https://omnivore.app/me/no-salt-the-story-s-story-191260a0095)
+	  site:: [The Story's Story](https://jakeseliger.com/2024/08/05/no-salt/)
+	  author:: Jake Seliger
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Aug 5th, 2024]]
+	  collapsed:: true
+	- [Software Innovation Lab - Tweag](https://omnivore.app/me/software-innovation-lab-tweag-191257d11bc)
+	  collapsed:: true
+	  site:: [tweag.io](https://www.tweag.io)
+	  date-saved:: [[Aug 5th, 2024]]
+	- [How to write a linter using tree-sitter in an hour | siraben’s musings](https://omnivore.app/me/how-to-write-a-linter-using-tree-sitter-in-an-hour-siraben-s-mus-191257152ea)
+	  site:: [siraben’s musings](https://siraben.dev/2022/03/22/tree-sitter-linter.html)
+	  date-saved:: [[Aug 5th, 2024]]
+	  date-published:: [[Mar 22nd, 2022]]
+	  collapsed:: true
+	- [Burnin' Up Bass Tab](https://omnivore.app/me/burnin-up-bass-tab-191253336d3)
+	  collapsed:: true
+	  site:: [mybassistchris.com](https://www.mybassistchris.com/bass-tabs/jonas-brothers/burnin-up-bass-tab)
+	  date-saved:: [[Aug 5th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/burnin-up-bass-tab-191253336d3#9d494ca7-021e-4294-bf2e-20c57fb70f75)
+	- [Quick prototyping with a Golang REPL | by Denis Isidoro | Medium](https://omnivore.app/me/quick-prototyping-with-a-golang-repl-by-denis-isidoro-medium-19120eeac22)
+	  collapsed:: true
+	  site:: [Medium](https://medium.com/@den.isidoro/quick-prototyping-with-a-golang-repl-547703885bd8)
+	  author:: Denis Isidoro
+	  date-saved:: [[Aug 4th, 2024]]
+	  date-published:: [[Jun 2nd, 2020]]
+	- [flavioribeiro/donut: donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion.](https://omnivore.app/me/flavioribeiro-donut-donut-is-a-zero-setup-required-srt-mpeg-ts-w-1911f583827)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/flavioribeiro/donut)
+	  date-saved:: [[Aug 4th, 2024]]
+	- [How to Build Anything Extremely Quickly - Learn How To Learn](https://omnivore.app/me/how-to-build-anything-extremely-quickly-learn-how-to-learn-1911f57b75f)
+	  collapsed:: true
+	  site:: [Learn How To Learn](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+	  author:: dnbt777
+	  date-saved:: [[Aug 4th, 2024]]
+	  date-published:: [[Jun 6th, 2024]]
+	- [Parsing Protobuf Definitions with Tree-sitter - Repeatable Systems](https://omnivore.app/me/parsing-protobuf-definitions-with-tree-sitter-repeatable-systems-1911f573d06)
+	  collapsed:: true
+	  site:: [Repeatable Systems](https://relistan.com/parsing-protobuf-files-with-treesitter)
+	  author:: Karl Matthias
+	  date-saved:: [[Aug 4th, 2024]]
+	  date-published:: [[Jul 19th, 2024]]
+	- [FarmBot | Open-Source CNC Farming](https://omnivore.app/me/farm-bot-open-source-cnc-farming-1911c000fb7)
+	  collapsed:: true
+	  site:: [FarmBot](https://farm.bot)
+	  date-saved:: [[Aug 3rd, 2024]]
+	- [RMR OP-1 Pack: Volume 1](https://omnivore.app/me/rmr-op-1-pack-volume-1-1911606f262)
+	  collapsed:: true
+	  site:: [Gumroad](https://redmeansrecording.gumroad.com/l/TRfLrGF)
+	  date-saved:: [[Aug 2nd, 2024]]
+	  date-published:: [[Mar 25th, 2024]]
+	- [cgzirim/not-shazam: An implementation of Shazam's song matching algorithm.](https://omnivore.app/me/cgzirim-not-shazam-an-implementation-of-shazam-s-song-matching-a-19111812cb7)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/cgzirim/not-shazam)
+	  date-saved:: [[Aug 1st, 2024]]
+	- [100R — about us](https://omnivore.app/me/100-r-about-us-19111802b29)
+	  collapsed:: true
+	  site:: [100r.co](https://100r.co/site/about_us.html)
+	  date-saved:: [[Aug 1st, 2024]]
+	- [UNMITIGATED RISK | un.mit.i.gat.ed: Adj. Not diminished or moderated in intensity or severity; unrelieved. risk: N. The possibiity of suffering harm or loss; danger.](https://omnivore.app/me/unmitigated-risk-un-mit-i-gat-ed-adj-not-diminished-or-moderated-191108f6c8b)
+	  collapsed:: true
+	  site:: [unmitigatedrisk.com](https://unmitigatedrisk.com)
+	  author:: rmhrisk
+	  date-saved:: [[Aug 1st, 2024]]
+	  date-published:: [[Jun 27th, 2024]]
+	- [Peterson Academy](https://omnivore.app/me/peterson-academy-1910f8b065e)
+	  collapsed:: true
+	  site:: [petersonacademy.com](https://petersonacademy.com/enroll?fbclid=PAZXh0bgNhZW0BMAABpg-vM2Ij9KJcTfHzoYatMrO3ZDVthiXKQEXW43yjgSen2MaJkE9ErEKJog_aem_4FfSyD3b0y71VoBBpeKLwg)
+	  date-saved:: [[Aug 1st, 2024]]
+	- [HyperSpring™ Toys – HyperSpring Toys](https://omnivore.app/me/hyper-spring-toys-hyper-spring-toys-1910b969f27)
+	  collapsed:: true
+	  site:: [HyperSpring Toys](https://www.hyperspringtoys.com)
+	  date-saved:: [[Jul 31st, 2024]]
+	- [Prompt Airlines - AI CTF by Wiz](https://omnivore.app/me/prompt-airlines-ai-ctf-by-wiz-19105d63097)
+	  collapsed:: true
+	  site:: [promptairlines.com](https://promptairlines.com)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [EP–133 K.O. II - teenage engineering](https://omnivore.app/me/ep-133-k-o-ii-teenage-engineering-19105d42a9d)
+	  collapsed:: true
+	  site:: [teenage engineering](https://teenage.engineering/store/ep-133/)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [UON VISUALS | Twitter, Instagram, Facebook | Linktree](https://omnivore.app/me/uon-visuals-twitter-instagram-facebook-linktree-1910580efa5)
+	  collapsed:: true
+	  site:: [Linktree](https://linktr.ee/uonvisuals?fbclid=PAZXh0bgNhZW0CMTEAAab-AFZf9uw1e-eo5SD842557ZEf22W7uD0GJGXfOxgaU2K656tQ6kFPdv8_aem_bWuVnN1M6eW8r3iGE_ujNQ)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [A Visual Guide to Quantization - by Maarten Grootendorst](https://omnivore.app/me/a-visual-guide-to-quantization-by-maarten-grootendorst-191055d45be)
+	  collapsed:: true
+	  site:: [Exploring Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+	  author:: Maarten Grootendorst
+	  date-saved:: [[Jul 30th, 2024]]
+	  date-published:: [[Jul 22nd, 2024]]
+	- [Video Editing SDK - Rendley SDK](https://omnivore.app/me/video-editing-sdk-rendley-sdk-191055ce359)
+	  collapsed:: true
+	  site:: [rendley](https://rendley.com)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [Editor - Stempad](https://omnivore.app/me/editor-stempad-191055c6471)
+	  collapsed:: true
+	  site:: [Stempad](https://www.stempad.io/editor)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [The Hitchhiker's Guide to Logical Verification](https://omnivore.app/me/https-browncs-1951-x-github-io-static-files-hitchhikersguide-pdf-191055b312b)
+	  collapsed:: true
+	  site:: [browncs1951x.github.io](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
+	  author:: Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg
+	  date-saved:: [[Jul 30th, 2024]]
+	- [Food Mood — Google Arts & Culture](https://omnivore.app/me/food-mood-google-arts-culture-191050ee8b7)
+	  collapsed:: true
+	  site:: [Google Arts & Culture](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en)
+	  date-saved:: [[Jul 30th, 2024]]
+	- [Your Lifestyle Has Already Been Designed](https://omnivore.app/me/your-lifestyle-has-already-been-designed-1910462b866)
+	  collapsed:: true
+	  site:: [Raptitude.com](https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+	  author:: David Cain
+	  date-saved:: [[Jul 30th, 2024]]
+	  date-published:: [[Jul 28th, 2010]]
+	- [hooterite - Google Search](https://omnivore.app/me/hooterite-google-search-190e785ab07)
+	  collapsed:: true
+	  site:: [google.com](https://www.google.com/search?client=safari&hl=en-us&ie=UTF-8&oe=UTF-8&q=hooterite)
+	  date-saved:: [[Jul 24th, 2024]]
+	  date-published:: [[Jan 12th, 2023]]
+	- [OS/2 Museum | OS/2, vintage PC computing, and random musings](https://omnivore.app/me/os-2-museum-os-2-vintage-pc-computing-and-random-musings-190d2836f47)
+	  collapsed:: true
+	  site:: [os2museum.com](https://www.os2museum.com/wp/)
+	  author:: Posted on
+	  date-saved:: [[Jul 20th, 2024]]
+	  date-published:: [[Jul 19th, 2024]]
+	- [typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://omnivore.app/me/typst-typst-a-new-markup-based-typesetting-system-that-is-powerf-190d283083b)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/typst/typst)
+	  date-saved:: [[Jul 20th, 2024]]
+	- [Phasic Body](https://omnivore.app/me/https-marcello-palozzo-mykajabi-com-phasic-body-190d0fa8034)
+	  collapsed:: true
+	  site:: [marcello-palozzo.mykajabi.com](https://marcello-palozzo.mykajabi.com/phasic-body)
+	  date-saved:: [[Jul 20th, 2024]]
+	- [Half Batch Baking | In baking, ingredients in a recipe are based on ratios, often expressed as parts. Most commonly, ratios are based on the weight of the... | Instagram](https://omnivore.app/me/https-www-instagram-com-reel-c-9-kfs-ylpr-3-z-igsh-mxj-2-d-wxt-m-190d0f74aa0)
+	  collapsed:: true
+	  site:: [Instagram](https://www.instagram.com/reel/C9kfsYLPR3z/?igsh=MXJ2dWxtMWRvbnE5NQ%3D%3D)
+	  date-saved:: [[Jul 20th, 2024]]
+	- [Studio Olafur Eliasson](https://omnivore.app/me/studio-olafur-eliasson-190cedf3b12)
+	  collapsed:: true
+	  site:: [olafureliasson.net](https://olafureliasson.net/uncertain)
+	  date-saved:: [[Jul 19th, 2024]]
+	- [Sea Wolf](https://omnivore.app/me/sea-wolf-190ce2d6e50)
+	  collapsed:: true
+	  site:: [Sea Wolf](https://www.seawolfbakers.com)
+	  date-saved:: [[Jul 19th, 2024]]
+	- [Fillet](https://omnivore.app/me/fillet-190cc3fcc9f)
+	  collapsed:: true
+	  site:: [getfillet.com](https://getfillet.com/en/)
+	  date-saved:: [[Jul 19th, 2024]]
+	- [The Cookie Website](https://omnivore.app/me/the-cookie-website-190cc3bc29e)
+	  collapsed:: true
+	  site:: [The Cookie Website](https://thecookie.website/?c=U2FsdGVkX1%2FkJx3G4Rj4YNThSvJ0QKfcVqmjuQs5DD5%2F2L7G%2BbI7ajBRJHf9YfUNszEIwlP%2FvWe3mwl4wvZZ16xbm8MzpGAPqFtlAPBljBbEiRO0J44GPiVguFI2GzgV)
+	  date-saved:: [[Jul 19th, 2024]]
+	- [Overcoming the limits of current LLM](https://omnivore.app/me/overcoming-the-limits-of-current-llm-190c8bf698b)
+	  collapsed:: true
+	  site:: [seanpedersen.github.io](https://seanpedersen.github.io/posts/overcoming-llm-limits)
+	  date-saved:: [[Jul 18th, 2024]]
+	  date-published:: [[Jul 17th, 2024]]
+	- [Post-Architecture: Premature Abstraction Is the Root of All Evil](https://omnivore.app/me/post-architecture-premature-abstraction-is-the-root-of-all-evil-190c8bf0281)
+	  collapsed:: true
+	  site:: [arendjr.nl](https://arendjr.nl/blog/2024/07/post-architecture-premature-abstraction-is-the-root-of-all-evil/)
+	  date-saved:: [[Jul 18th, 2024]]
+	  date-published:: [[Jul 17th, 2024]]
+	- [What Would It Take to Recreate Bell Labs? - by Brian Potter](https://omnivore.app/me/what-would-it-take-to-recreate-bell-labs-by-brian-potter-190c8beafd0)
+	  collapsed:: true
+	  site:: [Construction Physics](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
+	  author:: Brian Potter
+	  date-saved:: [[Jul 18th, 2024]]
+	  date-published:: [[Jul 18th, 2024]]
+	- [Writing an MP4 Muxer for Fun and Profit | OBS](https://omnivore.app/me/writing-an-mp-4-muxer-for-fun-and-profit-obs-190c8be30b2)
+	  collapsed:: true
+	  site:: [obsproject.com](https://obsproject.com/blog/obs-studio-hybrid-mp4)
+	  date-saved:: [[Jul 18th, 2024]]
+	- [Brilliant Labs](https://omnivore.app/me/brilliant-labs-190c274a4f4)
+	  collapsed:: true
+	  site:: [Brilliant Labs](https://brilliant.xyz)
+	  date-saved:: [[Jul 17th, 2024]]
+	- [Hamming, "You and Your Research" (June 6, 1995)](https://omnivore.app/me/https-youtube-com-watch-si-k-3-fy-ev-3-in-9-ee-gwt-v-a-1-z-du-o--190bf51d7e8)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/watch?si=k3fyEV3IN9_EeGwt&v=a1zDuOPkMSw)
+	  author:: securitylectures
+	  date-saved:: [[Jul 16th, 2024]]
+	- [Web Design Pricing Explained: How Much Does a Website Cost?](https://omnivore.app/me/web-design-pricing-explained-how-much-does-a-website-cost-190beb20f8f)
+	  collapsed:: true
+	  site:: [Connective Web Design](https://connectivewebdesign.com/pricing/web-design)
+	  author:: Rodney Warner
+	  date-saved:: [[Jul 16th, 2024]]
+	  date-published:: [[Nov 20th, 2023]]
+	- [Spirit Quest](https://omnivore.app/me/spirit-quest-190bc62d478)
+	  collapsed:: true
+	  site:: [Spirit Quest](https://spiritquest.vhx.tv)
+	  date-saved:: [[Jul 16th, 2024]]
+	- [sbensu: We need visual programming. No, not like that.](https://omnivore.app/me/sbensu-we-need-visual-programming-no-not-like-that-190b9c68526)
+	  collapsed:: true
+	  site:: [blog.sbensu.com](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+	  date-saved:: [[Jul 15th, 2024]]
+	- [Supercharged fast, private & reliable file hosting – Horizon](https://omnivore.app/me/supercharged-fast-private-reliable-file-hosting-horizon-190b9c5a13a)
+	  collapsed:: true
+	  site:: [Horizon – Supercharged Sharing](https://horizon.pics)
+	  author:: Uploaded by rens
+	  date-saved:: [[Jul 15th, 2024]]
+	- [Log in - Sterling Volunteers](https://omnivore.app/me/https-app-sterlingvolunteers-com-en-candidates-profile-190b257ba3d)
+	  collapsed:: true
+	  site:: [app.sterlingvolunteers.com](https://app.sterlingvolunteers.com/en/Candidates/Profile)
+	  date-saved:: [[Jul 14th, 2024]]
+	- [Reviewing the Bleve search library - Ayende @ Rahien](https://omnivore.app/me/reviewing-the-bleve-search-library-ayende-rahien-190af93233a)
+	  collapsed:: true
+	  site:: [Ayende @ Rahien](https://ayende.com/blog/183041-C/reviewing-the-bleve-search-library)
+	  date-saved:: [[Jul 13th, 2024]]
+	- [Developments and Trends in Flow Research Over 40 Years: A Bibliometric Analysis | Collabra: Psychology | University of California Press](https://omnivore.app/me/developments-and-trends-in-flow-research-over-40-years-a-bibliom-190af854145)
+	  collapsed:: true
+	  site:: [University of California Press](https://online.ucpress.edu/collabra/article/10/1/92948/200116/Developments-and-Trends-in-Flow-Research-Over-40)
+	  author:: Zhang, Yongfa, Wang, Fei, Farb, Norman
+	  date-saved:: [[Jul 13th, 2024]]
+	  date-published:: [[Feb 27th, 2024]]
+	- [Frontiers | A Scoping Review of Flow Research](https://omnivore.app/me/frontiers-a-scoping-review-of-flow-research-190af80b489)
+	  site:: [Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.815665/full)
+	  author:: Marié P. Wissing
+	  date-saved:: [[Jul 13th, 2024]]
+	  date-published:: [[Apr 5th, 2022]]
+	  collapsed:: true
+	- [Showlist Seattle](https://omnivore.app/me/showlist-seattle-190aa8f702b)
+	  collapsed:: true
+	  site:: [Showlist Seattle](https://seattle.showlists.net)
+	  date-saved:: [[Jul 12th, 2024]]
+	- [ekmixon/webauthn.io: The source code for webauthn.io, a demonstration of WebAuthn.](https://omnivore.app/me/ekmixon-webauthn-io-the-source-code-for-webauthn-io-a-demonstrat-190a01139bc)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ekmixon/webauthn.io)
+	  date-saved:: [[Jul 10th, 2024]]
+	- [501 Writing Prompts ](https://omnivore.app/me/u-29-ea-68-c-6-685-e-46-ab-83-d-4-22-d-78-da-2-a-6-f-1-501-writi-19095edb974)
+	  collapsed:: true
+	  site:: [misd.net](https://www.misd.net/languageart/grammarinaction/501writingprompts.pdf)
+	  date-saved:: [[Jul 8th, 2024]]
+	- [Search – Science Huβ Publishing- Leading the Information Highway](https://omnivore.app/me/search-science-hub-publishing-leading-the-information-highway-19095de2dee)
+	  site:: [scihub.org](https://www.scihub.org/search/)
+	  date-saved:: [[Jul 8th, 2024]]
+	  collapsed:: true
+	- [Thorsten Ball - Register Spill](https://omnivore.app/me/thorsten-ball-register-spill-1909313d9a6)
+	  collapsed:: true
+	  site:: [thorstenball.com](https://thorstenball.com/register-spill/)
+	  date-saved:: [[Jul 8th, 2024]]
+	- [Living in Oblivion (1995) - IMDb](https://omnivore.app/me/https-m-imdb-com-title-tt-0113677-ref-ext-shr-lnk-19085497265)
+	  collapsed:: true
+	  site:: [IMDb](https://m.imdb.com/title/tt0113677/?ref_=ext_shr_lnk)
+	  date-saved:: [[Jul 5th, 2024]]
+	  date-published:: [[Jul 20th, 1995]]
+	- [Leaporkim LYNX Electric Unicycle User Manual](https://omnivore.app/me/leaporkim-lynx-electric-unicycle-user-manual-19085238f4f)
+	  collapsed:: true
+	  site:: [Manuals+](https://manuals.plus/leaporkim/lynx-electric-unicycle-manual)
+	  author:: m.ali
+	  date-saved:: [[Jul 5th, 2024]]
+	  date-published:: [[Dec 9th, 2023]]
+	- [Live looping w/ OP-Z, iPad, Loopy, Midi Fighter Twister, and Roli Lightpad Blocks #shorts - YouTube](https://omnivore.app/me/https-youtube-com-shorts-qw-5-o-5-i-fz-uay-si-a-wdp-w-gn-wo-5-c--1907a213ebe)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/Qw5o5IFzUAY?si=aWdpWGnWO5C-WRNs)
+	  date-saved:: [[Jul 3rd, 2024]]
+	- [Northflank — Deploy any project in seconds, in our cloud or yours.](https://omnivore.app/me/northflank-deploy-any-project-in-seconds-in-our-cloud-or-yours-19076c647b3)
+	  collapsed:: true
+	  site:: [Northflank — Deploy any project in seconds, in our cloud or yours.](https://northflank.com)
+	  date-saved:: [[Jul 2nd, 2024]]
+	- [Community Transformers](https://omnivore.app/me/community-transformers-19075a9b7a6)
+	  collapsed:: true
+	  site:: [transformers.mit.edu](https://transformers.mit.edu)
+	  date-saved:: [[Jul 2nd, 2024]]
+	- [Orange Cassette Player WE-001 • Serge](https://omnivore.app/me/orange-cassette-player-we-001-serge-19071eccf8e)
+	  collapsed:: true
+	  site:: [WE ARE REWIND](https://www.wearerewind.com/products/lecteur-cassette-bluetooth-orange-serge?currency=USD&srsltid=AfmBOopB5iIt1APlVsr-ELIHMfF1ONHmTXzJIkdHgWLTtFC714CcoU_itSQ&variant=44030424908040)
+	  date-saved:: [[Jul 1st, 2024]]
+	- [prometheus movie - Google Search](https://omnivore.app/me/prometheus-movie-google-search-1906fd70b6e)
+	  collapsed:: true
+	  site:: [google.com](https://www.google.com/search?client=safari&hl=en-us&ie=UTF-8&oe=UTF-8&q=prometheus+movie&safe=active)
+	  date-saved:: [[Jul 1st, 2024]]
+	  date-published:: [[Nov 20th, 2023]]
+	- [652ed31a-e353-41a9-9a18-80a545ab7134](https://omnivore.app/me/u-4-e-4-ba-0-d-5-6-e-0-e-469-e-add-2-c-9490-fd-5756-e-652-ed-31--1906d2f9610)
+	  collapsed:: true
+	  site:: [omnivore.app](https://omnivore.app/attachments/u/4e4ba0d5-6e0e-469e-add2-c9490fd5756e/652ed31a-e353-41a9-9a18-80a545ab7134.pdf)
+	  date-saved:: [[Jul 1st, 2024]]
+	- [undercurrents.io](https://omnivore.app/me/-190658e9949)
+	  collapsed:: true
+	  site:: [undercurrents.io](https://undercurrents.io/blog/welcome/)
+	  date-saved:: [[Jun 29th, 2024]]
+	- [Sorry! Something went wrong!](https://omnivore.app/me/https-www-amazon-com-denali-pro-3-x-s-k-denali-pro-3-x-1906306d2f5)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/denali-pro-3x/s?k=denali+pro+3x)
+	  date-saved:: [[Jun 29th, 2024]]
+	- [St. Unix Clown College for the Criminally Insane](https://omnivore.app/me/st-unix-clown-college-for-the-criminally-insane-190625ec6a6)
+	  collapsed:: true
+	  site:: [unix-haters.org](https://www.unix-haters.org)
+	  date-saved:: [[Jun 28th, 2024]]
+	- [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://omnivore.app/me/flightradar-24-live-flight-tracker-real-time-flight-tracker-map-19061ddf6d4)
+	  collapsed:: true
+	  site:: [Flightradar24](https://www.flightradar24.com/51.50,-0.12/6)
+	  author:: Flightradar24
+	  date-saved:: [[Jun 28th, 2024]]
+	- [The Webtender - Cocktail & Mixed Drink Recipes and Bartending Guide](https://omnivore.app/me/the-webtender-cocktail-mixed-drink-recipes-and-bartending-guide-1905be99a06)
+	  collapsed:: true
+	  site:: [webtender.com](https://www.webtender.com)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [restorativland](https://omnivore.app/me/restorativland-1905b99e48b)
+	  collapsed:: true
+	  site:: [restorativland.org](https://restorativland.org)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [Rebecca A. Demarest | Speculative Fiction served with a smile!](https://omnivore.app/me/rebecca-a-demarest-speculative-fiction-served-with-a-smile-1905b2c9dbb)
+	  collapsed:: true
+	  site:: [Rebecca A. Demarest](https://rebeccademarest.com)
+	  date-saved:: [[Jun 27th, 2024]]
+	  date-published:: [[Dec 26th, 2023]]
+	- [Bro was going CRAZY 🔥💪 - YouTube](https://omnivore.app/me/https-youtube-com-shorts-b-4-uq-9-jep-m-si-zc-8-w-x-lv-5-y-sa-wp-1905a3d6747)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/B4_uq-9JepM?si=Zc8wXLv5YSaWPT3y)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [Would you get a hotdog from this guy? - YouTube](https://omnivore.app/me/https-youtube-com-shorts-2-x-x-4-yi-iw-wmm-si-je-xq-le-d-egd-ug--1905a3a9dc3)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/shorts/2xX4YiIwWMM?si=jeXQLeDEgdUGDkx7)
+	  date-saved:: [[Jun 27th, 2024]]
+	- [Highest Rated SCPs - SCP Foundation](https://omnivore.app/me/highest-rated-sc-ps-scp-foundation-19055d91e63)
+	  collapsed:: true
+	  site:: [The SCP Foundation](https://scp-wiki.wikidot.com/highest-rated-scps)
+	  date-saved:: [[Jun 26th, 2024]]
+	  date-published:: [[Jul 25th, 2008]]
+	- [Main - SCP Foundation](https://omnivore.app/me/main-scp-foundation-19055d879a4)
+	  collapsed:: true
+	  site:: [The SCP Foundation](https://scp-wiki.wikidot.com)
+	  date-saved:: [[Jun 26th, 2024]]
+	  date-published:: [[Jun 16th, 2024]]
+	- [m110.github.io](https://omnivore.app/me/-1903c40cc9b)
+	  collapsed:: true
+	  site:: [m110.github.io](https://m110.github.io/airplanes/)
+	  labels:: [[internet/toys]]
+	  date-saved:: [[Jun 21st, 2024]]
+	- [M8 Tracker Model:02 Preorder – Dirtywave](https://omnivore.app/me/m-8-tracker-model-02-preorder-dirtywave-1903c40514a)
+	  collapsed:: true
+	  site:: [Dirtywave](https://dirtywave.com/products/m8-tracker-model-02)
+	  date-saved:: [[Jun 21st, 2024]]
+	- [ostafen/clover: A lightweight document-oriented NoSQL database written in pure Golang.](https://omnivore.app/me/ostafen-clover-a-lightweight-document-oriented-no-sql-database-w-1903936c308)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ostafen/clover)
+	  date-saved:: [[Jun 20th, 2024]]
+	- [The Prophylactic Extraction of Third Molars: A Public Health Hazard - PMC](https://omnivore.app/me/the-prophylactic-extraction-of-third-molars-a-public-health-haza-1903890e861)
+	  collapsed:: true
+	  site:: [PubMed Central (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1963310/)
+	  author:: Jay W. Friedman, DDS, MPH
+	  date-saved:: [[Jun 20th, 2024]]
+	- [OpenIDEO - Challenge: ‪Cybersecurity Visuals Challenge‬](https://omnivore.app/me/open-ideo-challenge-cybersecurity-visuals-challenge-190376682b5)
+	  collapsed:: true
+	  site:: [challenges.openideo.com](https://challenges.openideo.com/challenge/cybersecurity-visuals-challenge?documentId=51adaf776b8ed548ccae1fdcb75d1359&documentTableId=612490718155757054)
+	  date-saved:: [[Jun 20th, 2024]]
+	- [wavesurfer.js | audio waveform player JavaScript library](https://omnivore.app/me/wavesurfer-js-audio-waveform-player-java-script-library-1902db6421e)
+	  collapsed:: true
+	  site:: [wavesurfer.xyz](https://wavesurfer.xyz/examples/?record.js=)
+	  date-saved:: [[Jun 18th, 2024]]
+	- [Web Audio Demos](https://omnivore.app/me/web-audio-demos-1902db498a5)
+	  collapsed:: true
+	  site:: [webaudiodemos.appspot.com](https://webaudiodemos.appspot.com)
+	  author:: cwilso@google.com
+	  date-saved:: [[Jun 18th, 2024]]
+	- [Apple's Ill-Fated Social Network 'Ping' Launched 10 Years Ago Today - MacRumors](https://omnivore.app/me/apple-s-ill-fated-social-network-ping-launched-10-years-ago-toda-190294071d6)
+	  collapsed:: true
+	  site:: [MacRumors](https://www.macrumors.com/2020/09/01/itunes-ping-launched-10-years-ago-today/)
+	  author:: Joe Rossignol
+	  date-saved:: [[Jun 17th, 2024]]
+	  date-published:: [[Sep 1st, 2020]]
+	- [Zeplin · Bring harmony to design delivery](https://omnivore.app/me/zeplin-bring-harmony-to-design-delivery-19027300e86)
+	  collapsed:: true
+	  site:: [Zeplin](https://zeplin.io)
+	  author:: Zeplin
+	  date-saved:: [[Jun 17th, 2024]]
+	- [A Comprehensive Introduction to Tree-sitter](https://omnivore.app/me/a-comprehensive-introduction-to-tree-sitter-190241d3a2d)
+	  collapsed:: true
+	  site:: [derekstride](https://derek.stride.host/posts/comprehensive-introduction-to-tree-sitter)
+	  date-saved:: [[Jun 16th, 2024]]
+	  date-published:: [[Aug 5th, 2021]]
+	- [Look at Ghost Recon Future Soldier Running on my MAC! : r/GhostRecon](https://omnivore.app/me/look-at-ghost-recon-future-soldier-running-on-my-mac-r-ghost-rec-19023fd3196)
+	  site:: [reddit.com](https://www.reddit.com/r/GhostRecon/comments/x5ged1/look_at_ghost_recon_future_soldier_running_on_my/)
+	  author:: PrestigiousZombie531
+	  date-saved:: [[Jun 16th, 2024]]
+	  date-published:: [[Sep 4th, 2022]]
+	  collapsed:: true
+	- [V. Single Host Reverse Proxy](https://omnivore.app/me/v-single-host-reverse-proxy-1901fa20fef)
+	  collapsed:: true
+	  site:: [fideloper.com](https://fideloper.com/golang-single-host-reverse-proxy)
+	  date-saved:: [[Jun 15th, 2024]]
+	- [Programming Model](https://omnivore.app/me/programming-model-1900d452806)
+	  collapsed:: true
+	  site:: [restate.dev](https://restate.dev/programming-model)
+	  date-saved:: [[Jun 12th, 2024]]
+	- [The discovery of superconductivity | Physics Today | AIP Publishing](https://omnivore.app/me/the-discovery-of-superconductivity-physics-today-aip-publishing-1900d2efc75)
+	  collapsed:: true
+	  site:: [AIP Publishing](https://pubs.aip.org/physicstoday/article/63/9/38/386608/The-discovery-of-superconductivityA-century-ago)
+	  author:: van Delft, Dirk, Kes, Peter
+	  date-saved:: [[Jun 12th, 2024]]
+	  date-published:: [[Aug 31st, 2010]]
+	- [Baking Bread with Steam in Your Home Oven | The Perfect Loaf](https://omnivore.app/me/baking-bread-with-steam-in-your-home-oven-the-perfect-loaf-1900a436e61)
+	  collapsed:: true
+	  site:: [The Perfect Loaf](https://www.theperfectloaf.com/baking-with-steam-in-your-home-oven/)
+	  author:: Maurizio Leo
+	  date-saved:: [[Jun 11th, 2024]]
+	  date-published:: [[Jun 13th, 2015]]
+	- [Game Studies 0501: WarioWare Review by Chaim Gingold](https://omnivore.app/me/game-studies-0501-wario-ware-review-by-chaim-gingold-190052cdcdd)
+	  collapsed:: true
+	  site:: [gamestudies.org](https://www.gamestudies.org/0501/gingold/)
+	  date-saved:: [[Jun 10th, 2024]]
+	- [Klack — Satisfying sound with every keystroke](https://omnivore.app/me/klack-satisfying-sound-with-every-keystroke-1900529fafd)
+	  collapsed:: true
+	  site:: [Klack](https://tryklack.com)
+	  date-saved:: [[Jun 10th, 2024]]
+	- [The World's Most Satisfying Checkbox | !Boring](https://omnivore.app/me/the-world-s-most-satisfying-checkbox-boring-1900529ae41)
+	  collapsed:: true
+	  site:: [notboring.software](https://www.notboring.software/words/the-most-satisfying-checkbox)
+	  date-saved:: [[Jun 10th, 2024]]
+	- [Calling All Hackers [Phrack Preprint] -- DO NOT SHARE](https://omnivore.app/me/calling-all-hackers-phrack-preprint-do-not-share-19004b0042b)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/stong/adc147b230e6c4d2e4c7e83f200c68b8)
+	  author:: stong
+	  date-saved:: [[Jun 10th, 2024]]
+	- [A Funny Thing Happened on the Way to the Forum : Free Download, Borrow, and Streaming : Internet Archive](https://omnivore.app/me/a-funny-thing-happened-on-the-way-to-the-forum-free-download-bor-18ffefe735d)
+	  collapsed:: true
+	  site:: [Internet Archive](https://archive.org/details/AFunnyThingHappenedOnTheWayToTheForum)
+	  date-saved:: [[Jun 9th, 2024]]
+	  date-published:: [[Dec 31st, 1965]]
+	- [best kitchen knives for your home](https://omnivore.app/me/best-kitchen-knives-for-your-home-18ffeedf158)
+	  collapsed:: true
+	  site:: [Burrfection](https://www.burrfection.com)
+	  date-saved:: [[Jun 9th, 2024]]
+	- [Washington Farms | Local Farm Finder | Washington Food](https://omnivore.app/me/washington-farms-local-farm-finder-washington-food-18ffb2d95ee)
+	  collapsed:: true
+	  site:: [Eat Local First](https://eatlocalfirst.org/wa-food-farm-finder/)
+	  date-saved:: [[Jun 8th, 2024]]
+	- [Pikilo Mushroom Protein in Finland with Simo Ellilä](https://omnivore.app/me/pikilo-mushroom-protein-in-finland-with-simo-ellila-18ffa1928ac)
+	  collapsed:: true
+	  site:: [Mushroom Revival](https://www.mushroomrevival.com/blogs/podcast/pikilo-mushroom-protein-in-finland-with-simo-ellila)
+	  author:: Alisa Nappa
+	  date-saved:: [[Jun 8th, 2024]]
+	  date-published:: [[Feb 22nd, 2024]]
+	- [git - the simple guide - no deep shit!](https://omnivore.app/me/git-the-simple-guide-no-deep-shit-18ffa02afc6)
+	  collapsed:: true
+	  site:: [rogerdudler.github.io](http://rogerdudler.github.io/git-guide/)
+	  date-saved:: [[Jun 8th, 2024]]
+	- [Giving up my smartphone - Duoqin F22 Pro - /dev/knill](https://omnivore.app/me/giving-up-my-smartphone-duoqin-f-22-pro-dev-knill-18ff934fd91)
+	  collapsed:: true
+	  site:: [zak knill](https://zknill.io/posts/duoqin-f22-pro/)
+	  author:: zak knill
+	  date-saved:: [[Jun 8th, 2024]]
+	  date-published:: [[Nov 4th, 2023]]
+	- [Dumbphone Finder — Jose Briones](https://omnivore.app/me/dumbphone-finder-jose-briones-18ff9342233)
+	  collapsed:: true
+	  site:: [Jose Briones](https://josebriones.org/dumbphone-finder)
+	  date-saved:: [[Jun 8th, 2024]]
+	- [Scipress Docs - Scipress](https://omnivore.app/me/scipress-docs-scipress-18ff894e344)
+	  collapsed:: true
+	  site:: [scipress.io](https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs)
+	  author:: Ben Gorman
+	  date-saved:: [[Jun 8th, 2024]]
+	  date-published:: [[May 6th, 2024]]
+	- [ButterDocs | The IDE for Writing](https://omnivore.app/me/butter-docs-the-ide-for-writing-18ff3998ad3)
+	  collapsed:: true
+	  site:: [butterdocs.com](https://www.butterdocs.com/ide)
+	  date-saved:: [[Jun 7th, 2024]]
+	- [Clerk](https://omnivore.app/me/clerk-18ff38567af)
+	  collapsed:: true
+	  site:: [clerk.vision](https://clerk.vision)
+	  date-saved:: [[Jun 7th, 2024]]
+	- [squint-cljs/squint: Light-weight ClojureScript dialect](https://omnivore.app/me/squint-cljs-squint-light-weight-clojure-script-dialect-18ff3809d7d)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/squint-cljs/squint?tab=readme-ov-file)
+	  date-saved:: [[Jun 7th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/squint-cljs-squint-light-weight-clojure-script-dialect-18ff3809d7d#c56fef05-f40f-4bc7-b104-96ca9bcf7a02)
+	- [Mario Kart 3.js](https://omnivore.app/me/mario-kart-3-js-18ff164b6e9)
+	  collapsed:: true
+	  site:: [mario-kart-3-js.vercel.app](https://mario-kart-3-js.vercel.app)
+	  date-saved:: [[Jun 6th, 2024]]
+	- [Amazon.com: Shapton K0702 Blade, 1000, Medium, Orange : Tools & Home Improvement](https://omnivore.app/me/amazon-com-shapton-k-0702-blade-1000-medium-orange-tools-home-im-18ff08429b0)
+	  site:: [amazon.com](https://www.amazon.com/Kuromaku-Ceramic-Whetstone-Medium-Grit/dp/B001TPFT0G/ref=sr_1_1?crid=1SCU2XDD10OOG&dib=eyJ2IjoiMSJ9.qHQOHIJ0O8touaTaD6O-EyLop-7ef6VCjQBjn4pSU_eKB8iY_BKA1WejqqehIE4ZD81k0QM8rleAzK5daiKh122OqWtVTEvp6svg7vC4x0PGFk7guw8dXU3JLm3L1mIksrHz4h0Vr_71AXOKR7QKS-09fYHiz42O8z3BsAUnhALQwfjaALUu1RVHVDLQTTXNjuf4OdxSr9gIjdTRxlTmGMp1quA3kyo3_s0DkjrrnOsv9ecZXWh5u2CJf6a78IbeTAWyfbQWuEJT9wYyFiVk71Mva8ZT5K38z94YnI3aRM4.D1pSznzUvwXSC-dm2qkZa45d9doVOs-AccUSBxCsaLE&dib_tag=se&keywords=shapton%252Bpro&qid=1717727128&sprefix=shapton%252Bpr%252Caps%252C182&sr=8-1&th=1)
+	  author:: Brand: Shapton
+	  date-saved:: [[Jun 6th, 2024]]
+	  date-published:: [[Dec 31st, 1999]]
+	  collapsed:: true
+	- [Mobbin - The world’s largest mobile & web app design reference library](https://omnivore.app/me/mobbin-the-world-s-largest-mobile-web-app-design-reference-libra-18fef8e166c)
+	  collapsed:: true
+	  site:: [Mobbin](https://mobbin.com)
+	  date-saved:: [[Jun 6th, 2024]]
+	- [Big Cartel - Easy Online Stores for Artists and Creators.](https://omnivore.app/me/big-cartel-easy-online-stores-for-artists-and-creators-18febb4b42f)
+	  collapsed:: true
+	  site:: [Big Cartel](https://www.bigcartel.com)
+	  date-saved:: [[Jun 5th, 2024]]
+	- [http://64.23.152.104](https://omnivore.app/me/http-64-23-152-104-18febb075ba)
+	  collapsed:: true
+	  site:: [64.23.152.104](http://64.23.152.104)
+	  date-saved:: [[Jun 5th, 2024]]
+	- [yabwe/medium-editor: Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.](https://omnivore.app/me/yabwe-medium-editor-medium-com-wysiwyg-editor-clone-uses-content-18feb8cca20)
+	  site:: [GitHub](https://github.com/yabwe/medium-editor)
+	  date-saved:: [[Jun 5th, 2024]]
+	  collapsed:: true
+	- [sciter-engine / sciter-js-sdk · GitLab](https://omnivore.app/me/sciter-engine-sciter-js-sdk-git-lab-18feb177acc)
+	  collapsed:: true
+	  site:: [GitLab](https://gitlab.com/sciter-engine/sciter-js-sdk)
+	  author:: Andrew
+	  date-saved:: [[Jun 5th, 2024]]
+	  date-published:: [[Sep 11th, 2021]]
+	- [Mithril.js](https://omnivore.app/me/mithril-js-18feb147e17)
+	  collapsed:: true
+	  site:: [mithril.js.org](https://mithril.js.org/simple-application.html)
+	  date-saved:: [[Jun 5th, 2024]]
+	- [Mithril.js](https://omnivore.app/me/mithril-js-18feb13bb6f)
+	  site:: [mithril.js.org](https://mithril.js.org)
+	  date-saved:: [[Jun 5th, 2024]]
+	  collapsed:: true
+	- [Getting Started - JSON Forms](https://omnivore.app/me/getting-started-json-forms-18fe9bb907b)
+	  collapsed:: true
+	  site:: [jsonforms.io](https://jsonforms.io/docs/getting-started)
+	  date-saved:: [[Jun 5th, 2024]]
+	- [5 AMAZING meals that changed my life](https://omnivore.app/me/https-www-youtube-com-watch-v-q-6-s-y-0-rp-hgys-18fe6508f0f)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=Q6sY0RPHgys)
+	  author:: Derek Sarno
+	  date-saved:: [[Jun 4th, 2024]]
+	  date-published:: [[Feb 27th, 2024]]
+	- [Irrational Exuberance](https://omnivore.app/me/irrational-exuberance-18fe41706f9)
+	  collapsed:: true
+	  site:: [lethain.com](https://lethain.com)
+	  date-saved:: [[Jun 4th, 2024]]
+	  date-published:: [[May 21st, 2024]]
+	- [Store Files in a File System, Not a Relational Database. - Brent Ozar Unlimited®](https://omnivore.app/me/store-files-in-a-file-system-not-a-relational-database-brent-oza-18fe1e32d44)
+	  collapsed:: true
+	  site:: [Brent Ozar Unlimited®](https://www.brentozar.com/archive/2021/07/store-files-in-a-file-system-not-a-relational-database/)
+	  author:: Brent Ozar
+	  date-saved:: [[Jun 3rd, 2024]]
+	  date-published:: [[Jul 1st, 2021]]
+	- [Go: Don't name packages common nouns — brandur.org](https://omnivore.app/me/go-don-t-name-packages-common-nouns-brandur-org-18fe13af740)
+	  collapsed:: true
+	  site:: [brandur.org](https://brandur.org/fragments/go-no-common-nouns)
+	  date-saved:: [[Jun 3rd, 2024]]
+	  date-published:: [[Jun 1st, 2024]]
+	- [Ctrl-Z Exhaustion - 6 Proven Methods to Overcome Mental Fatigue and Reclaim Your Energy - Sparrow's Digital Garden](https://omnivore.app/me/ctrl-z-exhaustion-6-proven-methods-to-overcome-mental-fatigue-an-18fe1398e5b)
+	  collapsed:: true
+	  site:: [garden.sparrow.zone](https://garden.sparrow.zone/Ctrl-Z+Exhaustion+-+6+Proven+Methods+to+Overcome+Mental+Fatigue+and+Reclaim+Your+Energy)
+	  date-saved:: [[Jun 3rd, 2024]]
+	- [selzer-the-knife](https://omnivore.app/me/u-0-a-4570-c-4-9-c-55-4-cca-99-b-0-279-ab-099-b-06-b-selzer-the--18fe10cef1c)
+	  collapsed:: true
+	  site:: [kentcomp0100.wordpress.com](https://kentcomp0100.wordpress.com/wp-content/uploads/2013/08/selzer-the-knife.pdf)
+	  date-saved:: [[Jun 3rd, 2024]]
+	- [richard-selzer-the-knife](https://omnivore.app/me/u-43-cee-431-8-c-58-4-d-98-9972-e-1413496-d-30-b-richard-selzer--18fe1081a56)
+	  collapsed:: true
+	  site:: [blogs.baruch.cuny.edu](https://blogs.baruch.cuny.edu/english3680/files/2009/01/richard-selzer-the-knife.pdf)
+	  date-saved:: [[Jun 3rd, 2024]]
+	- [Discover Web Apps | Mobbin](https://omnivore.app/me/discover-web-apps-mobbin-18fdecb1c9b)
+	  collapsed:: true
+	  site:: [Mobbin](https://mobbin.com/browse/web/apps)
+	  date-saved:: [[Jun 3rd, 2024]]
+	- [Bubble | Build Powerful Full-Stack Apps Without Code](https://omnivore.app/me/bubble-build-powerful-full-stack-apps-without-code-18fd6ed3ce7)
+	  site:: [Bubble](https://bubble.io)
+	  date-saved:: [[Jun 1st, 2024]]
+	  collapsed:: true
+	- [Why Haiti is Dying & the DR is Booming](https://omnivore.app/me/https-youtu-be-wp-wb-3-mtv-9-bg-si-ar-nd-xv-3-sz-3-q-dwcpx-18fd6a46326)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/WpWb3MTV9bg?si=ArNDXv3sz3qDWCPX)
+	  author:: RealLifeLore
+	  date-saved:: [[Jun 1st, 2024]]
+	  date-published:: [[Dec 15th, 2023]]
+	- [Wired Elements](https://omnivore.app/me/wired-elements-18fd15f35ef)
+	  site:: [wiredjs.com](https://wiredjs.com)
+	  date-saved:: [[May 31st, 2024]]
+	  collapsed:: true
+	- [Symbolica](https://omnivore.app/me/symbolica-18fd13b2f65)
+	  site:: [symbolica.ai](https://www.symbolica.ai)
+	  date-saved:: [[May 31st, 2024]]
+	  collapsed:: true
+	- [Food & Drink Smokers • Cold Smoke System | Breville](https://omnivore.app/me/food-drink-smokers-cold-smoke-system-breville-18fcc6f9d83)
+	  collapsed:: true
+	  site:: [Breville](https://www.breville.com/en-us/shop/smoking-gun)
+	  date-saved:: [[May 30th, 2024]]
+	- [All 119 References in “We Didn’t Start the Fire,” Explained | Britannica](https://omnivore.app/me/all-119-references-in-we-didn-t-start-the-fire-explained-britann-18fcc3aa474)
+	  collapsed:: true
+	  site:: [Encyclopedia Britannica](https://www.britannica.com/list/all-119-references-in-we-didnt-start-the-fire-explained)
+	  author:: Meg Matthias Meg Matthias is Senior Video Producer at Encyclopædia Britannica.
+	  date-saved:: [[May 30th, 2024]]
+	- [Tree-sitter｜Introduction](https://omnivore.app/me/tree-sitter-introduction-18fcc027ea9)
+	  collapsed:: true
+	  site:: [tree-sitter.github.io](https://tree-sitter.github.io/tree-sitter/)
+	  date-saved:: [[May 30th, 2024]]
+	- [Music like Spotify - Similar Bands and Artists](https://omnivore.app/me/music-like-spotify-similar-bands-and-artists-18fc74b252b)
+	  collapsed:: true
+	  site:: [music-map.com](https://www.music-map.com/spotify)
+	  date-saved:: [[May 29th, 2024]]
+	- [Musicmap | The Genealogy and History of Popular Music Genres](https://omnivore.app/me/musicmap-the-genealogy-and-history-of-popular-music-genres-18fc74ac542)
+	  collapsed:: true
+	  site:: [musicmap.info](https://musicmap.info)
+	  date-saved:: [[May 29th, 2024]]
+	- [June - Product analytics for B2B SaaS](https://omnivore.app/me/june-product-analytics-for-b-2-b-saa-s-18fc74724cf)
+	  collapsed:: true
+	  site:: [june.so](https://www.june.so)
+	  date-saved:: [[May 29th, 2024]]
+	- [ferrucc.io](https://omnivore.app/me/ferrucc-io-18fc7468d5f)
+	  collapsed:: true
+	  site:: [ferrucc.io](https://ferrucc.io)
+	  date-saved:: [[May 29th, 2024]]
+	- [bmcmahen/react-iphone: a react app that partially replicates the iOS home screen.... because, why not?](https://omnivore.app/me/bmcmahen-react-iphone-a-react-app-that-partially-replicates-the--18fc7452f46)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/bmcmahen/react-iphone/tree/master)
+	  date-saved:: [[May 29th, 2024]]
+	- [A free Argo Tunnel for your next project](https://omnivore.app/me/a-free-argo-tunnel-for-your-next-project-18fc73c11dc)
+	  site:: [The Cloudflare Blog](https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/)
+	  author:: Sam Rhea
+	  date-saved:: [[May 29th, 2024]]
+	  date-published:: [[Jun 15th, 2019]]
+	  collapsed:: true
+	- [Runtime code generation and execution in Go: Part 1 | BitByteWise](https://omnivore.app/me/runtime-code-generation-and-execution-in-go-part-1-bit-byte-wise-18fc5f8d858)
+	  collapsed:: true
+	  site:: [BitByteWise](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
+	  date-saved:: [[May 29th, 2024]]
+	  date-published:: [[May 18th, 2024]]
+	- [The Shape of Data | No Starch Press](https://omnivore.app/me/the-shape-of-data-no-starch-press-18fc328f6df)
+	  collapsed:: true
+	  site:: [nostarch.com](https://nostarch.com/shapeofdata)
+	  author:: Colleen M. Farrelly and Yaé Ulrich Gaba
+	  date-saved:: [[May 29th, 2024]]
+	  date-published:: [[Jul 25th, 2022]]
+	- [Complicated World](https://omnivore.app/me/complicated-world-18fc131302b)
+	  collapsed:: true
+	  site:: [complicated.world](https://complicated.world/en/Human_Life)
+	  date-saved:: [[May 28th, 2024]]
+	  date-published:: [[May 27th, 2024]]
+	- [Grooved - OKatBest](https://omnivore.app/me/grooved-o-kat-best-18fc12fbc1b)
+	  collapsed:: true
+	  site:: [grooved.okat.best](https://grooved.okat.best)
+	  date-saved:: [[May 28th, 2024]]
+	- [Effects Showroom - TerminalTextEffects Docs](https://omnivore.app/me/effects-showroom-terminal-text-effects-docs-18fc12f48f0)
+	  collapsed:: true
+	  site:: [chrisbuilds.github.io](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+	  author:: ChrisBuilds
+	  date-saved:: [[May 28th, 2024]]
+	- [x1unix/go-playground: Better Go Playground powered by React and Monaco editor](https://omnivore.app/me/x-1-unix-go-playground-better-go-playground-powered-by-react-and-18fa69d51ca)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/x1unix/go-playground)
+	  labels:: [[go]]
+	  date-saved:: [[May 23rd, 2024]]
+	- [Green Lake Jewelry Works - Google Maps](https://omnivore.app/me/https-maps-app-goo-gl-jpyv-6-ewg-6-z-4-db-25-l-8-g-st-app-omnivo-18f9d12b502)
+	  collapsed:: true
+	  site:: [Green Lake Jewelry Works · Seattle, Washington](https://www.google.com/maps?entry=gps&ftid=0x549011576c1b8a4b%3A0x7d63af408a19fb85&g_ep=CAISDTYuMTE1LjEuNjAwMTAYACCenQoqSCw5NDIyMjM0OSw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICVVM%3D&g_st=app.omnivore.app.share-extension&lucs=%2C94222349%2C47071704%2C47069508%2C94218641%2C94203019%2C47084304%2C94208458%2C94208447&q=Green+Lake+Jewelry+Works%2C+550+NE+Northgate+Way%2C+Seattle%2C+WA+98125)
+	  date-saved:: [[May 21st, 2024]]
+	- [Napkin – The fastest way to Build and Deploy APIs](https://omnivore.app/me/napkin-the-fastest-way-to-build-and-deploy-ap-is-18f7d399fa2)
+	  collapsed:: true
+	  site:: [napkin.io](https://www.napkin.io)
+	  labels:: [[nolan]]
+	  date-saved:: [[Jun 5th, 2024]]
+	- [Modal: High-performance cloud for developers](https://omnivore.app/me/modal-high-performance-cloud-for-developers-18f983e7894)
+	  collapsed:: true
+	  site:: [Modal](https://modal.com)
+	  date-saved:: [[May 20th, 2024]]
+	- [Payroll Connectivity for Modern Financial Services](https://omnivore.app/me/payroll-connectivity-for-modern-financial-services-18f9836cd7b)
+	  collapsed:: true
+	  site:: [Argyle](https://argyle.com)
+	  date-saved:: [[May 20th, 2024]]
+	- [Anonymous mock interviews with engineers from FAANG and more | interviewing.io](https://omnivore.app/me/anonymous-mock-interviews-with-engineers-from-faang-and-more-int-18f9836af27)
+	  collapsed:: true
+	  site:: [interviewing.io](https://interviewing.io)
+	  date-saved:: [[May 20th, 2024]]
+	- [How does the Foodpairing Tool work? - Foodpairing](https://omnivore.app/me/how-does-the-foodpairing-tool-work-foodpairing-18f972106d1)
+	  collapsed:: true
+	  site:: [Foodpairing](https://www.foodpairing.com/how-does-the-foodpairing-tool-work/)
+	  author:: Marie Haspeslagh
+	  date-saved:: [[May 20th, 2024]]
+	  date-published:: [[Dec 31st, 2015]]
+	- [The invisible seafaring industry that keeps the internet afloat](https://omnivore.app/me/the-invisible-seafaring-industry-that-keeps-the-internet-afloat-18f86d57c22)
+	  collapsed:: true
+	  site:: [The Verge](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+	  author:: Josh Dzieza
+	  date-saved:: [[May 17th, 2024]]
+	  date-published:: [[Apr 16th, 2024]]
+	- [/uses](https://omnivore.app/me/uses-18f78722a2a)
+	  collapsed:: true
+	  site:: [uses.tech](https://uses.tech)
+	  date-saved:: [[May 14th, 2024]]
+	  date-published:: [[Nov 20th, 2021]]
+	- [The Notifier Pattern for Applications That Use Postgres](https://omnivore.app/me/the-notifier-pattern-for-applications-that-use-postgres-18f7870fab7)
+	  collapsed:: true
+	  site:: [brandur.org](https://brandur.org/notifier)
+	  date-saved:: [[May 14th, 2024]]
+	  date-published:: [[May 5th, 2024]]
+	- [The Soul of A New Machine: Kidder, Tracy: 9780316491976: Amazon.com: Books](https://omnivore.app/me/the-soul-of-a-new-machine-kidder-tracy-9780316491976-amazon-com--18f7304bc07)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977)
+	  author:: Follow the authors
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Aug 20th, 2023]]
+	- [High Output Management: Grove, Andrew S.: 9780679762881: Amazon.com: Books](https://omnivore.app/me/high-output-management-grove-andrew-s-9780679762881-amazon-com-b-18f73041540)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+	  author:: Follow the author
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Oct 27th, 2023]]
+	- [How We Engineer Feedback at Figma with Eng Crits | Figma Blog](https://omnivore.app/me/how-we-engineer-feedback-at-figma-with-eng-crits-figma-blog-18f72e6c941)
+	  collapsed:: true
+	  site:: [Figma](https://www.figma.com/blog/how-we-run-eng-crits-at-figma/)
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[Feb 28th, 2024]]
+	- [Aviary: Clinical Collaboration Platform - Dmitri Sotnikov & Carmen La](https://omnivore.app/me/https-www-youtube-com-watch-v-iek-p-zpfbda-i-18f724c711a)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/watch?v=IekPZpfbdaI)
+	  author:: Clojure/north
+	  date-saved:: [[May 13th, 2024]]
+	  date-published:: [[May 15th, 2019]]
 	- [aegir-assembly/omni-clip: Open source video editing web application](https://omnivore.app/me/aegir-assembly-omni-clip-open-source-video-editing-web-applicati-18f6e467fd4)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/aegir-assembly/omni-clip)
@@ -69,8 +810,7 @@
 	  collapsed:: true
 	  site:: [Ramblings from Jessie](https://blog.jessfraz.com/post/books/)
 	  date-saved:: [[May 8th, 2024]]
-		- ### Highlights
-			- >  [⤴️](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11#f558b733-fa08-4821-a25b-15b6cf8d21bf)
+		- >  [⤴️](https://omnivore.app/me/ramblings-from-jessie-books-i-recommend-18f5b179f11#f558b733-fa08-4821-a25b-15b6cf8d21bf)
 	- [The Life of a Data Byte – Communications of the ACM](https://omnivore.app/me/the-life-of-a-data-byte-communications-of-the-acm-18f5b17316c)
 	  collapsed:: true
 	  site:: [cacm.acm.org](https://cacm.acm.org/practice/the-life-of-a-data-byte/)
@@ -6294,11 +7034,9 @@
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/copy-paste)
 	  date-saved:: [[Aug 20th, 2023]]
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a163096cd)
-	  collapsed:: true
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/undo-redo)
 	  date-saved:: [[Aug 20th, 2023]]
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a16308be7)
-	  collapsed:: true
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/dynamic-grouping)
 	  date-saved:: [[Aug 20th, 2023]]
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a16308161)

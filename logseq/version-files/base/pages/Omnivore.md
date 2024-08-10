@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Blog | Varun Raj Manoharan](https://omnivore.app/me/blog-varun-raj-manoharan-19135b069da)
+	  collapsed:: true
+	  site:: [Varun Raj Manoharan](https://varunraj.in/blog)
+	  date-saved:: [[Aug 8th, 2024]]
+	  date-published:: [[Nov 11th, 2023]]
 	- [Teenage Engineering](https://omnivore.app/me/https-youtube-com-playlist-list-ple-5-y-ap-cgt-ow-a-ii-xts-o-u-e-1912ec11c14)
 	  collapsed:: true
 	  site:: [YouTube](https://youtube.com/playlist?list=PLE5yApCgtOwA_IIXtsO_uETkp54DzcHc5&si=F8FtARaSORspp03Q)

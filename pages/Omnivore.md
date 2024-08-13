@@ -1,4 +1,33 @@
 ## 🔖 Articles
+	- [https://youtube.com/watch?si=et4lofoIvfkj3Thb&v=wGhUmdYqy9Y](https://omnivore.app/me/https-youtube-com-watch-si-et-4-lofo-ivfkj-3-thb-v-w-gh-umd-yqy--191485b3393)
+	  collapsed:: true
+	  site:: [youtube.com](https://youtube.com/watch?si=et4lofoIvfkj3Thb&v=wGhUmdYqy9Y)
+	  date-saved:: [[Aug 12th, 2024]]
+	- [https://youtube.com/watch?si=zep7I75lUO2_DONn&v=Jwu8f42rLuI](https://omnivore.app/me/https-youtube-com-watch-si-zep-7-i-75-l-uo-2-do-nn-v-jwu-8-f-42--191485a45db)
+	  collapsed:: true
+	  site:: [youtube.com](https://youtube.com/watch?si=zep7I75lUO2_DONn&v=Jwu8f42rLuI)
+	  date-saved:: [[Aug 12th, 2024]]
+	- [Rhythm Sight Reading Trainer on the App Store](https://omnivore.app/me/https-apps-apple-com-us-app-rhythm-sight-reading-trainer-id-3963-19147d1266b)
+	  collapsed:: true
+	  site:: [App Store](https://apps.apple.com/us/app/rhythm-sight-reading-trainer/id396302174)
+	  date-saved:: [[Aug 12th, 2024]]
+	  date-published:: [[Dec 11th, 2023]]
+	- [Open Music Theory – Simple Book Publishing](https://omnivore.app/me/open-music-theory-simple-book-publishing-19147cf79bf)
+	  collapsed:: true
+	  site:: [viva.pressbooks.pub](https://viva.pressbooks.pub/openmusictheory/)
+	  author:: Mark Gotham, Kyle Gullings, Chelsey Hamm, Bryn Hughes, Brian Jarvis, Megan Lavengood, John Peterson
+	  date-saved:: [[Aug 12th, 2024]]
+	  date-published:: [[Jun 30th, 2021]]
+	- [Common Go Mistakes - 100 Go Mistakes and How to Avoid Them](https://omnivore.app/me/common-go-mistakes-100-go-mistakes-and-how-to-avoid-them-191456574b3)
+	  collapsed:: true
+	  site:: [100go.co](https://100go.co)
+	  date-saved:: [[Aug 12th, 2024]]
+	- [Go structs are copied on assignment (and other things about Go I'd missed)](https://omnivore.app/me/go-structs-are-copied-on-assignment-and-other-things-about-go-i--191456547fa)
+	  collapsed:: true
+	  site:: [Julia Evans](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
+	  author:: Julia Evans
+	  date-saved:: [[Aug 12th, 2024]]
+	  date-published:: [[Aug 5th, 2024]]
 	- [Blog | Varun Raj Manoharan](https://omnivore.app/me/blog-varun-raj-manoharan-19135b069da)
 	  collapsed:: true
 	  site:: [Varun Raj Manoharan](https://varunraj.in/blog)

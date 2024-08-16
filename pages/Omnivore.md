@@ -1,4 +1,44 @@
 ## 🔖 Articles
+	- [Galois Theory | The n-Category Café](https://omnivore.app/me/galois-theory-the-n-category-cafe-1915c4a47f1)
+	  collapsed:: true
+	  site:: [golem.ph.utexas.edu](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
+	  date-saved:: [[Aug 16th, 2024]]
+	  date-published:: [[Aug 14th, 2024]]
+	- [Evergreen notes](https://omnivore.app/me/evergreen-notes-1915c49ed51)
+	  collapsed:: true
+	  site:: [Andyʼs working notes](https://notes.andymatuschak.org/Evergreen_notes)
+	  date-saved:: [[Aug 16th, 2024]]
+	- [YTCH](https://omnivore.app/me/ytch-19152f91f99)
+	  collapsed:: true
+	  site:: [ytch.xyz](https://ytch.xyz)
+	  date-saved:: [[Aug 14th, 2024]]
+	- [Tap into Shortcuts With a New Custom Keyboard from Figma x Work Louder | Figma Blog](https://omnivore.app/me/tap-into-shortcuts-with-a-new-custom-keyboard-from-figma-x-work--191529e7ceb)
+	  collapsed:: true
+	  site:: [Figma](https://www.figma.com/blog/figma-work-louder-custom-keyboard/)
+	  date-saved:: [[Aug 14th, 2024]]
+	  date-published:: [[Dec 6th, 2023]]
+	- [Google Image Result](https://omnivore.app/me/https-images-app-goo-gl-ybres-8-t-dm-mk-9-r-mmc-7-191527779be)
+	  collapsed:: true
+	  site:: [www.google.com](https://www.google.com/imgres?docid=CJNv8QGpBDJj-M&h=1946&imgrefurl=https%3A%2F%2Fshitheadsteve.com%2Fproducts%2Flive-laugh-fighter-pilot-t-shirt&imgurl=https%3A%2F%2Fshitheadsteve.com%2Fcdn%2Fshop%2Ffiles%2Flive-laugh-fighter-pilot-t-shirt-105766.jpg%3Fv%3D1719855767%26width%3D1946&kgs=b1c370b0f6ec9861&shem=abme%2Ctrie&source=sh%2Fx%2Fim%2Fm1%2F3&tbnid=lG0Dvij_jZAzvM&vet=1&w=1946)
+	  date-saved:: [[Aug 14th, 2024]]
+	- [Cool Hand Luke - Wikipedia](https://omnivore.app/me/cool-hand-luke-wikipedia-191526546f3)
+	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/Cool_Hand_Luke)
+	  author:: Contributors to Wikimedia projects
+	  date-saved:: [[Aug 14th, 2024]]
+	  date-published:: [[Dec 26th, 2002]]
+	- [https://youtube.com/watch?si=Syx1PHr39SrXL3Au&v=UzczU-Ihu0w](https://omnivore.app/me/https-youtube-com-watch-si-syx-1-p-hr-39-sr-xl-3-au-v-uzcz-u-ihu-1915218c7c4)
+	  collapsed:: true
+	  site:: [youtube.com](https://youtube.com/watch?si=Syx1PHr39SrXL3Au&v=UzczU-Ihu0w)
+	  date-saved:: [[Aug 14th, 2024]]
+	- [Almost Heaven Bluestone 3-person Steam Sauna  | Costco](https://omnivore.app/me/https-www-costco-com-almost-heaven-bluestone-3-person-steam-saun-1914d3e8770)
+	  collapsed:: true
+	  site:: [Costco Wholesale](https://www.costco.com/almost-heaven-bluestone-3-person-steam-sauna.product.100485086.html?nf=true&sh=true)
+	  date-saved:: [[Aug 13th, 2024]]
+	- [You should make a new programming language | nicole@web](https://omnivore.app/me/you-should-make-a-new-programming-language-nicole-web-1914c74d3a7)
+	  collapsed:: true
+	  site:: [ntietz.com](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
+	  date-saved:: [[Aug 13th, 2024]]
 	- [https://youtube.com/watch?si=et4lofoIvfkj3Thb&v=wGhUmdYqy9Y](https://omnivore.app/me/https-youtube-com-watch-si-et-4-lofo-ivfkj-3-thb-v-w-gh-umd-yqy--191485b3393)
 	  collapsed:: true
 	  site:: [youtube.com](https://youtube.com/watch?si=et4lofoIvfkj3Thb&v=wGhUmdYqy9Y)

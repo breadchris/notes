@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Chips and Cheese – The Devil is in the Details](https://omnivore.app/me/chips-and-cheese-the-devil-is-in-the-details-191619dd065)
+	  collapsed:: true
+	  site:: [Chips and Cheese](https://chipsandcheese.com)
+	  author:: clamchowder
+	  date-saved:: [[Aug 17th, 2024]]
+	  date-published:: [[Jul 4th, 2024]]
+	- [New LLM Pre-training and Post-training Paradigms](https://omnivore.app/me/new-llm-pre-training-and-post-training-paradigms-19161791969)
+	  collapsed:: true
+	  site:: [Ahead of AI](https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training?isFreemail=true&post_id=147749119&publication_id=1174659&r=2m1g2d&triedRedirect=true)
+	  author:: Sebastian Raschka, PhD
+	  date-saved:: [[Aug 17th, 2024]]
+	  date-published:: [[Aug 17th, 2024]]
 	- [PyTorch is dead. Long live JAX. | Neel Gupta](https://omnivore.app/me/py-torch-is-dead-long-live-jax-neel-gupta-1915f2acfeb)
 	  collapsed:: true
 	  site:: [neel04.github.io](https://neel04.github.io/my-website/blog/pytorch_rant/)

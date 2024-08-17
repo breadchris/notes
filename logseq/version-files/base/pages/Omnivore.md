@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [PyTorch is dead. Long live JAX. | Neel Gupta](https://omnivore.app/me/py-torch-is-dead-long-live-jax-neel-gupta-1915f2acfeb)
+	  collapsed:: true
+	  site:: [neel04.github.io](https://neel04.github.io/my-website/blog/pytorch_rant/)
+	  date-saved:: [[Aug 17th, 2024]]
+	  date-published:: [[Jul 18th, 2024]]
+	- [Good programmers worry about data structures and their relationships](https://omnivore.app/me/good-programmers-worry-about-data-structures-and-their-relations-1915ca4fff8)
+	  collapsed:: true
+	  site:: [Engineer’s Codex](https://read.engineerscodex.com/p/good-programmers-worry-about-data)
+	  author:: Engineer’s Codex
+	  date-saved:: [[Aug 16th, 2024]]
+	  date-published:: [[Jul 7th, 2024]]
 	- [Galois Theory | The n-Category Café](https://omnivore.app/me/galois-theory-the-n-category-cafe-1915c4a47f1)
 	  collapsed:: true
 	  site:: [golem.ph.utexas.edu](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)

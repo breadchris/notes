@@ -1,8 +1,14 @@
 ## 🔖 Articles
-	- [Mysc.- Social Media On Your Own Terms](https://omnivore.app/me/mysc-social-media-on-your-own-terms-19164266f3e)
+	- [LiveJournal - Wikipedia](https://omnivore.app/me/live-journal-wikipedia-19166964174)
 	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/LiveJournal)
+	  author:: Contributors to Wikimedia projects
+	  date-saved:: [[Aug 18th, 2024]]
+	  date-published:: [[Sep 26th, 2002]]
+	- [Mysc.- Social Media On Your Own Terms](https://omnivore.app/me/mysc-social-media-on-your-own-terms-19164266f3e)
 	  site:: [mysc.app](https://www.mysc.app/index.html)
 	  date-saved:: [[Aug 17th, 2024]]
+	  collapsed:: true
 	- [Figma Reviews | Read Customer Service Reviews of figma.com](https://omnivore.app/me/figma-reviews-read-customer-service-reviews-of-figma-com-191636fb8fc)
 	  collapsed:: true
 	  site:: [Trustpilot](https://www.trustpilot.com/review/figma.com)

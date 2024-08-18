@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Figma Reviews | Read Customer Service Reviews of figma.com](https://omnivore.app/me/figma-reviews-read-customer-service-reviews-of-figma-com-191636fb8fc)
+	  collapsed:: true
+	  site:: [Trustpilot](https://www.trustpilot.com/review/figma.com)
+	  date-saved:: [[Aug 17th, 2024]]
+	- [An unordered list of things I miss in Go — kokada](https://omnivore.app/me/an-unordered-list-of-things-i-miss-in-go-kokada-1916303882f)
+	  collapsed:: true
+	  site:: [kokada.capivaras.dev](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
+	  labels:: [[go]]
+	  date-saved:: [[Aug 17th, 2024]]
+	  date-published:: [[Aug 16th, 2024]]
+	- [The Parts of the Egg — Get Involved — Pennsylvania 4-H](https://omnivore.app/me/the-parts-of-the-egg-get-involved-pennsylvania-4-h-19162de472d)
+	  collapsed:: true
+	  site:: [Get Involved (Pennsylvania 4-H)](https://extension.psu.edu/programs/4-h/get-involved/teachers/embryology/teacher-resources/supporting-subject-matter/the-egg/the-parts-of-the-egg)
+	  labels:: [[egg]]
+	  date-saved:: [[Aug 17th, 2024]]
 	- [Chips and Cheese – The Devil is in the Details](https://omnivore.app/me/chips-and-cheese-the-devil-is-in-the-details-191619dd065)
 	  collapsed:: true
 	  site:: [Chips and Cheese](https://chipsandcheese.com)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Mysc.- Social Media On Your Own Terms](https://omnivore.app/me/mysc-social-media-on-your-own-terms-19164266f3e)
+	  collapsed:: true
+	  site:: [mysc.app](https://www.mysc.app/index.html)
+	  date-saved:: [[Aug 17th, 2024]]
 	- [Figma Reviews | Read Customer Service Reviews of figma.com](https://omnivore.app/me/figma-reviews-read-customer-service-reviews-of-figma-com-191636fb8fc)
 	  collapsed:: true
 	  site:: [Trustpilot](https://www.trustpilot.com/review/figma.com)

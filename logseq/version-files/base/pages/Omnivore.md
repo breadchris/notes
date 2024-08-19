@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [calvin.art](https://omnivore.app/me/calvin-art-19168592c7d)
+	  collapsed:: true
+	  site:: [calvin.art](https://calvin.art)
+	  date-saved:: [[Aug 18th, 2024]]
 	- [LiveJournal - Wikipedia](https://omnivore.app/me/live-journal-wikipedia-19166964174)
 	  collapsed:: true
 	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/LiveJournal)

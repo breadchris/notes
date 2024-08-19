@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [The Secret History: Tartt, Donna: 9781400031702: Amazon.com: Books](https://omnivore.app/me/the-secret-history-tartt-donna-9781400031702-amazon-com-books-19168f2f2a4)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/Secret-History-Donna-Tartt/dp/1400031702?dplnkId=c347b9e0-af1a-4263-91d3-0c2cc3492e47&nodl=1)
+	  author:: Donna Tartt
+	  date-saved:: [[Aug 18th, 2024]]
+	  date-published:: [[May 5th, 2015]]
 	- [calvin.art](https://omnivore.app/me/calvin-art-19168592c7d)
 	  collapsed:: true
 	  site:: [calvin.art](https://calvin.art)

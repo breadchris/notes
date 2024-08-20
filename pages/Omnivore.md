@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [HOW TO LUCID DREAM TONIGHT : r/LucidDreaming](https://omnivore.app/me/how-to-lucid-dream-tonight-r-lucid-dreaming-1916e080012)
+	  collapsed:: true
+	  site:: [reddit.com](https://www.reddit.com/r/LucidDreaming/comments/p6i6qp/how_to_lucid_dream_tonight/)
+	  author:: Interesting-Cup-7746
+	  date-saved:: [[Aug 19th, 2024]]
+	  date-published:: [[Aug 17th, 2021]]
 	- [An Interactive Intro to CRDTs | jakelazaroff.com](https://omnivore.app/me/an-interactive-intro-to-crd-ts-jakelazaroff-com-1916d9b2b7d)
 	  collapsed:: true
 	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)

@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [An Interactive Intro to CRDTs | jakelazaroff.com](https://omnivore.app/me/an-interactive-intro-to-crd-ts-jakelazaroff-com-1916d9b2b7d)
+	  collapsed:: true
+	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+	  date-saved:: [[Aug 19th, 2024]]
+	  date-published:: [[Oct 3rd, 2023]]
 	- [The Secret History: Tartt, Donna: 9781400031702: Amazon.com: Books](https://omnivore.app/me/the-secret-history-tartt-donna-9781400031702-amazon-com-books-19168f2f2a4)
 	  collapsed:: true
 	  site:: [amazon.com](https://www.amazon.com/Secret-History-Donna-Tartt/dp/1400031702?dplnkId=c347b9e0-af1a-4263-91d3-0c2cc3492e47&nodl=1)

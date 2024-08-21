@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [feat: support for Go modules to imports [needs unit test review] by switchupcb · Pull Request #1265 · traefik/yaegi](https://omnivore.app/me/feat-support-for-go-modules-to-imports-needs-unit-test-review-by-1917346e1b3)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/traefik/yaegi/pull/1265)
+	  author:: switchupcb
+	  date-saved:: [[Aug 20th, 2024]]
+	  date-published:: [[Apr 30th, 2001]]
 	- [HOW TO LUCID DREAM TONIGHT : r/LucidDreaming](https://omnivore.app/me/how-to-lucid-dream-tonight-r-lucid-dreaming-1916e080012)
 	  collapsed:: true
 	  site:: [reddit.com](https://www.reddit.com/r/LucidDreaming/comments/p6i6qp/how_to_lucid_dream_tonight/)

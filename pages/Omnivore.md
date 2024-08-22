@@ -6295,7 +6295,8 @@
 	- [An Interactive Intro to CRDTs | jakelazaroff.com](https://omnivore.app/me/an-interactive-intro-to-crd-ts-jakelazaroff-com-18afb6cbf07)
 	  collapsed:: true
 	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/an-interactive-intro-to-crdts)
-	  date-saved:: [[Oct 4th, 2023]]
+	  date-saved:: [[Aug 21st, 2024]]
+	  date-published:: [[Oct 3rd, 2023]]
 	- [Extracting Hacker News Book Recommendations with the ChatGPT API - reyem.dev blog](https://omnivore.app/me/extracting-hacker-news-book-recommendations-with-the-chat-gpt-ap-18af979c22a)
 	  collapsed:: true
 	  site:: [blog.reyem.dev](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api)

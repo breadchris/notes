@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [Content-driven websites for ambitious businesses and a healthier planet | hdoro.dev](https://omnivore.app/me/content-driven-websites-for-ambitious-businesses-and-a-healthier-19178cb61c6)
+	  collapsed:: true
+	  site:: [hdoro.dev](https://hdoro.dev)
+	  author:: Henrique Doro
+	  labels:: [[websites]]
+	  date-saved:: [[Aug 23rd, 2024]]
+	- [Help This Book - beta reading for nonfiction](https://omnivore.app/me/help-this-book-beta-reading-for-nonfiction-1917fc8dc6b)
+	  collapsed:: true
+	  site:: [helpthisbook.com](https://helpthisbook.com)
+	  date-saved:: [[Aug 23rd, 2024]]
+	- [What’s Really Going On in Machine Learning? Some Minimal Models—Stephen Wolfram Writings](https://omnivore.app/me/what-s-really-going-on-in-machine-learning-some-minimal-models-s-1917d06f4ee)
+	  collapsed:: true
+	  site:: [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
+	  date-saved:: [[Aug 22nd, 2024]]
+	  date-published:: [[Aug 21st, 2024]]
+	- [Building a collaborative text editor in Go](https://omnivore.app/me/building-a-collaborative-text-editor-in-go-19178cab72c)
+	  collapsed:: true
+	  site:: [databases.systems](https://databases.systems/posts/collaborative-editor)
+	  date-saved:: [[Aug 21st, 2024]]
+	  date-published:: [[Aug 11th, 2023]]
 	- [feat: support for Go modules to imports [needs unit test review] by switchupcb · Pull Request #1265 · traefik/yaegi](https://omnivore.app/me/feat-support-for-go-modules-to-imports-needs-unit-test-review-by-1917346e1b3)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/traefik/yaegi/pull/1265)

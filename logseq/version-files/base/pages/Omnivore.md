@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [black-forest-labs/flux: Official inference repo for FLUX.1 models](https://omnivore.app/me/black-forest-labs-flux-official-inference-repo-for-flux-1-models-19185b78990)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/black-forest-labs/flux?tab=readme-ov-file)
+	  date-saved:: [[Aug 24th, 2024]]
 	- [Content-driven websites for ambitious businesses and a healthier planet | hdoro.dev](https://omnivore.app/me/content-driven-websites-for-ambitious-businesses-and-a-healthier-19178cb61c6)
 	  collapsed:: true
 	  site:: [hdoro.dev](https://hdoro.dev)

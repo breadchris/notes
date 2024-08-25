@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [Looming Liability Machines (LLMs)](https://omnivore.app/me/looming-liability-machines-ll-ms-1918b2b9284)
+	  collapsed:: true
+	  site:: [Blogger](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html?m=1)
+	  author:: Murat
+	  date-saved:: [[Aug 25th, 2024]]
+	  date-published:: [[Aug 24th, 2024]]
+	- [From Datalog to SVG · inconvergent](https://omnivore.app/me/from-datalog-to-svg-inconvergent-1918b2a64ad)
+	  collapsed:: true
+	  site:: [inconvergent.net](https://inconvergent.net/2023/datalog-to-svg/)
+	  author:: inconvergent, anders hoff
+	  date-saved:: [[Aug 25th, 2024]]
+	- [Home - Strandbeest](https://omnivore.app/me/home-strandbeest-1918b288d34)
+	  collapsed:: true
+	  site:: [strandbeest.com](https://www.strandbeest.com)
+	  date-saved:: [[Aug 25th, 2024]]
+	- [He has the wisdom of an old man! 😱](https://omnivore.app/me/https-youtube-com-shorts-d-zpn-74-zqyq-4-si-7-b-7-h-bpg-bm-1-c-9-1918a6912dc)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/shorts/DZpn74zqyq4?si=7B7hBpgBM1c9S2cl)
+	  author:: Simon Squibb
+	  date-saved:: [[Aug 25th, 2024]]
 	- [I hacked my high school, and you should too. | breadchris](https://omnivore.app/me/i-hacked-my-high-school-and-you-should-too-breadchris-1918793171b)
 	  collapsed:: true
 	  site:: [breadchris.com](https://breadchris.com/blog/i-hacked-my-high-school-and-you-should-too/)

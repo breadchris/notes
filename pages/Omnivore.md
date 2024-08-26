@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Removing stuff is never obvious yet often better](https://omnivore.app/me/removing-stuff-is-never-obvious-yet-often-better-1918f3589dc)
+	  collapsed:: true
+	  site:: [Notes from Greg Kogan](https://www.gkogan.co/removing-stuff/)
+	  author:: Greg Kogan
+	  date-saved:: [[Aug 26th, 2024]]
+	  date-published:: [[Aug 25th, 2024]]
 	- [Looming Liability Machines (LLMs)](https://omnivore.app/me/looming-liability-machines-ll-ms-1918b2b9284)
 	  collapsed:: true
 	  site:: [Blogger](http://muratbuffalo.blogspot.com/2024/08/looming-liability-machines.html?m=1)

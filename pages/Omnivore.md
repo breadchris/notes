@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [MacOS X Malware Development | Home](https://omnivore.app/me/mac-os-x-malware-development-home-19190b6021e)
+	  collapsed:: true
+	  site:: [Home](https://0xf00sec.github.io/0x1A)
+	  author:: 0xf00
+	  date-saved:: [[Aug 26th, 2024]]
+	  date-published:: [[Mar 8th, 2024]]
 	- [Removing stuff is never obvious yet often better](https://omnivore.app/me/removing-stuff-is-never-obvious-yet-often-better-1918f3589dc)
 	  collapsed:: true
 	  site:: [Notes from Greg Kogan](https://www.gkogan.co/removing-stuff/)

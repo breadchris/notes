@@ -1,4 +1,35 @@
 ## 🔖 Articles
+	- [dotchain/dot: distributed data sync with operational transformation/transforms](https://omnivore.app/me/dotchain-dot-distributed-data-sync-with-operational-transformati-191967c9753)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/dotchain/dot)
+	  date-saved:: [[Aug 27th, 2024]]
+	- [Visualization of OT with a central server](https://omnivore.app/me/visualization-of-ot-with-a-central-server-191967bba83)
+	  collapsed:: true
+	  site:: [operational-transformation.github.io](https://operational-transformation.github.io)
+	  date-saved:: [[Aug 27th, 2024]]
+	- [The Monospace Web](https://omnivore.app/me/the-monospace-web-191966eab97)
+	  collapsed:: true
+	  site:: [owickstrom.github.io](https://owickstrom.github.io/the-monospace-web/)
+	  author:: Oskar Wickström
+	  date-saved:: [[Aug 27th, 2024]]
+	- [A Very Technical Look at BitMessage: Learning From a Dead Project · Zola Gonano](https://omnivore.app/me/a-very-technical-look-at-bit-message-learning-from-a-dead-projec-1919224252e)
+	  collapsed:: true
+	  site:: [Zola’s Blog](https://zolagonano.github.io/blog/posts/a-very-technical-look-at-bitmessage)
+	  author:: Zola Gonano
+	  date-saved:: [[Aug 26th, 2024]]
+	  date-published:: [[Aug 24th, 2024]]
+	- [Predicting the Future of Distributed Systems](https://omnivore.app/me/predicting-the-future-of-distributed-systems-19192232a96)
+	  collapsed:: true
+	  site:: [Colin Breck](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
+	  author:: Colin Breck
+	  date-saved:: [[Aug 26th, 2024]]
+	  date-published:: [[Aug 25th, 2024]]
+	- [NoSQL: The Love Child of Google, Amazon and ... Lotus Notes | WIRED](https://omnivore.app/me/no-sql-the-love-child-of-google-amazon-and-lotus-notes-wired-19191dd36df)
+	  collapsed:: true
+	  site:: [WIRED](https://web.archive.org/web/20221226064001/https://www.wired.com/2012/12/couchdb/)
+	  author:: Klint Finley
+	  date-saved:: [[Aug 26th, 2024]]
+	  date-published:: [[Dec 5th, 2012]]
 	- [MacOS X Malware Development | Home](https://omnivore.app/me/mac-os-x-malware-development-home-19190b6021e)
 	  collapsed:: true
 	  site:: [Home](https://0xf00sec.github.io/0x1A)
@@ -3756,7 +3787,7 @@
 	- [CRDTs go brrr](https://omnivore.app/me/crd-ts-go-brrr-18d42dbe1ce)
 	  collapsed:: true
 	  site:: [josephg.com](https://josephg.com/blog/crdts-go-brrr/)
-	  date-saved:: [[Jan 25th, 2024]]
+	  date-saved:: [[Aug 27th, 2024]]
 	  date-published:: [[Jul 30th, 2021]]
 	- [The rise and fall of the standard user interface • The Register](https://omnivore.app/me/the-rise-and-fall-of-the-standard-user-interface-the-register-18d419fefa3)
 	  collapsed:: true

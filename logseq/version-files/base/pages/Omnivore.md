@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [PICO-8 Education Edition for Web](https://omnivore.app/me/pico-8-education-edition-for-web-191a1653c4e)
+	  collapsed:: true
+	  site:: [lexaloffle.com](https://www.lexaloffle.com/bbs/?tid=47278)
+	  date-saved:: [[Aug 29th, 2024]]
+	  date-published:: [[Apr 5th, 2022]]
 	- [An infinite canvas tutorial](https://omnivore.app/me/an-infinite-canvas-tutorial-191a12959a9)
 	  collapsed:: true
 	  site:: [Infinite Canvas Tutorial](https://infinitecanvas.cc/example/culling)

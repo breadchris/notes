@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [An infinite canvas tutorial](https://omnivore.app/me/an-infinite-canvas-tutorial-191a12959a9)
+	  collapsed:: true
+	  site:: [Infinite Canvas Tutorial](https://infinitecanvas.cc/example/culling)
+	  date-saved:: [[Aug 29th, 2024]]
+	- [courses/prompt_engineering_interactive_tutorial at master · anthropics/courses](https://omnivore.app/me/courses-prompt-engineering-interactive-tutorial-at-master-anthro-191a1284f5e)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+	  date-saved:: [[Aug 29th, 2024]]
 	- [Video-to-ASCII](https://omnivore.app/me/video-to-ascii-1919f1f31f7)
 	  collapsed:: true
 	  site:: [collidingscopes.github.io](https://collidingscopes.github.io/ascii/)

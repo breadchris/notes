@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Video-to-ASCII](https://omnivore.app/me/video-to-ascii-1919f1f31f7)
+	  collapsed:: true
+	  site:: [collidingscopes.github.io](https://collidingscopes.github.io/ascii/)
+	  date-saved:: [[Aug 29th, 2024]]
+	- [Web Design Museum - Discover old websites, apps and software](https://omnivore.app/me/web-design-museum-discover-old-websites-apps-and-software-1919f1dcb2e)
+	  collapsed:: true
+	  site:: [Web Design Museum](https://www.webdesignmuseum.org)
+	  date-saved:: [[Aug 29th, 2024]]
 	- [dotchain/dot: distributed data sync with operational transformation/transforms](https://omnivore.app/me/dotchain-dot-distributed-data-sync-with-operational-transformati-191967c9753)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/dotchain/dot)

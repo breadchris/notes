@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [eliasdaler/crten: Display/render pixel art with CRT effect](https://omnivore.app/me/eliasdaler-crten-display-render-pixel-art-with-crt-effect-191b3e0eff4)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/eliasdaler/crten?tab=readme-ov-file)
+	  date-saved:: [[Sep 2nd, 2024]]
 	- [Game development in Go: Ebitengine shaders · Iskander (Alex) Sharipov technical blog](https://omnivore.app/me/game-development-in-go-ebitengine-shaders-iskander-alex-sharipov-191b3c878fa)
 	  collapsed:: true
 	  site:: [quasilyte.dev](https://www.quasilyte.dev/blog/post/ebitengine-shaders/)

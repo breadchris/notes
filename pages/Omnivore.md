@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [Layouts | SpaceHey](https://omnivore.app/me/layouts-space-hey-191b116c839)
+	  collapsed:: true
+	  site:: [SpaceHey](https://layouts.spacehey.com)
+	  date-saved:: [[Sep 1st, 2024]]
+	- [1,000,000 - An's Blog | SpaceHey](https://omnivore.app/me/1-000-000-an-s-blog-space-hey-191b113d5fc)
+	  collapsed:: true
+	  site:: [SpaceHey](https://blog.spacehey.com/entry?id=1245177)
+	  author:: An
+	  date-saved:: [[Sep 1st, 2024]]
 	- [PICO-8 Education Edition for Web](https://omnivore.app/me/pico-8-education-edition-for-web-191a1653c4e)
 	  collapsed:: true
 	  site:: [lexaloffle.com](https://www.lexaloffle.com/bbs/?tid=47278)

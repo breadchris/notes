@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Game development in Go: Ebitengine shaders · Iskander (Alex) Sharipov technical blog](https://omnivore.app/me/game-development-in-go-ebitengine-shaders-iskander-alex-sharipov-191b3c878fa)
+	  collapsed:: true
+	  site:: [quasilyte.dev](https://www.quasilyte.dev/blog/post/ebitengine-shaders/)
+	  author:: Iskander Sharipov
+	  date-saved:: [[Sep 2nd, 2024]]
+	  date-published:: [[Apr 30th, 2023]]
 	- [Layouts | SpaceHey](https://omnivore.app/me/layouts-space-hey-191b116c839)
 	  collapsed:: true
 	  site:: [SpaceHey](https://layouts.spacehey.com)

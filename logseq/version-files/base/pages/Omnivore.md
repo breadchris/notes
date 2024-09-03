@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Drift DJ Industries](https://omnivore.app/me/drift-dj-industries-191b9476370)
+	  collapsed:: true
+	  site:: [Drift DJ Industries](https://driftdj.com)
+	  date-saved:: [[Sep 3rd, 2024]]
 	- [We've had the best success by first converting the HTML to a simpler format (i.e... | Hacker News](https://omnivore.app/me/we-ve-had-the-best-success-by-first-converting-the-html-to-a-sim-191b88b9272)
 	  collapsed:: true
 	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=41429751)

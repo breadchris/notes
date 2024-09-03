@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [We've had the best success by first converting the HTML to a simpler format (i.e... | Hacker News](https://omnivore.app/me/we-ve-had-the-best-success-by-first-converting-the-html-to-a-sim-191b88b9272)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=41429751)
+	  date-saved:: [[Sep 3rd, 2024]]
 	- [eliasdaler/crten: Display/render pixel art with CRT effect](https://omnivore.app/me/eliasdaler-crten-display-render-pixel-art-with-crt-effect-191b3e0eff4)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/eliasdaler/crten?tab=readme-ov-file)

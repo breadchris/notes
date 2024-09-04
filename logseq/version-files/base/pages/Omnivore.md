@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [APOLLO by Daniel Moreno, Paltian](https://omnivore.app/me/apollo-by-daniel-moreno-paltian-191be9254a7)
+	  collapsed:: true
+	  site:: [itch.io](https://daz.itch.io/apollo)
+	  author:: notrocketscientist
+	  date-saved:: [[Sep 4th, 2024]]
 	- [Drift DJ Industries](https://omnivore.app/me/drift-dj-industries-191b9476370)
 	  collapsed:: true
 	  site:: [Drift DJ Industries](https://driftdj.com)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Image to Mesh Gradient](https://omnivore.app/me/image-to-mesh-gradient-191bef9bc91)
+	  collapsed:: true
+	  site:: [Photo Gradient](https://photogradient.com)
+	  date-saved:: [[Sep 4th, 2024]]
 	- [APOLLO by Daniel Moreno, Paltian](https://omnivore.app/me/apollo-by-daniel-moreno-paltian-191be9254a7)
 	  collapsed:: true
 	  site:: [itch.io](https://daz.itch.io/apollo)

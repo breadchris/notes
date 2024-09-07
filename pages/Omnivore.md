@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Why Login Security Sucks](https://omnivore.app/me/why-login-security-sucks-191c991d26a)
+	  collapsed:: true
+	  site:: [matduggan.com](https://matduggan.com/why-login-security-sucks/)
+	  author:: Mathew Duggan
+	  date-saved:: [[Sep 6th, 2024]]
+	  date-published:: [[Sep 6th, 2024]]
 	- [Image to Mesh Gradient](https://omnivore.app/me/image-to-mesh-gradient-191bef9bc91)
 	  collapsed:: true
 	  site:: [Photo Gradient](https://photogradient.com)

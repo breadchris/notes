@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [gRPC: The Ugly Parts](https://omnivore.app/me/g-rpc-the-ugly-parts-191ca41b913)
+	  collapsed:: true
+	  site:: [kmcd.dev](https://kmcd.dev/posts/grpc-the-ugly-parts/)
+	  author:: Kevin McDonald
+	  date-saved:: [[Sep 6th, 2024]]
+	  date-published:: [[Sep 2nd, 2024]]
 	- [Why Login Security Sucks](https://omnivore.app/me/why-login-security-sucks-191c991d26a)
 	  collapsed:: true
 	  site:: [matduggan.com](https://matduggan.com/why-login-security-sucks/)
@@ -125,12 +131,6 @@
 	  site:: [YouTube](https://youtube.com/shorts/DZpn74zqyq4?si=7B7hBpgBM1c9S2cl)
 	  author:: Simon Squibb
 	  date-saved:: [[Aug 25th, 2024]]
-	- [I hacked my high school, and you should too. | breadchris](https://omnivore.app/me/i-hacked-my-high-school-and-you-should-too-breadchris-1918793171b)
-	  collapsed:: true
-	  site:: [breadchris.com](https://breadchris.com/blog/i-hacked-my-high-school-and-you-should-too/)
-	  author:: breadchris
-	  date-saved:: [[Aug 24th, 2024]]
-	  date-published:: [[Jan 25th, 2024]]
 	- [black-forest-labs/flux: Official inference repo for FLUX.1 models](https://omnivore.app/me/black-forest-labs-flux-official-inference-repo-for-flux-1-models-19185b78990)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/black-forest-labs/flux?tab=readme-ov-file)

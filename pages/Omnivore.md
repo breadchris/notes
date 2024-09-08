@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [WebP: The WebPage compression format | purplesyringa's blog](https://omnivore.app/me/web-p-the-web-page-compression-format-purplesyringa-s-blog-191ce337a18)
+	  collapsed:: true
+	  site:: [purplesyringa's blog](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
+	  date-saved:: [[Sep 7th, 2024]]
+	  date-published:: [[Sep 6th, 2024]]
 	- [gRPC: The Ugly Parts](https://omnivore.app/me/g-rpc-the-ugly-parts-191ca41b913)
 	  collapsed:: true
 	  site:: [kmcd.dev](https://kmcd.dev/posts/grpc-the-ugly-parts/)

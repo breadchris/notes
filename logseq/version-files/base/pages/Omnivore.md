@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [monaco language client react wrapper with go syntax highlighting and gopls LSP over web sockets](https://omnivore.app/me/monaco-language-client-react-wrapper-with-go-syntax-highlighting-191da70040d)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/iam-abdul/c36e5374f4b5e3aa1148ae86d417c616)
+	  author:: iam-abdul
+	  date-saved:: [[Sep 9th, 2024]]
 	- [Every webpage deserves to be a place (Interconnected)](https://omnivore.app/me/every-webpage-deserves-to-be-a-place-interconnected-191d97a8547)
 	  collapsed:: true
 	  site:: [Interconnected, a blog by Matt Webb](https://interconnected.org/home/2024/09/05/cursor-party)

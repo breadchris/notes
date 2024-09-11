@@ -1,4 +1,26 @@
 ## 🔖 Articles
+	- [Monaco ATA](https://omnivore.app/me/monaco-ata-191de8160d9)
+	  collapsed:: true
+	  site:: [monaco-ts.netlify.app](https://monaco-ts.netlify.app)
+	  date-saved:: [[Sep 10th, 2024]]
+	- [[2205.13147] Matryoshka Representation Learning](https://omnivore.app/me/2205-13147-matryoshka-representation-learning-191dd9259da)
+	  collapsed:: true
+	  site:: [arXiv.org](https://arxiv.org/abs/2205.13147)
+	  author:: [Submitted on 26 May 2022 (v1), last revised 8 Feb 2024 (this version, v4)]
+	  date-saved:: [[Sep 10th, 2024]]
+	- [Features of your font you had no idea about · OlegWock](https://omnivore.app/me/features-of-your-font-you-had-no-idea-about-oleg-wock-191dd91201d)
+	  collapsed:: true
+	  site:: [sinja.io](https://sinja.io/blog/get-maximum-out-of-your-font)
+	  date-saved:: [[Sep 10th, 2024]]
+	  date-published:: [[Sep 9th, 2024]]
+	- [Parent links in Go ASTs - Eli Bendersky's website](https://omnivore.app/me/parent-links-in-go-as-ts-eli-bendersky-s-website-191dab1c1a7)
+	  collapsed:: true
+	  site:: [eli.thegreenplace.net](https://eli.thegreenplace.net/2022/parent-links-in-go-asts/)
+	  date-saved:: [[Sep 9th, 2024]]
+	- [Rewriting Go source code with AST tooling - Eli Bendersky's website](https://omnivore.app/me/rewriting-go-source-code-with-ast-tooling-eli-bendersky-s-websit-191dab13a3e)
+	  collapsed:: true
+	  site:: [eli.thegreenplace.net](https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/)
+	  date-saved:: [[Sep 9th, 2024]]
 	- [monaco language client react wrapper with go syntax highlighting and gopls LSP over web sockets](https://omnivore.app/me/monaco-language-client-react-wrapper-with-go-syntax-highlighting-191da70040d)
 	  collapsed:: true
 	  site:: [Gist](https://gist.github.com/iam-abdul/c36e5374f4b5e3aa1148ae86d417c616)

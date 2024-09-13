@@ -1,4 +1,21 @@
 ## 🔖 Articles
+	- [Your online portfolio - Carbonmade](https://omnivore.app/me/your-online-portfolio-carbonmade-191e950b7be)
+	  collapsed:: true
+	  site:: [Carbonmade](https://carbonmade.com/?campaign=c4)
+	  date-saved:: [[Sep 12th, 2024]]
+	- [Jean-Paul Jarreau](https://omnivore.app/me/jean-paul-jarreau-191e94e8033)
+	  collapsed:: true
+	  site:: [jeanpauljarreau.com](https://www.jeanpauljarreau.com)
+	  date-saved:: [[Sep 12th, 2024]]
+	- [GTF :: Why Haskell?](https://omnivore.app/me/gtf-why-haskell-191e906e74b)
+	  collapsed:: true
+	  site:: [gtf.io](https://www.gtf.io/musings/why-haskell)
+	  date-saved:: [[Sep 12th, 2024]]
+	  date-published:: [[Sep 9th, 2024]]
+	- [Avicted/galaxy_visualization_raylib: 100k real ( +100k random ) galaxies from a sector. Visualized with Raylib.](https://omnivore.app/me/avicted-galaxy-visualization-raylib-100-k-real-100-k-random-gala-191e7f8bafc)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/Avicted/galaxy_visualization_raylib)
+	  date-saved:: [[Sep 12th, 2024]]
 	- [Monaco ATA](https://omnivore.app/me/monaco-ata-191de8160d9)
 	  collapsed:: true
 	  site:: [monaco-ts.netlify.app](https://monaco-ts.netlify.app)

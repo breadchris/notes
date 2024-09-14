@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [https://dl.acm.org/doi/pdf/10.1145/3648188.3675127](https://omnivore.app/me/https-dl-acm-org-doi-pdf-10-1145-3648188-3675127-191f1782a72)
+	  collapsed:: true
+	  site:: [dl.acm.org](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
+	  date-saved:: [[Sep 14th, 2024]]
 	- [Tailwind Editor](https://omnivore.app/me/tailwind-editor-191ee607213)
 	  collapsed:: true
 	  site:: [shuffle.dev](https://shuffle.dev/tailwind)

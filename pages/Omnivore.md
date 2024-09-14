@@ -1,4 +1,16 @@
 ## 🔖 Articles
+	- [Tailwind Editor](https://omnivore.app/me/tailwind-editor-191ee607213)
+	  collapsed:: true
+	  site:: [shuffle.dev](https://shuffle.dev/tailwind)
+	  date-saved:: [[Sep 13th, 2024]]
+	- [Notes on OpenAI’s new o1 chain-of-thought models](https://omnivore.app/me/notes-on-open-ai-s-new-o-1-chain-of-thought-models-191ed14f068)
+	  collapsed:: true
+	  site:: [simonwillison.net](https://simonwillison.net/2024/Sep/12/openai-o1/)
+	  date-saved:: [[Sep 13th, 2024]]
+	- [Public Work by Cosmos](https://omnivore.app/me/public-work-by-cosmos-191ec352c01)
+	  collapsed:: true
+	  site:: [public.work](https://public.work)
+	  date-saved:: [[Sep 13th, 2024]]
 	- [Your online portfolio - Carbonmade](https://omnivore.app/me/your-online-portfolio-carbonmade-191e950b7be)
 	  collapsed:: true
 	  site:: [Carbonmade](https://carbonmade.com/?campaign=c4)

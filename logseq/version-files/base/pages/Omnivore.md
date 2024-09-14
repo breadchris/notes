@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Computer Languages History](https://omnivore.app/me/computer-languages-history-191f27bbe4c)
+	  collapsed:: true
+	  site:: [levenez.com](https://www.levenez.com/lang/)
+	  author:: Éric Lévénez
+	  date-saved:: [[Sep 14th, 2024]]
+	- [Degrees of deception: How America’s universities became debt factories – Anand Sanwal](https://omnivore.app/me/degrees-of-deception-how-america-s-universities-became-debt-fact-191f27b7292)
+	  collapsed:: true
+	  site:: [anandsanwal.me](https://anandsanwal.me/college-student-debt-deception/)
+	  date-saved:: [[Sep 14th, 2024]]
+	  date-published:: [[Sep 13th, 2024]]
 	- [https://dl.acm.org/doi/pdf/10.1145/3648188.3675127](https://omnivore.app/me/https-dl-acm-org-doi-pdf-10-1145-3648188-3675127-191f1782a72)
 	  collapsed:: true
 	  site:: [dl.acm.org](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)

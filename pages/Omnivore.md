@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [goldmark-frontmatter/demo at main · abhinav/goldmark-frontmatter](https://omnivore.app/me/goldmark-frontmatter-demo-at-main-abhinav-goldmark-frontmatter-191f2f305e8)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/abhinav/goldmark-frontmatter/tree/main/demo)
+	  date-saved:: [[Sep 14th, 2024]]
+	  date-published:: [[Jun 24th, 2024]]
 	- [Computer Languages History](https://omnivore.app/me/computer-languages-history-191f27bbe4c)
 	  collapsed:: true
 	  site:: [levenez.com](https://www.levenez.com/lang/)

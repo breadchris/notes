@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [URL path parameters and variables in Go (Golang) 1.22 and later](https://omnivore.app/me/url-path-parameters-and-variables-in-go-golang-1-22-and-later-191f42a76c7)
+	  collapsed:: true
+	  site:: [willem.dev](https://www.willem.dev/articles/url-path-parameters-in-routes/)
+	  author:: Willem Schots
+	  date-saved:: [[Sep 14th, 2024]]
+	  date-published:: [[Feb 14th, 2024]]
 	- [goldmark-frontmatter/demo at main · abhinav/goldmark-frontmatter](https://omnivore.app/me/goldmark-frontmatter-demo-at-main-abhinav-goldmark-frontmatter-191f2f305e8)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/abhinav/goldmark-frontmatter/tree/main/demo)

@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [plandex/app/server/model/prompts/create.go at a05d30b7e8bf3ccdfa1fb59d443701c064f3d96e · plandex-ai/plandex](https://omnivore.app/me/plandex-app-server-model-prompts-create-go-at-a-05-d-30-b-7-e-8--191f8a5b512)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/plandex-ai/plandex/blob/a05d30b7e8bf3ccdfa1fb59d443701c064f3d96e/app/server/model/prompts/create.go)
+	  date-saved:: [[Sep 15th, 2024]]
+	  date-published:: [[Jul 10th, 2024]]
+	- [Data Engineering Vault](https://omnivore.app/me/data-engineering-vault-191f86ff316)
+	  collapsed:: true
+	  site:: [ssp.sh](https://www.ssp.sh/brain/data-engineering/)
+	  date-saved:: [[Sep 15th, 2024]]
 	- [URL path parameters and variables in Go (Golang) 1.22 and later](https://omnivore.app/me/url-path-parameters-and-variables-in-go-golang-1-22-and-later-191f42a76c7)
 	  collapsed:: true
 	  site:: [willem.dev](https://www.willem.dev/articles/url-path-parameters-in-routes/)

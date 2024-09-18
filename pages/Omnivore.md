@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Books - Computing History](https://omnivore.app/me/books-computing-history-19203faa251)
+	  collapsed:: true
+	  site:: [computinghistory.org.uk](https://www.computinghistory.org.uk/sec/383/Books/)
+	  date-saved:: [[Sep 18th, 2024]]
 	- [plandex/app/server/model/prompts/create.go at a05d30b7e8bf3ccdfa1fb59d443701c064f3d96e · plandex-ai/plandex](https://omnivore.app/me/plandex-app-server-model-prompts-create-go-at-a-05-d-30-b-7-e-8--191f8a5b512)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/plandex-ai/plandex/blob/a05d30b7e8bf3ccdfa1fb59d443701c064f3d96e/app/server/model/prompts/create.go)

@@ -1,0 +1,120 @@
+<html lang="en" dir="auto"><head ><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta name="robots" content="index, follow"></meta><title >breadchris</title><meta name="description" content=""></meta><meta content="breadchris" name="author"></meta><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/" rel="canonical"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/static/styles.css" crossorigin="anonymous" rel="preload stylesheet" as="style"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/favicon.ico" rel="icon"></link><link rel="icon" type="image/png" sizes="16x16" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/favicon-16x16.png"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/favicon-32x32.png" sizes="32x32" rel="icon" type="image/png"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta content="#2e2e33" name="msapplication-TileColor"></meta><link type="application/rss+xml" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/index.xml" rel="alternate"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/index.json" rel="alternate" type="application/json"></link><meta property="og:title" content="breadchris"></meta><meta property="og:description" content=""></meta><meta property="og:type" content="website"></meta><meta content="http://localhost:8080/data/sites/generated/breadchris.com/latest" property="og:url"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:350" class="list dark vsc-initialized" id="top"><header data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:351" class="header"><nav data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:352" class="nav"><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:353" class="logo"><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/" accesskey="h" title="breadchris (Alt + H)">breadchris</a><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:355" class="entry-header"><button id="theme-toggle" accesskey="t" title="(Alt + T)"></button></div></div><ul id="menu"><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/blog" title="blog"><span >blog</span></a></li><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/resume" title="resume"><span >resume</span></a></li><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/tags/" title="tags"><span >tags</span></a></li><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/talks" title="talks"><span >talks</span></a></li></ul></nav></header><main data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:367" class="main"><article data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:234" class="post-single"><header class="post-header" data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:235"><h1 data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:236" class="post-title entry-hint-parent">Figuring it out</h1><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:237" class="post-meta"><span title="2024-01-27T21:09:07-08:00">January 27, 2024</span><span data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:239" class="ml-3">| breadchris</span></div></header><style >
+			pre,code {
+				tab-size: 2; /* Set the tab width to 4 spaces */
+				/*white-space: pre; Preserve whitespace and line breaks */
+			}
+			</style><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:248" class="post-content"><p>Someone shared <a href="https://twitter.com/karpathy/status/1751350002281300461">this</a> with me today. They said: &quot;yeah when I read this I thought of your exact thing lol&quot;. So it turns out that I am on to something. Let's take a look at how well I am meeting Andrej's ideal blogging platform:</p>
+<ul>
+<li>
+<p>Writing</p>
+<ul>
+<li>
+<p>✅ in markdown</p>
+</li>
+<li>
+<p>✅ with full WYSIWYG, not just split view (think: Typora)</p>
+<ul>
+<li>I am using <a href="https://tiptap.dev/">https://tiptap.dev/</a></li>
+</ul>
+</li>
+<li>
+<p>super easy to copy paste and add images</p>
+<ul>
+<li>
+<p>not yet, I have been itching to code this.</p>
+</li>
+<li>
+<p>tiptap does have an <a href="https://tiptap.dev/docs/editor/api/nodes/image">image thing</a>, which should be easy to add, but there are some more things to think through (where do the images get uploaded to?)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Deploying</p>
+<ul>
+<li>
+<p>✅ renders into static pages (think: Jekyll)</p>
+<ul>
+<li>SEO optimized with <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/adityatelange/hugo-PaperMod">papermod</a></li>
+</ul>
+</li>
+<li>
+<p>✅ super simple, super minimal html with no bloat</p>
+<ul>
+<li><a href="view-source:https://breadchris.com/blog/a-sustainable-thinker-always-wins/">view-source:https://breadchris.com/blog/a-sustainable-thinker-always-wins/</a></li>
+</ul>
+</li>
+<li>
+<p>⌛ hosting at a nice url</p>
+<ul>
+<li>
+<p>I have my site hosted at a nice url, <a href="http://breadchris.com">breadchris.com</a>, but what is a normal user's experience?</p>
+<ul>
+<li>I want to give you: <a href="http://you.justshare.io">you.justshare.io</a></li>
+</ul>
+</li>
+<li>
+<p>What if people want to bring their own domain?</p>
+</li>
+<li>
+<p>What if people could buy their custom domain through the site?</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Maintaining</p>
+<ul>
+<li>
+<p>⌛ analytics (think: Google Analytics)</p>
+<ul>
+<li>
+<p>I started to write <a href="https://github.com/lunabrain-ai/lunabrain/blob/main/pkg/server/log.go#L49">the code</a>, but it isn't done.</p>
+</li>
+<li>
+<p>My goal is to make it look like <a href="https://simpleanalytics.com/simpleanalytics.com?from=landing">simpleanalytics</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p>❌ comments section (think: Disqus)</p>
+<ul>
+<li>
+<p>TL; DR: I think there is much to explore here that I haven't thought through yet.</p>
+</li>
+<li>
+<p>I personally really like the clap feature of medium (their UI hides the feature very well so not many people use it, imo)</p>
+</li>
+<li>
+<p>I want to let people leave full length responses, but I want to give the author tools to decide to publish them or not.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Ownership</p>
+<ul>
+<li>
+<p>✅ full export, access/ownership of the raw files to perpetuity should the need arise to move elsewhere.</p>
+<ul>
+<li>
+<p>My blog posts get written to <a href="https://raw.githubusercontent.com/breadchris/notes/master/pages/lunabrain.md">a log</a> that I include in LogSeq.</p>
+</li>
+<li>
+<p>The database can be sqlite, so all your content is saved into a database</p>
+</li>
+<li>
+<p>The code is all <a href="https://github.com/lunabrain-ai/lunabrain/tree/main">open source</a></p>
+</li>
+<li>
+<p>Oh, and it runs as a single static executable. Not that anyone cares about that ;) we love node_modules</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script><script >hljs.highlightAll();</script><footer data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:253" class="post-footer"><ul data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:255" class="post-tags"><li data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:257" class="post-tag"><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/tags/100daystooffload">100daystooffload</a></li></ul></footer></article></main><footer data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:370" class="page-footer"></footer><footer data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:374" class="footer"><span >© 2024 <a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/">breadchris</a></span></footer></body></html>

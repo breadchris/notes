@@ -1,0 +1,69 @@
+<html lang="en" dir="auto"><head><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta content="index, follow" name="robots"></meta><title>breadchris</title><meta name="description" content=""></meta><meta name="author" content="breadchris"></meta><link rel="canonical" href="https://breadchris.com/"></link><link crossorigin="anonymous" rel="preload stylesheet" as="style" href="https://breadchris.com/static/styles.css"></link><link href="https://breadchris.com/favicon.ico" rel="icon"></link><link sizes="16x16" href="https://breadchris.com/favicon-16x16.png" rel="icon" type="image/png"></link><link href="https://breadchris.com/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32"></link><link href="https://breadchris.com/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="https://breadchris.com/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta name="msapplication-TileColor" content="#2e2e33"></meta><link href="https://breadchris.com/index.xml" rel="alternate" type="application/rss+xml"></link><link href="https://breadchris.com/index.json" rel="alternate" type="application/json"></link><meta content="breadchris" property="og:title"></meta><meta property="og:description" content=""></meta><meta property="og:type" content="website"></meta><meta content="https://breadchris.com" property="og:url"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body class="list dark vsc-initialized" id="top"><header class="header"><nav class="nav"><div class="logo"><a href="https://breadchris.com/" accesskey="h" title="breadchris (Alt + H)">breadchris</a><div class="entry-header"><button id="theme-toggle" accesskey="t" title="(Alt + T)"></button></div></div><ul id="menu"><li><a href="https://breadchris.com/blog" title="blog"><span>blog</span></a></li><li><a href="https://breadchris.com/resume" title="resume"><span>resume</span></a></li><li><a href="https://breadchris.com/tags/" title="tags"><span>tags</span></a></li><li><a href="https://breadchris.com/talks" title="talks"><span>talks</span></a></li></ul></nav></header><main class="main"><article class="post-single"><header class="post-header"><h1 class="post-title entry-hint-parent">go struct to ai stuff</h1><div class="post-meta"><span title="2024-10-15T22:41:07-07:00">October 15, 2024</span><span class="ml-3">| breadchris</span></div></header><style>
+			pre,code {
+				tab-size: 2; /* SetMap the tab width to 4 spaces */
+				/*white-space: pre; Preserve whitespace and line breaks */
+			}
+			</style><div class="post-content">&lt;p&gt;Being able to develop go in an interpreter feels magical. I feel like I can fly through errors or web design iterations. The particular feature I was working on today was something I have been wanting to do for a while, and kind of did with protobufs, but it didn&#39;t feel as good as this version.&lt;/p&gt;
+&lt;p&gt;Going from a go struct -&amp;gt; json schema -&amp;gt; chatgpt prompt -&amp;gt; go struct instance is pretty sick. On top of this, I have the struct -&amp;gt; html form builder which makes this whole thing feel super neat.&lt;/p&gt;
+&lt;p&gt;Outside of some missing functions &lt;code&gt;BuildForm2&lt;/code&gt; this is pretty much all the code that was needed to pull this off.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;	r.HandleFunc(&amp;quot;/new/ai&amp;quot;, func(w http.ResponseWriter, r *http.Request) {
+		if r.Method == http.MethodPost {
+			var recipe Recipe
+			schema, err := jsonschema.GenerateSchemaForType(recipe)
+			if err != nil {
+				http.Error(w, err.Error(), http.StatusInternalServerError)
+				return
+			}
+			req := openai.ChatCompletionRequest{
+				Model: openai.GPT4oMini,
+				Messages: []openai.ChatCompletionMessage{
+					{Role: &amp;quot;system&amp;quot;, Content: &amp;quot;You are a professional chef. You provide great recipes.&amp;quot;},
+					{Role: &amp;quot;user&amp;quot;, Content: &amp;quot;Create a new recipe for &amp;quot; + r.FormValue(&amp;quot;description&amp;quot;)},
+				},
+				ResponseFormat: &amp;amp;openai.ChatCompletionResponseFormat{
+					Type: openai.ChatCompletionResponseFormatTypeJSONSchema,
+					JSONSchema: &amp;amp;openai.ChatCompletionResponseFormatJSONSchema{
+						Name:   &amp;quot;create_recipe&amp;quot;,
+						Schema: schema,
+						Strict: true,
+					},
+				},
+			}
+			res, err := d.AI.Client.CreateChatCompletion(context.Background(), req)
+			if err != nil {
+				http.Error(w, err.Error(), http.StatusInternalServerError)
+				return
+			}
+
+			for _, choice := range res.Choices {
+				if choice.Message.Role == &amp;quot;assistant&amp;quot; {
+					err := json.Unmarshal([]byte(choice.Message.Content), &amp;amp;recipe)
+					if err != nil {
+						http.Error(w, err.Error(), http.StatusInternalServerError)
+						return
+					}
+				}
+			}
+
+			BuildForm2(&amp;quot;&amp;quot;, recipe, &amp;quot;&amp;quot;).RenderPage(w, r)
+			return
+		}
+		DefaultLayout(
+			Div(
+				ReloadNode(&amp;quot;vote.go&amp;quot;),
+				Class(&amp;quot;container mx-auto mt-10 p-5&amp;quot;),
+				Form(
+					HxPost(&amp;quot;/vote/new/ai&amp;quot;),
+					HxTarget(&amp;quot;#result&amp;quot;),
+					Input(Type(&amp;quot;text&amp;quot;), Name(&amp;quot;description&amp;quot;), Class(&amp;quot;input&amp;quot;), Placeholder(&amp;quot;Description&amp;quot;)),
+					Button(Class(&amp;quot;btn btn-neutral&amp;quot;), Type(&amp;quot;submit&amp;quot;), T(&amp;quot;Generate Recipe&amp;quot;)),
+				),
+				Div(Id(&amp;quot;result&amp;quot;)),
+			),
+		).RenderPage(w, r)
+		return
+	})
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/data/uploads/5ceb518e-994e-43f0-906b-982376a54142.png&#34; alt=&#34;Screenshot 2024-10-15 at 10.36.57 PM.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Something I have been thinking about too has been what the feeling of this type of development is starting to unlock. I would like to polish the code builder and put that up for people to use.&lt;/p&gt;
+</div><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script><script>hljs.highlightAll();</script><footer class="post-footer"><ul class="post-tags"><li class="post-tag"><a href="https://breadchris.com/tags/go">go</a></li></ul></footer></article></main><footer class="page-footer"></footer><footer class="footer"><span>© 2024 <a href="https://breadchris.com/">breadchris</a></span></footer></body></html>

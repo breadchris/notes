@@ -1,45 +1,45 @@
-<html lang="en" dir="auto"><head><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta name="robots" content="index, follow"></meta><title>breadchris</title><meta name="description" content=""></meta><meta content="breadchris" name="author"></meta><link href="https://breadchris.com/" rel="canonical"></link><link as="style" href="https://breadchris.com/static/styles.css" crossorigin="anonymous" rel="preload stylesheet"></link><link href="https://breadchris.com/favicon.ico" rel="icon"></link><link href="https://breadchris.com/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16"></link><link href="https://breadchris.com/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32"></link><link href="https://breadchris.com/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="https://breadchris.com/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta name="msapplication-TileColor" content="#2e2e33"></meta><link href="https://breadchris.com/index.xml" rel="alternate" type="application/rss+xml"></link><link href="https://breadchris.com/index.json" rel="alternate" type="application/json"></link><meta content="breadchris" property="og:title"></meta><meta property="og:description" content=""></meta><meta property="og:type" content="website"></meta><meta content="https://breadchris.com" property="og:url"></meta><meta name="twitter:card" content="summary"></meta><meta content="breadchris" name="twitter:title"></meta><meta name="twitter:description" content=""></meta></head><body class="list dark vsc-initialized" id="top"><header class="header"><nav class="nav"><div class="logo"><a href="https://breadchris.com/" accesskey="h" title="breadchris (Alt + H)">breadchris</a><div class="entry-header"><button id="theme-toggle" accesskey="t" title="(Alt + T)"></button></div></div><ul id="menu"><li><a title="blog" href="https://breadchris.com/blog"><span>blog</span></a></li><li><a href="https://breadchris.com/resume" title="resume"><span>resume</span></a></li><li><a href="https://breadchris.com/tags/" title="tags"><span>tags</span></a></li><li><a href="https://breadchris.com/talks" title="talks"><span>talks</span></a></li></ul></nav></header><main class="main"><article class="post-single"><header class="post-header"><h1 class="post-title entry-hint-parent">a stupid bug</h1><div class="post-meta"><span title="2024-02-29T09:46:31-08:00">February 29, 2024</span><span class="ml-3">| breadchris</span></div></header><style>
+<html lang="en" dir="auto"><head><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta content="IE=edge" http-equiv="X-UA-Compatible"></meta><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"></meta><meta name="robots" content="index, follow"></meta><title>breadchris</title><meta name="description" content=""></meta><meta name="author" content="breadchris"></meta><link href="https://breadchris.com/" rel="canonical"></link><link href="https://breadchris.com/static/styles.css" crossorigin="anonymous" rel="preload stylesheet" as="style"></link><link href="https://breadchris.com/favicon.ico" rel="icon"></link><link href="https://breadchris.com/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16"></link><link sizes="32x32" rel="icon" type="image/png" href="https://breadchris.com/favicon-32x32.png"></link><link href="https://breadchris.com/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="https://breadchris.com/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta content="#2e2e33" name="msapplication-TileColor"></meta><link href="https://breadchris.com/index.xml" type="application/rss+xml" rel="alternate"></link><link href="https://breadchris.com/index.json" rel="alternate" type="application/json"></link><meta property="og:title" content="breadchris"></meta><meta property="og:description" content=""></meta><meta property="og:type" content="website"></meta><meta content="https://breadchris.com" property="og:url"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body id="top" class="list dark vsc-initialized"><header class="header"><nav class="nav"><div class="logo"><a title="breadchris (Alt + H)" href="https://breadchris.com/" accesskey="h">breadchris</a><div class="entry-header"><button id="theme-toggle" accesskey="t" title="(Alt + T)"></button></div></div><ul id="menu"><li><a href="https://breadchris.com/blog" title="blog"><span>blog</span></a></li><li><a href="https://breadchris.com/resume" title="resume"><span>resume</span></a></li><li><a href="https://breadchris.com/tags/" title="tags"><span>tags</span></a></li><li><a href="https://breadchris.com/talks" title="talks"><span>talks</span></a></li></ul></nav></header><main class="main"><article class="post-single"><header class="post-header"><h1 class="post-title entry-hint-parent">a stupid bug</h1><div class="post-meta"><span title="2024-02-29T09:46:31-08:00">February 29, 2024</span><span class="ml-3">| breadchris</span></div></header><style>
 			pre,code {
 				tab-size: 2; /* SetMap the tab width to 4 spaces */
 				/*white-space: pre; Preserve whitespace and line breaks */
 			}
-			</style><div class="post-content">&lt;blockquote&gt;
-&lt;p&gt;func (f *SQLiteFile) getTotalSize() (int64, error) {&lt;/p&gt;
-&lt;p&gt;query :=&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; SELECT COUNT(*), COALESCE(LENGTH(fragment), 0)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; FROM file_fragments&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; WHERE file_id = (SELECT id FROM file_metadata WHERE path = ?)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; ORDER BY fragment_index DESC&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; LIMIT 1&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;`&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;rows, err := f.db.Query(query, f.path)&lt;/p&gt;
-&lt;p&gt;if err != nil {&lt;/p&gt;
-&lt;p&gt;return 0, errors.Wrapf(err, &amp;quot;failed to query file: %s&amp;quot;, f.path)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;for &lt;a href=&#34;http://rows.Next&#34;&gt;rows.Next&lt;/a&gt;() {&lt;/p&gt;
-&lt;p&gt;var count, lastFragmentSize int&lt;/p&gt;
-&lt;p&gt;err = rows.Scan(&amp;amp;count, &amp;amp;lastFragmentSize)&lt;/p&gt;
-&lt;p&gt;if err != nil {&lt;/p&gt;
-&lt;p&gt;return 0, err&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;totalSize := int64((count-1)* &lt;em&gt;fragmentSize&lt;/em&gt; + lastFragmentSize)&lt;/p&gt;
-&lt;p&gt;return totalSize, nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;return 0, errors.Errorf(&amp;quot;could not find file fragments for path: %s&amp;quot;, f.path)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This was the buggy code&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;query :=&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;SELECT COUNT(*), COALESCE(LENGTH(fragment), 0)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;FROM file_fragments&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;WHERE file_id = (SELECT id FROM file_metadata WHERE path = ?)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;ORDER BY fragment_index DESC&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;LIMIT 1;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;`&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;the semi colon was causing the problem&lt;/p&gt;
-&lt;p&gt;the error was incredibly ineffective bad parameter or other API misuse: not an error (21)\nfailed to query file: asdf.png\&lt;/p&gt;
-&lt;p&gt;chatgpt session &lt;a href=&#34;https://chat.openai.com/share/3d2b075f-55f3-4e5b-8b58-da65964da43b&#34;&gt;https://chat.openai.com/share/3d2b075f-55f3-4e5b-8b58-da65964da43b&lt;/a&gt; was somewhat helpful&lt;/p&gt;
+			</style><div class="post-content"><blockquote>
+<p>func (f *SQLiteFile) getTotalSize() (int64, error) {</p>
+<p>query :=</p>
+<p><code> SELECT COUNT(*), COALESCE(LENGTH(fragment), 0)</code></p>
+<p><code> FROM file_fragments</code></p>
+<p><code> WHERE file_id = (SELECT id FROM file_metadata WHERE path = ?)</code></p>
+<p><code> ORDER BY fragment_index DESC</code></p>
+<p><code> LIMIT 1</code></p>
+<p>`</p>
+<p><code> </code></p>
+<p>rows, err := f.db.Query(query, f.path)</p>
+<p>if err != nil {</p>
+<p>return 0, errors.Wrapf(err, &quot;failed to query file: %s&quot;, f.path)</p>
+<p>}</p>
+<p>for <a href="http://rows.Next">rows.Next</a>() {</p>
+<p>var count, lastFragmentSize int</p>
+<p>err = rows.Scan(&amp;count, &amp;lastFragmentSize)</p>
+<p>if err != nil {</p>
+<p>return 0, err</p>
+<p>}</p>
+<p>totalSize := int64((count-1)* <em>fragmentSize</em> + lastFragmentSize)</p>
+<p>return totalSize, nil</p>
+<p>}</p>
+<p>return 0, errors.Errorf(&quot;could not find file fragments for path: %s&quot;, f.path)</p>
+<p>}</p>
+</blockquote>
+<p>This was the buggy code</p>
+<blockquote>
+<p>query :=</p>
+<p><code>SELECT COUNT(*), COALESCE(LENGTH(fragment), 0)</code></p>
+<p><code>FROM file_fragments</code></p>
+<p><code>WHERE file_id = (SELECT id FROM file_metadata WHERE path = ?)</code></p>
+<p><code>ORDER BY fragment_index DESC</code></p>
+<p><code>LIMIT 1;</code></p>
+<p>`</p>
+</blockquote>
+<p>the semi colon was causing the problem</p>
+<p>the error was incredibly ineffective bad parameter or other API misuse: not an error (21)\nfailed to query file: asdf.png\</p>
+<p>chatgpt session <a href="https://chat.openai.com/share/3d2b075f-55f3-4e5b-8b58-da65964da43b">https://chat.openai.com/share/3d2b075f-55f3-4e5b-8b58-da65964da43b</a> was somewhat helpful</p>
 </div><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script><script>hljs.highlightAll();</script><footer class="post-footer"><ul class="post-tags"><li class="post-tag"><a href="https://breadchris.com/tags/go">go</a></li><li class="post-tag"><a href="https://breadchris.com/tags/bug">bug</a></li></ul></footer></article></main><footer class="page-footer"></footer><footer class="footer"><span>© 2024 <a href="https://breadchris.com/">breadchris</a></span></footer></body></html>

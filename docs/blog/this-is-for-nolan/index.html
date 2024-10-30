@@ -1,392 +1,392 @@
-<html lang="en" dir="auto"><head><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta content="index, follow" name="robots"></meta><title>breadchris</title><meta name="description" content=""></meta><meta name="author" content="breadchris"></meta><link href="https://breadchris.com/" rel="canonical"></link><link rel="preload stylesheet" as="style" href="https://breadchris.com/static/styles.css" crossorigin="anonymous"></link><link href="https://breadchris.com/favicon.ico" rel="icon"></link><link href="https://breadchris.com/favicon-16x16.png" type="image/png" sizes="16x16" rel="icon"></link><link href="https://breadchris.com/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32"></link><link href="https://breadchris.com/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="https://breadchris.com/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta name="msapplication-TileColor" content="#2e2e33"></meta><link href="https://breadchris.com/index.xml" type="application/rss+xml" rel="alternate"></link><link href="https://breadchris.com/index.json" rel="alternate" type="application/json"></link><meta property="og:title" content="breadchris"></meta><meta property="og:description" content=""></meta><meta content="website" property="og:type"></meta><meta property="og:url" content="https://breadchris.com"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body class="list dark vsc-initialized" id="top"><header class="header"><nav class="nav"><div class="logo"><a href="https://breadchris.com/" accesskey="h" title="breadchris (Alt + H)">breadchris</a><div class="entry-header"><button id="theme-toggle" accesskey="t" title="(Alt + T)"></button></div></div><ul id="menu"><li><a href="https://breadchris.com/blog" title="blog"><span>blog</span></a></li><li><a href="https://breadchris.com/resume" title="resume"><span>resume</span></a></li><li><a href="https://breadchris.com/tags/" title="tags"><span>tags</span></a></li><li><a href="https://breadchris.com/talks" title="talks"><span>talks</span></a></li></ul></nav></header><main class="main"><article class="post-single"><header class="post-header"><h1 class="post-title entry-hint-parent">This is for Nolan</h1><div class="post-meta"><span title="2024-01-26T13:56:20-08:00">January 26, 2024</span><span class="ml-3">| breadchris</span></div></header><style>
+<html lang="en" dir="auto"><head><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta name="robots" content="index, follow"></meta><title>breadchris</title><meta name="description" content=""></meta><meta name="author" content="breadchris"></meta><link href="https://breadchris.com/" rel="canonical"></link><link href="https://breadchris.com/static/styles.css" crossorigin="anonymous" rel="preload stylesheet" as="style"></link><link href="https://breadchris.com/favicon.ico" rel="icon"></link><link href="https://breadchris.com/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16"></link><link sizes="32x32" href="https://breadchris.com/favicon-32x32.png" rel="icon" type="image/png"></link><link href="https://breadchris.com/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="https://breadchris.com/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta name="msapplication-TileColor" content="#2e2e33"></meta><link href="https://breadchris.com/index.xml" rel="alternate" type="application/rss+xml"></link><link type="application/json" rel="alternate" href="https://breadchris.com/index.json"></link><meta property="og:title" content="breadchris"></meta><meta property="og:description" content=""></meta><meta property="og:type" content="website"></meta><meta content="https://breadchris.com" property="og:url"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body class="list dark vsc-initialized" id="top"><header class="header"><nav class="nav"><div class="logo"><a href="https://breadchris.com/" accesskey="h" title="breadchris (Alt + H)">breadchris</a><div class="entry-header"><button accesskey="t" title="(Alt + T)" id="theme-toggle"></button></div></div><ul id="menu"><li><a href="https://breadchris.com/blog" title="blog"><span>blog</span></a></li><li><a href="https://breadchris.com/resume" title="resume"><span>resume</span></a></li><li><a href="https://breadchris.com/tags/" title="tags"><span>tags</span></a></li><li><a href="https://breadchris.com/talks" title="talks"><span>talks</span></a></li></ul></nav></header><main class="main"><article class="post-single"><header class="post-header"><h1 class="post-title entry-hint-parent">This is for Nolan</h1><div class="post-meta"><span title="2024-01-26T13:56:20-08:00">January 26, 2024</span><span class="ml-3">| breadchris</span></div></header><style>
 			pre,code {
 				tab-size: 2; /* SetMap the tab width to 4 spaces */
 				/*white-space: pre; Preserve whitespace and line breaks */
 			}
-			</style><div class="post-content">&lt;p&gt;## SOLID principles&lt;/p&gt;
-&lt;p&gt;The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.&lt;/p&gt;
-&lt;p&gt;In Go, the SOLID principles can be applied as follows:&lt;/p&gt;
-&lt;p&gt;### Single Responsibility Principle (SRP)&lt;/p&gt;
-&lt;p&gt;Example:&lt;/p&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;type UserService struct {&lt;/p&gt;
-&lt;p&gt;userRepository UserRepository&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;func (us *UserService) CreateUser(user *User) error {&lt;/p&gt;
-&lt;p&gt;return us.userRepository.Create(user)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;func (us *UserService) GetUserByID(id int) (*User, error) {&lt;/p&gt;
-&lt;p&gt;return us.userRepository.GetById(id)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;In this example, the `UserService` has a single responsibility - to manage user-related operations. It does not have any knowledge of the underlying storage mechanism for the user data - this is delegated to the `UserRepository` interface.&lt;/p&gt;
-&lt;p&gt;- ### Open/Closed Principle&lt;/p&gt;
-&lt;p&gt;- Example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;type Shape interface {&lt;/p&gt;
-&lt;p&gt;Area() float64&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Rectangle struct {&lt;/p&gt;
-&lt;p&gt;Width float64&lt;/p&gt;
-&lt;p&gt;Height float64&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (r *Rectangle) Area() float64 {&lt;/p&gt;
-&lt;p&gt;return r.Width * r.Height&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Circle struct {&lt;/p&gt;
-&lt;p&gt;Radius float64&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (c *Circle) Area() float64 {&lt;/p&gt;
-&lt;p&gt;return math.Pi * c.Radius * c.Radius&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- In this example, we define a `Shape` interface that defines an `Area()` method. The `Rectangle` and `Circle` structs both implement this interface, and provide their own implementation of the `Area()` method. Now, if we want to add a new shape, we can simply create a new struct that implements the `Shape` interface without having to modify the existing code.&lt;/p&gt;
-&lt;p&gt;- ### Liskov Substitution Principle&lt;/p&gt;
-&lt;p&gt;- Example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;type Animal struct{}&lt;/p&gt;
-&lt;p&gt;- func (a *Animal) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Animal sound&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Dog struct {&lt;/p&gt;
-&lt;p&gt;Animal&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (d *Dog) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Woof!&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Cat struct {&lt;/p&gt;
-&lt;p&gt;Animal&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (c *Cat) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Meow!&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.&lt;/p&gt;
-&lt;p&gt;- ### Interface Segregation Principle&lt;/p&gt;
-&lt;p&gt;- Example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;type Animal struct{}&lt;/p&gt;
-&lt;p&gt;- func (a *Animal) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Animal sound&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Dog struct {&lt;/p&gt;
-&lt;p&gt;Animal&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (d *Dog) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Woof!&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Cat struct {&lt;/p&gt;
-&lt;p&gt;Animal&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (c *Cat) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Meow!&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.&lt;/p&gt;
-&lt;p&gt;- Interface Segregation Principle (ISP):&lt;/p&gt;
-&lt;p&gt;- Example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;type UserRepository interface {&lt;/p&gt;
-&lt;p&gt;Create(user *User) error&lt;/p&gt;
-&lt;p&gt;GetById(id int) (*User, error)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type PasswordRepository interface {&lt;/p&gt;
-&lt;p&gt;CreateHash(password string) (string, error)&lt;/p&gt;
-&lt;p&gt;ValidatePassword(hash, password string) error&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;In this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.&lt;/p&gt;
-&lt;p&gt;- ### Dependency Inversion Principle&lt;/p&gt;
-&lt;p&gt;- Example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;type Animal struct{}&lt;/p&gt;
-&lt;p&gt;- func (a *Animal) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Animal sound&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Dog struct {&lt;/p&gt;
-&lt;p&gt;Animal&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (d *Dog) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Woof!&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type Cat struct {&lt;/p&gt;
-&lt;p&gt;Animal&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- func (c *Cat) Speak() string {&lt;/p&gt;
-&lt;p&gt;return &amp;quot;Meow!&amp;quot;&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.&lt;/p&gt;
-&lt;p&gt;- ### Interface Segregation Principle (ISP):&lt;/p&gt;
-&lt;p&gt;- Example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;type UserRepository interface {&lt;/p&gt;
-&lt;p&gt;Create(user *User) error&lt;/p&gt;
-&lt;p&gt;GetById(id int) (*User, error)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- type PasswordRepository interface {&lt;/p&gt;
-&lt;p&gt;CreateHash(password string) (string, error)&lt;/p&gt;
-&lt;p&gt;ValidatePassword(hash, password string) error&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;In this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.&lt;/p&gt;
-&lt;p&gt;- ### Full Example&lt;/p&gt;
-&lt;p&gt;- Here is an example of a Go program that applies the SOLID principles:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;package main&lt;/p&gt;
-&lt;p&gt;import &amp;quot;fmt&amp;quot;&lt;/p&gt;
-&lt;p&gt;// Single Responsibility Principle:&lt;/p&gt;
-&lt;p&gt;// Each struct has only a single responsibility.&lt;/p&gt;
-&lt;p&gt;// User struct represents a user in the system.&lt;/p&gt;
-&lt;p&gt;type User struct {&lt;/p&gt;
-&lt;p&gt;ID int&lt;/p&gt;
-&lt;p&gt;FirstName string&lt;/p&gt;
-&lt;p&gt;LastName string&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- // UserService struct defines a service for managing users.&lt;/p&gt;
-&lt;p&gt;type UserService struct {&lt;/p&gt;
-&lt;p&gt;users []User&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// AddUser adds a new user to the service.&lt;/p&gt;
-&lt;p&gt;func (s *UserService) AddUser(u User) {&lt;/p&gt;
-&lt;p&gt;s.users = append(s.users, u)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// GetUserByID returns the user with the given ID.&lt;/p&gt;
-&lt;p&gt;func (s *UserService) GetUserByID(id int) User {&lt;/p&gt;
-&lt;p&gt;for _, u := range s.users {&lt;/p&gt;
-&lt;p&gt;if u.ID == id {&lt;/p&gt;
-&lt;p&gt;return u&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;return User{}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// Open/Closed Principle:&lt;/p&gt;
-&lt;p&gt;// The UserService is open for extension, but closed for modification.&lt;/p&gt;
-&lt;p&gt;// We can add new functionality by implementing new interfaces,&lt;/p&gt;
-&lt;p&gt;// rather than modifying the existing UserService.&lt;/p&gt;
-&lt;p&gt;// UserRepository defines the interface for a user repository.&lt;/p&gt;
-&lt;p&gt;type UserRepository interface {&lt;/p&gt;
-&lt;p&gt;SaveUser(u User) error&lt;/p&gt;
-&lt;p&gt;FindUserByID(id int) (User, error)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- // UserRepositoryImpl is a concrete implementation of the UserRepository interface.&lt;/p&gt;
-&lt;p&gt;// It uses the UserService to store and retrieve users.&lt;/p&gt;
-&lt;p&gt;type UserRepositoryImpl struct {&lt;/p&gt;
-&lt;p&gt;userService *UserService&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// SaveUser saves a user to the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;r.userService.AddUser(u)&lt;/p&gt;
-&lt;p&gt;return nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// FindUserByID finds a user with the given ID in the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {&lt;/p&gt;
-&lt;p&gt;return r.userService.GetUserByID(id), nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// Liskov Substitution Principle:&lt;/p&gt;
-&lt;p&gt;// The UserRepositoryImpl should be substitutable for the UserRepository interface.&lt;/p&gt;
-&lt;p&gt;// This means that we should be able to use either the interface or the concrete implementation&lt;/p&gt;
-&lt;p&gt;// without knowing which one we are using.&lt;/p&gt;
-&lt;p&gt;// UserController is a controller for managing users.&lt;/p&gt;
-&lt;p&gt;// It uses a UserRepository to store and retrieve users.&lt;/p&gt;
-&lt;p&gt;type UserController struct {&lt;/p&gt;
-&lt;p&gt;repository UserRepository&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- // NewUserController creates a new UserController.&lt;/p&gt;
-&lt;p&gt;func NewUserController(r UserRepository) *UserController {&lt;/p&gt;
-&lt;p&gt;return &amp;amp;UserController{repository: r}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// CreateUser creates a new user.&lt;/p&gt;
-&lt;p&gt;func (c *UserController) CreateUser(u User) error {&lt;/p&gt;
-&lt;p&gt;return c.repository.SaveUser(u)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// GetUserByID gets the user with the given ID.&lt;/p&gt;
-&lt;p&gt;func (c *UserController) GetUserByID(id int) (User, error) {&lt;/p&gt;
-&lt;p&gt;return c.repository.FindUserByID(id)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;func main() {&lt;/p&gt;
-&lt;p&gt;// Dependency Inversion Principle:&lt;/p&gt;
-&lt;p&gt;// The UserController depends on the UserRepository interface,&lt;/p&gt;
-&lt;p&gt;// rather than on the concrete UserRepositoryImpl.&lt;/p&gt;
-&lt;p&gt;// This allows us to use any implementation of the UserRepository interface with the UserController.&lt;/p&gt;
-&lt;p&gt;userService := &amp;amp;UserService{}&lt;/p&gt;
-&lt;p&gt;repository := &amp;amp;UserRepositoryImpl{userService: userService}&lt;/p&gt;
-&lt;p&gt;controller := NewUserController(repository)&lt;/p&gt;
-&lt;p&gt;user := User{ID: 1, FirstName: &amp;quot;John&amp;quot;, LastName: &amp;quot;Doe&amp;quot;}&lt;/p&gt;
-&lt;p&gt;controller.CreateUser(user)&lt;/p&gt;
-&lt;p&gt;retrievedUser, _ := controller.GetUserByID(1)&lt;/p&gt;
-&lt;p&gt;fmt.Println(retrievedUser)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- In this example, the `User` struct represents a user in the system and has only the data and methods that are related to a user. The `UserService` struct defines a service for managing users, and follows the Single Responsibility Principle by having only a single responsibility (managing users).&lt;/p&gt;
-&lt;p&gt;- The `UserRepository` interface and the `UserRepositoryImpl` struct demonstrate the Open/Closed Principle by defining an interface that can be implemented by different types, rather than modifying the existing `UserService`. The `UserRepositoryImpl` also satisfies the Liskov Substitution Principle by being substitutable for the `UserRepository` interface.&lt;/p&gt;
-&lt;p&gt;- Finally, the `UserController` struct applies the Dependency Inversion Principle by depending on the `UserRepository` interface, rather than on a specific implementation of the interface. This allows us to use any implementation of the `UserRepository` interface with the `UserController`. For example, a memory implementation of `UserRepository` could be used in unit tests and a real database implementation of `UserRepository` could be used in integration tests using test containers.&lt;/p&gt;
-&lt;p&gt;- To summarize, the SOLID principles are a set of design principles for object-oriented programming that can help to make software designs more understandable, flexible, and maintainable. In Go, these principles can be applied by using structs, interfaces, and other language features to create modular, decoupled code that is easy to understand and extend.&lt;/p&gt;
-&lt;p&gt;- Personally, following these principles have helped me to maintain a well tested, 50k+ line solo project.&lt;/p&gt;
-&lt;p&gt;- Hope this was a useful read!&lt;/p&gt;
-&lt;p&gt;- ## Questions&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;gt; Does this still fulfill SOLID, if `UserService` is removed (by moving the `UserService` logic to `UserRepository`)?&lt;/p&gt;
-&lt;p&gt;- In this specific example it wouldn&#39;t explicitly violate any principles, but if you were using a real database you&#39;d want to abstract the database queries away so that data access implementation details don&#39;t leak into your business logic.&lt;/p&gt;
-&lt;p&gt;- To illustrate using the example above, let&#39;s remove the `UserService` logic and move it to `UserRepositoryImpl`:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;var ErrUserNotFound = errors.New(&amp;quot;user was not found&amp;quot;)&lt;/p&gt;
-&lt;p&gt;- // Open/Closed Principle:&lt;/p&gt;
-&lt;p&gt;// The UserService is open for extension, but closed for modification.&lt;/p&gt;
-&lt;p&gt;// We can add new functionality by implementing new interfaces,&lt;/p&gt;
-&lt;p&gt;// rather than modifying the existing UserService.&lt;/p&gt;
-&lt;p&gt;// UserRepository defines the interface for a user repository.&lt;/p&gt;
-&lt;p&gt;type UserRepository interface {&lt;/p&gt;
-&lt;p&gt;SaveUser(u User) error&lt;/p&gt;
-&lt;p&gt;FindUserByID(id int) (User, error)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- // UserRepositoryImpl is a concrete implementation of the UserRepository interface.&lt;/p&gt;
-&lt;p&gt;// It uses an explicit users slice&lt;/p&gt;
-&lt;p&gt;type UserRepositoryImpl struct {&lt;/p&gt;
-&lt;p&gt;users []User&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// SaveUser saves a user to the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;s.users = append(s.users, u)&lt;/p&gt;
-&lt;p&gt;return nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;// FindUserByID finds a user with the given ID in the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {&lt;/p&gt;
-&lt;p&gt;for _, u := range s.users {&lt;/p&gt;
-&lt;p&gt;if u.ID == id {&lt;/p&gt;
-&lt;p&gt;return u, nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- return User{}, ErrUserNotFound&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- This looks fine, functionality stays the same and we removed 17 lines of code, but let&#39;s add a few things.&lt;/p&gt;
-&lt;p&gt;- What if we want to check if a user exists before saving it? We can do so with the following:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;// SaveUser saves a user to the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;for _, user := range s.users {&lt;/p&gt;
-&lt;p&gt;if u.ID == user.ID {&lt;/p&gt;
-&lt;p&gt;return ErrUserWithIDExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- s.users = append(s.users, u)&lt;/p&gt;
-&lt;p&gt;return nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- As our user base grows, maybe we want to add a unique `username` field to the `User`. We can add the field to the `User` struct and on save check if the username is unique and doesn&#39;t contain any bad words.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;var ErrUsernameExists = errors.New(&amp;quot;user with username already exists&amp;quot;)&lt;/p&gt;
-&lt;p&gt;- type User struct {&lt;/p&gt;
-&lt;p&gt;ID int&lt;/p&gt;
-&lt;p&gt;FirstName string&lt;/p&gt;
-&lt;p&gt;LastName string&lt;/p&gt;
-&lt;p&gt;Username string&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- // SaveUser saves a user to the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;if badWords.Contains(u.Username) {&lt;/p&gt;
-&lt;p&gt;return ErrUsernameInvalid&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- for _, user := range s.users {&lt;/p&gt;
-&lt;p&gt;if u.ID == user.ID {&lt;/p&gt;
-&lt;p&gt;return ErrUserWithIDExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- if u.Username == user.Username {&lt;/p&gt;
-&lt;p&gt;return ErrUsernameExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- s.users = append(s.users, u)&lt;/p&gt;
-&lt;p&gt;- return nil&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- Now if we wanted to rewrite SaveUser using an actual database:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;// SaveUser saves a user to the repository.&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;if badWords.Contains(u.Username) {&lt;/p&gt;
-&lt;p&gt;return ErrUsernameInvalid&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- users := r.db.Query(&amp;quot;select * from users&amp;quot;).ScanStructs(User{})&lt;/p&gt;
-&lt;p&gt;for _, user := range users {&lt;/p&gt;
-&lt;p&gt;if u.ID == user.ID {&lt;/p&gt;
-&lt;p&gt;return ErrUserWithIDExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- if u.Username == user.Username {&lt;/p&gt;
-&lt;p&gt;return ErrUsernameExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- return r.db.Exec(&amp;quot;insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)&amp;quot;, u.ID, u.FirstName, u.LastName, u.Username)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- Still maintainable but it could look something like this which I personally find more readable:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;if badWords.Contains(u.Username) {&lt;/p&gt;
-&lt;p&gt;return ErrUsernameInvalid&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- users := r.repository.QueryAllUsers()&lt;/p&gt;
-&lt;p&gt;for _, user := range users {&lt;/p&gt;
-&lt;p&gt;if u.ID == user.ID {&lt;/p&gt;
-&lt;p&gt;return ErrUserWithIDExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- if u.Username == user.Username {&lt;/p&gt;
-&lt;p&gt;return ErrUsernameExists&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- return r.repository.SaveUser(u)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- You could refactor even further:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;```go&lt;/p&gt;
-&lt;p&gt;func (r *UserRepositoryImpl) SaveUser(u User) error {&lt;/p&gt;
-&lt;p&gt;err := r.repository.ValidateUser(u);&lt;/p&gt;
-&lt;p&gt;if err != nil {&lt;/p&gt;
-&lt;p&gt;return err&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;- return r.repository.SaveUser(u)&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;- Now it&#39;s even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.&lt;/p&gt;
+			</style><div class="post-content"><p>## SOLID principles</p>
+<p>The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.</p>
+<p>In Go, the SOLID principles can be applied as follows:</p>
+<p>### Single Responsibility Principle (SRP)</p>
+<p>Example:</p>
+<p>```go</p>
+<p>type UserService struct {</p>
+<p>userRepository UserRepository</p>
+<p>}</p>
+<p>func (us *UserService) CreateUser(user *User) error {</p>
+<p>return us.userRepository.Create(user)</p>
+<p>}</p>
+<p>func (us *UserService) GetUserByID(id int) (*User, error) {</p>
+<p>return us.userRepository.GetById(id)</p>
+<p>}</p>
+<p>```</p>
+<p>In this example, the `UserService` has a single responsibility - to manage user-related operations. It does not have any knowledge of the underlying storage mechanism for the user data - this is delegated to the `UserRepository` interface.</p>
+<p>- ### Open/Closed Principle</p>
+<p>- Example:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>type Shape interface {</p>
+<p>Area() float64</p>
+<p>}</p>
+<p>- type Rectangle struct {</p>
+<p>Width float64</p>
+<p>Height float64</p>
+<p>}</p>
+<p>- func (r *Rectangle) Area() float64 {</p>
+<p>return r.Width * r.Height</p>
+<p>}</p>
+<p>- type Circle struct {</p>
+<p>Radius float64</p>
+<p>}</p>
+<p>- func (c *Circle) Area() float64 {</p>
+<p>return math.Pi * c.Radius * c.Radius</p>
+<p>}</p>
+<p>```</p>
+<p>- In this example, we define a `Shape` interface that defines an `Area()` method. The `Rectangle` and `Circle` structs both implement this interface, and provide their own implementation of the `Area()` method. Now, if we want to add a new shape, we can simply create a new struct that implements the `Shape` interface without having to modify the existing code.</p>
+<p>- ### Liskov Substitution Principle</p>
+<p>- Example:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>type Animal struct{}</p>
+<p>- func (a *Animal) Speak() string {</p>
+<p>return &quot;Animal sound&quot;</p>
+<p>}</p>
+<p>- type Dog struct {</p>
+<p>Animal</p>
+<p>}</p>
+<p>- func (d *Dog) Speak() string {</p>
+<p>return &quot;Woof!&quot;</p>
+<p>}</p>
+<p>- type Cat struct {</p>
+<p>Animal</p>
+<p>}</p>
+<p>- func (c *Cat) Speak() string {</p>
+<p>return &quot;Meow!&quot;</p>
+<p>}</p>
+<p>```</p>
+<p>- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.</p>
+<p>- ### Interface Segregation Principle</p>
+<p>- Example:</p>
+<ul>
+<li></li>
+</ul>
+<p>```</p>
+<p>type Animal struct{}</p>
+<p>- func (a *Animal) Speak() string {</p>
+<p>return &quot;Animal sound&quot;</p>
+<p>}</p>
+<p>- type Dog struct {</p>
+<p>Animal</p>
+<p>}</p>
+<p>- func (d *Dog) Speak() string {</p>
+<p>return &quot;Woof!&quot;</p>
+<p>}</p>
+<p>- type Cat struct {</p>
+<p>Animal</p>
+<p>}</p>
+<p>- func (c *Cat) Speak() string {</p>
+<p>return &quot;Meow!&quot;</p>
+<p>}</p>
+<p>```</p>
+<p>- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.</p>
+<p>- Interface Segregation Principle (ISP):</p>
+<p>- Example:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>type UserRepository interface {</p>
+<p>Create(user *User) error</p>
+<p>GetById(id int) (*User, error)</p>
+<p>}</p>
+<p>- type PasswordRepository interface {</p>
+<p>CreateHash(password string) (string, error)</p>
+<p>ValidatePassword(hash, password string) error</p>
+<p>}</p>
+<p>```</p>
+<p>In this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.</p>
+<p>- ### Dependency Inversion Principle</p>
+<p>- Example:</p>
+<ul>
+<li></li>
+</ul>
+<p>```</p>
+<p>type Animal struct{}</p>
+<p>- func (a *Animal) Speak() string {</p>
+<p>return &quot;Animal sound&quot;</p>
+<p>}</p>
+<p>- type Dog struct {</p>
+<p>Animal</p>
+<p>}</p>
+<p>- func (d *Dog) Speak() string {</p>
+<p>return &quot;Woof!&quot;</p>
+<p>}</p>
+<p>- type Cat struct {</p>
+<p>Animal</p>
+<p>}</p>
+<p>- func (c *Cat) Speak() string {</p>
+<p>return &quot;Meow!&quot;</p>
+<p>}</p>
+<p>```</p>
+<p>- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.</p>
+<p>- ### Interface Segregation Principle (ISP):</p>
+<p>- Example:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>type UserRepository interface {</p>
+<p>Create(user *User) error</p>
+<p>GetById(id int) (*User, error)</p>
+<p>}</p>
+<p>- type PasswordRepository interface {</p>
+<p>CreateHash(password string) (string, error)</p>
+<p>ValidatePassword(hash, password string) error</p>
+<p>}</p>
+<p>```</p>
+<p>In this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.</p>
+<p>- ### Full Example</p>
+<p>- Here is an example of a Go program that applies the SOLID principles:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>package main</p>
+<p>import &quot;fmt&quot;</p>
+<p>// Single Responsibility Principle:</p>
+<p>// Each struct has only a single responsibility.</p>
+<p>// User struct represents a user in the system.</p>
+<p>type User struct {</p>
+<p>ID int</p>
+<p>FirstName string</p>
+<p>LastName string</p>
+<p>}</p>
+<p>- // UserService struct defines a service for managing users.</p>
+<p>type UserService struct {</p>
+<p>users []User</p>
+<p>}</p>
+<p>// AddUser adds a new user to the service.</p>
+<p>func (s *UserService) AddUser(u User) {</p>
+<p>s.users = append(s.users, u)</p>
+<p>}</p>
+<p>// GetUserByID returns the user with the given ID.</p>
+<p>func (s *UserService) GetUserByID(id int) User {</p>
+<p>for _, u := range s.users {</p>
+<p>if u.ID == id {</p>
+<p>return u</p>
+<p>}</p>
+<p>}</p>
+<p>return User{}</p>
+<p>}</p>
+<p>// Open/Closed Principle:</p>
+<p>// The UserService is open for extension, but closed for modification.</p>
+<p>// We can add new functionality by implementing new interfaces,</p>
+<p>// rather than modifying the existing UserService.</p>
+<p>// UserRepository defines the interface for a user repository.</p>
+<p>type UserRepository interface {</p>
+<p>SaveUser(u User) error</p>
+<p>FindUserByID(id int) (User, error)</p>
+<p>}</p>
+<p>- // UserRepositoryImpl is a concrete implementation of the UserRepository interface.</p>
+<p>// It uses the UserService to store and retrieve users.</p>
+<p>type UserRepositoryImpl struct {</p>
+<p>userService *UserService</p>
+<p>}</p>
+<p>// SaveUser saves a user to the repository.</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>r.userService.AddUser(u)</p>
+<p>return nil</p>
+<p>}</p>
+<p>// FindUserByID finds a user with the given ID in the repository.</p>
+<p>func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {</p>
+<p>return r.userService.GetUserByID(id), nil</p>
+<p>}</p>
+<p>// Liskov Substitution Principle:</p>
+<p>// The UserRepositoryImpl should be substitutable for the UserRepository interface.</p>
+<p>// This means that we should be able to use either the interface or the concrete implementation</p>
+<p>// without knowing which one we are using.</p>
+<p>// UserController is a controller for managing users.</p>
+<p>// It uses a UserRepository to store and retrieve users.</p>
+<p>type UserController struct {</p>
+<p>repository UserRepository</p>
+<p>}</p>
+<p>- // NewUserController creates a new UserController.</p>
+<p>func NewUserController(r UserRepository) *UserController {</p>
+<p>return &amp;UserController{repository: r}</p>
+<p>}</p>
+<p>// CreateUser creates a new user.</p>
+<p>func (c *UserController) CreateUser(u User) error {</p>
+<p>return c.repository.SaveUser(u)</p>
+<p>}</p>
+<p>// GetUserByID gets the user with the given ID.</p>
+<p>func (c *UserController) GetUserByID(id int) (User, error) {</p>
+<p>return c.repository.FindUserByID(id)</p>
+<p>}</p>
+<p>func main() {</p>
+<p>// Dependency Inversion Principle:</p>
+<p>// The UserController depends on the UserRepository interface,</p>
+<p>// rather than on the concrete UserRepositoryImpl.</p>
+<p>// This allows us to use any implementation of the UserRepository interface with the UserController.</p>
+<p>userService := &amp;UserService{}</p>
+<p>repository := &amp;UserRepositoryImpl{userService: userService}</p>
+<p>controller := NewUserController(repository)</p>
+<p>user := User{ID: 1, FirstName: &quot;John&quot;, LastName: &quot;Doe&quot;}</p>
+<p>controller.CreateUser(user)</p>
+<p>retrievedUser, _ := controller.GetUserByID(1)</p>
+<p>fmt.Println(retrievedUser)</p>
+<p>}</p>
+<p>```</p>
+<p>- In this example, the `User` struct represents a user in the system and has only the data and methods that are related to a user. The `UserService` struct defines a service for managing users, and follows the Single Responsibility Principle by having only a single responsibility (managing users).</p>
+<p>- The `UserRepository` interface and the `UserRepositoryImpl` struct demonstrate the Open/Closed Principle by defining an interface that can be implemented by different types, rather than modifying the existing `UserService`. The `UserRepositoryImpl` also satisfies the Liskov Substitution Principle by being substitutable for the `UserRepository` interface.</p>
+<p>- Finally, the `UserController` struct applies the Dependency Inversion Principle by depending on the `UserRepository` interface, rather than on a specific implementation of the interface. This allows us to use any implementation of the `UserRepository` interface with the `UserController`. For example, a memory implementation of `UserRepository` could be used in unit tests and a real database implementation of `UserRepository` could be used in integration tests using test containers.</p>
+<p>- To summarize, the SOLID principles are a set of design principles for object-oriented programming that can help to make software designs more understandable, flexible, and maintainable. In Go, these principles can be applied by using structs, interfaces, and other language features to create modular, decoupled code that is easy to understand and extend.</p>
+<p>- Personally, following these principles have helped me to maintain a well tested, 50k+ line solo project.</p>
+<p>- Hope this was a useful read!</p>
+<p>- ## Questions</p>
+<ul>
+<li></li>
+</ul>
+<p>&gt; Does this still fulfill SOLID, if `UserService` is removed (by moving the `UserService` logic to `UserRepository`)?</p>
+<p>- In this specific example it wouldn't explicitly violate any principles, but if you were using a real database you'd want to abstract the database queries away so that data access implementation details don't leak into your business logic.</p>
+<p>- To illustrate using the example above, let's remove the `UserService` logic and move it to `UserRepositoryImpl`:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>var ErrUserNotFound = errors.New(&quot;user was not found&quot;)</p>
+<p>- // Open/Closed Principle:</p>
+<p>// The UserService is open for extension, but closed for modification.</p>
+<p>// We can add new functionality by implementing new interfaces,</p>
+<p>// rather than modifying the existing UserService.</p>
+<p>// UserRepository defines the interface for a user repository.</p>
+<p>type UserRepository interface {</p>
+<p>SaveUser(u User) error</p>
+<p>FindUserByID(id int) (User, error)</p>
+<p>}</p>
+<p>- // UserRepositoryImpl is a concrete implementation of the UserRepository interface.</p>
+<p>// It uses an explicit users slice</p>
+<p>type UserRepositoryImpl struct {</p>
+<p>users []User</p>
+<p>}</p>
+<p>// SaveUser saves a user to the repository.</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>s.users = append(s.users, u)</p>
+<p>return nil</p>
+<p>}</p>
+<p>// FindUserByID finds a user with the given ID in the repository.</p>
+<p>func (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {</p>
+<p>for _, u := range s.users {</p>
+<p>if u.ID == id {</p>
+<p>return u, nil</p>
+<p>}</p>
+<p>}</p>
+<p>- return User{}, ErrUserNotFound</p>
+<p>}</p>
+<p>```</p>
+<p>- This looks fine, functionality stays the same and we removed 17 lines of code, but let's add a few things.</p>
+<p>- What if we want to check if a user exists before saving it? We can do so with the following:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>// SaveUser saves a user to the repository.</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>for _, user := range s.users {</p>
+<p>if u.ID == user.ID {</p>
+<p>return ErrUserWithIDExists</p>
+<p>}</p>
+<p>}</p>
+<p>- s.users = append(s.users, u)</p>
+<p>return nil</p>
+<p>}</p>
+<p>```</p>
+<p>- As our user base grows, maybe we want to add a unique `username` field to the `User`. We can add the field to the `User` struct and on save check if the username is unique and doesn't contain any bad words.</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>var ErrUsernameExists = errors.New(&quot;user with username already exists&quot;)</p>
+<p>- type User struct {</p>
+<p>ID int</p>
+<p>FirstName string</p>
+<p>LastName string</p>
+<p>Username string</p>
+<p>}</p>
+<p>- // SaveUser saves a user to the repository.</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>if badWords.Contains(u.Username) {</p>
+<p>return ErrUsernameInvalid</p>
+<p>}</p>
+<p>- for _, user := range s.users {</p>
+<p>if u.ID == user.ID {</p>
+<p>return ErrUserWithIDExists</p>
+<p>}</p>
+<p>- if u.Username == user.Username {</p>
+<p>return ErrUsernameExists</p>
+<p>}</p>
+<p>}</p>
+<p>- s.users = append(s.users, u)</p>
+<p>- return nil</p>
+<p>}</p>
+<p>```</p>
+<p>- Now if we wanted to rewrite SaveUser using an actual database:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>// SaveUser saves a user to the repository.</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>if badWords.Contains(u.Username) {</p>
+<p>return ErrUsernameInvalid</p>
+<p>}</p>
+<p>- users := r.db.Query(&quot;select * from users&quot;).ScanStructs(User{})</p>
+<p>for _, user := range users {</p>
+<p>if u.ID == user.ID {</p>
+<p>return ErrUserWithIDExists</p>
+<p>}</p>
+<p>- if u.Username == user.Username {</p>
+<p>return ErrUsernameExists</p>
+<p>}</p>
+<p>}</p>
+<p>- return r.db.Exec(&quot;insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)&quot;, u.ID, u.FirstName, u.LastName, u.Username)</p>
+<p>}</p>
+<p>```</p>
+<p>- Still maintainable but it could look something like this which I personally find more readable:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>if badWords.Contains(u.Username) {</p>
+<p>return ErrUsernameInvalid</p>
+<p>}</p>
+<p>- users := r.repository.QueryAllUsers()</p>
+<p>for _, user := range users {</p>
+<p>if u.ID == user.ID {</p>
+<p>return ErrUserWithIDExists</p>
+<p>}</p>
+<p>- if u.Username == user.Username {</p>
+<p>return ErrUsernameExists</p>
+<p>}</p>
+<p>}</p>
+<p>- return r.repository.SaveUser(u)</p>
+<p>}</p>
+<p>```</p>
+<p>- You could refactor even further:</p>
+<ul>
+<li></li>
+</ul>
+<p>```go</p>
+<p>func (r *UserRepositoryImpl) SaveUser(u User) error {</p>
+<p>err := r.repository.ValidateUser(u);</p>
+<p>if err != nil {</p>
+<p>return err</p>
+<p>}</p>
+<p>- return r.repository.SaveUser(u)</p>
+<p>}</p>
+<p>```</p>
+<p>- Now it's even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.</p>
 </div><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script><script>hljs.highlightAll();</script><footer class="post-footer"><ul class="post-tags"><li class="post-tag"><a href="https://breadchris.com/tags/blog/post">blog/post</a></li></ul></footer></article></main><footer class="page-footer"></footer><footer class="footer"><span>© 2024 <a href="https://breadchris.com/">breadchris</a></span></footer></body></html>

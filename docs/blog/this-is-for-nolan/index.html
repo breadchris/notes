@@ -1,245 +1,9 @@
-<!DOCTYPE html>
-<html lang="en" dir="auto">
-
-<head><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>This is for Nolan | breadchris</title>
-<meta name="keywords" content="blog/post">
-<meta name="description" content="## SOLID principles
-The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
-In Go, the SOLID principles can be applied as follows:
-### Single Responsibility Principle (SRP)
-Example:
-```go
-type UserService struct {
-userRepository UserRepository
-}
-func (us *UserService) CreateUser(user *User) error {
-return us.userRepository.Create(user)
-}
-func (us *UserService) GetUserByID(id int) (*User, error) {">
-<meta name="author" content="breadchris">
-<link rel="canonical" href="https://breadchris.com/blog/this-is-for-nolan/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.7d0dbc7bebc97247baddbf44f81f3261912c9f64c3f03500922375b9988f4ea9.css" integrity="sha256-fQ28e&#43;vJcke63b9E&#43;B8yYZEsn2TD8DUAkiN1uZiPTqk=" rel="preload stylesheet" as="style">
-<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
-    onload="hljs.initHighlightingOnLoad();"></script>
-<link rel="icon" href="https://breadchris.com/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://breadchris.com/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://breadchris.com/apple-touch-icon.png">
-<link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
-</noscript><script defer data-domain="breadchris.com" src="https://plausible.io/js/script.js"></script><meta property="og:title" content="This is for Nolan" />
-<meta property="og:description" content="## SOLID principles
-The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
-In Go, the SOLID principles can be applied as follows:
-### Single Responsibility Principle (SRP)
-Example:
-```go
-type UserService struct {
-userRepository UserRepository
-}
-func (us *UserService) CreateUser(user *User) error {
-return us.userRepository.Create(user)
-}
-func (us *UserService) GetUserByID(id int) (*User, error) {" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://breadchris.com/blog/this-is-for-nolan/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2024-01-26T00:00:00+00:00" />
-<meta property="article:modified_time" content="2024-01-26T00:00:00+00:00" />
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="This is for Nolan"/>
-<meta name="twitter:description" content="## SOLID principles
-The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.
-In Go, the SOLID principles can be applied as follows:
-### Single Responsibility Principle (SRP)
-Example:
-```go
-type UserService struct {
-userRepository UserRepository
-}
-func (us *UserService) CreateUser(user *User) error {
-return us.userRepository.Create(user)
-}
-func (us *UserService) GetUserByID(id int) (*User, error) {"/>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [, 
-    {
-      "@type": "ListItem",
-      "position":  2 ,
-      "name": "Blogs",
-      "item": "https://breadchris.com/blog/"
-    }, 
-    {
-      "@type": "ListItem",
-      "position":  3 ,
-      "name": "This is for Nolan",
-      "item": "https://breadchris.com/blog/this-is-for-nolan/"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "This is for Nolan",
-  "name": "This is for Nolan",
-  "description": "## SOLID principles\nThe set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.\nIn Go, the SOLID principles can be applied as follows:\n### Single Responsibility Principle (SRP)\nExample:\n```go\ntype UserService struct {\nuserRepository UserRepository\n}\nfunc (us *UserService) CreateUser(user *User) error {\nreturn us.userRepository.Create(user)\n}\nfunc (us *UserService) GetUserByID(id int) (*User, error) {",
-  "keywords": [
-    "blog/post"
-  ],
-  "articleBody": "## SOLID principles\nThe set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.\nIn Go, the SOLID principles can be applied as follows:\n### Single Responsibility Principle (SRP)\nExample:\n```go\ntype UserService struct {\nuserRepository UserRepository\n}\nfunc (us *UserService) CreateUser(user *User) error {\nreturn us.userRepository.Create(user)\n}\nfunc (us *UserService) GetUserByID(id int) (*User, error) {\nreturn us.userRepository.GetById(id)\n}\n```\nIn this example, the `UserService` has a single responsibility - to manage user-related operations. It does not have any knowledge of the underlying storage mechanism for the user data - this is delegated to the `UserRepository` interface.\n- ### Open/Closed Principle\n- Example:\n```go\ntype Shape interface {\nArea() float64\n}\n- type Rectangle struct {\nWidth float64\nHeight float64\n}\n- func (r *Rectangle) Area() float64 {\nreturn r.Width * r.Height\n}\n- type Circle struct {\nRadius float64\n}\n- func (c *Circle) Area() float64 {\nreturn math.Pi * c.Radius * c.Radius\n}\n```\n- In this example, we define a `Shape` interface that defines an `Area()` method. The `Rectangle` and `Circle` structs both implement this interface, and provide their own implementation of the `Area()` method. Now, if we want to add a new shape, we can simply create a new struct that implements the `Shape` interface without having to modify the existing code.\n- ### Liskov Substitution Principle\n- Example:\n```go\ntype Animal struct{}\n- func (a *Animal) Speak() string {\nreturn “Animal sound”\n}\n- type Dog struct {\nAnimal\n}\n- func (d *Dog) Speak() string {\nreturn “Woof!”\n}\n- type Cat struct {\nAnimal\n}\n- func (c *Cat) Speak() string {\nreturn “Meow!”\n}\n```\n- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.\n- ### Interface Segregation Principle\n- Example:\n```\ntype Animal struct{}\n- func (a *Animal) Speak() string {\nreturn “Animal sound”\n}\n- type Dog struct {\nAnimal\n}\n- func (d *Dog) Speak() string {\nreturn “Woof!”\n}\n- type Cat struct {\nAnimal\n}\n- func (c *Cat) Speak() string {\nreturn “Meow!”\n}\n```\n- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.\n- Interface Segregation Principle (ISP):\n- Example:\n```go\ntype UserRepository interface {\nCreate(user *User) error\nGetById(id int) (*User, error)\n}\n- type PasswordRepository interface {\nCreateHash(password string) (string, error)\nValidatePassword(hash, password string) error\n}\n```\nIn this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.\n- ### Dependency Inversion Principle\n- Example:\n```\ntype Animal struct{}\n- func (a *Animal) Speak() string {\nreturn “Animal sound”\n}\n- type Dog struct {\nAnimal\n}\n- func (d *Dog) Speak() string {\nreturn “Woof!”\n}\n- type Cat struct {\nAnimal\n}\n- func (c *Cat) Speak() string {\nreturn “Meow!”\n}\n```\n- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.\n- ### Interface Segregation Principle (ISP):\n- Example:\n```go\ntype UserRepository interface {\nCreate(user *User) error\nGetById(id int) (*User, error)\n}\n- type PasswordRepository interface {\nCreateHash(password string) (string, error)\nValidatePassword(hash, password string) error\n}\n```\nIn this example, we have two distinct interfaces - `UserRepository` and `PasswordRepository`. Each interface is specific to a particular responsibility - one for managing user-related operations, and one for managing password-related operations. This is preferable to having a single, monolithic interface that attempts to cover both responsibilities.\n- ### Full Example\n- Here is an example of a Go program that applies the SOLID principles:\n```go\npackage main\nimport “fmt”\n// Single Responsibility Principle:\n// Each struct has only a single responsibility.\n// User struct represents a user in the system.\ntype User struct {\nID int\nFirstName string\nLastName string\n}\n- // UserService struct defines a service for managing users.\ntype UserService struct {\nusers []User\n}\n// AddUser adds a new user to the service.\nfunc (s *UserService) AddUser(u User) {\ns.users = append(s.users, u)\n}\n// GetUserByID returns the user with the given ID.\nfunc (s *UserService) GetUserByID(id int) User {\nfor _, u := range s.users {\nif u.ID == id {\nreturn u\n}\n}\nreturn User{}\n}\n// Open/Closed Principle:\n// The UserService is open for extension, but closed for modification.\n// We can add new functionality by implementing new interfaces,\n// rather than modifying the existing UserService.\n// UserRepository defines the interface for a user repository.\ntype UserRepository interface {\nSaveUser(u User) error\nFindUserByID(id int) (User, error)\n}\n- // UserRepositoryImpl is a concrete implementation of the UserRepository interface.\n// It uses the UserService to store and retrieve users.\ntype UserRepositoryImpl struct {\nuserService *UserService\n}\n// SaveUser saves a user to the repository.\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\nr.userService.AddUser(u)\nreturn nil\n}\n// FindUserByID finds a user with the given ID in the repository.\nfunc (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {\nreturn r.userService.GetUserByID(id), nil\n}\n// Liskov Substitution Principle:\n// The UserRepositoryImpl should be substitutable for the UserRepository interface.\n// This means that we should be able to use either the interface or the concrete implementation\n// without knowing which one we are using.\n// UserController is a controller for managing users.\n// It uses a UserRepository to store and retrieve users.\ntype UserController struct {\nrepository UserRepository\n}\n- // NewUserController creates a new UserController.\nfunc NewUserController(r UserRepository) *UserController {\nreturn \u0026UserController{repository: r}\n}\n// CreateUser creates a new user.\nfunc (c *UserController) CreateUser(u User) error {\nreturn c.repository.SaveUser(u)\n}\n// GetUserByID gets the user with the given ID.\nfunc (c *UserController) GetUserByID(id int) (User, error) {\nreturn c.repository.FindUserByID(id)\n}\nfunc main() {\n// Dependency Inversion Principle:\n// The UserController depends on the UserRepository interface,\n// rather than on the concrete UserRepositoryImpl.\n// This allows us to use any implementation of the UserRepository interface with the UserController.\nuserService := \u0026UserService{}\nrepository := \u0026UserRepositoryImpl{userService: userService}\ncontroller := NewUserController(repository)\nuser := User{ID: 1, FirstName: “John”, LastName: “Doe”}\ncontroller.CreateUser(user)\nretrievedUser, _ := controller.GetUserByID(1)\nfmt.Println(retrievedUser)\n}\n```\n- In this example, the `User` struct represents a user in the system and has only the data and methods that are related to a user. The `UserService` struct defines a service for managing users, and follows the Single Responsibility Principle by having only a single responsibility (managing users).\n- The `UserRepository` interface and the `UserRepositoryImpl` struct demonstrate the Open/Closed Principle by defining an interface that can be implemented by different types, rather than modifying the existing `UserService`. The `UserRepositoryImpl` also satisfies the Liskov Substitution Principle by being substitutable for the `UserRepository` interface.\n- Finally, the `UserController` struct applies the Dependency Inversion Principle by depending on the `UserRepository` interface, rather than on a specific implementation of the interface. This allows us to use any implementation of the `UserRepository` interface with the `UserController`. For example, a memory implementation of `UserRepository` could be used in unit tests and a real database implementation of `UserRepository` could be used in integration tests using test containers.\n- To summarize, the SOLID principles are a set of design principles for object-oriented programming that can help to make software designs more understandable, flexible, and maintainable. In Go, these principles can be applied by using structs, interfaces, and other language features to create modular, decoupled code that is easy to understand and extend.\n- Personally, following these principles have helped me to maintain a well tested, 50k+ line solo project.\n- Hope this was a useful read!\n- ## Questions\n\u003e Does this still fulfill SOLID, if `UserService` is removed (by moving the `UserService` logic to `UserRepository`)?\n- In this specific example it wouldn’t explicitly violate any principles, but if you were using a real database you’d want to abstract the database queries away so that data access implementation details don’t leak into your business logic.\n- To illustrate using the example above, let’s remove the `UserService` logic and move it to `UserRepositoryImpl`:\n```go\nvar ErrUserNotFound = errors.New(“user was not found”)\n- // Open/Closed Principle:\n// The UserService is open for extension, but closed for modification.\n// We can add new functionality by implementing new interfaces,\n// rather than modifying the existing UserService.\n// UserRepository defines the interface for a user repository.\ntype UserRepository interface {\nSaveUser(u User) error\nFindUserByID(id int) (User, error)\n}\n- // UserRepositoryImpl is a concrete implementation of the UserRepository interface.\n// It uses an explicit users slice\ntype UserRepositoryImpl struct {\nusers []User\n}\n// SaveUser saves a user to the repository.\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\ns.users = append(s.users, u)\nreturn nil\n}\n// FindUserByID finds a user with the given ID in the repository.\nfunc (r *UserRepositoryImpl) FindUserByID(id int) (User, error) {\nfor _, u := range s.users {\nif u.ID == id {\nreturn u, nil\n}\n}\n- return User{}, ErrUserNotFound\n}\n```\n- This looks fine, functionality stays the same and we removed 17 lines of code, but let’s add a few things.\n- What if we want to check if a user exists before saving it? We can do so with the following:\n```go\n// SaveUser saves a user to the repository.\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\nfor _, user := range s.users {\nif u.ID == user.ID {\nreturn ErrUserWithIDExists\n}\n}\n- s.users = append(s.users, u)\nreturn nil\n}\n```\n- As our user base grows, maybe we want to add a unique `username` field to the `User`. We can add the field to the `User` struct and on save check if the username is unique and doesn’t contain any bad words.\n```go\nvar ErrUsernameExists = errors.New(“user with username already exists”)\n- type User struct {\nID int\nFirstName string\nLastName string\nUsername string\n}\n- // SaveUser saves a user to the repository.\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\nif badWords.Contains(u.Username) {\nreturn ErrUsernameInvalid\n}\n- for _, user := range s.users {\nif u.ID == user.ID {\nreturn ErrUserWithIDExists\n}\n- if u.Username == user.Username {\nreturn ErrUsernameExists\n}\n}\n- s.users = append(s.users, u)\n- return nil\n}\n```\n- Now if we wanted to rewrite SaveUser using an actual database:\n```go\n// SaveUser saves a user to the repository.\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\nif badWords.Contains(u.Username) {\nreturn ErrUsernameInvalid\n}\n- users := r.db.Query(“select * from users”).ScanStructs(User{})\nfor _, user := range users {\nif u.ID == user.ID {\nreturn ErrUserWithIDExists\n}\n- if u.Username == user.Username {\nreturn ErrUsernameExists\n}\n}\n- return r.db.Exec(“insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)”, u.ID, u.FirstName, u.LastName, u.Username)\n}\n```\n- Still maintainable but it could look something like this which I personally find more readable:\n```go\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\nif badWords.Contains(u.Username) {\nreturn ErrUsernameInvalid\n}\n- users := r.repository.QueryAllUsers()\nfor _, user := range users {\nif u.ID == user.ID {\nreturn ErrUserWithIDExists\n}\n- if u.Username == user.Username {\nreturn ErrUsernameExists\n}\n}\n- return r.repository.SaveUser(u)\n}\n```\n- You could refactor even further:\n```go\nfunc (r *UserRepositoryImpl) SaveUser(u User) error {\nerr := r.repository.ValidateUser(u);\nif err != nil {\nreturn err\n}\n- return r.repository.SaveUser(u)\n}\n```\n- Now it’s even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.\n",
-  "wordCount" : "2084",
-  "inLanguage": "en",
-  "datePublished": "2024-01-26T00:00:00Z",
-  "dateModified": "2024-01-26T00:00:00Z",
-  "author":{
-    "@type": "Person",
-    "name": "breadchris"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://breadchris.com/blog/this-is-for-nolan/"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "breadchris",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://breadchris.com/favicon.ico"
-    }
-  }
-}
-</script>
-</head>
-
-<body class="" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
-
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="https://breadchris.com" accesskey="h" title="breadchris (Alt + H)">breadchris</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <ul id="menu">
-            <li>
-                <a href="https://breadchris.com/blog" title="blog">
-                    <span>blog</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/resume" title="resume">
-                    <span>resume</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/tags/" title="tags">
-                    <span>tags</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/talks" title="talks">
-                    <span>talks</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://breadchris.com/thinkies" title="thinkies">
-                    <span>thinkies</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
-<main class="main">
-
-<article class="post-single">
-  <header class="post-header">
-    
-    <h1 class="post-title entry-hint-parent">
-      This is for Nolan
-    </h1>
-    <div class="post-meta"><span title='2024-01-26 00:00:00 +0000 UTC'>January 26, 2024</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;breadchris
-
-</div>
-  </header> 
-  <div class="post-content"><p>## SOLID principles</p>
+<html lang="en" dir="auto"><head ><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta content="index, follow" name="robots"></meta><title >breadchris</title><meta name="description" content=""></meta><meta name="author" content="breadchris"></meta><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/" rel="canonical"></link><link as="style" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/static/styles.css" crossorigin="anonymous" rel="preload stylesheet"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/favicon.ico" rel="icon"></link><link type="image/png" sizes="16x16" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/favicon-16x16.png" rel="icon"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/apple-touch-icon.png" rel="apple-touch-icon"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/safari-pinned-tab.svg" rel="mask-icon"></link><meta name="theme-color" content="#2e2e33"></meta><meta name="msapplication-TileColor" content="#2e2e33"></meta><link type="application/rss+xml" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/index.xml" rel="alternate"></link><link href="http://localhost:8080/data/sites/generated/breadchris.com/latest/index.json" rel="alternate" type="application/json"></link><meta property="og:title" content="breadchris"></meta><meta property="og:description" content=""></meta><meta property="og:type" content="website"></meta><meta property="og:url" content="http://localhost:8080/data/sites/generated/breadchris.com/latest"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:350" id="top" class="list dark vsc-initialized"><header data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:351" class="header"><nav data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:352" class="nav"><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:353" class="logo"><a accesskey="h" title="breadchris (Alt + H)" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/">breadchris</a><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:355" class="entry-header"><button accesskey="t" title="(Alt + T)" id="theme-toggle"></button></div></div><ul id="menu"><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/blog" title="blog"><span >blog</span></a></li><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/resume" title="resume"><span >resume</span></a></li><li ><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/tags/" title="tags"><span >tags</span></a></li><li ><a title="talks" href="http://localhost:8080/data/sites/generated/breadchris.com/latest/talks"><span >talks</span></a></li></ul></nav></header><main data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:367" class="main"><article data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:234" class="post-single"><header data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:235" class="post-header"><h1 data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:236" class="post-title entry-hint-parent">This is for Nolan</h1><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:237" class="post-meta"><span title="2024-01-26T13:56:20-08:00">January 26, 2024</span><span data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:239" class="ml-3">| breadchris</span></div></header><style >
+			pre,code {
+				tab-size: 2; /* Set the tab width to 4 spaces */
+				/*white-space: pre; Preserve whitespace and line breaks */
+			}
+			</style><div data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:248" class="post-content"><p>## SOLID principles</p>
 <p>The set of five design principles for object-oriented programming that were first introduced by Robert C. Martin. These principles are intended to make software designs more understandable, flexible, and maintainable.</p>
 <p>In Go, the SOLID principles can be applied as follows:</p>
 <p>### Single Responsibility Principle (SRP)</p>
@@ -288,19 +52,19 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>```go</p>
 <p>type Animal struct{}</p>
 <p>- func (a *Animal) Speak() string {</p>
-<p>return &ldquo;Animal sound&rdquo;</p>
+<p>return &quot;Animal sound&quot;</p>
 <p>}</p>
 <p>- type Dog struct {</p>
 <p>Animal</p>
 <p>}</p>
 <p>- func (d *Dog) Speak() string {</p>
-<p>return &ldquo;Woof!&rdquo;</p>
+<p>return &quot;Woof!&quot;</p>
 <p>}</p>
 <p>- type Cat struct {</p>
 <p>Animal</p>
 <p>}</p>
 <p>- func (c *Cat) Speak() string {</p>
-<p>return &ldquo;Meow!&rdquo;</p>
+<p>return &quot;Meow!&quot;</p>
 <p>}</p>
 <p>```</p>
 <p>- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.</p>
@@ -312,19 +76,19 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>```</p>
 <p>type Animal struct{}</p>
 <p>- func (a *Animal) Speak() string {</p>
-<p>return &ldquo;Animal sound&rdquo;</p>
+<p>return &quot;Animal sound&quot;</p>
 <p>}</p>
 <p>- type Dog struct {</p>
 <p>Animal</p>
 <p>}</p>
 <p>- func (d *Dog) Speak() string {</p>
-<p>return &ldquo;Woof!&rdquo;</p>
+<p>return &quot;Woof!&quot;</p>
 <p>}</p>
 <p>- type Cat struct {</p>
 <p>Animal</p>
 <p>}</p>
 <p>- func (c *Cat) Speak() string {</p>
-<p>return &ldquo;Meow!&rdquo;</p>
+<p>return &quot;Meow!&quot;</p>
 <p>}</p>
 <p>```</p>
 <p>- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.</p>
@@ -352,19 +116,19 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>```</p>
 <p>type Animal struct{}</p>
 <p>- func (a *Animal) Speak() string {</p>
-<p>return &ldquo;Animal sound&rdquo;</p>
+<p>return &quot;Animal sound&quot;</p>
 <p>}</p>
 <p>- type Dog struct {</p>
 <p>Animal</p>
 <p>}</p>
 <p>- func (d *Dog) Speak() string {</p>
-<p>return &ldquo;Woof!&rdquo;</p>
+<p>return &quot;Woof!&quot;</p>
 <p>}</p>
 <p>- type Cat struct {</p>
 <p>Animal</p>
 <p>}</p>
 <p>- func (c *Cat) Speak() string {</p>
-<p>return &ldquo;Meow!&rdquo;</p>
+<p>return &quot;Meow!&quot;</p>
 <p>}</p>
 <p>```</p>
 <p>- In this example, the `Dog` and `Cat` structs inherit from the `Animal` struct. However, they each provide their own implementation of the `Speak()` method. By adhering to the LSP, we should be able to use an instance of `Dog` or `Cat` wherever we would have used an instance of `Animal` without modifying the behavior of the program.</p>
@@ -391,7 +155,7 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 </ul>
 <p>```go</p>
 <p>package main</p>
-<p>import &ldquo;fmt&rdquo;</p>
+<p>import &quot;fmt&quot;</p>
 <p>// Single Responsibility Principle:</p>
 <p>// Each struct has only a single responsibility.</p>
 <p>// User struct represents a user in the system.</p>
@@ -469,7 +233,7 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>userService := &amp;UserService{}</p>
 <p>repository := &amp;UserRepositoryImpl{userService: userService}</p>
 <p>controller := NewUserController(repository)</p>
-<p>user := User{ID: 1, FirstName: &ldquo;John&rdquo;, LastName: &ldquo;Doe&rdquo;}</p>
+<p>user := User{ID: 1, FirstName: &quot;John&quot;, LastName: &quot;Doe&quot;}</p>
 <p>controller.CreateUser(user)</p>
 <p>retrievedUser, _ := controller.GetUserByID(1)</p>
 <p>fmt.Println(retrievedUser)</p>
@@ -486,13 +250,13 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <li></li>
 </ul>
 <p>&gt; Does this still fulfill SOLID, if `UserService` is removed (by moving the `UserService` logic to `UserRepository`)?</p>
-<p>- In this specific example it wouldn&rsquo;t explicitly violate any principles, but if you were using a real database you&rsquo;d want to abstract the database queries away so that data access implementation details don&rsquo;t leak into your business logic.</p>
-<p>- To illustrate using the example above, let&rsquo;s remove the `UserService` logic and move it to `UserRepositoryImpl`:</p>
+<p>- In this specific example it wouldn't explicitly violate any principles, but if you were using a real database you'd want to abstract the database queries away so that data access implementation details don't leak into your business logic.</p>
+<p>- To illustrate using the example above, let's remove the `UserService` logic and move it to `UserRepositoryImpl`:</p>
 <ul>
 <li></li>
 </ul>
 <p>```go</p>
-<p>var ErrUserNotFound = errors.New(&ldquo;user was not found&rdquo;)</p>
+<p>var ErrUserNotFound = errors.New(&quot;user was not found&quot;)</p>
 <p>- // Open/Closed Principle:</p>
 <p>// The UserService is open for extension, but closed for modification.</p>
 <p>// We can add new functionality by implementing new interfaces,</p>
@@ -522,7 +286,7 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>- return User{}, ErrUserNotFound</p>
 <p>}</p>
 <p>```</p>
-<p>- This looks fine, functionality stays the same and we removed 17 lines of code, but let&rsquo;s add a few things.</p>
+<p>- This looks fine, functionality stays the same and we removed 17 lines of code, but let's add a few things.</p>
 <p>- What if we want to check if a user exists before saving it? We can do so with the following:</p>
 <ul>
 <li></li>
@@ -539,12 +303,12 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>return nil</p>
 <p>}</p>
 <p>```</p>
-<p>- As our user base grows, maybe we want to add a unique `username` field to the `User`. We can add the field to the `User` struct and on save check if the username is unique and doesn&rsquo;t contain any bad words.</p>
+<p>- As our user base grows, maybe we want to add a unique `username` field to the `User`. We can add the field to the `User` struct and on save check if the username is unique and doesn't contain any bad words.</p>
 <ul>
 <li></li>
 </ul>
 <p>```go</p>
-<p>var ErrUsernameExists = errors.New(&ldquo;user with username already exists&rdquo;)</p>
+<p>var ErrUsernameExists = errors.New(&quot;user with username already exists&quot;)</p>
 <p>- type User struct {</p>
 <p>ID int</p>
 <p>FirstName string</p>
@@ -578,7 +342,7 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>if badWords.Contains(u.Username) {</p>
 <p>return ErrUsernameInvalid</p>
 <p>}</p>
-<p>- users := r.db.Query(&ldquo;select * from users&rdquo;).ScanStructs(User{})</p>
+<p>- users := r.db.Query(&quot;select * from users&quot;).ScanStructs(User{})</p>
 <p>for _, user := range users {</p>
 <p>if u.ID == user.ID {</p>
 <p>return ErrUserWithIDExists</p>
@@ -587,7 +351,7 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>return ErrUsernameExists</p>
 <p>}</p>
 <p>}</p>
-<p>- return r.db.Exec(&ldquo;insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)&rdquo;, u.ID, u.FirstName, u.LastName, u.Username)</p>
+<p>- return r.db.Exec(&quot;insert into users(id, first_name, last_name, username) values (?, ?, ?, ?)&quot;, u.ID, u.FirstName, u.LastName, u.Username)</p>
 <p>}</p>
 <p>```</p>
 <p>- Still maintainable but it could look something like this which I personally find more readable:</p>
@@ -624,144 +388,5 @@ func (us *UserService) GetUserByID(id int) (*User, error) {"/>
 <p>- return r.repository.SaveUser(u)</p>
 <p>}</p>
 <p>```</p>
-<p>- Now it&rsquo;s even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.</p>
-
-
-  </div>
-
-  <footer class="post-footer">
-    <ul class="post-tags">
-      <li><a href="https://breadchris.com/tags/blog/post/">blog/post</a></li>
-    </ul>
-    <form
-            action="https://buttondown.email/api/emails/embed-subscribe/breadchris"
-            method="post"
-            target="popupwindow"
-            onsubmit="window.open('https://buttondown.email/breadchris', 'popupwindow')"
-            class="embeddable-buttondown-form"
-    >
-      <input class="input" type="email" name="email" id="bd-input" placeholder="join the email list" />
-      <input class="btn" type="submit" id="bd-submit" value="Subscribe" />
-    </form>
-  </footer>
-</article>
-    </main>
-    
-<footer class="footer">
-    <span>&copy; 2024 <a href="https://breadchris.com">breadchris</a></span>
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
-</script>
-</body>
-
-</html>
+<p>- Now it's even more clear what the code does: validate the input then save. By abstracting the implementation away from the intention, you can read more immediately know what SaveUser is supposed to do. And when you want to know how user validation or saving the user actually works, you can navigate to the definition at that point.</p>
+</div><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script><script >hljs.highlightAll();</script><footer data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:253" class="post-footer"><ul data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:255" class="post-tags"><li data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:257" class="post-tag"><a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/tags/blog/post">blog/post</a></li></ul></footer></article></main><footer data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:370" class="page-footer"></footer><footer data-godom="/Users/cthompson/figma/share/breadchris/breadchris.go:374" class="footer"><span >© 2024 <a href="http://localhost:8080/data/sites/generated/breadchris.com/latest/">breadchris</a></span></footer></body></html>

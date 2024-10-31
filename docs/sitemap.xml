@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://breadchris.com</loc>
-    <lastmod>2024-10-29T22:51:53.739724-07:00</lastmod>
+    <lastmod>2024-10-30T22:02:14.700987-07:00</lastmod>
+  </url>
+  <url>
+    <loc>https://breadchris.com/blog/coding-as-a-lifestyle</loc>
+    <lastmod>2024-10-30T21:59:50-07:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/blog/go-struct-to-ai-stuff</loc>
@@ -169,11 +173,11 @@
     <lastmod>2024-02-21T01:00:40-08:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/shshshs</loc>
+    <loc>https://breadchris.com/blog/the-figma-plugin-system</loc>
     <lastmod>2024-02-21T01:00:25-08:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/the-figma-plugin-system</loc>
+    <loc>https://breadchris.com/blog/shshshs</loc>
     <lastmod>2024-02-21T01:00:25-08:00</lastmod>
   </url>
   <url>
@@ -398,14 +402,14 @@
   </url>
   <url>
     <loc>https://breadchris.com/tags/</loc>
-    <lastmod>2024-10-29T22:51:53.739724-07:00</lastmod>
+    <lastmod>2024-10-30T22:02:14.700987-07:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/resume</loc>
-    <lastmod>2024-10-29T22:51:53.739724-07:00</lastmod>
+    <lastmod>2024-10-30T22:02:14.700987-07:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/talks</loc>
-    <lastmod>2024-10-29T22:51:53.739724-07:00</lastmod>
+    <lastmod>2024-10-30T22:02:14.700987-07:00</lastmod>
   </url>
 </urlset>

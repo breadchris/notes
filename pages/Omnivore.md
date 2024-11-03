@@ -1,4 +1,494 @@
 ## 🔖 Articles
+	- [Learning CSS Grid with Grid Garden | Thomas Park](https://omnivore.app/me/learning-css-grid-with-grid-garden-thomas-park-192ea9b62a0)
+	  collapsed:: true
+	  site:: [Thomas Park](https://thomaspark.co/2017/04/learning-css-grid-with-grid-garden/)
+	  author:: Thomas
+	  date-saved:: [[Nov 1st, 2024]]
+	  date-published:: [[Apr 3rd, 2017]]
+	- [CarPlay Karaoke: Playing Music Videos and Lyrics Through Cover Art | Thomas Park](https://omnivore.app/me/car-play-karaoke-playing-music-videos-and-lyrics-through-cover-a-192e90de1ca)
+	  collapsed:: true
+	  site:: [Thomas Park](https://thomaspark.co/2023/05/carplay-karaoke-playing-music-videos-and-lyrics-through-cover-art/)
+	  author:: Thomas
+	  date-saved:: [[Nov 1st, 2024]]
+	  date-published:: [[May 19th, 2023]]
+	- [Building Go Stack Traces from BPF](https://omnivore.app/me/-192e8e874fa)
+	  collapsed:: true
+	  site:: [grant.pizza](https://www.grant.pizza/blog/go-stack-traces-bpf/)
+	  date-saved:: [[Nov 1st, 2024]]
+	  date-published:: [[Dec 5th, 2023]]
+	- [localhost](https://omnivore.app/me/-192e57f979b)
+	  collapsed:: true
+	  site:: [localhost](http://localhost:8080/notes/)
+	  date-saved:: [[Oct 31st, 2024]]
+	  date-published:: [[Dec 6th, 2024]]
+	- [Local, first, forever @ tonsky.me](https://omnivore.app/me/local-first-forever-tonsky-me-192e150207a)
+	  collapsed:: true
+	  site:: [tonsky.me](https://tonsky.me/blog/crdt-filesync/)
+	  author:: Nikita Prokopov
+	  date-saved:: [[Oct 30th, 2024]]
+	  date-published:: [[Jun 23rd, 2024]]
+	- [Shepherd makes book discovery magical.](https://omnivore.app/me/shepherd-makes-book-discovery-magical-192e0579dc1)
+	  collapsed:: true
+	  site:: [Shepherd](https://shepherd.com)
+	  date-saved:: [[Oct 30th, 2024]]
+	- [Fruits - Graph All The Things](https://omnivore.app/me/fruits-graph-all-the-things-192de537317)
+	  collapsed:: true
+	  site:: [graphallthethings.com](https://graphallthethings.com/posts/fruits)
+	  date-saved:: [[Oct 30th, 2024]]
+	  date-published:: [[Jul 23rd, 2020]]
+	- [HTML Form Validation is heavily underused](https://omnivore.app/me/html-form-validation-is-heavily-underused-192d68338c7)
+	  collapsed:: true
+	  site:: [Expression Statement](https://expressionstatement.com/html-form-validation-is-heavily-underused)
+	  date-saved:: [[Oct 28th, 2024]]
+	  date-published:: [[Oct 26th, 2024]]
+	- [2024-10-26 buy payphones and retire](https://omnivore.app/me/2024-10-26-buy-payphones-and-retire-192d486e6a1)
+	  collapsed:: true
+	  site:: [Computers Are Bad](https://computer.rip/2024-10-26-buy-payphones-and-retire.html)
+	  date-saved:: [[Oct 28th, 2024]]
+	  date-published:: [[Oct 25th, 2024]]
+	- [I left Silicon Valley for NYC 2.5y ago – a retrospective | Bart Wronski](https://omnivore.app/me/i-left-silicon-valley-for-nyc-2-5-y-ago-a-retrospective-bart-wro-192d3f03df8)
+	  collapsed:: true
+	  site:: [Bart Wronski](https://bartwronski.com/2023/09/04/i-left-silicon-valley-for-nyc-2-5y-ago-a-retrospective/)
+	  author:: Posted on
+	  date-saved:: [[Oct 28th, 2024]]
+	  date-published:: [[Sep 4th, 2023]]
+	- [graphql-go-tools/v2/pkg/astjson/astjson.go at master · wundergraph/graphql-go-tools](https://omnivore.app/me/graphql-go-tools-v-2-pkg-astjson-astjson-go-at-master-wundergrap-192cd5450ab)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/wundergraph/graphql-go-tools/blob/master/v2/pkg/astjson/astjson.go)
+	  date-saved:: [[Oct 27th, 2024]]
+	  date-published:: [[Jul 16th, 2024]]
+	- [State-based CRDTs: Maps](https://omnivore.app/me/state-based-crd-ts-maps-192c806da73)
+	  collapsed:: true
+	  site:: [Bartosz Sypytkowski](https://www.bartoszsypytkowski.com/crdt-map/)
+	  author:: Bartosz Sypytkowski
+	  date-saved:: [[Oct 26th, 2024]]
+	  date-published:: [[Jan 2nd, 2020]]
+	- [Go Exercises | Learn Go Programming](https://omnivore.app/me/go-exercises-learn-go-programming-192c63f4562)
+	  collapsed:: true
+	  site:: [golangr.com](https://golangr.com/exercises)
+	  date-saved:: [[Oct 25th, 2024]]
+	- [Practical Deep Learning for Coders - Practical Deep Learning](https://omnivore.app/me/practical-deep-learning-for-coders-practical-deep-learning-192b0296a95)
+	  collapsed:: true
+	  site:: [Practical Deep Learning for Coders](https://course.fast.ai)
+	  date-saved:: [[Oct 21st, 2024]]
+	- [Loro: Reimagine State Management with CRDTs – Loro](https://omnivore.app/me/loro-reimagine-state-management-with-crd-ts-loro-192ada4123d)
+	  collapsed:: true
+	  site:: [loro.dev](https://www.loro.dev/blog/loro-now-open-source)
+	  date-saved:: [[Oct 20th, 2024]]
+	  date-published:: [[Nov 12th, 2023]]
+	- [Y-Sweet by Jamsocket](https://omnivore.app/me/y-sweet-by-jamsocket-192acf05d68)
+	  collapsed:: true
+	  site:: [Jamsocket](https://jamsocket.com/y-sweet)
+	  date-saved:: [[Oct 20th, 2024]]
+	- [Koi Pond - flocking simulation](https://omnivore.app/me/koi-pond-flocking-simulation-192a8b6efaf)
+	  collapsed:: true
+	  site:: [codepen.io](https://codepen.io/unicar/pen/LwbRbo)
+	  date-saved:: [[Oct 19th, 2024]]
+	- [koi pond — koipond.me](https://omnivore.app/me/koi-pond-koipond-me-192a8b4ed38)
+	  collapsed:: true
+	  site:: [koipond.me](https://koipond.me)
+	  date-saved:: [[Oct 19th, 2024]]
+	- [awslabs/git-remote-s3](https://omnivore.app/me/awslabs-git-remote-s-3-192a6e7853a)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/awslabs/git-remote-s3)
+	  date-saved:: [[Oct 19th, 2024]]
+	- [OpenGeofiction](https://omnivore.app/me/open-geofiction-192a37db3e1)
+	  collapsed:: true
+	  site:: [OpenGeofiction](https://www.opengeofiction.net)
+	  date-saved:: [[Oct 18th, 2024]]
+	- [Creating a JSON Patch endpoint in Go · Jamie Tanna | Software Engineer](https://omnivore.app/me/creating-a-json-patch-endpoint-in-go-jamie-tanna-software-engine-192a21953b7)
+	  collapsed:: true
+	  site:: [Jamie Tanna | Software Engineer](https://www.jvt.me/posts/2022/11/09/http-json-patch-go/)
+	  author:: Jamie Tanna
+	  date-saved:: [[Oct 18th, 2024]]
+	  date-published:: [[Nov 9th, 2022]]
+	- [What Do You Visualize While Programming? - Dillon Shook](https://omnivore.app/me/what-do-you-visualize-while-programming-dillon-shook-192a155e3dd)
+	  collapsed:: true
+	  site:: [Dillon Shook](https://dillonshook.com/what-do-you-visualize-while-programming/)
+	  author:: Dillon Shook
+	  date-saved:: [[Oct 18th, 2024]]
+	  date-published:: [[Oct 16th, 2024]]
+	- [Sava OS](https://omnivore.app/me/sava-os-1929bd57084)
+	  collapsed:: true
+	  site:: [Sava OS](https://savaos.com)
+	  date-saved:: [[Oct 17th, 2024]]
+	- [Lofi and Games - Play relaxing, casual games online](https://omnivore.app/me/lofi-and-games-play-relaxing-casual-games-online-192991a5bf4)
+	  collapsed:: true
+	  site:: [Lofi and Games](https://www.lofiandgames.com)
+	  date-saved:: [[Oct 16th, 2024]]
+	- [Real-time mouse pointers - Canva Engineering Blog](https://omnivore.app/me/real-time-mouse-pointers-canva-engineering-blog-192983e02af)
+	  collapsed:: true
+	  site:: [canva.dev](https://www.canva.dev/blog/engineering/realtime-mouse-pointers/)
+	  author:: Anton Egorov, Mark GurevichAug 14, 2024
+	  date-saved:: [[Oct 16th, 2024]]
+	  date-published:: [[Aug 14th, 2024]]
+	- [Lofi and Games - Play relaxing, casual games online](https://omnivore.app/me/lofi-and-games-play-relaxing-casual-games-online-1929750e602)
+	  collapsed:: true
+	  site:: [Lofi and Games](https://www.lofiandgames.com/?ref=simplelister%3Fref%3Dsimplelister)
+	  date-saved:: [[Oct 16th, 2024]]
+	- [Hofstadter on Lisp: Atoms and Lists, re-printed in Metamagical Themas.](https://omnivore.app/me/hofstadter-on-lisp-atoms-and-lists-re-printed-in-metamagical-the-19296159988)
+	  collapsed:: true
+	  site:: [Gist](https://gist.github.com/jackrusher/5139396)
+	  date-saved:: [[Oct 16th, 2024]]
+	- [JavaScript Bloat in 2024 | Hacker News](https://omnivore.app/me/java-script-bloat-in-2024-hacker-news-19293573945)
+	  collapsed:: true
+	  site:: [news.ycombinator.com](https://news.ycombinator.com/item?id=39471221)
+	  date-saved:: [[Oct 15th, 2024]]
+	- [The Future of Data Management: An Enabler of AI Development? A Basic Illustration with RAG, Open Standards, and Data Contracts - Unladen swallow - Olivier Wulveryck](https://omnivore.app/me/the-future-of-data-management-an-enabler-of-ai-development-a-bas-19292c3f8a4)
+	  collapsed:: true
+	  site:: [Unladen swallow - Olivier Wulveryck](https://blog.owulveryck.info/2024/06/12/the-future-of-data-management-an-enabler-of-ai-development-a-basic-illustration-with-rag-open-standards-and-data-contracts.html)
+	  author:: Olivier Wulveryck
+	  date-saved:: [[Oct 15th, 2024]]
+	  date-published:: [[Jun 12th, 2024]]
+	- [Web Browser Engineering](https://omnivore.app/me/web-browser-engineering-19291533019)
+	  collapsed:: true
+	  site:: [browser.engineering](https://browser.engineering/index.html)
+	  author:: Pavel Panchekha & Chris Harrelson
+	  date-saved:: [[Oct 15th, 2024]]
+	- [soccer mini game](https://omnivore.app/me/soccer-mini-game-1928dfd5e3d)
+	  collapsed:: true
+	  site:: [adambien94.github.io](https://adambien94.github.io/FB-messenger-soccer-miniGame/)
+	  date-saved:: [[Oct 14th, 2024]]
+	- [Home · Kenney](https://omnivore.app/me/home-kenney-1928df8ce4d)
+	  collapsed:: true
+	  site:: [kenney.nl](https://kenney.nl)
+	  author:: Kenney
+	  date-saved:: [[Oct 14th, 2024]]
+	- [hajimehoshi/wasmserve: An HTTP server for testing Wasm](https://omnivore.app/me/hajimehoshi-wasmserve-an-http-server-for-testing-wasm-1928df50142)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/hajimehoshi/wasmserve)
+	  date-saved:: [[Oct 14th, 2024]]
+	- [GBA.js](https://omnivore.app/me/gba-js-1928df27762)
+	  collapsed:: true
+	  site:: [endrift.github.io](https://endrift.github.io/gbajs/)
+	  date-saved:: [[Oct 14th, 2024]]
+	- [fcambus/jsemu: A list of emulators written in the JavaScript programming language](https://omnivore.app/me/fcambus-jsemu-a-list-of-emulators-written-in-the-java-script-pro-1928def0152)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/fcambus/jsemu)
+	  date-saved:: [[Oct 14th, 2024]]
+	- [How to Monetize a Blog](https://omnivore.app/me/how-to-monetize-a-blog-1928d4423eb)
+	  collapsed:: true
+	  site:: [modem.io](https://modem.io/blog/blog-monetization/)
+	  date-saved:: [[Oct 14th, 2024]]
+	  date-published:: [[Sep 5th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/how-to-monetize-a-blog-1928d4423eb#d9f755bf-e87e-4ecb-a020-ea832ef60add)
+	- [The three-page paper that shook philosophy: Gettiers in software engineering | the jsomers.net blog](https://omnivore.app/me/the-three-page-paper-that-shook-philosophy-gettiers-in-software--1928d42f954)
+	  collapsed:: true
+	  site:: [jsomers.net](https://jsomers.net/blog/gettiers)
+	  date-saved:: [[Oct 14th, 2024]]
+	  date-published:: [[Jan 12th, 2019]]
+	- [donseba/go-htmx: Seamless HTMX integration in golang applications](https://omnivore.app/me/donseba-go-htmx-seamless-htmx-integration-in-golang-applications-1928c2f0e10)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/donseba/go-htmx)
+	  date-saved:: [[Oct 14th, 2024]]
+	- [Add-to-Calendar Button Example](https://omnivore.app/me/add-to-calendar-button-example-192893907e6)
+	  collapsed:: true
+	  site:: [cssscript.com](https://www.cssscript.com/demo/add-events-calendars/)
+	  date-saved:: [[Oct 13th, 2024]]
+	- [Swapy.js JavaScript Library Basic Example](https://omnivore.app/me/swapy-js-java-script-library-basic-example-19289386ee0)
+	  collapsed:: true
+	  site:: [cssscript.com](https://www.cssscript.com/demo/draggable-layout-swapy/)
+	  date-saved:: [[Oct 13th, 2024]]
+	- [michaelsboost/Flat-Design-Character-Maker: Just a simple flat design vector based character designer.](https://omnivore.app/me/michaelsboost-flat-design-character-maker-just-a-simple-flat-des-1928935f720)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/michaelsboost/Flat-Design-Character-Maker)
+	  date-saved:: [[Oct 13th, 2024]]
+	- [draftbit/avatar-generator: Personas, an avatar generator by Draftbit](https://omnivore.app/me/draftbit-avatar-generator-personas-an-avatar-generator-by-draftb-19289350005)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/draftbit/avatar-generator)
+	  date-saved:: [[Oct 13th, 2024]]
+	- [victorqribeiro/isocity: A isometric city builder in JavaScript](https://omnivore.app/me/victorqribeiro-isocity-a-isometric-city-builder-in-java-script-1928933cede)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/victorqribeiro/isocity?tab=readme-ov-file)
+	  date-saved:: [[Oct 13th, 2024]]
+	- [Deploy a Hugo website to Cloudflare](https://omnivore.app/me/deploy-a-hugo-website-to-cloudflare-19289331531)
+	  collapsed:: true
+	  site:: [tanis.codes](https://tanis.codes/posts/deploy-hugo-website-to-cloudflare/)
+	  author:: Estanislao Pérez Nartallo
+	  date-saved:: [[Oct 13th, 2024]]
+	  date-published:: [[Sep 8th, 2024]]
+	- [Bazaari - The Easiest Way to Launch Your Online Store](https://omnivore.app/me/bazaari-the-easiest-way-to-launch-your-online-store-1928885a8bf)
+	  collapsed:: true
+	  site:: [bazaari.io](https://bazaari.io)
+	  date-saved:: [[Oct 13th, 2024]]
+	- [Two never-before-seen tools, from same group, infect air-gapped devices - Ars Technica](https://omnivore.app/me/two-never-before-seen-tools-from-same-group-infect-air-gapped-de-192834e9378)
+	  collapsed:: true
+	  site:: [Ars Technica](https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/)
+	  author:: Dan Goodin
+	  date-saved:: [[Oct 12th, 2024]]
+	  date-published:: [[Oct 9th, 2024]]
+	- [How I animate 3Blue1Brown | A Manim demo with Ben Sparks](https://omnivore.app/me/https-youtu-be-rbu-7-zu-5-x-1-z-i-192832d0e6b)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/rbu7Zu5X1zI)
+	  author:: 3Blue1Brown
+	  date-saved:: [[Oct 12th, 2024]]
+	  date-published:: [[Oct 11th, 2024]]
+	- [HTML for People](https://omnivore.app/me/html-for-people-19278bce3e3)
+	  collapsed:: true
+	  site:: [htmlforpeople.com](https://htmlforpeople.com)
+	  date-saved:: [[Oct 10th, 2024]]
+	- [Tcl the misunderstood](https://omnivore.app/me/tcl-the-misunderstood-1927449c41e)
+	  collapsed:: true
+	  site:: [antirez.com](http://antirez.com/articoli/tclmisunderstood.html)
+	  date-saved:: [[Oct 9th, 2024]]
+	- [Draggable JS – JavaScript drag and drop library](https://omnivore.app/me/draggable-js-java-script-drag-and-drop-library-1926f9760b4)
+	  collapsed:: true
+	  site:: [draggable.js](https://shopify.github.io/draggable/)
+	  date-saved:: [[Oct 8th, 2024]]
+	- [Canvases versus Documents](https://omnivore.app/me/canvases-versus-documents-1926e2062d3)
+	  collapsed:: true
+	  site:: [kaiwenwang.com](https://kaiwenwang.com/writing/canvases-versus-documents)
+	  date-saved:: [[Oct 8th, 2024]]
+	- [player.style - Video & audio player themes for every web player & framework](https://omnivore.app/me/player-style-video-audio-player-themes-for-every-web-player-fram-1926e200045)
+	  collapsed:: true
+	  site:: [player.style](https://player.style)
+	  author:: {{mediabyline}}
+	  date-saved:: [[Oct 8th, 2024]]
+	- [A modest critique of Htmx](https://omnivore.app/me/a-modest-critique-of-htmx-1926e1fc860)
+	  collapsed:: true
+	  site:: [chrisdone.com](https://chrisdone.com/posts/htmx-critique/)
+	  date-saved:: [[Oct 8th, 2024]]
+	  date-published:: [[Aug 19th, 2024]]
+	- [Rise of Worse Is Better](https://omnivore.app/me/rise-of-worse-is-better-1926d19bee8)
+	  collapsed:: true
+	  site:: [dreamsongs.com](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+	  date-saved:: [[Oct 8th, 2024]]
+	- [Building a Single-Page App with htmx | jakelazaroff.com](https://omnivore.app/me/building-a-single-page-app-with-htmx-jakelazaroff-com-192683bb527)
+	  collapsed:: true
+	  site:: [jakelazaroff.com](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
+	  date-saved:: [[Oct 7th, 2024]]
+	  date-published:: [[Oct 6th, 2024]]
+	- [Jamie Brandon](https://omnivore.app/me/jamie-brandon-19265260389)
+	  collapsed:: true
+	  site:: [scattered-thoughts.net](https://www.scattered-thoughts.net)
+	  date-saved:: [[Oct 6th, 2024]]
+	- [sq | wrangle data](https://omnivore.app/me/sq-wrangle-data-19265256e7f)
+	  collapsed:: true
+	  site:: [sq](https://sq.io)
+	  date-saved:: [[Oct 6th, 2024]]
+	- [Tomas Vondra - blog about Postgres code and community](https://omnivore.app/me/tomas-vondra-blog-about-postgres-code-and-community-1925f5e7e11)
+	  collapsed:: true
+	  site:: [vondra.me](https://vondra.me)
+	  date-saved:: [[Oct 5th, 2024]]
+	  date-published:: [[Sep 30th, 2024]]
+	- [Search for Charts by Data Visualization Functions](https://omnivore.app/me/search-for-charts-by-data-visualization-functions-1925f5d2994)
+	  collapsed:: true
+	  site:: [datavizcatalogue.com](https://datavizcatalogue.com/search.html)
+	  date-saved:: [[Oct 5th, 2024]]
+	- [Exploring Goja: A Golang JavaScript Runtime](https://omnivore.app/me/exploring-goja-a-golang-java-script-runtime-1925ae1204c)
+	  collapsed:: true
+	  site:: [jtarchie.com](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
+	  date-saved:: [[Oct 4th, 2024]]
+	  date-published:: [[Aug 29th, 2024]]
+	- [Go Pipelines vs RxJS](https://omnivore.app/me/go-pipelines-vs-rx-js-1925908bd77)
+	  collapsed:: true
+	  site:: [code.gdnetwork.co](https://code.gdnetwork.co/blog/go-vs-rxjs)
+	  date-saved:: [[Oct 4th, 2024]]
+	- [JSON Finder - Chrome Web Store](https://omnivore.app/me/json-finder-chrome-web-store-19255f53e32)
+	  collapsed:: true
+	  site:: [chromewebstore.google.com](https://chromewebstore.google.com/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj)
+	  date-saved:: [[Oct 3rd, 2024]]
+	  date-published:: [[Jul 27th, 2020]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/json-finder-chrome-web-store-19255f53e32#a262f450-c1d0-439a-8ee1-9bb18fbf9acb)
+	- [Knowledge Graphs – Communications of the ACM](https://omnivore.app/me/knowledge-graphs-communications-of-the-acm-192505ace67)
+	  collapsed:: true
+	  site:: [cacm.acm.org](https://cacm.acm.org/research/knowledge-graphs/)
+	  author:: Claudio Gutierrez and Juan F. Sequeda
+	  date-saved:: [[Oct 2nd, 2024]]
+	  date-published:: [[Feb 28th, 2021]]
+	- [CodeCompass: An Open Software Comprehension Framework](https://omnivore.app/me/code-compass-an-open-software-comprehension-framework-19244e24754)
+	  collapsed:: true
+	  site:: [codecompass.net](https://codecompass.net)
+	  date-saved:: [[Sep 30th, 2024]]
+	- [add converter function for a specific field · Issue #69 · huandu/go-sqlbuilder](https://omnivore.app/me/add-converter-function-for-a-specific-field-issue-69-huandu-go-s-192411f1522)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/huandu/go-sqlbuilder/issues/69)
+	  author:: amanenk
+	  date-saved:: [[Sep 29th, 2024]]
+	  date-published:: [[Dec 20th, 2021]]
+	- [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent) | notes.eatonphil.com](https://omnivore.app/me/build-a-serverless-acid-database-with-this-one-neat-trick-atomic-1923f99dfac)
+	  collapsed:: true
+	  site:: [notes.eatonphil.com](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
+	  date-saved:: [[Sep 29th, 2024]]
+	  date-published:: [[Sep 28th, 2024]]
+	- [canopyclimate/golive: LiveView for Go](https://omnivore.app/me/canopyclimate-golive-live-view-for-go-1923de01661)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/canopyclimate/golive)
+	  date-saved:: [[Sep 29th, 2024]]
+	- [Collaborative Text Editing with Eg-Walker](https://omnivore.app/me/https-m-youtube-com-watch-v-rjb-eg-7-c-oj-7-o-1923c084c83)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/watch?v=rjbEG7COj7o)
+	  author:: Joseph Gentle
+	  date-saved:: [[Sep 28th, 2024]]
+	  date-published:: [[Sep 2nd, 2024]]
+	- [Economics and Policy in the Age of Trump](https://omnivore.app/me/http-giovanniperi-ucdavis-edu-uploads-5-6-8-2-56826033-ageoftrum-1923b6e0045)
+	  collapsed:: true
+	  site:: [giovanniperi.ucdavis.edu](http://giovanniperi.ucdavis.edu/uploads/5/6/8/2/56826033/ageoftrump_june2017.pdf)
+	  author:: Chad P. Bown
+	  date-saved:: [[Sep 28th, 2024]]
+	- [Midinous | Explore music non-linearly](https://omnivore.app/me/midinous-explore-music-non-linearly-19239b1f4b8)
+	  collapsed:: true
+	  site:: [midinous.com](https://midinous.com)
+	  date-saved:: [[Sep 28th, 2024]]
+	- [The Little Typer (Mit Press): Friedman, Daniel P., Christiansen, David Thrane, Bibby, Duane: 9780262536431: Amazon.com: Books](https://omnivore.app/me/https-a-co-d-5-ve-6-qjz-1923994879a)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/dp/0262536439?language=en-US&ref=cm_sw_r_mwn_dp_Z696GSNCGJ8V4NV6GFGE&ref_=cm_sw_r_mwn_dp_Z696GSNCGJ8V4NV6GFGE&social_share=cm_sw_r_mwn_dp_Z696GSNCGJ8V4NV6GFGE)
+	  author:: Follow the authors
+	  date-saved:: [[Sep 28th, 2024]]
+	  date-published:: [[Sep 17th, 2018]]
+	- [The guide to implementing 2D platformers | Higher-Order Fun](https://omnivore.app/me/the-guide-to-implementing-2-d-platformers-higher-order-fun-19236af160a)
+	  collapsed:: true
+	  site:: [higherorderfun.com](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
+	  author:: amz /
+	  date-saved:: [[Sep 27th, 2024]]
+	  date-published:: [[May 19th, 2012]]
+	- [quadratichq/quadratic: Quadratic | Spreadsheet with Python, SQL, and AI](https://omnivore.app/me/quadratichq-quadratic-quadratic-spreadsheet-with-python-sql-and--19236aed411)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/quadratichq/quadratic)
+	  date-saved:: [[Sep 27th, 2024]]
+	- [503 - Service Unavailable Error](https://omnivore.app/me/https-a-co-d-4-ltgeuf-19235d31caa)
+	  collapsed:: true
+	  site:: [amazon.com](https://www.amazon.com/dp/0300255535?ref=cm_sw_r_apin_dp_97B1THE45RJZ5SM8D0NW&ref_=cm_sw_r_apin_dp_97B1THE45RJZ5SM8D0NW&skipTwisterOG=1&social_share=cm_sw_r_apin_dp_97B1THE45RJZ5SM8D0NW&starsLeft=1)
+	  date-saved:: [[Sep 27th, 2024]]
+	- [Raft](https://omnivore.app/me/raft-1923509adec)
+	  collapsed:: true
+	  site:: [thesecretlivesofdata.com](https://thesecretlivesofdata.com/raft/)
+	  date-saved:: [[Sep 27th, 2024]]
+	- [It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson](https://omnivore.app/me/it-s-hard-to-write-code-for-computers-but-it-s-even-harder-to-wr-19233da3f63)
+	  collapsed:: true
+	  site:: [Erik Bernhardsson](https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html)
+	  author:: Erik Bernhardsson
+	  date-saved:: [[Sep 27th, 2024]]
+	  date-published:: [[Sep 26th, 2024]]
+	- [I've built a city, now it needs residents!](https://omnivore.app/me/i-ve-built-a-city-now-it-needs-residents-19233d6a602)
+	  collapsed:: true
+	  site:: [polymathematics](https://readpolymathematics.substack.com/p/ive-built-a-city-now-it-needs-residents)
+	  author:: polymathematics
+	  date-saved:: [[Sep 27th, 2024]]
+	  date-published:: [[Sep 27th, 2024]]
+	- [grow-graphics/gd: Go + Godot 4.3](https://omnivore.app/me/grow-graphics-gd-go-godot-4-3-19231438cdf)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/grow-graphics/gd)
+	  date-saved:: [[Sep 26th, 2024]]
+	- [Ray Tracing in One Weekend Series](https://omnivore.app/me/ray-tracing-in-one-weekend-series-1922cd448f0)
+	  collapsed:: true
+	  site:: [raytracing.github.io](https://raytracing.github.io)
+	  date-saved:: [[Sep 25th, 2024]]
+	- [Jendrik Illner - 3D Programmer](https://omnivore.app/me/jendrik-illner-3-d-programmer-1922cd39e31)
+	  collapsed:: true
+	  site:: [jendrikillner.com](https://www.jendrikillner.com)
+	  author:: Jendrik Illner
+	  date-saved:: [[Sep 25th, 2024]]
+	  date-published:: [[Sep 21st, 2024]]
+	- [Wizard People, Dear Reader - Wikipedia](https://omnivore.app/me/wizard-people-dear-reader-wikipedia-1922c45266f)
+	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/Wizard_People,_Dear_Reader)
+	  author:: Contributors to Wikimedia projects
+	  date-saved:: [[Sep 25th, 2024]]
+	  date-published:: [[Jun 7th, 2004]]
+	- [Graph Coloring Methods](https://omnivore.app/me/graph-coloring-methods-1922b0830f5)
+	  collapsed:: true
+	  site:: [graphcoloringmethods.com](https://graphcoloringmethods.com)
+	  date-saved:: [[Sep 25th, 2024]]
+	- [system.css | A design system for building retro Apple-inspired interfaces](https://omnivore.app/me/system-css-a-design-system-for-building-retro-apple-inspired-int-1922626f0dc)
+	  collapsed:: true
+	  site:: [sakofchit.github.io](https://sakofchit.github.io/system.css/)
+	  date-saved:: [[Sep 24th, 2024]]
+	- [Move Fast and Abandon Things](https://omnivore.app/me/move-fast-and-abandon-things-19226249364)
+	  collapsed:: true
+	  site:: [engineersneedart.com](https://engineersneedart.com/blog/movefast/movefast.html)
+	  date-saved:: [[Sep 24th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/move-fast-and-abandon-things-19226249364#3ff5eb34-4558-4c24-93ee-33948d6f5f42)
+	- [What I’ve Learned in the Past Year Spent Building an AI Video Editor - Make Art with Python](https://omnivore.app/me/what-i-ve-learned-in-the-past-year-spent-building-an-ai-video-ed-19225052425)
+	  collapsed:: true
+	  site:: [Make Art with Python](https://www.makeartwithpython.com/blog/a-year-of-showing-up/)
+	  author:: Kirk Kaiser
+	  date-saved:: [[Sep 24th, 2024]]
+	  date-published:: [[Aug 26th, 2024]]
+	- [loggerhead/json4u](https://omnivore.app/me/loggerhead-json-4-u-19225039819)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/loggerhead/json4u?tab=readme-ov-file)
+	  date-saved:: [[Sep 24th, 2024]]
+	- [OpenFreeMap](https://omnivore.app/me/open-free-map-19224ffb334)
+	  collapsed:: true
+	  site:: [openfreemap.org](https://openfreemap.org)
+	  date-saved:: [[Sep 24th, 2024]]
+	- [No Data Lasts Forever - The Cool Blog](https://omnivore.app/me/no-data-lasts-forever-the-cool-blog-1922160e47a)
+	  collapsed:: true
+	  site:: [lilysthings.org](https://lilysthings.org/blog/no-data-lasts-forever/)
+	  date-saved:: [[Sep 23rd, 2024]]
+	- [Freewheeling Apps](https://omnivore.app/me/freewheeling-apps-19220fe05e1)
+	  collapsed:: true
+	  site:: [akkartik.name](http://akkartik.name/freewheeling-apps)
+	  date-saved:: [[Sep 23rd, 2024]]
+	  date-published:: [[Sep 18th, 2024]]
+	- [errornogo](https://omnivore.app/me/errornogo-19220722dfd)
+	  collapsed:: true
+	  site:: [errornogo](https://errornogo.com)
+	  date-saved:: [[Sep 23rd, 2024]]
+	- [Time Flies - Koen van Gilst](https://omnivore.app/me/time-flies-koen-van-gilst-1921cc75671)
+	  collapsed:: true
+	  site:: [time-flies.koenvangilst.nl](https://time-flies.koenvangilst.nl)
+	  date-saved:: [[Sep 22nd, 2024]]
+	- [The Ruthless Edit - Jim Nielsen’s Blog](https://omnivore.app/me/the-ruthless-edit-jim-nielsen-s-blog-19216d64216)
+	  collapsed:: true
+	  site:: [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2024/the-ruthless-edit/)
+	  author:: Jim Nielsen
+	  date-saved:: [[Sep 21st, 2024]]
+	  date-published:: [[Sep 16th, 2024]]
+	- [Building a Robust Live Reloader with WebSockets and Go — brandur.org](https://omnivore.app/me/building-a-robust-live-reloader-with-web-sockets-and-go-brandur--19213700a05)
+	  collapsed:: true
+	  site:: [brandur.org](https://brandur.org/live-reload)
+	  date-saved:: [[Sep 21st, 2024]]
+	  date-published:: [[May 27th, 2019]]
+	- [Writing a document database from scratch in Go: Lucene-like filters and indexes | notes.eatonphil.com](https://omnivore.app/me/writing-a-document-database-from-scratch-in-go-lucene-like-filte-19212587b11)
+	  collapsed:: true
+	  site:: [notes.eatonphil.com](https://notes.eatonphil.com/documentdb.html)
+	  date-saved:: [[Sep 20th, 2024]]
+	  date-published:: [[Mar 27th, 2022]]
+	- [yaegi_demo/internal/engine/engine.go at master · DCjanus/yaegi_demo](https://omnivore.app/me/yaegi-demo-internal-engine-engine-go-at-master-d-cjanus-yaegi-de-1920dee3fe6)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/DCjanus/yaegi_demo/blob/master/internal/engine/engine.go)
+	  date-saved:: [[Sep 19th, 2024]]
+	  date-published:: [[Nov 22nd, 2023]]
+	- [5rahim/seanime: Free and open-source media server for anime and manga that includes library scanning, downloading, transcoding, torrent streaming, and more.](https://omnivore.app/me/5-rahim-seanime-free-and-open-source-media-server-for-anime-and--1920dea9795)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/5rahim/seanime)
+	  date-saved:: [[Sep 19th, 2024]]
+	- [RaselORF/GoBlog](https://omnivore.app/me/rasel-orf-go-blog-1920de85c12)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/RaselORF/GoBlog?tab=readme-ov-file)
+	  date-saved:: [[Sep 19th, 2024]]
+	- [Gandalf-Le-Dev/ebitengine-yaegi-hotreload](https://omnivore.app/me/gandalf-le-dev-ebitengine-yaegi-hotreload-1920de65c88)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/Gandalf-Le-Dev/ebitengine-yaegi-hotreload)
+	  date-saved:: [[Sep 19th, 2024]]
+	- [justshare](https://omnivore.app/me/justshare-1920d375805)
+	  collapsed:: true
+	  site:: [localhost](http://localhost:8080)
+	  date-saved:: [[Sep 19th, 2024]]
+	- [segmentio/golines: A golang formatter that fixes long lines](https://omnivore.app/me/segmentio-golines-a-golang-formatter-that-fixes-long-lines-1920d2acbb5)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/segmentio/golines)
+	  date-saved:: [[Sep 19th, 2024]]
+	- [chrome-extensions-samples/api-samples at main · GoogleChrome/chrome-extensions-samples](https://omnivore.app/me/chrome-extensions-samples-api-samples-at-main-google-chrome-chro-1920d1dc721)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/api-samples)
+	  date-saved:: [[Sep 19th, 2024]]
+	  date-published:: [[Aug 11th, 2024]]
+	- [Teach Yourself Computer Science](https://omnivore.app/me/teach-yourself-computer-science-1920b511894)
+	  collapsed:: true
+	  site:: [teachyourselfcs.com](https://teachyourselfcs.com)
+	  date-saved:: [[Sep 19th, 2024]]
+	- [The New Internet](https://omnivore.app/me/the-new-internet-19208d70c99)
+	  collapsed:: true
+	  site:: [tailscale.com](https://tailscale.com/blog/new-internet)
+	  author:: Avery Pennarun
+	  date-saved:: [[Sep 18th, 2024]]
+	  date-published:: [[Jul 26th, 2024]]
 	- [Books - Computing History](https://omnivore.app/me/books-computing-history-19203faa251)
 	  collapsed:: true
 	  site:: [computinghistory.org.uk](https://www.computinghistory.org.uk/sec/383/Books/)
@@ -936,10 +1426,11 @@
 	  date-saved:: [[Jun 6th, 2024]]
 	  date-published:: [[Dec 31st, 1999]]
 	  collapsed:: true
-	- [Mobbin - The world’s largest mobile & web app design reference library](https://omnivore.app/me/mobbin-the-world-s-largest-mobile-web-app-design-reference-libra-18fef8e166c)
+	- [Mobbin — UI & UX design inspiration for mobile & web apps](https://omnivore.app/me/mobbin-the-world-s-largest-mobile-web-app-design-reference-libra-18fef8e166c)
 	  collapsed:: true
 	  site:: [Mobbin](https://mobbin.com)
-	  date-saved:: [[Jun 6th, 2024]]
+	  labels:: [[ux]][[web]]
+	  date-saved:: [[Oct 31st, 2024]]
 	- [Big Cartel - Easy Online Stores for Artists and Creators.](https://omnivore.app/me/big-cartel-easy-online-stores-for-artists-and-creators-18febb4b42f)
 	  collapsed:: true
 	  site:: [Big Cartel](https://www.bigcartel.com)
@@ -7458,6 +7949,7 @@
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a163096cd)
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/undo-redo)
 	  date-saved:: [[Aug 20th, 2023]]
+	  collapsed:: true
 	- [React Flow Pro](https://omnivore.app/me/react-flow-pro-18a16308be7)
 	  site:: [pro.reactflow.dev](https://pro.reactflow.dev/examples/dynamic-grouping)
 	  date-saved:: [[Aug 20th, 2023]]

@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Get Me Out Of Data Hell — Ludicity](https://omnivore.app/me/get-me-out-of-data-hell-ludicity-192f4691e38)
+	  collapsed:: true
+	  site:: [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)
+	  author:: Published on
+	  date-saved:: [[Nov 3rd, 2024]]
+	  date-published:: [[Oct 9th, 2024]]
+	- [WhatDinner - Food Decider](https://omnivore.app/me/what-dinner-food-decider-192f466dfac)
+	  collapsed:: true
+	  site:: [whatdinner.com](https://whatdinner.com)
+	  date-saved:: [[Nov 3rd, 2024]]
 	- [Learning CSS Grid with Grid Garden | Thomas Park](https://omnivore.app/me/learning-css-grid-with-grid-garden-thomas-park-192ea9b62a0)
 	  collapsed:: true
 	  site:: [Thomas Park](https://thomaspark.co/2017/04/learning-css-grid-with-grid-garden/)

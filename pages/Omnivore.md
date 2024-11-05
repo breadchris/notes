@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Blog Writing for Developers](https://omnivore.app/me/blog-writing-for-developers-192f961a036)
+	  collapsed:: true
+	  site:: [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
+	  date-saved:: [[Nov 4th, 2024]]
+	  date-published:: [[Jul 18th, 2023]]
+	- [Examples · Diagrams](https://omnivore.app/me/examples-diagrams-192f96084f4)
+	  collapsed:: true
+	  site:: [diagrams.mingrammer.com](https://diagrams.mingrammer.com/docs/getting-started/examples)
+	  date-saved:: [[Nov 4th, 2024]]
+	  date-published:: [[Aug 11th, 2021]]
 	- [Get Me Out Of Data Hell — Ludicity](https://omnivore.app/me/get-me-out-of-data-hell-ludicity-192f4691e38)
 	  collapsed:: true
 	  site:: [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/)

@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://breadchris.com</loc>
-    <lastmod>2024-11-04T21:04:07.862704-08:00</lastmod>
+    <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://breadchris.com/blog/github-integration-for-blog-platform</loc>
+    <lastmod>2024-11-06T00:07:57-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/blog/my-code-is-hard-to-explain</loc>
@@ -49,11 +53,11 @@
     <lastmod>2024-03-27T21:29:52-07:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn</loc>
+    <loc>https://breadchris.com/blog/resume</loc>
     <lastmod>2024-03-26T20:04:06-07:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/resume</loc>
+    <loc>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn</loc>
     <lastmod>2024-03-26T20:04:06-07:00</lastmod>
   </url>
   <url>
@@ -406,14 +410,14 @@
   </url>
   <url>
     <loc>https://breadchris.com/tags/</loc>
-    <lastmod>2024-11-04T21:04:07.862704-08:00</lastmod>
+    <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/resume</loc>
-    <lastmod>2024-11-04T21:04:07.862704-08:00</lastmod>
+    <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/talks</loc>
-    <lastmod>2024-11-04T21:04:07.862704-08:00</lastmod>
+    <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
   </url>
 </urlset>

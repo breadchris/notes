@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://breadchris.com</loc>
+<<<<<<< HEAD
     <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/blog/github-integration-for-blog-platform</loc>
     <lastmod>2024-11-06T00:07:57-08:00</lastmod>
+=======
+    <lastmod>2024-11-06T00:02:52.412104-08:00</lastmod>
+>>>>>>> 47985f9a7f06d16d4ee2a5a65f9a94505b7e2edf
   </url>
   <url>
     <loc>https://breadchris.com/blog/my-code-is-hard-to-explain</loc>
@@ -410,6 +414,7 @@
   </url>
   <url>
     <loc>https://breadchris.com/tags/</loc>
+<<<<<<< HEAD
     <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
   </url>
   <url>
@@ -419,5 +424,16 @@
   <url>
     <loc>https://breadchris.com/talks</loc>
     <lastmod>2024-11-06T00:11:33.449435-08:00</lastmod>
+=======
+    <lastmod>2024-11-06T00:02:52.412104-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://breadchris.com/resume</loc>
+    <lastmod>2024-11-06T00:02:52.412104-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://breadchris.com/talks</loc>
+    <lastmod>2024-11-06T00:02:52.412104-08:00</lastmod>
+>>>>>>> 47985f9a7f06d16d4ee2a5a65f9a94505b7e2edf
   </url>
 </urlset>

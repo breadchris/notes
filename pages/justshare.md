@@ -23,6 +23,10 @@
           collapsed:: true
           site:: [spencerporter2.medium.com](https://spencerporter2.medium.com/building-copilot-on-the-web-f090ceb9b20b)
           date-saved:: [[Nov 8nd, 2024]]
+        - [OpenAI Microscope | OpenAI](https://openai.com/index/microscope/)
+          collapsed:: true
+          site:: [openai.com](https://openai.com/index/microscope/)
+          date-saved:: [[Nov 9nd, 2024]]
         - [Converting Raw Data to Insights Using JSON Visualizer Tools](https://dadroit.com/blog/json-visualizer-tools/)
           collapsed:: true
           site:: [dadroit.com](https://dadroit.com/blog/json-visualizer-tools/)

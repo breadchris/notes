@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Do You Even Run?](https://omnivore.app/me/https-youtube-com-shorts-v-asxi-1-dco-5-c-si-i-3-gz-aum-jbh-xcts-193120f7568)
+	  collapsed:: true
+	  site:: [YouTube](https://youtube.com/shorts/VAsxi1Dco5c?si=i3Gz-AumJbhXCTSK)
+	  author:: The Barefoot Sprinter
+	  date-saved:: [[Nov 9th, 2024]]
 	- [Blog Writing for Developers](https://omnivore.app/me/blog-writing-for-developers-192f961a036)
 	  collapsed:: true
 	  site:: [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)

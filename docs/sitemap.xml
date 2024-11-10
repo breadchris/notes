@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://breadchris.com</loc>
-    <lastmod>2024-11-09T18:29:54.03053-08:00</lastmod>
+    <lastmod>2024-11-09T19:34:10.324083-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://breadchris.com/blog/proof-of-stake</loc>
+    <lastmod>2024-11-09T19:31:38-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/blog/another-test</loc>
@@ -61,11 +65,11 @@
     <lastmod>2024-03-27T21:29:52-07:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/resume</loc>
+    <loc>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn</loc>
     <lastmod>2024-03-26T20:04:06-07:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/8529-people-have-contributed-to-scikit-learn</loc>
+    <loc>https://breadchris.com/blog/resume</loc>
     <lastmod>2024-03-26T20:04:06-07:00</lastmod>
   </url>
   <url>
@@ -269,11 +273,11 @@
     <lastmod>2024-02-08T21:29:16-08:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/testing-code-highlighting</loc>
+    <loc>https://breadchris.com/blog/talks</loc>
     <lastmod>2024-02-08T15:40:10-08:00</lastmod>
   </url>
   <url>
-    <loc>https://breadchris.com/blog/talks</loc>
+    <loc>https://breadchris.com/blog/testing-code-highlighting</loc>
     <lastmod>2024-02-08T15:40:10-08:00</lastmod>
   </url>
   <url>
@@ -418,14 +422,14 @@
   </url>
   <url>
     <loc>https://breadchris.com/tags/</loc>
-    <lastmod>2024-11-09T18:29:54.03053-08:00</lastmod>
+    <lastmod>2024-11-09T19:34:10.324083-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/resume</loc>
-    <lastmod>2024-11-09T18:29:54.03053-08:00</lastmod>
+    <lastmod>2024-11-09T19:34:10.324083-08:00</lastmod>
   </url>
   <url>
     <loc>https://breadchris.com/talks</loc>
-    <lastmod>2024-11-09T18:29:54.03053-08:00</lastmod>
+    <lastmod>2024-11-09T19:34:10.324083-08:00</lastmod>
   </url>
 </urlset>

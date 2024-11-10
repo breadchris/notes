@@ -1,4 +1,26 @@
 ## 🔖 Articles
+	- [Building an Augmented Reality Application with ArUco Marker Pose Estimation in OpenCV](https://omnivore.app/me/https-youtu-be-ge-wo-g-ddjl-sc-19317df8758)
+	  collapsed:: true
+	  site:: [YouTube](https://youtu.be/GEWoGDdjlSc)
+	  author:: Nicolai Nielsen
+	  date-saved:: [[Nov 10th, 2024]]
+	- [OpenCV: Detection of ArUco boards](https://omnivore.app/me/open-cv-detection-of-ar-uco-boards-19317deef33)
+	  collapsed:: true
+	  site:: [docs.opencv.org](https://docs.opencv.org/4.x/db/da9/tutorial_aruco_board_detection.html)
+	  date-saved:: [[Nov 10th, 2024]]
+	- [Matthew Bird - Audio Decomposition](https://omnivore.app/me/matthew-bird-audio-decomposition-19317b95ece)
+	  collapsed:: true
+	  site:: [matthew-bird.com](https://matthew-bird.com/blogs/Audio-Decomposition.html)
+	  date-saved:: [[Nov 10th, 2024]]
+	- [Thoughts on the Resiliency of Web Projects • Aaron Parecki](https://omnivore.app/me/thoughts-on-the-resiliency-of-web-projects-aaron-parecki-19317b48b7e)
+	  collapsed:: true
+	  site:: [Aaron Parecki](https://aaronparecki.com/2024/08/31/9/too-many-projects)
+	  date-saved:: [[Nov 10th, 2024]]
+	  date-published:: [[Aug 30th, 2024]]
+	- [bhavnicksm/chonkie: 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library](https://omnivore.app/me/bhavnicksm-chonkie-chonk-your-texts-with-chonkie-the-no-nonsense-19317b4007e)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/bhavnicksm/chonkie)
+	  date-saved:: [[Nov 10th, 2024]]
 	- [Do You Even Run?](https://omnivore.app/me/https-youtube-com-shorts-v-asxi-1-dco-5-c-si-i-3-gz-aum-jbh-xcts-193120f7568)
 	  collapsed:: true
 	  site:: [YouTube](https://youtube.com/shorts/VAsxi1Dco5c?si=i3Gz-AumJbhXCTSK)

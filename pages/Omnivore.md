@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [Shad Editor](https://omnivore.app/me/shad-editor-1931c448697)
+	  collapsed:: true
+	  site:: [shad-editor.tsuzat.com](https://shad-editor.tsuzat.com)
+	  author:: Your Name
+	  date-saved:: [[Nov 11th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/shad-editor-1931c448697#9bb7c0e7-e95e-4d78-9384-a552c0cfcbb5)
+	- [Low Byte Productions - YouTube](https://omnivore.app/me/low-byte-productions-you-tube-1931c2da791)
+	  collapsed:: true
+	  site:: [YouTube](https://m.youtube.com/@lowbyteproductions)
+	  author:: @RGMechEx
+	  date-saved:: [[Nov 11th, 2024]]
+	- [Algorithms we develop software by](https://omnivore.app/me/algorithms-we-develop-software-by-19318d925f1)
+	  collapsed:: true
+	  site:: [grantslatton.com](https://grantslatton.com/software-pathfinding)
+	  date-saved:: [[Nov 10th, 2024]]
 	- [Building an Augmented Reality Application with ArUco Marker Pose Estimation in OpenCV](https://omnivore.app/me/https-youtu-be-ge-wo-g-ddjl-sc-19317df8758)
 	  collapsed:: true
 	  site:: [YouTube](https://youtu.be/GEWoGDdjlSc)

@@ -1,4 +1,18 @@
 ## 🔖 Articles
+	- [What I Wish Someone Told Me About Postgres | ChallahScript](https://omnivore.app/me/what-i-wish-someone-told-me-about-postgres-challah-script-19322c76379)
+	  collapsed:: true
+	  site:: [ChallahScript](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+	  date-saved:: [[Nov 12th, 2024]]
+	  date-published:: [[Nov 11th, 2024]]
+	- [Visualizing the Past (World War II) | Goldwag's Journal on Civilization](https://omnivore.app/me/visualizing-the-past-world-war-ii-goldwag-s-journal-on-civilizat-19322c653ab)
+	  collapsed:: true
+	  site:: [Goldwag's Journal on Civilization](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
+	  date-saved:: [[Nov 12th, 2024]]
+	  date-published:: [[Oct 26th, 2024]]
+	- [How I ship projects at big tech companies | sean goedecke](https://omnivore.app/me/how-i-ship-projects-at-big-tech-companies-sean-goedecke-1931ecb17ce)
+	  collapsed:: true
+	  site:: [seangoedecke.com](https://www.seangoedecke.com/how-to-ship/)
+	  date-saved:: [[Nov 11th, 2024]]
 	- [Shad Editor](https://omnivore.app/me/shad-editor-1931c448697)
 	  collapsed:: true
 	  site:: [shad-editor.tsuzat.com](https://shad-editor.tsuzat.com)

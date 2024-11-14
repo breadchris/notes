@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [A Student’s Guide to Writing with ChatGPT | OpenAI](https://omnivore.app/me/a-student-s-guide-to-writing-with-chat-gpt-open-ai-19327b9e6c4)
+	  collapsed:: true
+	  site:: [openai.com](https://openai.com/chatgpt/use-cases/student-writing-guide/)
+	  date-saved:: [[Nov 13th, 2024]]
+	- [Pikuma: The Impact of Jungle Music in 90s Video Game Development](https://omnivore.app/me/pikuma-the-impact-of-jungle-music-in-90-s-video-game-development-19327b91605)
+	  collapsed:: true
+	  site:: [pikuma.com](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
+	  date-saved:: [[Nov 13th, 2024]]
 	- [What I Wish Someone Told Me About Postgres | ChallahScript](https://omnivore.app/me/what-i-wish-someone-told-me-about-postgres-challah-script-19322c76379)
 	  collapsed:: true
 	  site:: [ChallahScript](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)

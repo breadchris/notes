@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Constraints in Go — Bitfield Consulting](https://omnivore.app/me/constraints-in-go-bitfield-consulting-1933c3f2ea7)
+	  collapsed:: true
+	  site:: [Bitfield Consulting](https://bitfieldconsulting.com/posts/constraints)
+	  author:: John Arundel
+	  date-saved:: [[Nov 17th, 2024]]
+	  date-published:: [[Oct 31st, 2024]]
 	- [Monochrome Skittles | afloat.boats](https://omnivore.app/me/monochrome-skittles-afloat-boats-19334e56d82)
 	  collapsed:: true
 	  site:: [afloat.boats](https://www.afloat.boats/posts/skittles/)

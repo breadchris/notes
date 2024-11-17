@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on breadchris</title>
+    <link>https://breadchris.com/tags/design/</link>
+    <description>Recent content in design on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My favorite button on the Internet</title>
+      <link>https://breadchris.com/blog/my-favorite-button-on-the-internet/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/my-favorite-button-on-the-internet/</guid>
+      <description>A button is a deceptively hard web component to get right. A good button makes a lot of things simple to do. You only need to press one thing, and a lot of things happen.
+&amp;gt; &amp;ldquo;Design is not just what it looks like and feels like. Design is how it works.&amp;rdquo; ~ Steve Jobs
+Beyond what the button does, it also captures intent. The user desires to interact with this button because they want what it offers.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on breadchris</title>
+    <link>https://breadchris.com/tags/go/</link>
+    <description>Recent content in go on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>error checking is hard</title>
+      <link>https://breadchris.com/thinkies/error-checking-is-hard/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/error-checking-is-hard/</guid>
+      <description>Error checking is a complicated problem. It is like a garbage problem; everyone produces garbage, but no one wants to pick it up. Errors come from code that might behave unexpectedly due to forces outside of the developer&amp;rsquo;s control. Code accepts user input, and it will do its best to make sense of it, but there are scenarios where it is not possible for the code to handle the data that it was given (the code does addition but gets &amp;ldquo;hamburger&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>The Go Proposal Process</title>
+      <link>https://breadchris.com/thinkies/the-go-proposal-process/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-go-proposal-process/</guid>
+      <description>Underneath the syntax and runtime is a very important system that is often overlooked in a language. Usually, there is &amp;ldquo;the person&amp;rdquo; who built the language, and successful languages often come from the person wanting a language to suit their needs, not finding one, and then making their own. Over time, more people want to use the language, and balancing constraints of what is included or not included in a language becomes challenging.</description>
+    </item>
+    <item>
+      <title>notes about coroutines?</title>
+      <link>https://breadchris.com/thinkies/notes-about-coroutines/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/notes-about-coroutines/</guid>
+      <description>Even though the &amp;ldquo;go&amp;rdquo; keyword is the same name as the language, you would think this is more commonly used. From my experience, go developers, including myself, will avoid using go routines and channels as much as possible. The reason is that it adds complexity that you often don&amp;rsquo;t need. Concurrent code unlocks a lot of performance as tasks that would otherwise &amp;ldquo;stop the world&amp;rdquo; only stop the go routine that they are on.</description>
+    </item>
+    <item>
+      <title>The case for a single binary</title>
+      <link>https://breadchris.com/thinkies/the-case-for-a-single-binary/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-case-for-a-single-binary/</guid>
+      <description>In the realm of software development, the dichotomy between local development environments and production settings presents a notable challenge. The ideal scenario is where both environments mirror each other as closely as possible, minimizing discrepancies that can lead to unexpected behaviors upon deployment. However, achieving this level of synchronization is fraught with complexities. Tools like Docker have emerged as potential solutions, offering the promise of containerization to encapsulate applications in self-contained units that can run consistently across various environments.</description>
+    </item>
+    <item>
+      <title>go dependency injection</title>
+      <link>https://breadchris.com/thinkies/go-dependency-injection/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/go-dependency-injection/</guid>
+      <description>Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
+A dependency graph resolved at runtime is error prone and leads to confusing code.</description>
+    </item>
+    <item>
+      <title>anatomy of syntax</title>
+      <link>https://breadchris.com/thinkies/anatomy-of-syntax/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/anatomy-of-syntax/</guid>
+      <description>Something I do not see often in programming language books is a concise explanation of semantic structures that are typically used. For example, in a Java method, there are different modifiers you can apply to the function to change how it behaves (public, private, static, etc.) Usually, the syntax is introduced and it is talked about at length, covering the many edge cases that might exist or the syntax is introduced in passing as an example requires a reader&amp;rsquo;s comprehension of the topic, referencing a later section for the explaination.</description>
+    </item>
+    <item>
+      <title>finding a balance while coding</title>
+      <link>https://breadchris.com/thinkies/finding-a-balance-while-coding/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/finding-a-balance-while-coding/</guid>
+      <description>When coding, have you ever stopped to ask the question: why am I doing this? Maybe it is a fleeting thought before you return to squeezing out a few more milliseconds on your page load.
+As creators of software and websites, we often get caught up in the never-ending pursuit of optimization. We constantly strive to make our code more efficient, our algorithms faster, and our page load times shorter. But in our relentless quest for optimization, we may lose sight of the bigger picture.</description>
+    </item>
+    <item>
+      <title>go test</title>
+      <link>https://breadchris.com/thinkies/go-test/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/go-test/</guid>
+      <description>Testing in software development often finds itself at the tail end of the feature development cycle, sometimes viewed as a necessary evil to uphold code coverage metrics rather than an integral part of the development process. However, the significance of testing cannot be overstated—the safety net ensures our towering stack of dependencies doesn&amp;rsquo;t collapse at the slightest touch.
+A quick Google search on &amp;ldquo; testing&amp;rdquo; unveils a fascinating landscape of testing frameworks across various programming languages.</description>
+    </item>
+    <item>
+      <title>go run</title>
+      <link>https://breadchris.com/blog/go-run/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/go-run/</guid>
+      <description>It may seem silly, but go run is my favorite part about go. Want to run your code? go run main.go. It is so stupidly simple that I could tell my mom about this command, and she would immediately understand. Like with most things in go, the real power in this command is in the effortless understanding of how to build and run everyone&amp;rsquo;s code.
+But I can run node main.</description>
+    </item>
+    <item>
+      <title>Build dope shit with go</title>
+      <link>https://breadchris.com/blog/build-dope-shit-with-go/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/build-dope-shit-with-go/</guid>
+      <description>The goal for this year is to: &amp;ldquo;write and publish something every day.&amp;rdquo; So far I have been doing a good job keeping up with this. In my pursuit to build larger compositions of thoughts, next year will be themed accordingly; I want to write a book. How does one go about choosing the topic to write a book about? It is probably something that you spend a lot of time thinking about.</description>
+    </item>
+  </channel>
+</rss>

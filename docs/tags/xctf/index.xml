@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xctf on breadchris</title>
+    <link>https://breadchris.com/tags/xctf/</link>
+    <description>Recent content in xctf on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/xctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>i need some hackers</title>
+      <link>https://breadchris.com/blog/i-need-some-hackers/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/i-need-some-hackers/</guid>
+      <description>TL;DR - I need money for a non-profit international cybersecurity competition (open-source, too). Donations here, email chris@breadchris.com for sponsorship opportunities.
+I am running an annual cyber security competition (mcpshsf, soon to be xctf) with my high school computer science teacher, celebrating its 8th? year, on March 14th. When run at NYU, it attracted incredible talent from around the US. Some of the alumni went on to form or join notable security companies/teams ( TrailofBits, Zellic, Google, Uber, etc.</description>
+    </item>
+    <item>
+      <title>hacker character with dialog in gpt</title>
+      <link>https://breadchris.com/thinkies/hacker-character-with-dialog-in-gpt/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/hacker-character-with-dialog-in-gpt/</guid>
+      <description>Help me brainstorm a character
+Character Crafter
+Absolutely, I&amp;rsquo;d love to help you brainstorm a character! Let&amp;rsquo;s start by considering a few key elements:
+Archetype: Do you have a specific archetype in mind, such as The Hero, The Rebel, The Sage, or maybe The Innocent? Each archetype brings its own set of traits and narrative possibilities.
+Role in Story: Is this character your protagonist, antagonist, a sidekick, or perhaps a mentor figure?</description>
+    </item>
+  </channel>
+</rss>

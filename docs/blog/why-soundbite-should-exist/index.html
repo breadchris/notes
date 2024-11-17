@@ -1,14 +1,356 @@
-<html dir="auto" lang="en"><head><meta charset="UTF-8"></meta><meta name="generator" content="justshare"></meta><meta http-equiv="X-UA-Compatible" content="IE=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta><meta content="index, follow" name="robots"></meta><title>breadchris</title><meta content="" name="description"></meta><meta content="breadchris" name="author"></meta><link href="https://breadchris.com/" rel="canonical"></link><link as="style" href="https://breadchris.com/static/styles.css" crossorigin="anonymous" rel="preload stylesheet"></link><link href="https://breadchris.com/favicon.ico" rel="icon"></link><link sizes="16x16" href="https://breadchris.com/favicon-16x16.png" rel="icon" type="image/png"></link><link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png"></link><link href="https://breadchris.com/apple-touch-icon.png" rel="apple-touch-icon"></link><link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg"></link><meta name="theme-color" content="#2e2e33"></meta><meta name="msapplication-TileColor" content="#2e2e33"></meta><link type="application/rss+xml" href="https://breadchris.com/index.xml" rel="alternate"></link><link href="https://breadchris.com/index.json" rel="alternate" type="application/json"></link><meta property="og:title" content="breadchris"></meta><meta content="" property="og:description"></meta><meta property="og:type" content="website"></meta><meta content="https://breadchris.com" property="og:url"></meta><meta name="twitter:card" content="summary"></meta><meta name="twitter:title" content="breadchris"></meta><meta name="twitter:description" content=""></meta></head><body class="list dark vsc-initialized" id="top"><header class="header"><nav class="nav"><div class="logo"><a href="https://breadchris.com/" accesskey="h" title="breadchris (Alt + H)">breadchris</a><div class="entry-header"><button id="theme-toggle" accesskey="t" title="(Alt + T)"></button></div></div><ul id="menu"><li><a href="https://breadchris.com/blog" title="blog"><span>blog</span></a></li><li><a href="https://breadchris.com/resume" title="resume"><span>resume</span></a></li><li><a href="https://breadchris.com/tags/" title="tags"><span>tags</span></a></li><li><a title="talks" href="https://breadchris.com/talks"><span>talks</span></a></li></ul></nav></header><main class="main"><article class="post-single"><link href="https://breadchris.com/static/wasmcode/monaco.css" rel="stylesheet"></link><header class="post-header"><h1 class="post-title entry-hint-parent">Why soundbite should exist</h1><div class="post-meta"><span title="2024-01-26T14:12:46-08:00">January 26, 2024</span><span class="ml-3">| breadchris</span></div></header><style>
-			pre,code {
-				tab-size: 2; /* SetMap the tab width to 4 spaces */
-				/*white-space: pre; Preserve whitespace and line breaks */
-			}
-			</style><div class="post-content"><p>TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.</p>
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Why soundbite should exist | breadchris</title>
+<meta name="keywords" content="blog/post">
+<meta name="description" content="TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
+Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone.">
+<meta name="author" content="breadchris">
+<link rel="canonical" href="https://breadchris.com/blog/why-soundbite-should-exist/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.7d0dbc7bebc97247baddbf44f81f3261912c9f64c3f03500922375b9988f4ea9.css" integrity="sha256-fQ28e&#43;vJcke63b9E&#43;B8yYZEsn2TD8DUAkiN1uZiPTqk=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://breadchris.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://breadchris.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://breadchris.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://breadchris.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://breadchris.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><script defer data-domain="breadchris.com" src="https://plausible.io/js/script.js"></script><meta property="og:title" content="Why soundbite should exist" />
+<meta property="og:description" content="TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
+Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://breadchris.com/blog/why-soundbite-should-exist/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-01-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-01-26T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Why soundbite should exist"/>
+<meta name="twitter:description" content="TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.
+Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Blogs",
+      "item": "https://breadchris.com/blog/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "name": "Why soundbite should exist",
+      "item": "https://breadchris.com/blog/why-soundbite-should-exist/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Why soundbite should exist",
+  "name": "Why soundbite should exist",
+  "description": "TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.\nAuthenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone.",
+  "keywords": [
+    "blog/post"
+  ],
+  "articleBody": "TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.\nAuthenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone. It is the first and last thing we look at every day.\nWhat do we spend our day doing on the phone? Catching up with some celebrity, social media influencer, some random hair salon that cuts hair with fire. “The algorithm” is really good at what it does, and what it is doing is keeping you on the platform by any means necessesary. If you spend a second longer than usual fixated on a some guy lifting a lot of weight your digital content butler is going to start serving you videos of weightlifters. The faster the algorithm can glean information about your engagement with the content, the more it is able to zero in on what they can fill your limited attention span with before you get ripped away and placed in front of someone else’s visually, auditorially engaging world built more and more just for you.\nAs a developer, I am enthralled with how effective this algorithm is. And what is even more interesting is just how simple it is to build. Every major social media platform has their own form of “short form content” available for you to use and the numbers speak for themselves. Or even better, don’t look at the numbers, just start using it yourself and feel just how targeted you get by spending very little time on any platform (tiktok’s is scary good).\nIn essence, we have invented digital crack. A pure refinement on what “engagement” is. The doom sayers will tell you it is mind control, and I will generally agree. Actually, I completely agree, but I personally like to think that all mind control has its applications in humanity in a way that actually benefits us. I guess it is just the teacher in me that wants to connect with students in interesting ways and any good teacher is trying to do this every day already. Unfortunately, engagement that comes from “Answer this and get some candy” or “spend more time on the assignment and get extra credit” is not very effective or it really only will work a couple of times before the gig is up. Engaging content really comes from one’s ability to observe the student, understand their world, and then know what it is that you can say or do that will coax them into walking into your world and seeing what you have to offer. Creators on Tiktok, and the like, really can do this quite easily once they figure out the forumla (which is “shared” by other creators who they follow), and often times it is really just acting out the all too potent and powerful primal desires we have. Girls showing off their boobs, men flexing, violence, romance, comedy, etc. Well, I should really say this type of content is what will go viral. There is so much content being uploaded to these platforms it is easy to miss the true home grown creativity that people, deep down, really do crave. The unapologetic, authentic content that comes from creators who care about their content and not the views it might have. When people get the creative freedom they crave, magic is made.\nI have made an observation of my surroundings that has become undeniable to me, and I walk into every conversation I have with this thought banging around in my head. No matter who I am talking to, I am finding myself realizing that there are nuggets of valuable information that are constantly being dropped. A good conversation is one that seems to effortlessly till someone’s mind and surface a part of them that they might not have talked about in a while. With the right questions, you can guide someone through their own mind and remind them about concepts and ideas that make them, them. And someone being themselves is not an easy thing to do. There is a lot of life that is lived between then and now. All of that time in between might be filled with things that seem insignificant to the speaker, but to the listener, that might be exactly what they need to experience to alter their perception fo the world.\nI think almost everyone has had this experience, but think back to a classroom experience you had with a “bad teacher”. A “bad teacher”, in my opinion is simply a teacher who just couldn’t connect with you in the way that you needed to be connected with. Now, and hopefully you have had this experience, a “good teacher” is one who just always seems to say the things that make you consider what they are talking about for a moment longer. The information percolates throughout your mind and starts to alter your assumptions. Finding the right teacher for you can be incredibly difficult. Someone who can speak your language, not just English, Spanish, Chinese, etc. but the colloquial words you have come to speak so that you can feel seen for who you are, that can be difficult.\nThe case for soundbite begins and ends with a simple idea; we need to feel seen before we can learn. There is so much stimulation around us digitally that the next wave of advancements in communication are going to feel like regressions in technology, but in reality they are focused on solving the much more complicated problems that we, as humans and not just consumers, face.\n",
+  "wordCount" : "968",
+  "inLanguage": "en",
+  "datePublished": "2024-01-26T00:00:00Z",
+  "dateModified": "2024-01-26T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "breadchris"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://breadchris.com/blog/why-soundbite-should-exist/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "breadchris",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://breadchris.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://breadchris.com" accesskey="h" title="breadchris (Alt + H)">breadchris</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://breadchris.com/blog" title="blog">
+                    <span>blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/resume" title="resume">
+                    <span>resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/tags/" title="tags">
+                    <span>tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/talks" title="talks">
+                    <span>talks</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://breadchris.com/thinkies" title="thinkies">
+                    <span>thinkies</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Why soundbite should exist
+    </h1>
+    <div class="post-meta"><span title='2024-01-26 00:00:00 +0000 UTC'>January 26, 2024</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;breadchris
+
+</div>
+  </header> 
+  <div class="post-content"><p>TL;DR soundbite is a podcasting platform, supercharged by advancements in content discovery, to connect with your friends and your community before international influencers.</p>
 <p>Authenticity is a commodity in modern day communication. When we wake up, we look at our phone, during breakfast, we look at our phone, at work when we are bored, we look at our phone, going to the bathroom? phone. Watching TV? phone. Avoiding going to bed? phone. It is the first and last thing we look at every day.</p>
-<p>What do we spend our day doing on the phone? Catching up with some celebrity, social media influencer, some random hair salon that cuts hair with fire. &quot;The algorithm&quot; is really good at what it does, and what it is doing is keeping you on the platform by any means necessesary. If you spend a second longer than usual fixated on a some guy lifting a lot of weight your digital content butler is going to start serving you videos of weightlifters. The faster the algorithm can glean information about your engagement with the content, the more it is able to zero in on what they can fill your limited attention span with before you get ripped away and placed in front of someone else's visually, auditorially engaging world built more and more just for you.</p>
-<p>As a developer, I am enthralled with how effective this algorithm is. And what is even more interesting is just how simple it is to build. Every major social media platform has their own form of &quot;short form content&quot; available for you to use and the numbers speak for themselves. Or even better, don't look at the numbers, just start using it yourself and feel just how targeted you get by spending very little time on any platform (tiktok's is scary good).</p>
-<p>In essence, we have invented digital crack. A pure refinement on what &quot;engagement&quot; is. The doom sayers will tell you it is mind control, and I will generally agree. Actually, I completely agree, but I personally like to think that all mind control has its applications in humanity in a way that actually benefits us. I guess it is just the teacher in me that wants to connect with students in interesting ways and any good teacher is trying to do this every day already. Unfortunately, engagement that comes from &quot;Answer this and get some candy&quot; or &quot;spend more time on the assignment and get extra credit&quot; is not very effective or it really only will work a couple of times before the gig is up. Engaging content really comes from one's ability to observe the student, understand their world, and then know what it is that you can say or do that will coax them into walking into your world and seeing what you have to offer. Creators on Tiktok, and the like, really can do this quite easily once they figure out the forumla (which is &quot;shared&quot; by other creators who they follow), and often times it is really just acting out the all too potent and powerful primal desires we have. Girls showing off their boobs, men flexing, violence, romance, comedy, etc. Well, I should really say this type of content is what will go viral. There is so much content being uploaded to these platforms it is easy to miss the true home grown creativity that people, deep down, really do crave. The unapologetic, authentic content that comes from creators who care about their content and not the views it might have. When people get the creative freedom they crave, magic is made.</p>
-<p>I have made an observation of my surroundings that has become undeniable to me, and I walk into every conversation I have with this thought banging around in my head. No matter who I am talking to, I am finding myself realizing that there are nuggets of valuable information that are constantly being dropped. A good conversation is one that seems to effortlessly till someone's mind and surface a part of them that they might not have talked about in a while. With the right questions, you can guide someone through their own mind and remind them about concepts and ideas that make them, them. And someone being themselves is not an easy thing to do. There is a lot of life that is lived between then and now. All of that time in between might be filled with things that seem insignificant to the speaker, but to the listener, that might be exactly what they need to experience to alter their perception fo the world.</p>
-<p>I think almost everyone has had this experience, but think back to a classroom experience you had with a &quot;bad teacher&quot;. A &quot;bad teacher&quot;, in my opinion is simply a teacher who just couldn't connect with you in the way that you needed to be connected with. Now, and hopefully you have had this experience, a &quot;good teacher&quot; is one who just always seems to say the things that make you consider what they are talking about for a moment longer. The information percolates throughout your mind and starts to alter your assumptions. Finding the right teacher for you can be incredibly difficult. Someone who can speak your language, not just English, Spanish, Chinese, etc. but the colloquial words you have come to speak so that you can feel seen for who you are, that can be difficult.</p>
+<p>What do we spend our day doing on the phone? Catching up with some celebrity, social media influencer, some random hair salon that cuts hair with fire. &ldquo;The algorithm&rdquo; is really good at what it does, and what it is doing is keeping you on the platform by any means necessesary. If you spend a second longer than usual fixated on a some guy lifting a lot of weight your digital content butler is going to start serving you videos of weightlifters. The faster the algorithm can glean information about your engagement with the content, the more it is able to zero in on what they can fill your limited attention span with before you get ripped away and placed in front of someone else&rsquo;s visually, auditorially engaging world built more and more just for you.</p>
+<p>As a developer, I am enthralled with how effective this algorithm is. And what is even more interesting is just how simple it is to build. Every major social media platform has their own form of &ldquo;short form content&rdquo; available for you to use and the numbers speak for themselves. Or even better, don&rsquo;t look at the numbers, just start using it yourself and feel just how targeted you get by spending very little time on any platform (tiktok&rsquo;s is scary good).</p>
+<p>In essence, we have invented digital crack. A pure refinement on what &ldquo;engagement&rdquo; is. The doom sayers will tell you it is mind control, and I will generally agree. Actually, I completely agree, but I personally like to think that all mind control has its applications in humanity in a way that actually benefits us. I guess it is just the teacher in me that wants to connect with students in interesting ways and any good teacher is trying to do this every day already. Unfortunately, engagement that comes from &ldquo;Answer this and get some candy&rdquo; or &ldquo;spend more time on the assignment and get extra credit&rdquo; is not very effective or it really only will work a couple of times before the gig is up. Engaging content really comes from one&rsquo;s ability to observe the student, understand their world, and then know what it is that you can say or do that will coax them into walking into your world and seeing what you have to offer. Creators on Tiktok, and the like, really can do this quite easily once they figure out the forumla (which is &ldquo;shared&rdquo; by other creators who they follow), and often times it is really just acting out the all too potent and powerful primal desires we have. Girls showing off their boobs, men flexing, violence, romance, comedy, etc. Well, I should really say this type of content is what will go viral. There is so much content being uploaded to these platforms it is easy to miss the true home grown creativity that people, deep down, really do crave. The unapologetic, authentic content that comes from creators who care about their content and not the views it might have. When people get the creative freedom they crave, magic is made.</p>
+<p>I have made an observation of my surroundings that has become undeniable to me, and I walk into every conversation I have with this thought banging around in my head. No matter who I am talking to, I am finding myself realizing that there are nuggets of valuable information that are constantly being dropped. A good conversation is one that seems to effortlessly till someone&rsquo;s mind and surface a part of them that they might not have talked about in a while. With the right questions, you can guide someone through their own mind and remind them about concepts and ideas that make them, them. And someone being themselves is not an easy thing to do. There is a lot of life that is lived between then and now. All of that time in between might be filled with things that seem insignificant to the speaker, but to the listener, that might be exactly what they need to experience to alter their perception fo the world.</p>
+<p>I think almost everyone has had this experience, but think back to a classroom experience you had with a &ldquo;bad teacher&rdquo;. A &ldquo;bad teacher&rdquo;, in my opinion is simply a teacher who just couldn&rsquo;t connect with you in the way that you needed to be connected with. Now, and hopefully you have had this experience, a &ldquo;good teacher&rdquo; is one who just always seems to say the things that make you consider what they are talking about for a moment longer. The information percolates throughout your mind and starts to alter your assumptions. Finding the right teacher for you can be incredibly difficult. Someone who can speak your language, not just English, Spanish, Chinese, etc. but the colloquial words you have come to speak so that you can feel seen for who you are, that can be difficult.</p>
 <p>The case for soundbite begins and ends with a simple idea; we need to feel seen before we can learn. There is so much stimulation around us digitally that the next wave of advancements in communication are going to feel like regressions in technology, but in reality they are focused on solving the much more complicated problems that we, as humans and not just consumers, face.</p>
-</div><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/highlight.min.js"></script><script>hljs.highlightAll();</script><footer class="post-footer"><ul class="post-tags"><li class="post-tag"><a href="https://breadchris.com/tags/blog/post">blog/post</a></li></ul><a href="https://breadchris.com/new/why-soundbite-should-exist" class="btn">edit</a></footer><script src="https://breadchris.com/static/wasmcode/monaco.js" type="module"></script></article></main><footer class="page-footer"></footer><footer class="footer"><span>© 2024 <a href="https://breadchris.com/">breadchris</a></span></footer></body></html>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://breadchris.com/tags/blog/post/">blog/post</a></li>
+    </ul>
+    <form
+            action="https://buttondown.email/api/emails/embed-subscribe/breadchris"
+            method="post"
+            target="popupwindow"
+            onsubmit="window.open('https://buttondown.email/breadchris', 'popupwindow')"
+            class="embeddable-buttondown-form"
+    >
+      <input class="input" type="email" name="email" id="bd-input" placeholder="join the email list" />
+      <input class="btn" type="submit" id="bd-submit" value="Subscribe" />
+    </form>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="https://breadchris.com">breadchris</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on breadchris</title>
+    <link>https://breadchris.com/tags/web/</link>
+    <description>Recent content in web on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>to spa, or not to spa?</title>
+      <link>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</guid>
+      <description>Website vs web app, what is the difference? How do you know how to make the tradeoffs in terms of complexity for a spa vs the simple HTML of templates? Managing state in the DOM is not easy, dynamic components require managing of more state. How does htmx relate?</description>
+    </item>
+    <item>
+      <title>sensible web stack decisions</title>
+      <link>https://breadchris.com/blog/sensible-web-stack-decisions/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/sensible-web-stack-decisions/</guid>
+      <description>I have so much goddamn respect for web developers. A long list of side projects has consumed a significant amount of my time and have been riddled with frustration. What is most frustrating when writing a web app is understanding what tools to use. React, Vue, Svelte? Tailwind, the component library of the week, SASS, CSS? Everyone has opinions, and the &amp;ldquo;principled&amp;rdquo; stances are mostly comparisons against other technologies. Over the past few years, I have spent a lot of time considering how to build web apps with a &amp;ldquo;modern&amp;rdquo; approach.</description>
+    </item>
+  </channel>
+</rss>

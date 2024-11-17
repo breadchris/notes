@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sketchysecurity on breadchris</title>
+    <link>https://breadchris.com/tags/sketchysecurity/</link>
+    <description>Recent content in sketchysecurity on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/sketchysecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>building a plugin system for the web</title>
+      <link>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/building-a-plugin-system-for-the-web/</guid>
+      <description>The Figma Plugin System Figma is a design tool that has become the industry standard, similar to how Photoshop became the defacto for photo editing. When everyone uses one tool, it only follows that there will be functionality that different groups of people need that isn&amp;rsquo;t immediately supported. To bridge the gap in functionality, a plugin system is the go-to solution for letting people extend a system how they see fit.</description>
+    </item>
+  </channel>
+</rss>

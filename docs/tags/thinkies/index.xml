@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thinkies on breadchris</title>
+    <link>https://breadchris.com/tags/thinkies/</link>
+    <description>Recent content in thinkies on breadchris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://breadchris.com/tags/thinkies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A cool button goes viral</title>
+      <link>https://breadchris.com/thinkies/a-cool-button-goes-viral/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/a-cool-button-goes-viral/</guid>
+      <description>Imagine a developer named Alex, who creates a simple yet intriguing app with a button that shows the user a picture of a cat when they click on it.
+Alex chooses PostgreSQL for the backend, confident in its robustness and familiarity. At first, the app functions flawlessly, gaining a steady user base. Each button press generates a record in the database: timestamp, user ID, execution time, and the URL of the cat picture.</description>
+    </item>
+    <item>
+      <title>error checking is hard</title>
+      <link>https://breadchris.com/thinkies/error-checking-is-hard/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/error-checking-is-hard/</guid>
+      <description>Error checking is a complicated problem. It is like a garbage problem; everyone produces garbage, but no one wants to pick it up. Errors come from code that might behave unexpectedly due to forces outside of the developer&amp;rsquo;s control. Code accepts user input, and it will do its best to make sense of it, but there are scenarios where it is not possible for the code to handle the data that it was given (the code does addition but gets &amp;ldquo;hamburger&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>the modern business card</title>
+      <link>https://breadchris.com/thinkies/the-modern-business-card/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-modern-business-card/</guid>
+      <description>I had this idea while I was at a rave (related to DID): I can define an RPC schema that anyone in the world can interface with. I can define different circles of trust for people who can hit certain endpoints (ex. “CalendarService.ScheduleMeeting” can only be invoked by my network on LinkedIn). I can also put different middleware on the endpoint (ex. Paywall middleware, rate limit, etc.). When a request comes in it goes into a queue, prioritized by some logic (ex.</description>
+    </item>
+    <item>
+      <title>you have invented time travel</title>
+      <link>https://breadchris.com/thinkies/you-have-invented-time-travel/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/you-have-invented-time-travel/</guid>
+      <description>you have invented time travel. you hop in the phone book and go 5 years into the past to find yourself and tell them this: &amp;ldquo;First of all, yes time traveling is real, second, you should start reading these 5 things:
+wayne
+the following command “put it all on bitcoin and hold for at least 5 years”
+books on mental health and relationship communications
+like non-violent communication
+all the engineering shit is fine and good but there are no rerolls on relationships</description>
+    </item>
+    <item>
+      <title>The Go Proposal Process</title>
+      <link>https://breadchris.com/thinkies/the-go-proposal-process/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-go-proposal-process/</guid>
+      <description>Underneath the syntax and runtime is a very important system that is often overlooked in a language. Usually, there is &amp;ldquo;the person&amp;rdquo; who built the language, and successful languages often come from the person wanting a language to suit their needs, not finding one, and then making their own. Over time, more people want to use the language, and balancing constraints of what is included or not included in a language becomes challenging.</description>
+    </item>
+    <item>
+      <title>notes about coroutines?</title>
+      <link>https://breadchris.com/thinkies/notes-about-coroutines/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/notes-about-coroutines/</guid>
+      <description>Even though the &amp;ldquo;go&amp;rdquo; keyword is the same name as the language, you would think this is more commonly used. From my experience, go developers, including myself, will avoid using go routines and channels as much as possible. The reason is that it adds complexity that you often don&amp;rsquo;t need. Concurrent code unlocks a lot of performance as tasks that would otherwise &amp;ldquo;stop the world&amp;rdquo; only stop the go routine that they are on.</description>
+    </item>
+    <item>
+      <title>interviews suck</title>
+      <link>https://breadchris.com/thinkies/interviews-suck/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/interviews-suck/</guid>
+      <description>I feel like being put on a hospital bed and prodded every time I am in an interview. A rigid agenda of a strange conversation where the person on the other end is trying to profile you. It is an extraordinary interaction that I really hope improves over time. I usually get greeted by a nice interviewer, or someone trying to play nice at least, for the roles I am applying to.</description>
+    </item>
+    <item>
+      <title>A Hacker’s Quest for the Ultimate Note-Taking System</title>
+      <link>https://breadchris.com/thinkies/a-hackers-quest-for-the-ultimate-note-taking-system/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/a-hackers-quest-for-the-ultimate-note-taking-system/</guid>
+      <description>As the flickering lights of monitors illuminate the shadowed visage of a hacker, known in the cyber realms as Zero Cool, the mind behind the screen drifts away from the usual code and into the realm of daily organization. Amid the clutter of local Apple Notes, a thought emerges, tinged with the desire for something more open, more connected. “What if,” muses Zero Cool, “my notes could seamlessly sync with the very fabric of my digital life?</description>
+    </item>
+    <item>
+      <title>to spa, or not to spa?</title>
+      <link>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/to-spa-or-not-to-spa/</guid>
+      <description>Website vs web app, what is the difference? How do you know how to make the tradeoffs in terms of complexity for a spa vs the simple HTML of templates? Managing state in the DOM is not easy, dynamic components require managing of more state. How does htmx relate?</description>
+    </item>
+    <item>
+      <title>static vs dynamic types</title>
+      <link>https://breadchris.com/thinkies/static-vs-dynamic-types/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/static-vs-dynamic-types/</guid>
+      <description>The debate between statically and dynamically typed languages has always been a hot topic in software development. Designing types for a problem can feel like solving a puzzle—fun for some and frustrating for others. But the real question is: Do you know how to represent the domain? While the alpha engineer may claim they do, understanding a domain comes from observing patterns over time.
+The challenge in business, where code is most commonly used, is collecting and understanding the data needed to define these types accurately.</description>
+    </item>
+    <item>
+      <title>The case for a single binary</title>
+      <link>https://breadchris.com/thinkies/the-case-for-a-single-binary/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-case-for-a-single-binary/</guid>
+      <description>In the realm of software development, the dichotomy between local development environments and production settings presents a notable challenge. The ideal scenario is where both environments mirror each other as closely as possible, minimizing discrepancies that can lead to unexpected behaviors upon deployment. However, achieving this level of synchronization is fraught with complexities. Tools like Docker have emerged as potential solutions, offering the promise of containerization to encapsulate applications in self-contained units that can run consistently across various environments.</description>
+    </item>
+    <item>
+      <title>go dependency injection</title>
+      <link>https://breadchris.com/thinkies/go-dependency-injection/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/go-dependency-injection/</guid>
+      <description>Dependency injection has radically increased my programming rate. When everything is designed as a module, you find yourself constantly reusing things you have already written since it is the path of least resistance.
+If you try to do this without the help of a framework, you will find yourself writing and rewriting the boilerplate code to connect dependencies together. Most DI frameworks resolve dependency graphs at runtime https://github.com/uber-go/fx
+A dependency graph resolved at runtime is error prone and leads to confusing code.</description>
+    </item>
+    <item>
+      <title>reply to &#34;sensible web stack decisions&#34;</title>
+      <link>https://breadchris.com/thinkies/reply-to-sensible-web-stack-decisions/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/reply-to-sensible-web-stack-decisions/</guid>
+      <description>In response to my previous post:
+martinsos:
+I like it, very practical and honest! No preaching, just direct opinions. Quite fresh for a web dev article. Btw I competely shared that view on Tailwind that you had at the start, and I still have it in part, just because I didn&amp;rsquo;t have enough time to learn more of it. It still seems weird that we are putting all the style directly into html, I can&amp;rsquo;t read that and it doesn&amp;rsquo;t show the intention, but I think I read they are not against classes at the end, it is just that even them you woudl then define with Tailwind.</description>
+    </item>
+    <item>
+      <title>what happened to irc?</title>
+      <link>https://breadchris.com/thinkies/what-happened-to-irc/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/what-happened-to-irc/</guid>
+      <description>I get that it took a while for IRCv3 to come out, but the more I think about my ideal form of communication, the more it looks like IRC. I mostly communicate with Simple text comms, with the occasional voice/video chat. I also want to be able to write bots to receive and send messages on channels. Moderation controls are important for larger channels.
+There is a Go server/client implementation, ergo, that I am excited to try out.</description>
+    </item>
+    <item>
+      <title>anatomy of syntax</title>
+      <link>https://breadchris.com/thinkies/anatomy-of-syntax/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/anatomy-of-syntax/</guid>
+      <description>Something I do not see often in programming language books is a concise explanation of semantic structures that are typically used. For example, in a Java method, there are different modifiers you can apply to the function to change how it behaves (public, private, static, etc.) Usually, the syntax is introduced and it is talked about at length, covering the many edge cases that might exist or the syntax is introduced in passing as an example requires a reader&amp;rsquo;s comprehension of the topic, referencing a later section for the explaination.</description>
+    </item>
+    <item>
+      <title>a very B movie plot</title>
+      <link>https://breadchris.com/thinkies/a-very-b-movie-plot/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/a-very-b-movie-plot/</guid>
+      <description>Isabella is a very cute artist and James is a very handsome programmer. He likes spending time with her and she likes spending time with him. take inspiration from Eternal Sunshine of a Spotless Mind story and write me a screenplay script for this movie. Add a twist to the story, where there is some confusion and there is a strain on a relationship.
+let me think&amp;hellip;
+Title: Eternal Connection</description>
+    </item>
+    <item>
+      <title>finding a balance while coding</title>
+      <link>https://breadchris.com/thinkies/finding-a-balance-while-coding/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/finding-a-balance-while-coding/</guid>
+      <description>When coding, have you ever stopped to ask the question: why am I doing this? Maybe it is a fleeting thought before you return to squeezing out a few more milliseconds on your page load.
+As creators of software and websites, we often get caught up in the never-ending pursuit of optimization. We constantly strive to make our code more efficient, our algorithms faster, and our page load times shorter. But in our relentless quest for optimization, we may lose sight of the bigger picture.</description>
+    </item>
+    <item>
+      <title>Free&#39;s top books</title>
+      <link>https://breadchris.com/thinkies/frees-top-books/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/frees-top-books/</guid>
+      <description>Free is a YC founder who is very smart and handsome. Here are some of his favorite books:
+Designing Data Driven Applications by Martin Kleppmann - amazon
+Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers.</description>
+    </item>
+    <item>
+      <title>go test</title>
+      <link>https://breadchris.com/thinkies/go-test/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/go-test/</guid>
+      <description>Testing in software development often finds itself at the tail end of the feature development cycle, sometimes viewed as a necessary evil to uphold code coverage metrics rather than an integral part of the development process. However, the significance of testing cannot be overstated—the safety net ensures our towering stack of dependencies doesn&amp;rsquo;t collapse at the slightest touch.
+A quick Google search on &amp;ldquo; testing&amp;rdquo; unveils a fascinating landscape of testing frameworks across various programming languages.</description>
+    </item>
+    <item>
+      <title>NSFW</title>
+      <link>https://breadchris.com/thinkies/nsfw/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/nsfw/</guid>
+      <description>Their lovemaking was passionate, if quiet; she felt every atom of her body, his body, heavy in their node of space/time, replete with potential. Calvin breathed harshly beneath her, and she threw her hips into it with vigorous intensity, pressuring and sliding away from the place where their bodies were joined in abandon and rapidity. His eyes fluttered closed and he had to muffle a hoarse shout, and she felt him coming inside of her; when his thumb slid up to caress her clitoris, with a touch both gentle and firm, she came, too; and then again, as he returned the touch almost as soon as the first wave of convulsions had left her.</description>
+    </item>
+    <item>
+      <title>things I need from this</title>
+      <link>https://breadchris.com/thinkies/things-i-need-from-this/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/things-i-need-from-this/</guid>
+      <description>I need groups! I want to give people links to questions to have them respond to it.
+site is easier to build make it easier for someone to start their own site. condense the work needed for building one down. I think it would be nice to have a file tree menu that would map directly to paths on the site.</description>
+    </item>
+    <item>
+      <title>the justshare podcast</title>
+      <link>https://breadchris.com/thinkies/the-justshare-podcast/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-justshare-podcast/</guid>
+      <description>@KoaKilla figure out how to make this our baseline production value https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
+34m oh god. not their new content
+34m oh wow, you have to go back 6 years https://www.youtube.com/watch?v=tv6DyyvfPlw
+33m Free Wortley Can you link a specific video Thanks
+33m https://www.youtube.com/watch?v=f8-7lhs4ky0
+32m like i want to watch this content because it is well edited and cute lady talking about computers
+32m we need to make an idea board of inspiration for the podcast</description>
+    </item>
+    <item>
+      <title>Figuring out what to improve</title>
+      <link>https://breadchris.com/thinkies/figuring-out-what-to-improve/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/figuring-out-what-to-improve/</guid>
+      <description>Sometimes, staring at something long enough is all it takes to figure out what to improve.
+I moved from the TipTap editor to BlockNote, built on TipTap, but it comes with all the features I would expect in an editor setup. I especially like what they did with the concept of blocks, which has expanded my mind about what an editor can contain. On the desktop, the editor works pretty well; there is enough space to support the information the editor will include, but it doesn&amp;rsquo;t look quite right on mobile.</description>
+    </item>
+    <item>
+      <title>trying out the new editor</title>
+      <link>https://breadchris.com/thinkies/trying-out-the-new-editor/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/trying-out-the-new-editor/</guid>
+      <description>this is a test
+asdf asdf
+asdf
+asdf
+asdf </description>
+    </item>
+    <item>
+      <title>Why is fiction important</title>
+      <link>https://breadchris.com/thinkies/why-is-fiction-important/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/why-is-fiction-important/</guid>
+      <description>So, I have been told that I need to read Foundation by Isaac Asimov, and there is a reason for this. What is that reason? It depends on the importance of knowledge and information to the survival of society, and it&amp;rsquo;s very pertinent today, even though it was written before the Internet was invented.
+When was the editor so? I think it doesn&amp;rsquo;t show up; I need to re-implement it, but I could do/ask if it&amp;rsquo;s there.</description>
+    </item>
+    <item>
+      <title>hacker character with dialog in gpt</title>
+      <link>https://breadchris.com/thinkies/hacker-character-with-dialog-in-gpt/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/hacker-character-with-dialog-in-gpt/</guid>
+      <description>Help me brainstorm a character
+Character Crafter
+Absolutely, I&amp;rsquo;d love to help you brainstorm a character! Let&amp;rsquo;s start by considering a few key elements:
+Archetype: Do you have a specific archetype in mind, such as The Hero, The Rebel, The Sage, or maybe The Innocent? Each archetype brings its own set of traits and narrative possibilities.
+Role in Story: Is this character your protagonist, antagonist, a sidekick, or perhaps a mentor figure?</description>
+    </item>
+    <item>
+      <title>where did PNW companies come from?</title>
+      <link>https://breadchris.com/thinkies/where-did-pnw-companies-come-from/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/where-did-pnw-companies-come-from/</guid>
+      <description>What are a list of reasons why companies like Boeing, Starbucks, Costco, and Amazon all came from the same area in the PNW?
+There are several factors that have contributed to companies like Boeing, Starbucks, Costco, and Amazon all originating from the same region in the Pacific Northwest (PNW). Some of the reasons include:
+1. Skilled labor pool: The PNW has a strong history of highly skilled workers in fields such as manufacturing, technology, and logistics.</description>
+    </item>
+    <item>
+      <title>deployment dashboard in the app</title>
+      <link>https://breadchris.com/thinkies/deployment-dashboard-in-the-app/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/deployment-dashboard-in-the-app/</guid>
+      <description>i have a deployment dashboard for the app, in the app. it deploys to kubes. enter a docker image and it is deployed to the domain. you can update the deployment from your dev computer</description>
+    </item>
+    <item>
+      <title>Keywords for Top 10 Languages</title>
+      <link>https://breadchris.com/thinkies/keywords-for-top-10-languages/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/keywords-for-top-10-languages/</guid>
+      <description>note: this does not include symbolic operators (*, ||, &amp;amp;&amp;amp;, etc.)
+Python: 35
+False, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield Java: 52
+abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do, double, else, enum, extends, final, finally, float, for, goto, if, implements, import, instanceof, int, interface, long, native, new, package, private, protected, public, return, short, static, strictfp, super, switch, synchronized, this, throw, throws, transient, try, void, volatile, while JavaScript: 50</description>
+    </item>
+    <item>
+      <title>LAN Party 02/16/2024</title>
+      <link>https://breadchris.com/thinkies/lan-party-02-16-2024/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/lan-party-02-16-2024/</guid>
+      <description>Write me a chickpea recipe that calls upon inspiration from Salt, Fat, Acid, and Heat. When writing the recipe, include details about what certain ingredients do as well as what the functional purpose of the steps are.
+Recipe: Roasted Garlic and Lemon Chickpea Salad Ingredients:
+2 cans (15 oz each) chickpeas, rinsed and drained
+2 tablespoons extra virgin olive oil
+6 cloves garlic, thinly sliced
+Zest of 1 lemon
+Juice of 1 lemon</description>
+    </item>
+    <item>
+      <title>Naming is Important</title>
+      <link>https://breadchris.com/blog/naming-is-important/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/blog/naming-is-important/</guid>
+      <description>Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and how they are related. A database schema or language specification is such an important document that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.</description>
+    </item>
+    <item>
+      <title>Naming is Important</title>
+      <link>https://breadchris.com/thinkies/naming-is-important/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/naming-is-important/</guid>
+      <description>Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and how they are related. A database schema or language specification is such an important document that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing.</description>
+    </item>
+    <item>
+      <title>Why you aren&#39;t using gRPC</title>
+      <link>https://breadchris.com/thinkies/why-you-arent-using-grpc/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/why-you-arent-using-grpc/</guid>
+      <description>From the first moment I saw it, I thought that gRPC was going to change how people transferred data on the Internet. What are we using? Untyped JSON to REST endpoint? Obviously asking for problems. JSON schema? Better, but I don&amp;rsquo;t want to write that crap. Also tooling is annoying. GraphQL? Pretty nice. Better than gRPC when dealing with many related objects, but again tooling is eh. gRPC is built on Protobuf, a simple type system that has been battle-hardened by Google and other large companies over the past 20 years.</description>
+    </item>
+    <item>
+      <title>Testing Code Highlighting</title>
+      <link>https://breadchris.com/thinkies/testing-code-highlighting/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/testing-code-highlighting/</guid>
+      <description>package main import &amp;#34;fmt&amp;#34; // Function to calculate factorial func factorial(n int) int { // Base case: factorial of 0 and 1 is 1 if n == 0 || n == 1 { return 1 } // Recursive case: calculate factorial using recursion return n * factorial(n-1) } func main() { // Example usage num := 5 result := factorial(num) fmt.Printf(&amp;#34;Factorial of %d is %d\n&amp;#34;, num, result) } oh look it works.</description>
+    </item>
+    <item>
+      <title>Massive Redesign</title>
+      <link>https://breadchris.com/thinkies/massive-redesign/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/massive-redesign/</guid>
+      <description>Well I have gone down the rabbit hole today on changing the way that everything looks. There are still some blemishes, but there is much more space for writing content. Oh, and I also added an AI feature where if you highlight the text then it will ask you if you want to use that as a prompt and the output will be streamed into the editor. I am super stoked with the progress that I have made here.</description>
+    </item>
+    <item>
+      <title>The feeling to perform</title>
+      <link>https://breadchris.com/thinkies/the-feeling-to-perform/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/the-feeling-to-perform/</guid>
+      <description>I had some interviews today. In the first one, I was asked a question to which I knew the answer, but the words weren&amp;rsquo;t quite there. I felt myself looping on, thinking of the answer, and then being frustrated. Time passed, and I couldn&amp;rsquo;t put my thoughts into words. Somewhere deep in my knowledge I knew how to respond, but in the moment I couldn&amp;rsquo;t answer. Overall, the interviews went fine.</description>
+    </item>
+    <item>
+      <title>I wrote some elm today!</title>
+      <link>https://breadchris.com/thinkies/i-wrote-some-elm-today/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/i-wrote-some-elm-today/</guid>
+      <description>I had a friend take me on a journey through elm today while on stream today. The exercises they gave me were really well thought out and it was a lot of fun to feel how the code evolved between each task. Starting from a simple counter, it built up to where you were managing a list of list of counters. The cycle of building the thing that just works, and then refactoring it so it could take on more abstraction illustrated why elm&amp;rsquo;s architecture shines.</description>
+    </item>
+    <item>
+      <title>I am coming for you transcription editor</title>
+      <link>https://breadchris.com/thinkies/i-am-coming-for-you-transcription-editor/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/i-am-coming-for-you-transcription-editor/</guid>
+      <description>A common theme in high thinkies is that I want to record my thoughts in a way that doesn&amp;rsquo;t get in my way of my thoughts. For example, writing down notes has been historically difficult and when the thinkies are coming in at blistering speed, it is difficult to keep up. So I started to just talk and record what I said. Audio files are super small. I also started streaming to also document what I was working on.</description>
+    </item>
+    <item>
+      <title>What language am I looking for?</title>
+      <link>https://breadchris.com/thinkies/what-language-am-i-looking-for/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/what-language-am-i-looking-for/</guid>
+      <description>If you ask anyone who knows me what my thoughts are on javascript, you will get a unanimous &amp;ldquo;he hates it&amp;rdquo;. Typescript helps, but it doesn&amp;rsquo;t fix the problems. I don&amp;rsquo;t believe the problems I have with it are actually solvable without some radical changes in the ecosystem. Why do I care so much? Because I freaking want to build websites that stick around for a while goddamnit! Sites built with the &amp;ldquo;right decisions&amp;rdquo; today feel like they fall over from a strong breeze.</description>
+    </item>
+    <item>
+      <title>SF Feels like another Planet</title>
+      <link>https://breadchris.com/thinkies/sf-feels-like-another-planet/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://breadchris.com/thinkies/sf-feels-like-another-planet/</guid>
+      <description>I am visiting SF right now, and almost every billboard in the city has &amp;ldquo;AI&amp;rdquo; on it. I need to build image upload so that I can show you what I am talking about. I get it, there is a lot of hype for companies to cash in on, so why wouldn&amp;rsquo;t you?
+AI (ML or machine learning for the pedantic) is super cool and can do a lot of things now.</description>
+    </item>
+  </channel>
+</rss>

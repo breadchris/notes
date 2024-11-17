@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Monochrome Skittles | afloat.boats](https://omnivore.app/me/monochrome-skittles-afloat-boats-19334e56d82)
+	  collapsed:: true
+	  site:: [afloat.boats](https://www.afloat.boats/posts/skittles/)
+	  date-saved:: [[Nov 16th, 2024]]
+	  date-published:: [[Oct 21st, 2024]]
+	- [OnAir](https://omnivore.app/me/on-air-19334e51374)
+	  collapsed:: true
+	  site:: [onair.io](https://onair.io)
+	  date-saved:: [[Nov 16th, 2024]]
+	- [NaviServer - Wikipedia](https://omnivore.app/me/navi-server-wikipedia-19334c582ec)
+	  collapsed:: true
+	  site:: [Wikimedia Foundation, Inc.](https://en.m.wikipedia.org/wiki/NaviServer)
+	  author:: Contributors to Wikimedia projects
+	  date-saved:: [[Nov 16th, 2024]]
+	  date-published:: [[Jun 9th, 2004]]
 	- [Chef Gets Destroyed For Serving Half Filled Dish On MasterChef 😱](https://omnivore.app/me/https-m-youtube-com-shorts-8-ul-o-6-n-nx-6-s-4-193294cf334)
 	  collapsed:: true
 	  site:: [YouTube](https://m.youtube.com/shorts/8ulO6NNx6S4)

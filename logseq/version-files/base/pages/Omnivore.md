@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Good software development habits | Zarar's blog](https://omnivore.app/me/good-software-development-habits-zarar-s-blog-1933dc7ce71)
+	  collapsed:: true
+	  site:: [Zarar's blog](https://zarar.dev/good-software-development-habits/)
+	  date-saved:: [[Nov 17th, 2024]]
+	  date-published:: [[Sep 5th, 2024]]
 	- [Constraints in Go — Bitfield Consulting](https://omnivore.app/me/constraints-in-go-bitfield-consulting-1933c3f2ea7)
 	  collapsed:: true
 	  site:: [Bitfield Consulting](https://bitfieldconsulting.com/posts/constraints)

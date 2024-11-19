@@ -1,4 +1,19 @@
 ## 🔖 Articles
+	- [Simple Made Easy - InfoQ](https://omnivore.app/me/simple-made-easy-info-q-1934266a9e9)
+	  collapsed:: true
+	  site:: [InfoQ](https://www.infoq.com/presentations/Simple-Made-Easy/)
+	  author:: Rich Hickey
+	  date-saved:: [[Nov 18th, 2024]]
+	  date-published:: [[Oct 19th, 2011]]
+	- [Against best practices](https://omnivore.app/me/against-best-practices-1934264d275)
+	  collapsed:: true
+	  site:: [arp242.net](https://www.arp242.net/best-practices.html)
+	  author:: Martin Tournoij
+	  date-saved:: [[Nov 18th, 2024]]
+	- [Tips.io | The easiest way to make Tailwind HTML websites.](https://omnivore.app/me/tips-io-the-easiest-way-to-make-tailwind-html-websites-19341906fd2)
+	  collapsed:: true
+	  site:: [tips.io](https://tips.io)
+	  date-saved:: [[Nov 18th, 2024]]
 	- [Good software development habits | Zarar's blog](https://omnivore.app/me/good-software-development-habits-zarar-s-blog-1933dc7ce71)
 	  collapsed:: true
 	  site:: [Zarar's blog](https://zarar.dev/good-software-development-habits/)

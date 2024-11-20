@@ -1,4 +1,17 @@
 ## 🔖 Articles
+	- [Aaru | Rethinking the Science of Prediction](https://omnivore.app/me/aaru-rethinking-the-science-of-prediction-19346fdf7d7)
+	  collapsed:: true
+	  site:: [Aaru](https://aaruaaru.com)
+	  date-saved:: [[Nov 19th, 2024]]
+	- [Conjecture Tactics](https://omnivore.app/me/conjecture-tactics-19346f4cb7b)
+	  collapsed:: true
+	  site:: [tactics.dev](https://tactics.dev)
+	  date-saved:: [[Nov 19th, 2024]]
+	- [Go’s features of last resort](https://omnivore.app/me/go-s-features-of-last-resort-193452a76ce)
+	  collapsed:: true
+	  site:: [arp242.net](https://www.arp242.net/go-last-resort.html)
+	  author:: Martin Tournoij
+	  date-saved:: [[Nov 19th, 2024]]
 	- [Simple Made Easy - InfoQ](https://omnivore.app/me/simple-made-easy-info-q-1934266a9e9)
 	  collapsed:: true
 	  site:: [InfoQ](https://www.infoq.com/presentations/Simple-Made-Easy/)

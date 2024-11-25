@@ -1,4 +1,38 @@
 ## 🔖 Articles
+	- [LeaderLine](https://omnivore.app/me/leader-line-1936059168d)
+	  collapsed:: true
+	  site:: [anseki.github.io](https://anseki.github.io/leader-line/)
+	  date-saved:: [[Nov 24th, 2024]]
+	- [OpenInterpreter/open-interpreter: A natural language interface for computers](https://omnivore.app/me/open-interpreter-open-interpreter-a-natural-language-interface-f-19360162b2c)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/OpenInterpreter/open-interpreter)
+	  date-saved:: [[Nov 24th, 2024]]
+	- [Refactoring UI? A good resource for getting more confident about frontend design and fixing that feeling of your app looking "off" without being able to tell exactly why? : r/Frontend](https://omnivore.app/me/refactoring-ui-a-good-resource-for-getting-more-confident-about--1935c74f8b7)
+	  collapsed:: true
+	  site:: [reddit.com](https://www.reddit.com/r/Frontend/comments/11cbih5/refactoring_ui_a_good_resource_for_getting_more/)
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [1 dataset. 100 visualizations.](https://omnivore.app/me/1-dataset-100-visualizations-1935c71662e)
+	  collapsed:: true
+	  site:: [1 dataset. 100 visualizations.](https://100.datavizproject.com)
+	  author:: Ferdio
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [Sqids (formerly Hashids) · Generate Short Unique IDs](https://omnivore.app/me/sqids-formerly-hashids-generate-short-unique-i-ds-1935c34f2bf)
+	  collapsed:: true
+	  site:: [sqids.org](https://sqids.org)
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [Netlify Celebrates 5 Million Developers | 3D Game](https://omnivore.app/me/netlify-celebrates-5-million-developers-3-d-game-1935ae6c639)
+	  collapsed:: true
+	  site:: [5-million-devs.netlify.com](https://5-million-devs.netlify.com)
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [Visual Sorting aka The Sound Of Sorting](https://omnivore.app/me/visual-sorting-aka-the-sound-of-sorting-193519eb738)
+	  collapsed:: true
+	  site:: [mszula.github.io](https://mszula.github.io/visual-sorting/)
+	  date-saved:: [[Nov 21st, 2024]]
+	- [Ensō Roadmap (2024) · Untested](https://omnivore.app/me/enso-roadmap-2024-untested-1934b37e63d)
+	  collapsed:: true
+	  site:: [Untested](https://untested.sonnet.io/notes/enso-roadmap-2024/)
+	  author:: Rafał Pastuszak
+	  date-saved:: [[Nov 20th, 2024]]
 	- [Aaru | Rethinking the Science of Prediction](https://omnivore.app/me/aaru-rethinking-the-science-of-prediction-19346fdf7d7)
 	  collapsed:: true
 	  site:: [Aaru](https://aaruaaru.com)

@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [74c0ec4c-2b6b-4c8b-b627-7c6c55df66da](https://omnivore.app/me/u-150542-b-9-b-938-400-c-9882-5-e-3-b-94-d-9-fd-8-b-74-c-0-ec-4--19365eac43a)
+	  collapsed:: true
+	  site:: [omnivore.app](https://omnivore.app/attachments/u/150542b9-b938-400c-9882-5e3b94d9fd8b/74c0ec4c-2b6b-4c8b-b627-7c6c55df66da.pdf)
+	  date-saved:: [[Nov 25th, 2024]]
+	- [destel/rill: Go toolkit for clean, composable, channel-based concurrency](https://omnivore.app/me/destel-rill-go-toolkit-for-clean-composable-channel-based-concur-19364d25216)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/destel/rill?tab=readme-ov-file)
+	  date-saved:: [[Nov 25th, 2024]]
 	- [LeaderLine](https://omnivore.app/me/leader-line-1936059168d)
 	  collapsed:: true
 	  site:: [anseki.github.io](https://anseki.github.io/leader-line/)

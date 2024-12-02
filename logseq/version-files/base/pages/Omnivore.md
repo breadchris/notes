@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [daybrush/moveable: Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!](https://omnivore.app/me/daybrush-moveable-moveable-draggable-resizable-scalable-rotatabl-19384d991dc)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/daybrush/moveable)
+	  date-saved:: [[Dec 1st, 2024]]
+	- [Gridstack.js | Build interactive dashboards in minutes.](https://omnivore.app/me/gridstack-js-build-interactive-dashboards-in-minutes-19384d87d22)
+	  collapsed:: true
+	  site:: [Gridstack.js Official Site](https://gridstackjs.com)
+	  date-saved:: [[Dec 1st, 2024]]
 	- [PropertySex Bad Roommate Apologizes with Blowjob and Sex - Pornhub.com](https://omnivore.app/me/property-sex-bad-roommate-apologizes-with-blowjob-and-sex-pornhu-1937bfd0375)
 	  collapsed:: true
 	  site:: [pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph5e1cc4e01d4ff)

@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Neon Nebula 😶‍🌫️ by @theoradical | Suno](https://omnivore.app/me/neon-nebula-by-theoradical-suno-1939016d812)
+	  collapsed:: true
+	  site:: [suno.com](https://suno.com/playlist/25a16c93-efc5-4605-96d7-8e7801fff3c7)
+	  date-saved:: [[Dec 3rd, 2024]]
+	- [Egoless Engineering](https://omnivore.app/me/egoless-engineering-1938ee18015)
+	  collapsed:: true
+	  site:: [egoless.engineering](https://egoless.engineering)
+	  date-saved:: [[Dec 3rd, 2024]]
 	- [daybrush/moveable: Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!](https://omnivore.app/me/daybrush-moveable-moveable-draggable-resizable-scalable-rotatabl-19384d991dc)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/daybrush/moveable)

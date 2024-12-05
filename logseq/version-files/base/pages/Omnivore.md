@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Play | WASM-4](https://omnivore.app/me/play-wasm-4-193956d9f1e)
+	  collapsed:: true
+	  site:: [wasm4.org](https://wasm4.org/play)
+	  date-saved:: [[Dec 4th, 2024]]
 	- [Neon Nebula 😶‍🌫️ by @theoradical | Suno](https://omnivore.app/me/neon-nebula-by-theoradical-suno-1939016d812)
 	  collapsed:: true
 	  site:: [suno.com](https://suno.com/playlist/25a16c93-efc5-4605-96d7-8e7801fff3c7)

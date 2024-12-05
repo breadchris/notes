@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [PlainDraggable](https://omnivore.app/me/plain-draggable-19395860cf0)
+	  collapsed:: true
+	  site:: [anseki.github.io](https://anseki.github.io/plain-draggable/)
+	  date-saved:: [[Dec 4th, 2024]]
+	- [SCRIB3D – The Best 3D Printing Pen](https://omnivore.app/me/scrib-3-d-the-best-3-d-printing-pen-193958273fe)
+	  collapsed:: true
+	  site:: [scrib3dpen.com](https://scrib3dpen.com)
+	  date-saved:: [[Dec 4th, 2024]]
 	- [Play | WASM-4](https://omnivore.app/me/play-wasm-4-193956d9f1e)
 	  collapsed:: true
 	  site:: [wasm4.org](https://wasm4.org/play)

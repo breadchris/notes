@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Next-level frosted glass with backdrop-filter • Josh W. Comeau](https://omnivore.app/me/next-level-frosted-glass-with-backdrop-filter-josh-w-comeau-1939efc0666)
+	  collapsed:: true
+	  site:: [joshwcomeau.com](https://www.joshwcomeau.com/css/backdrop-filter/)
+	  author:: Josh W. Comeau
+	  date-saved:: [[Dec 6th, 2024]]
+	  date-published:: [[Dec 4th, 2024]]
 	- [PlainDraggable](https://omnivore.app/me/plain-draggable-19395860cf0)
 	  collapsed:: true
 	  site:: [anseki.github.io](https://anseki.github.io/plain-draggable/)

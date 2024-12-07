@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Finch - Your New Self Care Best Friend](https://omnivore.app/me/finch-your-new-self-care-best-friend-1939f921ced)
+	  collapsed:: true
+	  site:: [finchcare.com](https://finchcare.com)
+	  date-saved:: [[Dec 6th, 2024]]
+	- [REM: The Foldable Speed Stick for any Skater by Limitless Propulsions — Kickstarter](https://omnivore.app/me/rem-the-foldable-speed-stick-for-any-skater-by-limitless-propuls-1939f83dda4)
+	  collapsed:: true
+	  site:: [Kickstarter](https://www.kickstarter.com/projects/limitlesspropulsions/rem-the-foldable-propulsion-stick)
+	  date-saved:: [[Dec 6th, 2024]]
 	- [Next-level frosted glass with backdrop-filter • Josh W. Comeau](https://omnivore.app/me/next-level-frosted-glass-with-backdrop-filter-josh-w-comeau-1939efc0666)
 	  collapsed:: true
 	  site:: [joshwcomeau.com](https://www.joshwcomeau.com/css/backdrop-filter/)

@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Nyxt browser: The hacker's browser](https://omnivore.app/me/nyxt-browser-the-hacker-s-browser-193a5454496)
+	  collapsed:: true
+	  site:: [nyxt.atlas.engineer](https://nyxt.atlas.engineer)
+	  date-saved:: [[Dec 7th, 2024]]
 	- [Finch - Your New Self Care Best Friend](https://omnivore.app/me/finch-your-new-self-care-best-friend-1939f921ced)
 	  collapsed:: true
 	  site:: [finchcare.com](https://finchcare.com)

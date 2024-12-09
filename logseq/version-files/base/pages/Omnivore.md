@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Skiplagged: The smart way to find cheap flights.](https://omnivore.app/me/skiplagged-the-smart-way-to-find-cheap-flights-193a9ad0dc3)
+	  collapsed:: true
+	  site:: [Skiplagged](https://skiplagged.com)
+	  date-saved:: [[Dec 8th, 2024]]
+	  date-published:: [[Jan 6th, 2001]]
 	- [Nyxt browser: The hacker's browser](https://omnivore.app/me/nyxt-browser-the-hacker-s-browser-193a5454496)
 	  collapsed:: true
 	  site:: [nyxt.atlas.engineer](https://nyxt.atlas.engineer)

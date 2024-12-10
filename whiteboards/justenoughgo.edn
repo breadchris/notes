@@ -703,7 +703,7 @@
 :italic false
 :text "oh, the docs, sweet jesus the docs"}}
 :block/updated-at 1733799946926} 
-{:block/content "Go's docs are amazing. Any package that gets published and referenced through the go package proxy will get a docs"
+{:block/content "Go's docs are amazing. Any package that gets published and referenced through the go package proxy will get a docs site generated for it for free. There are only a couple of languages I have ever seen that do this, and the value that it adds to the developer is incredible. As the package developer, all you have to do is add comments to your functions/packages and the documentation will exist for all to use. No static site generator setups or manual wiki maintenance for differen releases of your code. It is all right there as you write your code! Examples that you include can be compiled and run by the Go playground!"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757af88-c514-4ec7-82d5-c7859882f353"}
@@ -712,7 +712,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6757b00d-244d-4078-b5c3-df0757524d8a"} 
-{:block/created-at 1733799987146
+{:block/created-at 1733800129332
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -728,7 +728,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 88.82178938795835]
+:size [400 352.8774281846828]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -737,8 +737,167 @@
 :point [904 4728]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733799948132}}
-:block/updated-at 1733799987146})
+:nonce 1733799948166}}
+:block/updated-at 1733800129332} 
+{:block/created-at 1733800114501
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 21
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [568 87]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "028f9230-b6a4-11ef-87e0-a9a678af4443"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1344 4864]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:nonce 1733800100640
+:italic false
+:text "and the playground?\nlike seriously this language is so cool"}}
+:block/updated-at 1733800114501} 
+{:block/created-at 1733800137427
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 22
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [121 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "173c3c10-b6a4-11ef-87e0-a9a678af4443"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1712 4184]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:nonce 1733800135263
+:italic false
+:text "Tooling"}}
+:block/updated-at 1733800137427} 
+{:block/content "run\nbuild\ntest\nbench\nfmt"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757b00d-244d-4078-b5c3-df0757524d8a"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757b0cb-70c7-4a6f-99fb-41ea29dc70a8"} 
+{:block/created-at 1733800223686
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 23
+:scale [1 1]
+:pageId "6757b0cb-70c7-4a6f-99fb-41ea29dc70a8"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 136.842469333857]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "19649a50-b6a4-11ef-87e0-a9a678af4443"
+:noFill false
+:point [1728 4248]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733800138908}}
+:block/updated-at 1733800223686} 
+{:block/created-at 1733800243889
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 24
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [250 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "53529eb0-b6a4-11ef-87e0-a9a678af4443"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [80 4624]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:nonce 1733800236099
+:italic false
+:text "standard library"}}
+:block/updated-at 1733800243889} 
+{:block/content "The code that you get out of the box will get you so far. You can click to see the source code for it all as well!"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757b0cb-70c7-4a6f-99fb-41ea29dc70a8"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757b135-fe2e-43fb-b6d8-98f0ca47fafc"} 
+{:block/created-at 1733800272639
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 25
+:scale [1 1]
+:pageId "6757b135-fe2e-43fb-b6d8-98f0ca47fafc"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 88.82160949707031]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "58944ae0-b6a4-11ef-87e0-a9a678af4443"
+:noFill false
+:point [64 4704]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733800244896}}
+:block/updated-at 1733800272639})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -750,9 +909,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443" "028f9230-b6a4-11ef-87e0-a9a678af4443" "173c3c10-b6a4-11ef-87e0-a9a678af4443" "19649a50-b6a4-11ef-87e0-a9a678af4443" "53529eb0-b6a4-11ef-87e0-a9a678af4443" "58944ae0-b6a4-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733799992553
+:block/updated-at 1733800275524
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

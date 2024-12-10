@@ -384,7 +384,7 @@
 :italic false
 :text "Why Go?"}}
 :block/updated-at 1733797777319} 
-{:block/content "I am not going to tell you to use Go. If anything I write alludes to this in any way, please treat it as an error in my writing. A language that you choose to use is one that feels right for you personally to use. There is an argument that choosing a specific language over another (Swift vs Brainfuck) will net you more money"
+{:block/content "I am not going to tell you to use Go. If anything I write alludes to this in any way, please treat it as an error in my writing. A language that you choose to use is one that feels right for you personally to use. There is an argument that choosing a specific language over another (Swift vs Brainfuck) will net you more money because it looks good on your resume, but it is my belief that a programmer who loves what they do can learn any language on the spot (especially with the state of AI) and passion for writing code is what you should be pursuing.\n\nAnd so, what I share with you is my passion for Go, and if you do not feel the passion I have for this language in what I write, please treat it as a failure in my writing because I really love this language."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757a5ab-66b3-412e-a3a1-5c21a9d78333"}
@@ -393,7 +393,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6757a79a-0eb3-45ac-9f6d-80c52049264e"} 
-{:block/created-at 1733797871161
+{:block/created-at 1733798005847
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -409,17 +409,53 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 184.81769957933403]
+:size [400 448.8216955078109]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "9e19be70-b69e-11ef-87e0-a9a678af4443"
 :noFill false
-:point [432 2776]
+:point [416 2752]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733797784544}}
-:block/updated-at 1733797871161})
+:nonce 1733797784631}}
+:block/updated-at 1733798005847} 
+{:block/content "I love Go in short because I do not like to write code. So profound, such avant guarde. But honestly, I don't like writing code, but I do like seeing code do cool things. Any experienced programmer will have war stories about weeks they have spent debugging errors or confusing features they have had to implement. And coding is all of that, a constant state of confusion until all of a sudden it all comes together and you see what you want to see on your screen or your robot"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757a79a-0eb3-45ac-9f6d-80c52049264e"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757a87a-c2f4-45e0-bd73-44a2901d52af"} 
+{:block/created-at 1733798182471
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "6757a87a-c2f4-45e0-bd73-44a2901d52af"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 280.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "23c31ee0-b69f-11ef-87e0-a9a678af4443"
+:noFill false
+:point [416 3240]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733798008875}}
+:block/updated-at 1733798182471})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -431,9 +467,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733797890970
+:block/updated-at 1733798187967
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

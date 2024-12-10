@@ -116,7 +116,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67579c47-5272-4974-b8ba-a228342f98f4"} 
-{:block/content "While the \"usual\" language offers the safety of global developer mindshare and maturity, it begs to question why developers bother learning other languages to build a web application. Why would someone choose another language other than Javascript for writing a web application? Does this mean they have to rewrite all of the tooling that already exists for Javascript for their language? Why not improve the language if you have any problems with it?\n\nI don't think there are perfect answers to these questions, but I believe it comes down to a fact about programming that is important to remember; it is written by irrational humans. The world's most notable programming languages have mostly come from individuals who have needed to solve a problem they were facing, and how they solved their problem was able to be generalized to other types of problems. Python became notable because Guido needed to interface with C code more easily. Javascript (erm ECMAscript)"
+{:block/content "While the \"usual\" language offers the safety of global developer mindshare and maturity, it begs to question why developers bother learning other languages to build a web application. Why would someone choose another language other than Javascript for writing a web application? Does this mean they have to rewrite all of the tooling that already exists for Javascript for their language? Why not improve the language if you have any problems with it?\n\nI don't think there are perfect answers to these questions, but I believe it comes down to a fact about programming that is important to remember; it is written by irrational humans. The world's most notable programming languages have mostly come from individuals who have needed to solve a problem they were facing, and how they solved their problem was able to be generalized to other types of problems. Python became notable because Guido needed to interface with C code more easily. Javascript (erm ECMAscript) was a ___ for browsers. Businesses needed to seem busy so they made Java and Microsoft wanted to copy Sun Microsystems so they made C#.\n\nAll this to say, you can spend your life writing Javascript and you will probably make money and live a happy life.\n\nSomething I want to draw your attention to when programming is how often do you feel like you are writing the same code repeatedly? How often does your code not build for you? Is"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "67579c47-5272-4974-b8ba-a228342f98f4"}
@@ -125,7 +125,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67579c51-3e86-472f-960a-4709af2e6af0"} 
-{:block/created-at 1733795486012
+{:block/created-at 1733795780921
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -141,7 +141,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 568.8215942382812]
+:size [400 856.8228149414062]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -150,8 +150,8 @@
 :point [400 976]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733794896977}}
-:block/updated-at 1733795486012} 
+:nonce 1733794897006}}
+:block/updated-at 1733795780921} 
 {:block/content "I focus in on the example of Javascript and web apps, but this applies to any language primarily used in a particular application of computing. Robotics is seemingly dominated by C++?, but why not Rust?"
 :block/format :markdown
 :block/left 
@@ -201,7 +201,7 @@
 :assets []
 :shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733795489875
+:block/updated-at 1733795789876
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

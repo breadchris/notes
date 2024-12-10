@@ -70,7 +70,79 @@
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
 :nonce 1733794401672}}
-:block/updated-at 1733794570515})
+:block/updated-at 1733794570515} 
+{:block/content "Picking a language can be challenging depending on what you want to do. Often times, a language is picked because it is the one that is most well known by someone or a group of people who are trying to get a computer to do something. Web application being built in 2025 will more than likely be built with Javascript. The language has grown in popularity over the past decades, starting as the client side scripting language for a browser and moving to the server side. Being able to build complex applications with a single language is incredibly powerful and the current of developers, libraries, tools, and hosting options available make it an attractive option for developers and project managers alike."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67579a6b-ea1f-4187-a083-11dc2f0d3692"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "67579b23-c2a6-4b60-8d96-e890d1cbfa77"} 
+{:block/created-at 1733794850989
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "67579b23-c2a6-4b60-8d96-e890d1cbfa77"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 376.8229064941406]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2c833d10-b697-11ef-87e0-a9a678af4443"
+:noFill false
+:point [392 576]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733794587517}}
+:block/updated-at 1733794850989} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67579b23-c2a6-4b60-8d96-e890d1cbfa77"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "67579c47-5272-4974-b8ba-a228342f98f4"} 
+{:block/created-at 1733794887918
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "67579c47-5272-4974-b8ba-a228342f98f4"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d2d5d240-b697-11ef-87e0-a9a678af4443"
+:noFill false
+:point [440 984]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733794866537}}
+:block/updated-at 1733794887918})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -82,9 +154,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "d2d5d240-b697-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733794583307
+:block/updated-at 1733794892119
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

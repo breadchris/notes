@@ -283,7 +283,7 @@
 :italic false
 :text "why do people use\ncertain languages?"}}
 :block/updated-at 1733796964209} 
-{:block/content "In terms of types, I like to place languages on a scale of LISP to Haskell. In LISP, types are defined by the form of the code. As data flows through code, the type is defined by the usage of the data. For example, checking if `name = \"chris\"` means that 1) name is data that needs to exist and 2) it must be a string. In Haskell, types are defined prior to the code being built, at which time the types are validated. The type system is inspired by category theory which is a field of mathematics, which might give you hint as to how a Haskell developer might need to think when writing code. There are many terms that developers will"
+{:block/content "In terms of types, I like to place languages on a scale of LISP to Haskell. In LISP, types are defined by the form of the code. As data flows through code, the type is defined by the usage of the data. For example, checking if `name = \"chris\"` means that 1) name is data that needs to exist and 2) it must be a string. In Haskell, types are defined prior to the code being built, at which time the types are validated. The type system is inspired by category theory which is a field of mathematics, which might give you hint as to how a Haskell developer might need to think when writing code. Python sits closer to a LISP than Haskell as type checking is performed at runtime, however later versions of Python have introduced the concept of types that can be validated before running the code. Go is interesting as at a glance it may seen closer to Haskell with static typing, but upon closer inspection their type systems have dynamic escape hatches with `auto` and `any/interface{}` respectively."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757a24e-4ca3-4b2e-bd01-eccb551eb16e"}
@@ -292,7 +292,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6757a473-1aa7-435c-9db7-1dc8b6a25bcd"} 
-{:block/created-at 1733797279283
+{:block/created-at 1733797494992
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -308,7 +308,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 352.8190387252131]
+:size [400 544.8176879882812]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -317,8 +317,44 @@
 :point [1064 2176]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733796977949}}
-:block/updated-at 1733797279283})
+:nonce 1733796977967}}
+:block/updated-at 1733797494992} 
+{:block/content "There are many terms that developers will toss around to talk about their type system; \nsuch as \"expressive\" or \"powerful\", but I find these terms to be misleading. In reality, any language"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757a473-1aa7-435c-9db7-1dc8b6a25bcd"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757a5ab-66b3-412e-a3a1-5c21a9d78333"} 
+{:block/created-at 1733797449528
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "6757a5ab-66b3-412e-a3a1-5c21a9d78333"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 136.82290649414062]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "768a4ab0-b69d-11ef-87e0-a9a678af4443"
+:noFill false
+:point [1064 2848]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733797288872}}
+:block/updated-at 1733797449528})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -330,9 +366,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733797281283
+:block/updated-at 1733797593752
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

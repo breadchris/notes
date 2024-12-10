@@ -595,7 +595,7 @@
 :italic false
 :text "Go does not have\nJavascript's webapp\nmaturity"}}
 :block/updated-at 1733799448955} 
-{:block/content "but there is no reason that it can't. Webassembly has matured significantly and has much more attention (Figma's canvas is a webassembly app). The capability gap of other languages not breaching the client-side barrier is closing and when it does, the web app game will change significantly. The flimsy  \"frontend\" and \"backend\" developers will shrink (it already has with frameworks like NextJS and the traditional \"thin client\" hypermedia approach is making a comeback)."
+{:block/content "but there is no reason that it can't. Webassembly has matured significantly and has much more attention (Figma's canvas is a webassembly app). The capability gap of other languages not breaching the client-side barrier is closing and when it does, the web app game will change significantly. The flimsy fence that divides \"frontend\" and \"backend\" developers was built by the SPA trend, and more seamless developer experience between the client and server code will have it fall (it already has with frameworks like NextJS and the traditional \"thin client\" hypermedia approach is making a comeback)."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757adf2-f951-417d-9736-4021ea35c2b2"}
@@ -604,7 +604,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6757ae11-ed82-4bbf-a551-a70def3b2be2"} 
-{:block/created-at 1733799645933
+{:block/created-at 1733799772676
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -620,7 +620,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 280.8203125]
+:size [400 328.8737485896286]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -629,8 +629,116 @@
 :point [-176 3552]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733799440388}}
-:block/updated-at 1733799645933})
+:nonce 1733799440394}}
+:block/updated-at 1733799772676} 
+{:block/content "Here is the incredibly boring, de-facto hello world example of the language\n\n```go\npackage main\n\nfunc main() {\n  println(\"Hello World!\")\n}\n```\n\na lot of tutorials will have you start with `fmt.Printf`, but `println` exists which is much easier, but `fmt.Printf` is valuable to know!"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757ae11-ed82-4bbf-a551-a70def3b2be2"}
+:block/parent 
+{:block/uuid #uuid "6757ae11-ed82-4bbf-a551-a70def3b2be2"}
+:block/properties 
+{}
+:block/uuid #uuid "6757af6b-4bdd-49c8-96a5-1261359d9b48"} 
+{:block/created-at 1733799935810
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "6757af6b-4bdd-49c8-96a5-1261359d9b48"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 298.3983429487254]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4724c010-b6a3-11ef-87e0-a9a678af4443"
+:noFill false
+:point [1368 3672]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733799786289}}
+:block/updated-at 1733799935810} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757ae11-ed82-4bbf-a551-a70def3b2be2"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/uuid #uuid "6757af88-c514-4ec7-82d5-c7859882f353"} 
+{:block/created-at 1733799946926
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 19
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [536 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a20907c0-b6a3-11ef-87e0-a9a678af4443"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [888 4640]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:nonce 1733799938666
+:italic false
+:text "oh, the docs, sweet jesus the docs"}}
+:block/updated-at 1733799946926} 
+{:block/content "Go's docs are amazing. Any package that gets published and referenced through the go package proxy will get a docs"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757af88-c514-4ec7-82d5-c7859882f353"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757b00d-244d-4078-b5c3-df0757524d8a"} 
+{:block/created-at 1733799987146
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 20
+:scale [1 1]
+:pageId "6757b00d-244d-4078-b5c3-df0757524d8a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 88.82178938795835]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a7b360d0-b6a3-11ef-87e0-a9a678af4443"
+:noFill false
+:point [904 4728]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733799948132}}
+:block/updated-at 1733799987146})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -642,9 +750,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733799692721
+:block/updated-at 1733799992553
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

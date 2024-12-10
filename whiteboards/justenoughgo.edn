@@ -187,7 +187,43 @@
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
 :nonce 1733795207313}}
-:block/updated-at 1733795262574})
+:block/updated-at 1733795262574} 
+{:block/content "I find the number of programming languages that exist to be fascinating. The amount of effort that individuals pour into a community to get a language off the ground is incredible. As time goes on, a language that is used will have its capabilities extended by the existence of libraries. Often times, libraries built outside of the language are the very thing that makes a language popular. Ruby's popularity today mainly exists as the result of Rails, Python has set itself up to be the language of choice for data processing/machine learning with Pandas and PyTorch, Javascript has a number of bangers"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67579d8c-f629-486c-87c0-ddde6e494d3b"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757a24e-4ca3-4b2e-bd01-eccb551eb16e"} 
+{:block/created-at 1733796669043
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "6757a24e-4ca3-4b2e-bd01-eccb551eb16e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 328.82159423828125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7657b3e0-b69b-11ef-87e0-a9a678af4443"
+:noFill false
+:point [416 2168]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733796429379}}
+:block/updated-at 1733796669043})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -199,9 +235,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733796390726
+:block/updated-at 1733796692099
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

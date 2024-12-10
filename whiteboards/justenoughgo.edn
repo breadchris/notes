@@ -1,0 +1,55 @@
+{:blocks (
+{:block/content "I like to learn about programming languages. I think it is cool to be able to express ideas I have in my head so that a computer can run them on its own. Different languages offer different ways of expressing what effectively becomes the same thing; conditional flipping of gates in a CPU. Depending on what language you are using, the abstractions that are used to make the gates flip will look completely different."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "67579953-374c-4891-bea8-d1ddf0e36cd4"} 
+{:block/created-at 1733794283854
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "67579953-374c-4891-bea8-d1ddf0e36cd4"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 232.81903076171875]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1b3b1060-b696-11ef-87e0-a9a678af4443"
+:noFill false
+:point [376 168]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733794129012}}
+:block/updated-at 1733794283854})
+:pages (
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:name "justenoughgo"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443")}}
+:block/journal? false
+:block/updated-at 1733794288202
+:block/created-at 1733794076722
+:block/type "whiteboard"
+:block/name "justenoughgo"
+:block/original-name "justenoughgo"})}

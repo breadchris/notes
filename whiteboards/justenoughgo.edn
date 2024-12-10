@@ -420,7 +420,7 @@
 :collapsedHeight 0
 :nonce 1733797784631}}
 :block/updated-at 1733798005847} 
-{:block/content "I love Go in short because I do not like to write code. So profound, such avant guarde. But honestly, I don't like writing code, but I do like seeing code do cool things. Any experienced programmer will have war stories about weeks they have spent debugging errors or confusing features they have had to implement. And coding is all of that, a constant state of confusion until all of a sudden it all comes together and you see what you want to see on your screen or your robot starts walking forward.\n\nDon't get me wrong, dropping into the flow of programming is an incredible feeling, but it is the capability that I inevitably get from programming that I actually want, code is just a means to an end (for me, everyone is different). I think code can be beautiful, there are Python one-liners people have shown me that I want to have as a print on my wall. But I don't actually want to write it. I just want to have a bunch of capabilities that I can snap together like LEGO bricks. \n\nAnyone familiar will Go will immediately raise the point of \"if you don't like coding so much, use the elegant syntax of LISP to write your own language\". I have written enough needle-in-the-haystack for loops in Go to have heavily considered pursuing the monk life of a LISP developer, but I think that comes later in life for me.\n\nIf my goal is to build a set of capabilities by writing the least amount of code possible, it would be useful to tap into an existing language's libraries. Scanning the room for who wins in this department, someone might be quick to pick based off of numbers, which is easily NodeJS with NPM. Upon closer inspection, you realize how small most of these capabilities are, which might often be better to just write yourself, or even worse, break your build by including strange dependencies of its own, etc. most of these packages are time bombs waiting to destroy your productivity somewhere down the line. The same goes for the likes of Python. Java is pure chaos. In my opinion, the only languages that have any reasonable approach to packages are Rust and Go. Unlike languages that require"
+{:block/content "I love Go in short because I do not like to write code. So profound, such avant guarde. But honestly, I don't like writing code, but I do like seeing code do cool things. Any experienced programmer will have war stories about weeks they have spent debugging errors or confusing features they have had to implement. And coding is all of that, a constant state of confusion until all of a sudden it all comes together and you see what you want to see on your screen or your robot starts walking forward.\n\nDon't get me wrong, dropping into the flow of programming is an incredible feeling, but it is the capability that I inevitably get from programming that I actually want, code is just a means to an end (for me, everyone is different). I think code can be beautiful, there are Python one-liners people have shown me that I want to have as a print on my wall. But I don't actually want to write it. I just want to have a bunch of capabilities that I can snap together like LEGO bricks. \n\nAnyone familiar will Go will immediately raise the point of \"if you don't like coding so much, use the elegant syntax of LISP to write your own language\". I have written enough needle-in-the-haystack for loops in Go to have heavily considered pursuing the monk life of a LISP developer, but I think that comes later in life for me.\n\nIf my goal is to build a set of capabilities by writing the least amount of code possible, it would be useful to tap into an existing language's libraries. Scanning the room for who wins in this department, someone might be quick to pick based off of numbers, which is easily NodeJS with NPM. Upon closer inspection, you realize how small most of these capabilities are, which might often be better to just write yourself, or even worse, break your build by including strange dependencies of its own, etc. most of these packages are time bombs waiting to destroy your productivity somewhere down the line. The same goes for the likes of Python. Java is pure chaos. In my opinion, the only languages that have any reasonable approach to packages are Rust and Go. Unlike languages that require uploading releases to a registry (yes, you can reference a git repository directly with Javascript, but for a number of reasons this is not a reliable approach), Rust and Go reference the actual source code."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757a79a-0eb3-45ac-9f6d-80c52049264e"}
@@ -429,7 +429,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6757a87a-c2f4-45e0-bd73-44a2901d52af"} 
-{:block/created-at 1733798773656
+{:block/created-at 1733798908298
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -445,7 +445,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 1192.8189697265625]
+:size [400 1312.8189697265625]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -454,8 +454,44 @@
 :point [416 3240]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733798008933}}
-:block/updated-at 1733798773656})
+:nonce 1733798008946}}
+:block/updated-at 1733798908298} 
+{:block/content "Go has a simple type system, too simple if you as some people. The absence of generics from the language for some time gave people a bitter taste as they came to consider the language. The counterpoint to this is that a type system can easily grow to be too complicated and confuse the fuck out of people with everyone's interpretation of how to model data. For example, Typescript's type system is Turing complete, meaning you can implement a fully-functioning Tic Tac Toe game with its types. The result of this  \"power\" is a great deal of code that gets written with developers who"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757a87a-c2f4-45e0-bd73-44a2901d52af"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "6757ac0e-cb35-44a6-ac53-39b181bbf12d"} 
+{:block/created-at 1733799083247
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "6757ac0e-cb35-44a6-ac53-39b181bbf12d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 328.82159423828125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "459383a0-b6a1-11ef-87e0-a9a678af4443"
+:noFill false
+:point [1072 3152]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733798924609}}
+:block/updated-at 1733799083247})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -467,9 +503,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733798789722
+:block/updated-at 1733799089522
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

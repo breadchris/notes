@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "I like to learn about programming languages. I think it is cool to be able to express ideas I have in my head so that a computer can run them on its own. Different languages offer different ways of expressing what effectively becomes the same thing; conditional flipping of gates in a CPU. Depending on what language you are using, the abstractions that are used to make the gates flip will look completely different."
+{:block/content "I like to learn about programming languages. I think it is cool to be able to express ideas I have in my head so that a computer can run them on its own. Different languages offer different ways of expressing what effectively becomes the same thing; conditional flipping of gates in a CPU. Depending on what language you are using, the abstractions that are used to make the gates flip will look completely different. A low level language operates closer to the gates and electricity, meaning less abstractions, and a higher level language relies on more abstractions to have \"more\" things happen within a computer with less code."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67579953-374c-4891-bea8-d1ddf0e36cd4"} 
-{:block/created-at 1733794283854
+{:block/created-at 1733794383435
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -24,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 232.81903076171875]
+:size [400 352.8190002441406]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -33,8 +33,44 @@
 :point [376 168]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733794129012}}
-:block/updated-at 1733794283854})
+:nonce 1733794129021}}
+:block/updated-at 1733794383435} 
+{:block/content "An abstraction is a group of different functions whose details are hidden and a simplified interface into them is provided. Abstractions usually make interacting with the underlying functions more difficult. For example, an API server served over HTTP may expose the endpoint `/do-something` which a client may use, to generate some output, but the underlying code that is triggered when `/do-something` is resolved may not be accessible to the caller."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67579953-374c-4891-bea8-d1ddf0e36cd4"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "67579a6b-ea1f-4187-a083-11dc2f0d3692"} 
+{:block/created-at 1733794570515
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "67579a6b-ea1f-4187-a083-11dc2f0d3692"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 256.82293701171875]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bdbec340-b696-11ef-87e0-a9a678af4443"
+:noFill false
+:point [816 432]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1733794401672}}
+:block/updated-at 1733794570515})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -46,9 +82,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733794288202
+:block/updated-at 1733794583307
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [The Honeywell Kitchen Computer: The 1960s Meal Planner That Nobody Could Afford - Rare Historical Photos](https://omnivore.app/me/the-honeywell-kitchen-computer-the-1960-s-meal-planner-that-nobo-193b0697a55)
+	  collapsed:: true
+	  site:: [Rare Historical Photos](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
+	  author:: RHP
+	  date-saved:: [[Dec 10th, 2024]]
+	  date-published:: [[Dec 1st, 2024]]
 	- [Skiplagged: The smart way to find cheap flights.](https://omnivore.app/me/skiplagged-the-smart-way-to-find-cheap-flights-193a9ad0dc3)
 	  collapsed:: true
 	  site:: [Skiplagged](https://skiplagged.com)

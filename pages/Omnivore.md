@@ -1,4 +1,20 @@
 ## 🔖 Articles
+	- [https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension](https://omnivore.app/me/https-maps-app-goo-gl-qh-b-xvdx-8-vooi-f-jv-b-7-g-st-app-omnivor-193b9aa1405)
+	  collapsed:: true
+	  site:: [maps.app.goo.gl](https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [Home | Rankpic | Find your best photo](https://omnivore.app/me/home-rankpic-find-your-best-photo-193b93b1db9)
+	  collapsed:: true
+	  site:: [Rankpic](https://www.rankpic.info)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [Pastmaps: Maps for Historical Research](https://omnivore.app/me/pastmaps-maps-for-historical-research-193b93abc34)
+	  collapsed:: true
+	  site:: [Pastmaps: Maps for Historical Research](https://pastmaps.com)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [Music Theory that isn't boring - Lightnote](https://omnivore.app/me/music-theory-that-isn-t-boring-lightnote-193b9398528)
+	  collapsed:: true
+	  site:: [lightnote.co](https://www.lightnote.co)
+	  date-saved:: [[Dec 11th, 2024]]
 	- [The Honeywell Kitchen Computer: The 1960s Meal Planner That Nobody Could Afford - Rare Historical Photos](https://omnivore.app/me/the-honeywell-kitchen-computer-the-1960-s-meal-planner-that-nobo-193b0697a55)
 	  collapsed:: true
 	  site:: [Rare Historical Photos](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)

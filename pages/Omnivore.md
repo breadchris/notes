@@ -1,4 +1,28 @@
 ## 🔖 Articles
+	- [Chord Nebula](https://omnivore.app/me/chord-nebula-193c830ced5)
+	  collapsed:: true
+	  site:: [chords.yottanami.com](https://chords.yottanami.com)
+	  date-saved:: [[Dec 14th, 2024]]
+	- [Should Programming Languages be Safe or Powerful? | Lambda Land](https://omnivore.app/me/should-programming-languages-be-safe-or-powerful-lambda-land-193c8307269)
+	  collapsed:: true
+	  site:: [Lambda Land](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
+	  date-saved:: [[Dec 14th, 2024]]
+	  date-published:: [[Nov 20th, 2024]]
+	- [TimeMap.org - World History Atlas](https://omnivore.app/me/time-map-org-world-history-atlas-193c5627a72)
+	  collapsed:: true
+	  site:: [oldmapsonline.org](https://www.oldmapsonline.org/en/history/regions)
+	  author:: Klokan Technologies GmbH (https://www.klokantech.com/)
+	  date-saved:: [[Dec 14th, 2024]]
+	- [Sublime](https://omnivore.app/me/sublime-193c368aa30)
+	  collapsed:: true
+	  site:: [sublime.app](https://sublime.app/?ref=palmreport.poolsuite.net)
+	  date-saved:: [[Dec 13th, 2024]]
+	- [The Rise and Fall of Ashton-Tate - by Bradford Morgan White](https://omnivore.app/me/the-rise-and-fall-of-ashton-tate-by-bradford-morgan-white-193c1360160)
+	  collapsed:: true
+	  site:: [Abort Retry Fail](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
+	  author:: Bradford Morgan White
+	  date-saved:: [[Dec 13th, 2024]]
+	  date-published:: [[May 26th, 2023]]
 	- [https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension](https://omnivore.app/me/https-maps-app-goo-gl-qh-b-xvdx-8-vooi-f-jv-b-7-g-st-app-omnivor-193b9aa1405)
 	  collapsed:: true
 	  site:: [maps.app.goo.gl](https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension)

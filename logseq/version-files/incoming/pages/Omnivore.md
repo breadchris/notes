@@ -1,4 +1,151 @@
 ## 🔖 Articles
+	- [https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension](https://omnivore.app/me/https-maps-app-goo-gl-qh-b-xvdx-8-vooi-f-jv-b-7-g-st-app-omnivor-193b9aa1405)
+	  collapsed:: true
+	  site:: [maps.app.goo.gl](https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [Home | Rankpic | Find your best photo](https://omnivore.app/me/home-rankpic-find-your-best-photo-193b93b1db9)
+	  collapsed:: true
+	  site:: [Rankpic](https://www.rankpic.info)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [Pastmaps: Maps for Historical Research](https://omnivore.app/me/pastmaps-maps-for-historical-research-193b93abc34)
+	  collapsed:: true
+	  site:: [Pastmaps: Maps for Historical Research](https://pastmaps.com)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [Music Theory that isn't boring - Lightnote](https://omnivore.app/me/music-theory-that-isn-t-boring-lightnote-193b9398528)
+	  collapsed:: true
+	  site:: [lightnote.co](https://www.lightnote.co)
+	  date-saved:: [[Dec 11th, 2024]]
+	- [The Honeywell Kitchen Computer: The 1960s Meal Planner That Nobody Could Afford - Rare Historical Photos](https://omnivore.app/me/the-honeywell-kitchen-computer-the-1960-s-meal-planner-that-nobo-193b0697a55)
+	  collapsed:: true
+	  site:: [Rare Historical Photos](https://rarehistoricalphotos.com/honeywell-kitchen-computer/)
+	  author:: RHP
+	  date-saved:: [[Dec 10th, 2024]]
+	  date-published:: [[Dec 1st, 2024]]
+	- [Skiplagged: The smart way to find cheap flights.](https://omnivore.app/me/skiplagged-the-smart-way-to-find-cheap-flights-193a9ad0dc3)
+	  collapsed:: true
+	  site:: [Skiplagged](https://skiplagged.com)
+	  date-saved:: [[Dec 8th, 2024]]
+	  date-published:: [[Jan 6th, 2001]]
+	- [Nyxt browser: The hacker's browser](https://omnivore.app/me/nyxt-browser-the-hacker-s-browser-193a5454496)
+	  collapsed:: true
+	  site:: [nyxt.atlas.engineer](https://nyxt.atlas.engineer)
+	  date-saved:: [[Dec 7th, 2024]]
+	- [Finch - Your New Self Care Best Friend](https://omnivore.app/me/finch-your-new-self-care-best-friend-1939f921ced)
+	  collapsed:: true
+	  site:: [finchcare.com](https://finchcare.com)
+	  date-saved:: [[Dec 6th, 2024]]
+	- [REM: The Foldable Speed Stick for any Skater by Limitless Propulsions — Kickstarter](https://omnivore.app/me/rem-the-foldable-speed-stick-for-any-skater-by-limitless-propuls-1939f83dda4)
+	  collapsed:: true
+	  site:: [Kickstarter](https://www.kickstarter.com/projects/limitlesspropulsions/rem-the-foldable-propulsion-stick)
+	  date-saved:: [[Dec 6th, 2024]]
+	- [Next-level frosted glass with backdrop-filter • Josh W. Comeau](https://omnivore.app/me/next-level-frosted-glass-with-backdrop-filter-josh-w-comeau-1939efc0666)
+	  collapsed:: true
+	  site:: [joshwcomeau.com](https://www.joshwcomeau.com/css/backdrop-filter/)
+	  author:: Josh W. Comeau
+	  date-saved:: [[Dec 6th, 2024]]
+	  date-published:: [[Dec 4th, 2024]]
+	- [PlainDraggable](https://omnivore.app/me/plain-draggable-19395860cf0)
+	  collapsed:: true
+	  site:: [anseki.github.io](https://anseki.github.io/plain-draggable/)
+	  date-saved:: [[Dec 4th, 2024]]
+	- [SCRIB3D – The Best 3D Printing Pen](https://omnivore.app/me/scrib-3-d-the-best-3-d-printing-pen-193958273fe)
+	  collapsed:: true
+	  site:: [scrib3dpen.com](https://scrib3dpen.com)
+	  date-saved:: [[Dec 4th, 2024]]
+	- [Play | WASM-4](https://omnivore.app/me/play-wasm-4-193956d9f1e)
+	  collapsed:: true
+	  site:: [wasm4.org](https://wasm4.org/play)
+	  date-saved:: [[Dec 4th, 2024]]
+	- [Neon Nebula 😶‍🌫️ by @theoradical | Suno](https://omnivore.app/me/neon-nebula-by-theoradical-suno-1939016d812)
+	  collapsed:: true
+	  site:: [suno.com](https://suno.com/playlist/25a16c93-efc5-4605-96d7-8e7801fff3c7)
+	  date-saved:: [[Dec 3rd, 2024]]
+	- [Egoless Engineering](https://omnivore.app/me/egoless-engineering-1938ee18015)
+	  collapsed:: true
+	  site:: [egoless.engineering](https://egoless.engineering)
+	  date-saved:: [[Dec 3rd, 2024]]
+	- [daybrush/moveable: Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!](https://omnivore.app/me/daybrush-moveable-moveable-draggable-resizable-scalable-rotatabl-19384d991dc)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/daybrush/moveable)
+	  date-saved:: [[Dec 1st, 2024]]
+	- [Gridstack.js | Build interactive dashboards in minutes.](https://omnivore.app/me/gridstack-js-build-interactive-dashboards-in-minutes-19384d87d22)
+	  collapsed:: true
+	  site:: [Gridstack.js Official Site](https://gridstackjs.com)
+	  date-saved:: [[Dec 1st, 2024]]
+	- [PropertySex Bad Roommate Apologizes with Blowjob and Sex - Pornhub.com](https://omnivore.app/me/property-sex-bad-roommate-apologizes-with-blowjob-and-sex-pornhu-1937bfd0375)
+	  collapsed:: true
+	  site:: [pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph5e1cc4e01d4ff)
+	  date-saved:: [[Nov 29th, 2024]]
+	- [Wesley Aptekar-Cassels | Consider SQLite](https://omnivore.app/me/wesley-aptekar-cassels-consider-sq-lite-1937bddd768)
+	  collapsed:: true
+	  site:: [Wesley Aptekar-Cassels](https://blog.wesleyac.com/posts/consider-sqlite)
+	  date-saved:: [[Nov 29th, 2024]]
+	  date-published:: [[Dec 29th, 2021]]
+	- [Structs, methods & interfaces | Learn Go with tests](https://omnivore.app/me/structs-methods-interfaces-learn-go-with-tests-1937bdafdbd)
+	  collapsed:: true
+	  site:: [quii.gitbook.io](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
+	  date-saved:: [[Nov 29th, 2024]]
+	  date-published:: [[Dec 22nd, 2023]]
+	- [jvalen/pixel-art-react: Pixel art animation and drawing web app powered by React](https://omnivore.app/me/jvalen-pixel-art-react-pixel-art-animation-and-drawing-web-app-p-1937b724e40)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/jvalen/pixel-art-react)
+	  date-saved:: [[Nov 29th, 2024]]
+	- [piskelapp/piskel: A simple web-based tool for Spriting and Pixel art.](https://omnivore.app/me/piskelapp-piskel-a-simple-web-based-tool-for-spriting-and-pixel--1937b713806)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/piskelapp/piskel)
+	  date-saved:: [[Nov 29th, 2024]]
+	- [DataDog/orchestrion: Automatic compile-time instrumentation of Go code](https://omnivore.app/me/data-dog-orchestrion-automatic-compile-time-instrumentation-of-g-1937b68630e)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/DataDog/orchestrion)
+	  date-saved:: [[Nov 29th, 2024]]
+	- [extism/game_box: Jackbox games like platform where each game is a user generated Extism plug-in](https://omnivore.app/me/extism-game-box-jackbox-games-like-platform-where-each-game-is-a-1937b670c7d)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/extism/game_box)
+	  date-saved:: [[Nov 29th, 2024]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/extism-game-box-jackbox-games-like-platform-where-each-game-is-a-1937b670c7d#4dece8af-ff26-4013-a700-9efa7f5797b5)
+	- [74c0ec4c-2b6b-4c8b-b627-7c6c55df66da](https://omnivore.app/me/u-150542-b-9-b-938-400-c-9882-5-e-3-b-94-d-9-fd-8-b-74-c-0-ec-4--19365eac43a)
+	  collapsed:: true
+	  site:: [omnivore.app](https://omnivore.app/attachments/u/150542b9-b938-400c-9882-5e3b94d9fd8b/74c0ec4c-2b6b-4c8b-b627-7c6c55df66da.pdf)
+	  date-saved:: [[Nov 25th, 2024]]
+	- [destel/rill: Go toolkit for clean, composable, channel-based concurrency](https://omnivore.app/me/destel-rill-go-toolkit-for-clean-composable-channel-based-concur-19364d25216)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/destel/rill?tab=readme-ov-file)
+	  date-saved:: [[Nov 25th, 2024]]
+	- [LeaderLine](https://omnivore.app/me/leader-line-1936059168d)
+	  collapsed:: true
+	  site:: [anseki.github.io](https://anseki.github.io/leader-line/)
+	  date-saved:: [[Nov 24th, 2024]]
+	- [OpenInterpreter/open-interpreter: A natural language interface for computers](https://omnivore.app/me/open-interpreter-open-interpreter-a-natural-language-interface-f-19360162b2c)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/OpenInterpreter/open-interpreter)
+	  date-saved:: [[Nov 24th, 2024]]
+	- [Refactoring UI? A good resource for getting more confident about frontend design and fixing that feeling of your app looking "off" without being able to tell exactly why? : r/Frontend](https://omnivore.app/me/refactoring-ui-a-good-resource-for-getting-more-confident-about--1935c74f8b7)
+	  collapsed:: true
+	  site:: [reddit.com](https://www.reddit.com/r/Frontend/comments/11cbih5/refactoring_ui_a_good_resource_for_getting_more/)
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [1 dataset. 100 visualizations.](https://omnivore.app/me/1-dataset-100-visualizations-1935c71662e)
+	  collapsed:: true
+	  site:: [1 dataset. 100 visualizations.](https://100.datavizproject.com)
+	  author:: Ferdio
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [Sqids (formerly Hashids) · Generate Short Unique IDs](https://omnivore.app/me/sqids-formerly-hashids-generate-short-unique-i-ds-1935c34f2bf)
+	  collapsed:: true
+	  site:: [sqids.org](https://sqids.org)
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [Netlify Celebrates 5 Million Developers | 3D Game](https://omnivore.app/me/netlify-celebrates-5-million-developers-3-d-game-1935ae6c639)
+	  collapsed:: true
+	  site:: [5-million-devs.netlify.com](https://5-million-devs.netlify.com)
+	  date-saved:: [[Nov 23rd, 2024]]
+	- [Visual Sorting aka The Sound Of Sorting](https://omnivore.app/me/visual-sorting-aka-the-sound-of-sorting-193519eb738)
+	  collapsed:: true
+	  site:: [mszula.github.io](https://mszula.github.io/visual-sorting/)
+	  date-saved:: [[Nov 21st, 2024]]
+	- [Ensō Roadmap (2024) · Untested](https://omnivore.app/me/enso-roadmap-2024-untested-1934b37e63d)
+	  collapsed:: true
+	  site:: [Untested](https://untested.sonnet.io/notes/enso-roadmap-2024/)
+	  author:: Rafał Pastuszak
+	  date-saved:: [[Nov 20th, 2024]]
 	- [Aaru | Rethinking the Science of Prediction](https://omnivore.app/me/aaru-rethinking-the-science-of-prediction-19346fdf7d7)
 	  collapsed:: true
 	  site:: [Aaru](https://aaruaaru.com)

@@ -1,4 +1,15 @@
 ## 🔖 Articles
+	- [SpiceNice - An Open Source Spice Database](https://omnivore.app/me/spice-nice-an-open-source-spice-database-193d6444107)
+	  collapsed:: true
+	  site:: [tderflinger.com](https://tderflinger.com/en/spicenice-open-source-culinary-spice-database)
+	  date-saved:: [[Dec 17th, 2024]]
+	  date-published:: [[Nov 29th, 2024]]
+	- [Moon – Bartosz Ciechanowski](https://omnivore.app/me/moon-bartosz-ciechanowski-193d61798a8)
+	  collapsed:: true
+	  site:: [ciechanow.ski](https://ciechanow.ski/moon/)
+	  author:: Bartosz Ciechanowski
+	  date-saved:: [[Dec 17th, 2024]]
+	  date-published:: [[Dec 16th, 2024]]
 	- [Chord Nebula](https://omnivore.app/me/chord-nebula-193c830ced5)
 	  collapsed:: true
 	  site:: [chords.yottanami.com](https://chords.yottanami.com)

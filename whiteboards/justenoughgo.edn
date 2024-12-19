@@ -936,7 +936,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6757db7d-8658-4dca-8891-905eb0fac0d6"} 
-{:block/created-at 1733811194925
+{:block/created-at 1734639719981
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -952,7 +952,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 232.81901195235972]
+:size [400 232.8579741318456]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -961,8 +961,73 @@
 :point [216 5040]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1733811068359}}
-:block/updated-at 1733811194925})
+:nonce 1733811068363}}
+:block/updated-at 1734639719981} 
+{:block/content "reduce mental entropy by sticking with a consistent format. Future you and other developers will appreciate it greatly. You can only load so much information into your head at one time, so our brain makes shortcuts to load more. Information that we have found patterns in are easier to put into our brain because we don't have to remember every detail, we just remember the sequences. With code, if the formatting is consistent, we can visually glide over details as it is in a familiar shape/pattern which we can keep in our mind. It becomes more challenging to remember information if we are visually disrupted with something out of the ordinary. For example, if"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6757db7d-8658-4dca-8891-905eb0fac0d6"}
+:block/parent 
+{:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"}
+:block/properties 
+{}
+:block/uuid #uuid "67648082-4a26-481e-9858-9c7dca665892"} 
+{:block/created-at 1734639923065
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 28
+:scale [1 1]
+:pageId "67648082-4a26-481e-9858-9c7dca665892"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 376.8229064941406]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ed4c1830-be46-11ef-87e0-a9a678af4443"
+:noFill false
+:point [616 5448]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:collapsedHeight 0
+:nonce 1734639731016}}
+:block/updated-at 1734639923065} 
+{:block/created-at 1734639846782
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 29
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [523 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2ab40110-be47-11ef-87e0-a9a678af4443"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [616 5392]
+:lineHeight 1.2
+:fontSize 32
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:nonce 1734639834290
+:italic false
+:text "go fmt and consistency in general"}}
+:block/updated-at 1734639846782})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -974,9 +1039,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443" "028f9230-b6a4-11ef-87e0-a9a678af4443" "173c3c10-b6a4-11ef-87e0-a9a678af4443" "19649a50-b6a4-11ef-87e0-a9a678af4443" "53529eb0-b6a4-11ef-87e0-a9a678af4443" "58944ae0-b6a4-11ef-87e0-a9a678af4443" "864bbf40-b6bd-11ef-87e0-a9a678af4443" "8bde2380-b6bd-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443" "028f9230-b6a4-11ef-87e0-a9a678af4443" "173c3c10-b6a4-11ef-87e0-a9a678af4443" "19649a50-b6a4-11ef-87e0-a9a678af4443" "53529eb0-b6a4-11ef-87e0-a9a678af4443" "58944ae0-b6a4-11ef-87e0-a9a678af4443" "864bbf40-b6bd-11ef-87e0-a9a678af4443" "8bde2380-b6bd-11ef-87e0-a9a678af4443" "ed4c1830-be46-11ef-87e0-a9a678af4443" "2ab40110-be47-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1733811196189
+:block/updated-at 1734639924804
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

@@ -963,7 +963,7 @@
 :collapsedHeight 0
 :nonce 1733811068363}}
 :block/updated-at 1734639719981} 
-{:block/content "reduce mental entropy by sticking with a consistent format. Future you and other developers will appreciate it greatly. You can only load so much information into your head at one time, so our brain makes shortcuts to load more. Information that we have found patterns in are easier to put into our brain because we don't have to remember every detail, we just remember the sequences. With code, if the formatting is consistent, we can visually glide over details as it is in a familiar shape/pattern which we can keep in our mind. It becomes more challenging to remember information if we are visually disrupted with something out of the ordinary. For example, seeing a for loop over a slice is familiar and we only need to glance at two places to know what each item's value will be called and what the name of the slice being iterated over is:\n```go\nfor value := range someSlice {\n}\n```\nIf instead this loop was written in a way that is not common, it would take more time to figure out how it worked:\n```go\nvar i int = 0\nfor i = 0; i < len(someSlice); i += 1 {\n  value := someSlice[i]\n}\n```\nWhile functionally the same, the first example 1) takes less characters and 2) is what a go developer would expect someone would use to implement this functionality. The solution that another"
+{:block/content "reduce mental entropy by sticking with a consistent format. Future you and other developers will appreciate it greatly. You can only load so much information into your head at one time, so our brain makes shortcuts to load more. Information that we have found patterns in are easier to put into our brain because we don't have to remember every detail, we just remember the sequences. With code, if the formatting is consistent, we can visually glide over details as it is in a familiar shape/pattern which we can keep in our mind. It becomes more challenging to remember information if we are visually disrupted with something out of the ordinary. For example, seeing a for loop over a slice is familiar and we only need to glance at two places to know what each item's value will be called and what the name of the slice being iterated over is:\n```go\nfor value := range someSlice {\n}\n```\nIf instead this loop was written in a way that is not common, it would take more time to figure out how it worked:\n```go\nvar i int = 0\nfor i = 0; i < len(someSlice); i += 1 {\n  value := someSlice[i]\n}\n```\nWhile functionally the same, the first example 1) takes less characters and 2) is what a go developer would expect someone would use to implement this functionality. With such a simple syntax, it is often easy to understand what the expected way to represent a solution is."
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6757db7d-8658-4dca-8891-905eb0fac0d6"}
@@ -972,7 +972,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67648082-4a26-481e-9858-9c7dca665892"} 
-{:block/created-at 1734640221755
+{:block/created-at 1734640302600
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -988,7 +988,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 856.8228759765625]
+:size [400 895.2536765551893]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -997,8 +997,8 @@
 :point [616 5448]
 :parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :collapsedHeight 0
-:nonce 1734639731058}}
-:block/updated-at 1734640221755} 
+:nonce 1734639731073}}
+:block/updated-at 1734640302600} 
 {:block/created-at 1734639846782
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1027,7 +1027,23 @@
 :nonce 1734639834290
 :italic false
 :text "go fmt and consistency in general"}}
-:block/updated-at 1734639846782})
+:block/updated-at 1734639846782} 
+{:block/created-at 1734640281710
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:rotation 0
+:index 30
+:scale [1 1]
+:type "iframe"
+:size [528 480]
+:id "2bd707d0-be48-11ef-87e0-a9a678af4443"
+:url "https://github.com/uber-go/guide/blob/master/style.md"
+:isLocked false
+:point [1104 5928]
+:parentId "6757991c-042e-4dea-bd46-4e5f897a3a9d"
+:nonce 1734640265543}}
+:block/updated-at 1734640281710})
 :pages (
 {:block/uuid #uuid "6757991c-042e-4dea-bd46-4e5f897a3a9d"
 :block/properties 
@@ -1039,9 +1055,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443" "028f9230-b6a4-11ef-87e0-a9a678af4443" "173c3c10-b6a4-11ef-87e0-a9a678af4443" "19649a50-b6a4-11ef-87e0-a9a678af4443" "53529eb0-b6a4-11ef-87e0-a9a678af4443" "58944ae0-b6a4-11ef-87e0-a9a678af4443" "864bbf40-b6bd-11ef-87e0-a9a678af4443" "8bde2380-b6bd-11ef-87e0-a9a678af4443" "ed4c1830-be46-11ef-87e0-a9a678af4443" "2ab40110-be47-11ef-87e0-a9a678af4443")}}
+:shapes-index ("1b3b1060-b696-11ef-87e0-a9a678af4443" "bdbec340-b696-11ef-87e0-a9a678af4443" "2c833d10-b697-11ef-87e0-a9a678af4443" "e4f393e0-b697-11ef-87e0-a9a678af4443" "9df3a790-b698-11ef-87e0-a9a678af4443" "7657b3e0-b69b-11ef-87e0-a9a678af4443" "7f8bda80-b69c-11ef-87e0-a9a678af4443" "a7150220-b69c-11ef-87e0-a9a678af4443" "bd4b3230-b69c-11ef-87e0-a9a678af4443" "768a4ab0-b69d-11ef-87e0-a9a678af4443" "977cef10-b69e-11ef-87e0-a9a678af4443" "9e19be70-b69e-11ef-87e0-a9a678af4443" "23c31ee0-b69f-11ef-87e0-a9a678af4443" "459383a0-b6a1-11ef-87e0-a9a678af4443" "05c860f0-b6a2-11ef-87e0-a9a678af4443" "0ccc2f80-b6a2-11ef-87e0-a9a678af4443" "704f3110-b6a2-11ef-87e0-a9a678af4443" "79056a90-b6a2-11ef-87e0-a9a678af4443" "4724c010-b6a3-11ef-87e0-a9a678af4443" "a20907c0-b6a3-11ef-87e0-a9a678af4443" "a7b360d0-b6a3-11ef-87e0-a9a678af4443" "028f9230-b6a4-11ef-87e0-a9a678af4443" "173c3c10-b6a4-11ef-87e0-a9a678af4443" "19649a50-b6a4-11ef-87e0-a9a678af4443" "53529eb0-b6a4-11ef-87e0-a9a678af4443" "58944ae0-b6a4-11ef-87e0-a9a678af4443" "864bbf40-b6bd-11ef-87e0-a9a678af4443" "8bde2380-b6bd-11ef-87e0-a9a678af4443" "ed4c1830-be46-11ef-87e0-a9a678af4443" "2ab40110-be47-11ef-87e0-a9a678af4443" "2bd707d0-be48-11ef-87e0-a9a678af4443")}}
 :block/journal? false
-:block/updated-at 1734640221755
+:block/updated-at 1734640302600
 :block/created-at 1733794076722
 :block/type "whiteboard"
 :block/name "justenoughgo"

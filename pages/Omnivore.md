@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Bubble: The full-stack no-code app builder](https://omnivore.app/me/bubble-the-full-stack-no-code-app-builder-193e9851e82)
+	  collapsed:: true
+	  site:: [Bubble](https://bubble.io/?gad_source=1&gclid=CjwKCAiAyJS7BhBiEiwAyS9uNd1SVmPwWrDmHc8XPM3lZinuCtmBi_JdgN_KWLZ4dVUKR3oEJ5u45RoCnTcQAvD_BwE)
+	  date-saved:: [[Dec 21st, 2024]]
 	- [tldraw computer](https://omnivore.app/me/tldraw-computer-193e49dacfb)
 	  collapsed:: true
 	  site:: [tldraw computer](https://computer.tldraw.com)
@@ -3978,7 +3982,7 @@
 	- [washingtonpost.com: Unabomber Special Report](https://omnivore.app/me/washingtonpost-com-unabomber-special-report-18dcdb376a3)
 	  collapsed:: true
 	  site:: [washingtonpost.com](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
-	  date-saved:: [[Feb 21st, 2024]]
+	  date-saved:: [[Dec 21st, 2024]]
 	- [partykit/examples/blocknote at main · partykit/partykit](https://omnivore.app/me/partykit-examples-blocknote-at-main-partykit-partykit-18dcd97df48)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/partykit/partykit/tree/main/examples/blocknote)

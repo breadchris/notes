@@ -1,4 +1,28 @@
 ## 🔖 Articles
+	- [tldraw computer](https://omnivore.app/me/tldraw-computer-193e49dacfb)
+	  collapsed:: true
+	  site:: [tldraw computer](https://computer.tldraw.com)
+	  date-saved:: [[Dec 20th, 2024]]
+	- [How types make hard problems easy •](https://omnivore.app/me/how-types-make-hard-problems-easy-193e112bd37)
+	  collapsed:: true
+	  site:: [mayhul.com](https://mayhul.com/posts/type-driven-design/)
+	  author:: Mayhul Arora
+	  date-saved:: [[Dec 19th, 2024]]
+	  date-published:: [[Aug 18th, 2024]]
+	- [6 Best Affiliate Programs for Cooking in 2023 - That Affiliate Life](https://omnivore.app/me/6-best-affiliate-programs-for-cooking-in-2023-that-affiliate-lif-193e0b193ea)
+	  collapsed:: true
+	  site:: [That Affiliate Life](https://thataffiliatelife.com/affiliate-programs-cooking/)
+	  date-saved:: [[Dec 19th, 2024]]
+	  date-published:: [[Jan 3rd, 2023]]
+	- [Niche Idea of The Week: Cooking Affiliate Programs | Affilorama](https://omnivore.app/me/niche-idea-of-the-week-cooking-affiliate-programs-affilorama-193e0acd684)
+	  collapsed:: true
+	  site:: [affilorama.com](https://www.affilorama.com/blog/cooking-affiliate-programs)
+	  date-saved:: [[Dec 19th, 2024]]
+	- [Music & Geometry - Intervals & Scales - ROEL'S WORLD (blog)](https://omnivore.app/me/music-geometry-intervals-scales-roel-s-world-blog-193e0aaccbe)
+	  collapsed:: true
+	  site:: [ROEL\'S WORLD (blog)](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
+	  date-saved:: [[Dec 19th, 2024]]
+	  date-published:: [[Aug 26th, 2023]]
 	- [SpiceNice - An Open Source Spice Database](https://omnivore.app/me/spice-nice-an-open-source-spice-database-193d6444107)
 	  collapsed:: true
 	  site:: [tderflinger.com](https://tderflinger.com/en/spicenice-open-source-culinary-spice-database)

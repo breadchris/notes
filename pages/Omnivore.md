@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Dumbbell Workout Plan: Build Muscle At Home In Four Weeks | Coach](https://omnivore.app/me/dumbbell-workout-plan-build-muscle-at-home-in-four-weeks-coach-193eff6a216)
+	  collapsed:: true
+	  site:: [coachmaguk](https://www.coachweb.com/fitness/workouts/dumbbell-workouts)
+	  author:: Add size to your arms, chest and shoulders with these four dumbbell workouts
+	  date-saved:: [[Dec 22nd, 2024]]
+	  date-published:: [[Mar 7th, 2024]]
 	- [Draw all roads in a city at once](https://omnivore.app/me/draw-all-roads-in-a-city-at-once-193ef4ddada)
 	  collapsed:: true
 	  site:: [anvaka.github.io](https://anvaka.github.io/city-roads/?areaId=3600237385&q=seattle)

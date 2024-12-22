@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Draw all roads in a city at once](https://omnivore.app/me/draw-all-roads-in-a-city-at-once-193ef4ddada)
+	  collapsed:: true
+	  site:: [anvaka.github.io](https://anvaka.github.io/city-roads/?areaId=3600237385&q=seattle)
+	  author:: Andrei Kashcha
+	  date-saved:: [[Dec 22nd, 2024]]
 	- [Bubble: The full-stack no-code app builder](https://omnivore.app/me/bubble-the-full-stack-no-code-app-builder-193e9851e82)
 	  collapsed:: true
 	  site:: [Bubble](https://bubble.io/?gad_source=1&gclid=CjwKCAiAyJS7BhBiEiwAyS9uNd1SVmPwWrDmHc8XPM3lZinuCtmBi_JdgN_KWLZ4dVUKR3oEJ5u45RoCnTcQAvD_BwE)

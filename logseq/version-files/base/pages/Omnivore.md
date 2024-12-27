@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Vapcell N40 18650 10A Flat Top 4000mAh Battery - Genuine – Liion Wholesale Batteries](https://omnivore.app/me/vapcell-n-40-18650-10-a-flat-top-4000-m-ah-battery-genuine-liion-194054d2be2)
+	  collapsed:: true
+	  site:: [Liion Wholesale Batteries](https://liionwholesale.com/collections/batteries/products/vapcell-n40-18650-10a-flat-top-4000mah-battery-genuine?variant=40592451371077)
+	  date-saved:: [[Dec 26th, 2024]]
 	- [JavaScript Data Grid - Documentation | Handsontable](https://omnivore.app/me/java-script-data-grid-documentation-handsontable-19404f31e80)
 	  collapsed:: true
 	  site:: [handsontable.com](https://handsontable.com/docs/javascript-data-grid/)

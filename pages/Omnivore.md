@@ -1,4 +1,14 @@
 ## 🔖 Articles
+	- [Text of Unabomber Manifesto](https://omnivore.app/me/text-of-unabomber-manifesto-19410995228)
+	  collapsed:: true
+	  site:: [archive.nytimes.com](https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html)
+	  date-saved:: [[Dec 28th, 2024]]
+	  date-published:: [[May 25th, 1996]]
+	- [Liberating Wi-Fi on the ESP32 - media.ccc.de](https://omnivore.app/me/liberating-wi-fi-on-the-esp-32-media-ccc-de-19410471ae7)
+	  collapsed:: true
+	  site:: [media.ccc.de](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
+	  date-saved:: [[Dec 28th, 2024]]
+	  date-published:: [[Dec 26th, 2024]]
 	- [Vapcell N40 18650 10A Flat Top 4000mAh Battery - Genuine – Liion Wholesale Batteries](https://omnivore.app/me/vapcell-n-40-18650-10-a-flat-top-4000-m-ah-battery-genuine-liion-194054d2be2)
 	  collapsed:: true
 	  site:: [Liion Wholesale Batteries](https://liionwholesale.com/collections/batteries/products/vapcell-n40-18650-10a-flat-top-4000mah-battery-genuine?variant=40592451371077)

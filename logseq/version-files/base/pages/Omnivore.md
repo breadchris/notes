@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [WebGL Fluid Simulation](https://omnivore.app/me/web-gl-fluid-simulation-1941466cacc)
+	  collapsed:: true
+	  site:: [paveldogreat.github.io](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+	  date-saved:: [[Dec 29th, 2024]]
 	- [Text of Unabomber Manifesto](https://omnivore.app/me/text-of-unabomber-manifesto-19410995228)
 	  collapsed:: true
 	  site:: [archive.nytimes.com](https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html)

@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Effective Spaced Repetition](https://omnivore.app/me/effective-spaced-repetition-19415f614c7)
+	  collapsed:: true
+	  site:: [Fernando Borretti](https://borretti.me/article/effective-spaced-repetition)
+	  author:: Fernando Borretti
+	  date-saved:: [[Dec 29th, 2024]]
+	  date-published:: [[Apr 9th, 2023]]
 	- [explore.flights](https://omnivore.app/me/explore-flights-194155b50e8)
 	  collapsed:: true
 	  site:: [explore.flights](https://explore.flights)

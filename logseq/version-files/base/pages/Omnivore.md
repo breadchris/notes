@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [explore.flights](https://omnivore.app/me/explore-flights-194155b50e8)
+	  collapsed:: true
+	  site:: [explore.flights](https://explore.flights)
+	  date-saved:: [[Dec 29th, 2024]]
+	  date-published:: [[Dec 28th, 2024]]
 	- [WebGL Fluid Simulation](https://omnivore.app/me/web-gl-fluid-simulation-1941466cacc)
 	  collapsed:: true
 	  site:: [paveldogreat.github.io](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)

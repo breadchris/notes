@@ -1,4 +1,9 @@
 ## 🔖 Articles
+	- [Writing An Interpreter In Go | Thorsten Ball](https://omnivore.app/me/writing-an-interpreter-in-go-thorsten-ball-1941b0c1584)
+	  collapsed:: true
+	  site:: [interpreterbook.com](https://interpreterbook.com)
+	  author:: About the author
+	  date-saved:: [[Dec 30th, 2024]]
 	- [Effective Spaced Repetition](https://omnivore.app/me/effective-spaced-repetition-19415f614c7)
 	  collapsed:: true
 	  site:: [Fernando Borretti](https://borretti.me/article/effective-spaced-repetition)

@@ -1,4 +1,24 @@
 ## 🔖 Articles
+	- [100 things you can do on your personal website | James' Coffee Blog](https://omnivore.app/me/100-things-you-can-do-on-your-personal-website-james-coffee-blog-194249bc914)
+	  collapsed:: true
+	  site:: [jamesg.blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+	  author:: Home
+	  date-saved:: [[Jan 1st, 2025]]
+	  date-published:: [[Feb 18th, 2024]]
+	- [Reclaiming the Web with a Personal Reader | olano.dev](https://omnivore.app/me/reclaiming-the-web-with-a-personal-reader-olano-dev-1942497ed57)
+	  collapsed:: true
+	  site:: [olano.dev](https://olano.dev/blog/reclaiming-the-web-with-a-personal-reader/)
+	  author:: Facundo Olano
+	  date-saved:: [[Jan 1st, 2025]]
+	  date-published:: [[Dec 11th, 2023]]
+	- [API Parrot](https://omnivore.app/me/api-parrot-19424936b97)
+	  collapsed:: true
+	  site:: [apiparrot.com](https://apiparrot.com)
+	  date-saved:: [[Jan 1st, 2025]]
+	- [Naur](https://omnivore.app/me/https-pages-cs-wisc-edu-remzi-naur-pdf-194248da028)
+	  collapsed:: true
+	  site:: [pages.cs.wisc.edu](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+	  date-saved:: [[Jan 1st, 2025]]
 	- [Writing An Interpreter In Go | Thorsten Ball](https://omnivore.app/me/writing-an-interpreter-in-go-thorsten-ball-1941b0c1584)
 	  collapsed:: true
 	  site:: [interpreterbook.com](https://interpreterbook.com)

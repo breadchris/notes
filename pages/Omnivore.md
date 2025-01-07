@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Never Have Outdated Footer Dates Again](https://omnivore.app/me/never-have-outdated-footer-dates-again-1943e4a28eb)
+	  collapsed:: true
+	  site:: [getfullyear.com](https://getfullyear.com)
+	  date-saved:: [[Jan 6th, 2025]]
 	- [100 things you can do on your personal website | James' Coffee Blog](https://omnivore.app/me/100-things-you-can-do-on-your-personal-website-james-coffee-blog-194249bc914)
 	  collapsed:: true
 	  site:: [jamesg.blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)

@@ -8,22 +8,6 @@
 :block/properties 
 {}
 :block/uuid #uuid "677e03c6-aa90-40d7-8058-9043600feecd"} 
-{:block/created-at 1736311782817
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:rotation 0
-:index 0
-:scale [1 1]
-:type "html"
-:size [168 144]
-:id "e95aacc0-cd7b-11ef-87e0-a9a678af4443"
-:isLocked false
-:point [64 128]
-:parentId "677e03ae-dbcb-4ffc-aaff-145f8defd196"
-:nonce 1736311755270
-:html "<meta charset='utf-8'><ul>\n  <li>characters</li>\n  <ul>\n    <li>Maddie</li>\n    <li>Leo</li>\n    <li>Sam</li>\n    <li>Ms. Holloway</li>\n  </ul>\n</ul>"}}
-:block/updated-at 1736311782817} 
 {:block/content "library CMS"
 :block/format :markdown
 :block/left 
@@ -33,7 +17,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "677e03ff-e890-4527-b9e4-83252ca5204a"} 
-{:block/created-at 1736311807624
+{:block/created-at 1736312390604
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -41,7 +25,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 1
+:index 0
 :scale [1 1]
 :pageId "677e03ff-e890-4527-b9e4-83252ca5204a"
 :scaleLevel "md"
@@ -59,7 +43,7 @@
 :parentId "677e03ae-dbcb-4ffc-aaff-145f8defd196"
 :collapsedHeight 0
 :nonce 1736311806489}}
-:block/updated-at 1736311807624} 
+:block/updated-at 1736312390604} 
 {:block/content "twitter"
 :block/format :markdown
 :block/left 
@@ -69,15 +53,16 @@
 :block/properties 
 {}
 :block/uuid #uuid "677e0414-818d-44fc-b0ad-cf7c3e7526ee"} 
-{:block/created-at 1736311828923
+{:block/created-at 1736312441803
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:blockType "B"
 :stroke ""
+:rotation 0
 :collapsed false
 :borderRadius 8
-:index 2
+:index 1
 :scale [1 1]
 :pageId "677e0414-818d-44fc-b0ad-cf7c3e7526ee"
 :scaleLevel "md"
@@ -85,7 +70,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.82021350734468]
+:size [112 40.82685956057686]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -94,8 +79,8 @@
 :point [216 536]
 :parentId "677e03ae-dbcb-4ffc-aaff-145f8defd196"
 :collapsedHeight 0
-:nonce 1736311827820}}
-:block/updated-at 1736311828923} 
+:nonce 1736311827845}}
+:block/updated-at 1736312441803} 
 {:block/content "phone?"
 :block/format :markdown
 :block/left 
@@ -103,7 +88,7 @@
 :block/parent 
 {:block/uuid #uuid "677e03ae-dbcb-4ffc-aaff-145f8defd196"}
 :block/uuid #uuid "677e0425-8072-46a8-bdfd-cd7d91041aa2"} 
-{:block/created-at 1736311845389
+{:block/created-at 1736312390605
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -111,7 +96,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 3
+:index 2
 :scale [1 1]
 :pageId "677e0425-8072-46a8-bdfd-cd7d91041aa2"
 :scaleLevel "md"
@@ -129,7 +114,7 @@
 :parentId "677e03ae-dbcb-4ffc-aaff-145f8defd196"
 :collapsedHeight 0
 :nonce 1736311842309}}
-:block/updated-at 1736311845389} 
+:block/updated-at 1736312390605} 
 {:block/content "linux shell"
 :block/format :markdown
 :block/left 
@@ -137,7 +122,7 @@
 :block/parent 
 {:block/uuid #uuid "677e03ae-dbcb-4ffc-aaff-145f8defd196"}
 :block/uuid #uuid "677e05b2-6512-464c-9956-2ecf80b59c23"} 
-{:block/created-at 1736312242957
+{:block/created-at 1736312390605
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -145,7 +130,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 4
+:index 3
 :scale [1 1]
 :pageId "677e05b2-6512-464c-9956-2ecf80b59c23"
 :scaleLevel "md"
@@ -163,7 +148,43 @@
 :parentId "677e03ae-dbcb-4ffc-aaff-145f8defd196"
 :collapsedHeight 0
 :nonce 1736312240028}}
-:block/updated-at 1736312242957})
+:block/updated-at 1736312390605} 
+{:block/content "characters\nLeo\nSam\nMaddie\nHacker\nMs. Halloway"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "677e05b2-6512-464c-9956-2ecf80b59c23"}
+:block/parent 
+{:block/uuid #uuid "677e05b2-6512-464c-9956-2ecf80b59c23"}
+:block/properties 
+{}
+:block/uuid #uuid "677e0653-86f5-497d-9b63-5da3cc11110c"} 
+{:block/created-at 1736312435962
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "677e0653-86f5-497d-9b63-5da3cc11110c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 160.82028363684645]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6ab09c20-cd7d-11ef-8f4e-278bfddd2a57"
+:noFill false
+:point [120 104]
+:parentId "677e03ae-dbcb-4ffc-aaff-145f8defd196"
+:collapsedHeight 0
+:nonce 1736312401694}}
+:block/updated-at 1736312435962})
 :pages (
 {:block/uuid #uuid "677e03ae-dbcb-4ffc-aaff-145f8defd196"
 :block/properties 
@@ -175,9 +196,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("e95aacc0-cd7b-11ef-87e0-a9a678af4443" "07f46270-cd7c-11ef-87e0-a9a678af4443" "14ab3ca0-cd7c-11ef-87e0-a9a678af4443" "1d4dee20-cd7c-11ef-87e0-a9a678af4443" "0a5d0890-cd7d-11ef-8f4e-278bfddd2a57")}}
+:shapes-index ("07f46270-cd7c-11ef-87e0-a9a678af4443" "14ab3ca0-cd7c-11ef-87e0-a9a678af4443" "1d4dee20-cd7c-11ef-87e0-a9a678af4443" "0a5d0890-cd7d-11ef-8f4e-278bfddd2a57" "6ab09c20-cd7d-11ef-8f4e-278bfddd2a57")}}
 :block/journal? false
-:block/updated-at 1736312243526
+:block/updated-at 1736312441802
 :block/created-at 1736311726187
 :block/format :markdown
 :block/type "whiteboard"

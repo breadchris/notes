@@ -1,4 +1,12 @@
 - https://chatgpt.com/share/6770b169-5574-800d-8c2f-1a12c054e211
+- whiteboard #[[mcpshsf 2025]]
+- characters
+	- Maddie
+	- Leo
+	- Sam
+	- Ms. Holloway
+- environments
+	- book inventory system
 - story
 	- **01/02/2023 15:30** - Maddie borrows *Codebreakers: A History of Espionage* from Oakridge Library.
 	- **10/02/2023 16:45** - Maddie returns the book three days late and receives a $45 late fee. She notices "AML" on the receipt.

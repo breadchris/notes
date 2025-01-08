@@ -1,0 +1,25 @@
+- https://chatgpt.com/share/6770b169-5574-800d-8c2f-1a12c054e211
+- story
+	- **01/02/2023 15:30** - Maddie borrows *Codebreakers: A History of Espionage* from Oakridge Library.
+	- **10/02/2023 16:45** - Maddie returns the book three days late and receives a $45 late fee. She notices "AML" on the receipt.
+	- **11/02/2023 14:00** - Maddie tries to re-check the book, but it is missing from the catalog.
+	- **11/02/2023 15:15** - Maddie overhears two librarians whispering about “keeping it off the system.”
+	- **12/02/2023 12:30** - Maddie shares her suspicions with Leo and Sam, convincing them to investigate.
+	- **13/02/2023 18:00** - The trio spots Ms. Holloway meeting a man in a luxury car outside the library and overhears references to “moving funds.”
+	- **14/02/2023 17:00** - Leo hacks into the library’s outdated catalog system, uncovering hidden financial records.
+	- **15/02/2023 20:30** - Maddie finds that the library is collecting thousands of dollars weekly in late fees.
+	- **16/02/2023 21:00** - Sam discovers several library patrons are fake, with exaggerated late fees attached to their profiles.
+	- **17/02/2023 19:00** - Maddie traces late fee payments to “PagePay LLC,” linked to a shell company with money laundering ties.
+	- **18/02/2023 23:00** - Leo notices RFID tags on certain books and suspects they’re used for secret communication.
+	- #### **Act 3: The Break-In**
+	- **20/02/2023 22:00** - The trio breaks into the library after hours, disabling alarms and cameras.
+	- **20/02/2023 22:45** - They access Ms. Holloway’s office and find a hidden ledger documenting the laundering scheme.
+	- **20/02/2023 23:15** - Ms. Holloway catches them in her office, locks the door, and calls her accomplices.
+	- **20/02/2023 23:20** - Leo triggers a network breach, cutting power and security systems.
+	- **20/02/2023 23:30** - The trio escapes through a hidden basement hatch, with the ledger in hand.
+	- **20/02/2023 23:40** - Sam contacts the police using their secure emergency line.
+	- **21/02/2023 00:10** - The police arrive at the library, arresting Ms. Holloway and her accomplices.
+	- **25/02/2023 10:00** - The investigation reveals millions of dollars laundered through the library’s fake late fees.
+	- **01/03/2023 15:00** - Maddie, Leo, and Sam are celebrated as heroes in their school and community.
+	- **15/03/2023 14:00** - The library reopens with new management and policies, becoming a community hub once again.
+	- **20/03/2023 18:00** - Maddie reflects on the adventure and plans to pursue a career in ethical hacking.

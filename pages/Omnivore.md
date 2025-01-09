@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Super-structured Data | Brim Data](https://omnivore.app/me/super-structured-data-brim-data-194498b2993)
+	  collapsed:: true
+	  site:: [Brim Data](https://www.brimdata.io/blog/super-structured-data/)
+	  author:: Steven McCanne
+	  date-saved:: [[Jan 8th, 2025]]
+	  date-published:: [[May 17th, 2022]]
 	- [Never Have Outdated Footer Dates Again](https://omnivore.app/me/never-have-outdated-footer-dates-again-1943e4a28eb)
 	  collapsed:: true
 	  site:: [getfullyear.com](https://getfullyear.com)

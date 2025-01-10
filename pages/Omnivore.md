@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [Some Programming Language Ideas - iRi](https://omnivore.app/me/some-programming-language-ideas-i-ri-1944d53d56b)
+	  collapsed:: true
+	  site:: [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/)
+	  date-saved:: [[Jan 9th, 2025]]
 	- [Super-structured Data | Brim Data](https://omnivore.app/me/super-structured-data-brim-data-194498b2993)
 	  collapsed:: true
 	  site:: [Brim Data](https://www.brimdata.io/blog/super-structured-data/)

@@ -4,10 +4,15 @@
 	- Maddie
 	- Leo
 	- Sam
+	- Other hacker
 	- Ms. Holloway
 - environments
 	- book inventory system
 - story
+	- There is a book missing from the library that has people talking. Students try to recover it
+	- Beginning evidence
+		- A chat log between Maddie, Leo and Sam about the missing book from the library
+- story ai
 	- **01/02/2023 15:30** - Maddie borrows *Codebreakers: A History of Espionage* from Oakridge Library.
 	- **10/02/2023 16:45** - Maddie returns the book three days late and receives a $45 late fee. She notices "AML" on the receipt.
 	- **11/02/2023 14:00** - Maddie tries to re-check the book, but it is missing from the catalog.

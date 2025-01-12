@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [hybridgroup/go-haystack: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!](https://omnivore.app/me/hybridgroup-go-haystack-track-personal-bluetooth-devices-via-app-19458b04a4e)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/hybridgroup/go-haystack?tab=readme-ov-file)
+	  date-saved:: [[Jan 11th, 2025]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/hybridgroup-go-haystack-track-personal-bluetooth-devices-via-app-19458b04a4e#bd569010-d6b0-4c31-8770-0a05801f8736)
 	- [Some Programming Language Ideas - iRi](https://omnivore.app/me/some-programming-language-ideas-i-ri-1944d53d56b)
 	  collapsed:: true
 	  site:: [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/)

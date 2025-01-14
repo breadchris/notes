@@ -13,7 +13,9 @@
 	- Question to answer: who took the book? where did it go?
 	- students learn about a special book that contains secrets on X, when they go to the library, the book doesn't exist
 	- asking the librarian, the book never existed
-	- digging into the book system
+	- hacking into the library system, the book can be found but it is checked out
+		- there is a path that links to over due fees that are too high
+		- bank account is to Wishy Washy LLC
 	- Beginning evidence
 		- A chat log between Maddie, Leo and Sam about the missing book from the library
 - story ai

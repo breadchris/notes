@@ -12,6 +12,7 @@
 	- book inventory system
 - story
 	- A group of cyber security friends learn about a book from graduating seniors called "Hacker Recipes" which is hidden in the library
+		- the book turns out to actually just be cooking recipes written in https://esolangs.org/wiki/Chef
 	- There is a book missing from the library that has people talking. Students try to recover it.
 	- Question to answer: who took the book? where did it go?
 	- students learn about a special book that contains secrets on X, when they go to the library, the book doesn't exist
@@ -20,7 +21,7 @@
 		- there is a path that links to over due fees that are too high
 		- bank account is to Wishy Washy LLC
 	- book had an airtag, GPS locating it going along a railroad
-	-
+	- the book turns
 	- Beginning evidence
 		- A chat log between Maddie, Leo and Sam about the missing book from the library
 - story ai

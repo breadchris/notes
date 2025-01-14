@@ -5,11 +5,13 @@
 	- Leo
 	- Sam
 	- freddie fr4x hacker
+		- from competing high school
 	- Ms. Holloway
 - environments
 	- setting: Seattle
 	- book inventory system
 - story
+	- A group of cyber security friends learn about a book from graduating seniors called "Hacker Recipes" which is hidden in the library
 	- There is a book missing from the library that has people talking. Students try to recover it.
 	- Question to answer: who took the book? where did it go?
 	- students learn about a special book that contains secrets on X, when they go to the library, the book doesn't exist

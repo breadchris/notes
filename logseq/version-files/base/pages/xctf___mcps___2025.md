@@ -20,7 +20,7 @@
 	- hacking into the library system, the book can be found but it is checked out by fr4x (hidden database field is set to make it look hidden from the system, database dump shows the book)
 		- there is a path that links to over due fees that are too high
 		- bank account is to Wishy Washy LLC
-	- book had an airtag, GPS locating it going along a railroad
+	- book had an airtag?, GPS locating it going along a railroad
 	- the book turns
 	- Beginning evidence
 		- A chat log between Maddie, Leo and Sam about the missing book from the library

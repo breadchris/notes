@@ -9,7 +9,9 @@
 - environments
 	- book inventory system
 - story
-	- There is a book missing from the library that has people talking. Students try to recover it
+	- There is a book missing from the library that has people talking. Students try to recover it.
+	- Question to answer: who took the book? where did it go?
+	-
 	- Beginning evidence
 		- A chat log between Maddie, Leo and Sam about the missing book from the library
 - story ai

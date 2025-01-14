@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [How corn syrup took over America - The Hustle](https://omnivore.app/me/how-corn-syrup-took-over-america-the-hustle-19462f6ad32)
+	  collapsed:: true
+	  site:: [HubSpot](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+	  author:: Mark Dent
+	  date-saved:: [[Jan 13th, 2025]]
+	  date-published:: [[Jan 10th, 2025]]
 	- [hybridgroup/go-haystack: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!](https://omnivore.app/me/hybridgroup-go-haystack-track-personal-bluetooth-devices-via-app-19458b04a4e)
 	  collapsed:: true
 	  site:: [github.com](https://github.com/hybridgroup/go-haystack?tab=readme-ov-file)

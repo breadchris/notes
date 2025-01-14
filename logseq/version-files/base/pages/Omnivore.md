@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [The 2025 AI Engineering Reading List - Latent Space](https://omnivore.app/me/the-2025-ai-engineering-reading-list-latent-space-194634e5622)
+	  collapsed:: true
+	  site:: [Latent Space](https://www.latent.space/p/2025-papers)
+	  author:: Latent Space
+	  date-saved:: [[Jan 13th, 2025]]
+	  date-published:: [[Dec 27th, 2024]]
 	- [How corn syrup took over America - The Hustle](https://omnivore.app/me/how-corn-syrup-took-over-america-the-hustle-19462f6ad32)
 	  collapsed:: true
 	  site:: [HubSpot](https://thehustle.co/originals/how-corn-syrup-took-over-america)

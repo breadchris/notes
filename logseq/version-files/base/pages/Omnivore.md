@@ -1,4 +1,10 @@
 ## 🔖 Articles
+	- [Go 1.24 interactive tour](https://omnivore.app/me/go-1-24-interactive-tour-1946acc5bf8)
+	  collapsed:: true
+	  site:: [antonz.org](https://antonz.org/go-1-24/)
+	  author:: Anton Zhiyanov
+	  date-saved:: [[Jan 15th, 2025]]
+	  date-published:: [[Feb 2nd, 2021]]
 	- [ruddfawcett/Beamy: [iOS] Send messages from one device to another using Bluetooth LE technology.](https://omnivore.app/me/ruddfawcett-beamy-i-os-send-messages-from-one-device-to-another--194683460b6)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/ruddfawcett/Beamy)

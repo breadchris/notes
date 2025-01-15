@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [ruddfawcett/Beamy: [iOS] Send messages from one device to another using Bluetooth LE technology.](https://omnivore.app/me/ruddfawcett-beamy-i-os-send-messages-from-one-device-to-another--194683460b6)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ruddfawcett/Beamy)
+	  date-saved:: [[Jan 14th, 2025]]
+	- [https://apps.apple.com/us/app/file-manager%24/id951284897](https://omnivore.app/me/https-apps-apple-com-us-app-file-manager-24-id-951284897-1946831a37e)
+	  collapsed:: true
+	  site:: [apps.apple.com](https://apps.apple.com/us/app/file-manager%24/id951284897)
+	  date-saved:: [[Jan 14th, 2025]]
 	- [The 2025 AI Engineering Reading List - Latent Space](https://omnivore.app/me/the-2025-ai-engineering-reading-list-latent-space-194634e5622)
 	  collapsed:: true
 	  site:: [Latent Space](https://www.latent.space/p/2025-papers)

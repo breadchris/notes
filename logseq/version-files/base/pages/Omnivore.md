@@ -1,4 +1,12 @@
 ## 🔖 Articles
+	- [Shambhala 2024 - Google Photos](https://omnivore.app/me/https-photos-app-goo-gl-3-un-9-p-5-nte-nh-knm-5-q-8-194710d1730)
+	  collapsed:: true
+	  site:: [Google Photos](https://photos.google.com/share/AF1QipOPBInM5JDSdH6_97EBkqjV0hvxu4f_UNyrSl4uUSK8ouQ7m4SAAyyLTbMQ6FwQ0Q?key=OUFmQ242U240VWVyMkp6NjhpT3Y4Zlgxd0g1ZEt3)
+	  date-saved:: [[Jan 16th, 2025]]
+	- [Lambda Calculus in 383 Bytes](https://omnivore.app/me/lambda-calculus-in-383-bytes-1946dbc0731)
+	  collapsed:: true
+	  site:: [justine.lol](https://justine.lol/lambda/)
+	  date-saved:: [[Jan 15th, 2025]]
 	- [Go 1.24 interactive tour](https://omnivore.app/me/go-1-24-interactive-tour-1946acc5bf8)
 	  collapsed:: true
 	  site:: [antonz.org](https://antonz.org/go-1-24/)

@@ -1,4 +1,196 @@
 ## 🔖 Articles
+	- [Go 1.24 interactive tour](https://omnivore.app/me/go-1-24-interactive-tour-1946acc5bf8)
+	  collapsed:: true
+	  site:: [antonz.org](https://antonz.org/go-1-24/)
+	  author:: Anton Zhiyanov
+	  date-saved:: [[Jan 15th, 2025]]
+	  date-published:: [[Feb 2nd, 2021]]
+	- [ruddfawcett/Beamy: [iOS] Send messages from one device to another using Bluetooth LE technology.](https://omnivore.app/me/ruddfawcett-beamy-i-os-send-messages-from-one-device-to-another--194683460b6)
+	  collapsed:: true
+	  site:: [GitHub](https://github.com/ruddfawcett/Beamy)
+	  date-saved:: [[Jan 14th, 2025]]
+	- [https://apps.apple.com/us/app/file-manager%24/id951284897](https://omnivore.app/me/https-apps-apple-com-us-app-file-manager-24-id-951284897-1946831a37e)
+	  collapsed:: true
+	  site:: [apps.apple.com](https://apps.apple.com/us/app/file-manager%24/id951284897)
+	  date-saved:: [[Jan 14th, 2025]]
+	- [The 2025 AI Engineering Reading List - Latent Space](https://omnivore.app/me/the-2025-ai-engineering-reading-list-latent-space-194634e5622)
+	  collapsed:: true
+	  site:: [Latent Space](https://www.latent.space/p/2025-papers)
+	  author:: Latent Space
+	  date-saved:: [[Jan 13th, 2025]]
+	  date-published:: [[Dec 27th, 2024]]
+	- [How corn syrup took over America - The Hustle](https://omnivore.app/me/how-corn-syrup-took-over-america-the-hustle-19462f6ad32)
+	  collapsed:: true
+	  site:: [HubSpot](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+	  author:: Mark Dent
+	  date-saved:: [[Jan 13th, 2025]]
+	  date-published:: [[Jan 10th, 2025]]
+	- [hybridgroup/go-haystack: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!](https://omnivore.app/me/hybridgroup-go-haystack-track-personal-bluetooth-devices-via-app-19458b04a4e)
+	  collapsed:: true
+	  site:: [github.com](https://github.com/hybridgroup/go-haystack?tab=readme-ov-file)
+	  date-saved:: [[Jan 11th, 2025]]
+		- ### Highlights
+			- >  [⤴️](https://omnivore.app/me/hybridgroup-go-haystack-track-personal-bluetooth-devices-via-app-19458b04a4e#bd569010-d6b0-4c31-8770-0a05801f8736)
+	- [Some Programming Language Ideas - iRi](https://omnivore.app/me/some-programming-language-ideas-i-ri-1944d53d56b)
+	  collapsed:: true
+	  site:: [jerf.org](https://jerf.org/iri/post/2025/programming_language_ideas/)
+	  date-saved:: [[Jan 9th, 2025]]
+	- [Super-structured Data | Brim Data](https://omnivore.app/me/super-structured-data-brim-data-194498b2993)
+	  collapsed:: true
+	  site:: [Brim Data](https://www.brimdata.io/blog/super-structured-data/)
+	  author:: Steven McCanne
+	  date-saved:: [[Jan 8th, 2025]]
+	  date-published:: [[May 17th, 2022]]
+	- [Never Have Outdated Footer Dates Again](https://omnivore.app/me/never-have-outdated-footer-dates-again-1943e4a28eb)
+	  collapsed:: true
+	  site:: [getfullyear.com](https://getfullyear.com)
+	  date-saved:: [[Jan 6th, 2025]]
+	- [100 things you can do on your personal website | James' Coffee Blog](https://omnivore.app/me/100-things-you-can-do-on-your-personal-website-james-coffee-blog-194249bc914)
+	  collapsed:: true
+	  site:: [jamesg.blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+	  author:: Home
+	  date-saved:: [[Jan 1st, 2025]]
+	  date-published:: [[Feb 18th, 2024]]
+	- [Reclaiming the Web with a Personal Reader | olano.dev](https://omnivore.app/me/reclaiming-the-web-with-a-personal-reader-olano-dev-1942497ed57)
+	  collapsed:: true
+	  site:: [olano.dev](https://olano.dev/blog/reclaiming-the-web-with-a-personal-reader/)
+	  author:: Facundo Olano
+	  date-saved:: [[Jan 1st, 2025]]
+	  date-published:: [[Dec 11th, 2023]]
+	- [API Parrot](https://omnivore.app/me/api-parrot-19424936b97)
+	  collapsed:: true
+	  site:: [apiparrot.com](https://apiparrot.com)
+	  date-saved:: [[Jan 1st, 2025]]
+	- [Naur](https://omnivore.app/me/https-pages-cs-wisc-edu-remzi-naur-pdf-194248da028)
+	  collapsed:: true
+	  site:: [pages.cs.wisc.edu](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
+	  date-saved:: [[Jan 1st, 2025]]
+	- [Writing An Interpreter In Go | Thorsten Ball](https://omnivore.app/me/writing-an-interpreter-in-go-thorsten-ball-1941b0c1584)
+	  collapsed:: true
+	  site:: [interpreterbook.com](https://interpreterbook.com)
+	  author:: About the author
+	  date-saved:: [[Dec 30th, 2024]]
+	- [Effective Spaced Repetition](https://omnivore.app/me/effective-spaced-repetition-19415f614c7)
+	  collapsed:: true
+	  site:: [Fernando Borretti](https://borretti.me/article/effective-spaced-repetition)
+	  author:: Fernando Borretti
+	  date-saved:: [[Dec 29th, 2024]]
+	  date-published:: [[Apr 9th, 2023]]
+	- [explore.flights](https://omnivore.app/me/explore-flights-194155b50e8)
+	  collapsed:: true
+	  site:: [explore.flights](https://explore.flights)
+	  date-saved:: [[Dec 29th, 2024]]
+	  date-published:: [[Dec 28th, 2024]]
+	- [WebGL Fluid Simulation](https://omnivore.app/me/web-gl-fluid-simulation-1941466cacc)
+	  collapsed:: true
+	  site:: [paveldogreat.github.io](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+	  date-saved:: [[Dec 29th, 2024]]
+	- [Text of Unabomber Manifesto](https://omnivore.app/me/text-of-unabomber-manifesto-19410995228)
+	  collapsed:: true
+	  site:: [archive.nytimes.com](https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html)
+	  date-saved:: [[Dec 28th, 2024]]
+	  date-published:: [[May 25th, 1996]]
+	- [Liberating Wi-Fi on the ESP32 - media.ccc.de](https://omnivore.app/me/liberating-wi-fi-on-the-esp-32-media-ccc-de-19410471ae7)
+	  collapsed:: true
+	  site:: [media.ccc.de](https://media.ccc.de/v/38c3-liberating-wi-fi-on-the-esp32)
+	  date-saved:: [[Dec 28th, 2024]]
+	  date-published:: [[Dec 26th, 2024]]
+	- [Vapcell N40 18650 10A Flat Top 4000mAh Battery - Genuine – Liion Wholesale Batteries](https://omnivore.app/me/vapcell-n-40-18650-10-a-flat-top-4000-m-ah-battery-genuine-liion-194054d2be2)
+	  collapsed:: true
+	  site:: [Liion Wholesale Batteries](https://liionwholesale.com/collections/batteries/products/vapcell-n40-18650-10a-flat-top-4000mah-battery-genuine?variant=40592451371077)
+	  date-saved:: [[Dec 26th, 2024]]
+	- [JavaScript Data Grid - Documentation | Handsontable](https://omnivore.app/me/java-script-data-grid-documentation-handsontable-19404f31e80)
+	  collapsed:: true
+	  site:: [handsontable.com](https://handsontable.com/docs/javascript-data-grid/)
+	  date-saved:: [[Dec 26th, 2024]]
+	- [Start DHTMLX Docs](https://omnivore.app/me/start-dhtmlx-docs-19404e859e5)
+	  collapsed:: true
+	  site:: [docs.dhtmlx.com](https://docs.dhtmlx.com)
+	  date-saved:: [[Dec 26th, 2024]]
+	- [A Tour of WebAuthn](https://omnivore.app/me/a-tour-of-web-authn-19404699c33)
+	  collapsed:: true
+	  site:: [imperialviolet.org](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
+	  author:: Adam Langley
+	  date-saved:: [[Dec 26th, 2024]]
+	  date-published:: [[Dec 22nd, 2024]]
+	- [Super Snowflake Maker](https://omnivore.app/me/super-snowflake-maker-1940423f69d)
+	  collapsed:: true
+	  site:: [supersnowflakemaker.com](https://supersnowflakemaker.com)
+	  date-saved:: [[Dec 26th, 2024]]
+	- [Dumbbell Workout Plan: Build Muscle At Home In Four Weeks | Coach](https://omnivore.app/me/dumbbell-workout-plan-build-muscle-at-home-in-four-weeks-coach-193eff6a216)
+	  collapsed:: true
+	  site:: [coachmaguk](https://www.coachweb.com/fitness/workouts/dumbbell-workouts)
+	  author:: Add size to your arms, chest and shoulders with these four dumbbell workouts
+	  date-saved:: [[Dec 22nd, 2024]]
+	  date-published:: [[Mar 7th, 2024]]
+	- [Draw all roads in a city at once](https://omnivore.app/me/draw-all-roads-in-a-city-at-once-193ef4ddada)
+	  collapsed:: true
+	  site:: [anvaka.github.io](https://anvaka.github.io/city-roads/?areaId=3600237385&q=seattle)
+	  author:: Andrei Kashcha
+	  date-saved:: [[Dec 22nd, 2024]]
+	- [Bubble: The full-stack no-code app builder](https://omnivore.app/me/bubble-the-full-stack-no-code-app-builder-193e9851e82)
+	  collapsed:: true
+	  site:: [Bubble](https://bubble.io/?gad_source=1&gclid=CjwKCAiAyJS7BhBiEiwAyS9uNd1SVmPwWrDmHc8XPM3lZinuCtmBi_JdgN_KWLZ4dVUKR3oEJ5u45RoCnTcQAvD_BwE)
+	  date-saved:: [[Dec 21st, 2024]]
+	- [tldraw computer](https://omnivore.app/me/tldraw-computer-193e49dacfb)
+	  collapsed:: true
+	  site:: [tldraw computer](https://computer.tldraw.com)
+	  date-saved:: [[Dec 20th, 2024]]
+	- [How types make hard problems easy •](https://omnivore.app/me/how-types-make-hard-problems-easy-193e112bd37)
+	  collapsed:: true
+	  site:: [mayhul.com](https://mayhul.com/posts/type-driven-design/)
+	  author:: Mayhul Arora
+	  date-saved:: [[Dec 19th, 2024]]
+	  date-published:: [[Aug 18th, 2024]]
+	- [6 Best Affiliate Programs for Cooking in 2023 - That Affiliate Life](https://omnivore.app/me/6-best-affiliate-programs-for-cooking-in-2023-that-affiliate-lif-193e0b193ea)
+	  collapsed:: true
+	  site:: [That Affiliate Life](https://thataffiliatelife.com/affiliate-programs-cooking/)
+	  date-saved:: [[Dec 19th, 2024]]
+	  date-published:: [[Jan 3rd, 2023]]
+	- [Niche Idea of The Week: Cooking Affiliate Programs | Affilorama](https://omnivore.app/me/niche-idea-of-the-week-cooking-affiliate-programs-affilorama-193e0acd684)
+	  collapsed:: true
+	  site:: [affilorama.com](https://www.affilorama.com/blog/cooking-affiliate-programs)
+	  date-saved:: [[Dec 19th, 2024]]
+	- [Music & Geometry - Intervals & Scales - ROEL'S WORLD (blog)](https://omnivore.app/me/music-geometry-intervals-scales-roel-s-world-blog-193e0aaccbe)
+	  collapsed:: true
+	  site:: [ROEL\'S WORLD (blog)](https://roelsworld.eu/blog-music/music-geometry-intervals-scales/)
+	  date-saved:: [[Dec 19th, 2024]]
+	  date-published:: [[Aug 26th, 2023]]
+	- [SpiceNice - An Open Source Spice Database](https://omnivore.app/me/spice-nice-an-open-source-spice-database-193d6444107)
+	  collapsed:: true
+	  site:: [tderflinger.com](https://tderflinger.com/en/spicenice-open-source-culinary-spice-database)
+	  date-saved:: [[Dec 17th, 2024]]
+	  date-published:: [[Nov 29th, 2024]]
+	- [Moon – Bartosz Ciechanowski](https://omnivore.app/me/moon-bartosz-ciechanowski-193d61798a8)
+	  collapsed:: true
+	  site:: [ciechanow.ski](https://ciechanow.ski/moon/)
+	  author:: Bartosz Ciechanowski
+	  date-saved:: [[Dec 17th, 2024]]
+	  date-published:: [[Dec 16th, 2024]]
+	- [Chord Nebula](https://omnivore.app/me/chord-nebula-193c830ced5)
+	  collapsed:: true
+	  site:: [chords.yottanami.com](https://chords.yottanami.com)
+	  date-saved:: [[Dec 14th, 2024]]
+	- [Should Programming Languages be Safe or Powerful? | Lambda Land](https://omnivore.app/me/should-programming-languages-be-safe-or-powerful-lambda-land-193c8307269)
+	  collapsed:: true
+	  site:: [Lambda Land](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
+	  date-saved:: [[Dec 14th, 2024]]
+	  date-published:: [[Nov 20th, 2024]]
+	- [TimeMap.org - World History Atlas](https://omnivore.app/me/time-map-org-world-history-atlas-193c5627a72)
+	  collapsed:: true
+	  site:: [oldmapsonline.org](https://www.oldmapsonline.org/en/history/regions)
+	  author:: Klokan Technologies GmbH (https://www.klokantech.com/)
+	  date-saved:: [[Dec 14th, 2024]]
+	- [Sublime](https://omnivore.app/me/sublime-193c368aa30)
+	  collapsed:: true
+	  site:: [sublime.app](https://sublime.app/?ref=palmreport.poolsuite.net)
+	  date-saved:: [[Dec 13th, 2024]]
+	- [The Rise and Fall of Ashton-Tate - by Bradford Morgan White](https://omnivore.app/me/the-rise-and-fall-of-ashton-tate-by-bradford-morgan-white-193c1360160)
+	  collapsed:: true
+	  site:: [Abort Retry Fail](https://www.abortretry.fail/p/the-rise-and-fall-of-ashton-tate)
+	  author:: Bradford Morgan White
+	  date-saved:: [[Dec 13th, 2024]]
+	  date-published:: [[May 26th, 2023]]
 	- [https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension](https://omnivore.app/me/https-maps-app-goo-gl-qh-b-xvdx-8-vooi-f-jv-b-7-g-st-app-omnivor-193b9aa1405)
 	  collapsed:: true
 	  site:: [maps.app.goo.gl](https://maps.app.goo.gl/QhBXvdx8vooiFJvB7?g_st=app.omnivore.app.share-extension)
@@ -3919,7 +4111,7 @@
 	- [washingtonpost.com: Unabomber Special Report](https://omnivore.app/me/washingtonpost-com-unabomber-special-report-18dcdb376a3)
 	  collapsed:: true
 	  site:: [washingtonpost.com](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
-	  date-saved:: [[Feb 21st, 2024]]
+	  date-saved:: [[Dec 21st, 2024]]
 	- [partykit/examples/blocknote at main · partykit/partykit](https://omnivore.app/me/partykit-examples-blocknote-at-main-partykit-partykit-18dcd97df48)
 	  collapsed:: true
 	  site:: [GitHub](https://github.com/partykit/partykit/tree/main/examples/blocknote)

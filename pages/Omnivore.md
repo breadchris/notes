@@ -1,4 +1,22 @@
 ## 🔖 Articles
+	- [Joe Oxley - YouTube](https://omnivore.app/me/https-youtube-com-joe-ox-si-ezw-gcm-qh-yb-1-j-1-p-r-1948a7741f0)
+	  collapsed:: true
+	  site:: [YouTube](https://www.youtube.com/@joe-ox?si=ezwGcmQHYb1j1p_R)
+	  date-saved:: [[Jan 21st, 2025]]
+	- [Google Image Result](https://omnivore.app/me/https-images-app-goo-gl-kz-2-di-gmc-yh-r-ncd-se-7-194818fe244)
+	  collapsed:: true
+	  site:: [www.google.com](https://www.google.com/imgres?docid=DygtDjx5TUpSFM&h=683&hl=en-us&imgrefurl=https%3A%2F%2Fdropinblog.com%2Fblog%2Fwhat-is-weebly%2F&imgurl=https%3A%2F%2Fapp.dropinblog.com%2Fuploaded%2Fblogs%2F34234356%2Ffiles%2FWhat_is_Weebly_2%2Fweebly-editor-website-drag-and-drop.png&kgs=54ced6a8d781d53c&source=sh%2Fx%2Fim%2Fm1%2F3&tbnid=eQh_JXsIyR21OM&vet=1&w=1400)
+	  date-saved:: [[Jan 19th, 2025]]
+	- [21st.dev – The NPM for Design Engineers](https://omnivore.app/me/21-st-dev-the-npm-for-design-engineers-1947fb1ea5d)
+	  collapsed:: true
+	  site:: [21st.dev](https://21st.dev)
+	  date-saved:: [[Jan 19th, 2025]]
+	- [Haskell: A Great Procedural Language](https://omnivore.app/me/haskell-a-great-procedural-language-1947f55f0b6)
+	  collapsed:: true
+	  site:: [entropicthoughts.com](https://entropicthoughts.com/haskell-procedural-programming)
+	  author:: kqr
+	  date-saved:: [[Jan 19th, 2025]]
+	  date-published:: [[Apr 21st, 2025]]
 	- [Shambhala 2024 - Google Photos](https://omnivore.app/me/https-photos-app-goo-gl-3-un-9-p-5-nte-nh-knm-5-q-8-194710d1730)
 	  collapsed:: true
 	  site:: [Google Photos](https://photos.google.com/share/AF1QipOPBInM5JDSdH6_97EBkqjV0hvxu4f_UNyrSl4uUSK8ouQ7m4SAAyyLTbMQ6FwQ0Q?key=OUFmQ242U240VWVyMkp6NjhpT3Y4Zlgxd0g1ZEt3)

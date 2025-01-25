@@ -1,4 +1,8 @@
 ## 🔖 Articles
+	- [ShadeMap - Simulate sun shadows for any time and place on Earth](https://omnivore.app/me/shade-map-simulate-sun-shadows-for-any-time-and-place-on-earth-1949e928c12)
+	  collapsed:: true
+	  site:: [shademap.app](https://shademap.app/@47.6859,-122.2994,15z,1737827188394t,0b,0p,0m)
+	  date-saved:: [[Jan 25th, 2025]]
 	- [cs16.css](https://omnivore.app/me/cs-16-css-19499fc99fd)
 	  collapsed:: true
 	  site:: [cs16.css](https://cs16.samke.me)

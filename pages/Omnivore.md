@@ -1,4 +1,13 @@
 ## 🔖 Articles
+	- [cs16.css](https://omnivore.app/me/cs-16-css-19499fc99fd)
+	  collapsed:: true
+	  site:: [cs16.css](https://cs16.samke.me)
+	  author:: Samuel Breznjak
+	  date-saved:: [[Jan 24th, 2025]]
+	- [REBEL CREWNECK – Nous Research](https://omnivore.app/me/rebel-crewneck-nous-research-194916ca170)
+	  site:: [Nous Research](https://shop.nousresearch.com/products/rebel-crewneck?variant=46438285213951)
+	  date-saved:: [[Jan 22nd, 2025]]
+	  collapsed:: true
 	- [Joe Oxley - YouTube](https://omnivore.app/me/https-youtube-com-joe-ox-si-ezw-gcm-qh-yb-1-j-1-p-r-1948a7741f0)
 	  collapsed:: true
 	  site:: [YouTube](https://www.youtube.com/@joe-ox?si=ezwGcmQHYb1j1p_R)
